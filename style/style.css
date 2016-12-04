@@ -1,0 +1,55 @@
+body {
+    font-size: 11pt;
+    font-family: Georgia, Times, serif;
+    max-width: 800px;
+    margin: 0 auto;
+
+    line-height: 1.4;
+    padding-left: 10pt;
+    padding-right: 10pt;
+}
+
+h1 {
+    font-size: 24pt;
+    font-weight: normal;
+    margin-top: 36pt;
+}
+
+h2 {
+    font-size: 18pt;
+    font-weight: normal;
+    margin-top: 18pt;
+    margin-bottom: 12pt;
+}
+
+p {
+    text-align: justify;
+}
+
+.figure {
+  text-align: center;
+}
+
+.figure p {
+    font-size: 9pt;
+    text-align: center;
+    font-style: italic;
+    max-width: 100%;
+}
+
+.figure img {
+}
+
+pre {
+    font-size: 0.8; 
+    /* border-left: 2pt solid gray; */
+    padding: 12pt;
+    margin-top: 12pt;
+    margin-bottom: 12pt;
+}
+
+/* Table of Contents */
+
+#toc li {
+    list-style-type: none;
+}
