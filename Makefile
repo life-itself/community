@@ -6,9 +6,13 @@
 TARGET_NAME = ArtEarthTechPrimers
 
 SRC = 00_title.md \
-	  01_introduction.md
+	  introduction.md \
+	  non-attachment-to-views.md \
+	  mindfulness.md \
+	  memes.md
 
 SRC_DIR = chapters
+STYLE_DIR = style
 
 # Configuration
 #
@@ -22,12 +26,12 @@ FLAGS = --standalone \
 STYLE = css/style.css
 TEMPLATE_HTML = template.html
 # TEMPLATE_TEX = template.latex
-STYLE_DIR = style
 HTML_FLAGS = --toc \
 			 --toc-depth=2 \
 			 --default-image-extension=png \
 			 --template="$(STYLE_DIR)/default.html" \
-			 -c "css/style.css"
+			 -c "css/style.css"\
+			 -c "css/bootstrap.min.css"
 PDF_FLAGS = --default-image-extension=pdf \
 			--latex-engine=xelatex \
 			-H "$(STYLE_DIR)/preamble.latex" \
@@ -55,16 +59,18 @@ ALL_SRC = $(addprefix $(SRC_DIR)/,$(SRC))
 IMAGES = $(wildcard images/*.pdf)
 HTML_IMAGES = $(addprefix $(OUTPUT_DIR)/,$(patsubst %.pdf,%.png,$(IMAGES)))
 
-OBJ = $(addprefix $(OUTPUT_DIR)/,$(SRC:.md=.html))
+HTML_PAGES = $(addprefix $(OUTPUT_DIR)/,$(SRC:.md=.html))
 
-all: dirs $(OBJ) # top
+all: html pdf
+
+html: dirs index $(HTML_PAGES) # top
 
 dirs: 
 	mkdir -p $(OUTPUT_DIR)
 	mkdir -p $(OUTPUT_DIR)/css
 	mkdir -p $(OUTPUT_DIR)/images
 
-index: index.html
+index: $(OUTPUT_DIR)/index.html
 
 $(OUTPUT_DIR)/images/%.png: images/%.pdf 
 	convert -density 150 $< $@
@@ -76,19 +82,34 @@ $(OUTPUT_DIR)/%.html: $(SRC_DIR)/%.md $(FILTER) html_resources
 	$(PANDOC) -s -f $(IFORMAT) -t html $(FLAGS) $(HTML_FLAGS) -o $@ $<
 
 %.pdf: %.md $(FILTER)
-	$(PANDOC) --filter ${FILTER} -f $(IFORMAT) $(PDF_FLAGS) -o $(OUTPUT_DIR)/$@ $<
+	$(PANDOC) \
+	--filter ${FILTER} \
+	-f $(IFORMAT) \
+	$(PDF_FLAGS) \
+	-o $(OUTPUT_DIR)/$@ $<
 
 %.epub: %.md $(FILTER)
-	$(PANDOC) -f $(IFORMAT) $(FLAGS) -o $@ $<
+	$(PANDOC) \
+	-f $(IFORMAT) \
+	$(FLAGS) \
+	-o $@ $<
 
 pdf: $(FILTER) dirs
-	$(PANDOC) -f $(IFORMAT) $(PDF_FLAGS) -o $(OUTPUT_DIR)/$(TARGET_NAME).pdf $(ALL_SRC)
+	$(PANDOC) \
+	-f $(IFORMAT) \
+	$(PDF_FLAGS) \
+	-o $(OUTPUT_DIR)/$(TARGET_NAME).pdf \
+	$(ALL_SRC)
 
 epub: $(FILTER) dirs
-	$(PANDOC) -f $(IFORMAT) $(FLAGS) -o $(OUTPUT_DIR)/$(TARGET_NAME).epub $(ALL_SRC)
+	$(PANDOC) \
+	-f $(IFORMAT) \
+	$(FLAGS) \
+	-o $(OUTPUT_DIR)/$(TARGET_NAME).epub 
+	$(ALL_SRC)
 
 top: $(FILTER)
-	$(PANDOC) -c $(STYLE) --filter ${FILTER} --template $(TEMPLATE_HTML) -s -f $(IFORMAT) -t html $(FLAGS) -o tutorial.html index.md
+	$(PANDOC) -c $(STYLE) --filter ${FILTER} --template $(TEMPLATE_HTML) -s -f $(IFORMAT) -t html $(FLAGS) -o index.md
 
 clean:
 	-rm $(OUTPUT_DIR)/*

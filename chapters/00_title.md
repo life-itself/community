@@ -1,1 +1,4 @@
-# Art Earth Tech
+% Art Earth Tech – Primers
+% Rufus Pollock
+  Liam Kavanagh
+  Stefan Urbanek

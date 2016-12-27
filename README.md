@@ -22,10 +22,12 @@ Build PDF:
 
 Build HTML:
 
-    make all
+    make html
 
 The output will be in the `docs/` directory.
 
 # Authors
 
-* ...
+* Rufus Pollock
+* Liam Kavanagh
+* Stefan Urbanek
