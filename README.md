@@ -1,5 +1,6 @@
-Welcome to the AET Institute collective scratchpad / wiki / notebook.
+Welcome to the Life Itself community scratchpad and forum.
 
-You probably want to visit the [issues section »][issues]
+You probably want to visit the [issues section »][issues] or check out the [discussions in the forum][forum].
 
-[issues]: https://gitlab.com/artearthtech/institute/issues
+[issues]: https://github.com/life-itself/community/issues
+[forum]: https://github.com/life-itself/community/discussions
