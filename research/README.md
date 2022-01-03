@@ -16,7 +16,7 @@ The core idea of our method is definition of phase space* of the community. Afte
 How do we define the concept of community phase space, which allows us to dissect and clearly see some tendencies of community life. The term “phase space” is a mathematical concept widely used in complex systems and dynamical systems theory. Axes of phase space are associated with certain properties of a system. For example, for community life phase space we consider two main axes: the first axis spans the range of “discussions vs. contemplation” and the second axis - “individual vs. collective”.
 
 #### Method documentation
-The main document is located here https://docs.google.com/document/d/1wy4fFZ-ympMCR_FeMrWTs_Dz8buWgABRBrVrSj203tE/edit?usp=sharing
+The main document with method documentation is located here https://docs.google.com/document/d/1wy4fFZ-ympMCR_FeMrWTs_Dz8buWgABRBrVrSj203tE/edit?usp=sharing
 Feel free to suggest and propose changes to the document.
 
 ## Outlook
