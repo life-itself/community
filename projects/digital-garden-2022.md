@@ -52,12 +52,12 @@ Background:
 
 MVP: some notes created and published
 
-* [ ] Notes created
+* [ ] How do we manage files in the notebook? What's the layout?
   * [ ] Format for creating notes **🔑 Markdown (+ MDX if you really want) using digital garden extensions e.g. `[[..]]` of the kind supported by Obsidian** 
   * [ ] Tooling for managing notes **🔑 [Obsidian](https://obsidian.md)** 
   * [ ] Basic layout of repo
   * [ ] Some notes created
-* [ ] Notes published
+* [ ] How can we publish the site?
   * [ ] Publishing architecture
   * [ ] Publishing implemented
 
@@ -80,7 +80,11 @@ Architecture
     * https://github.com/MaggieAppleton/maggieappleton.com-V2 👈 this looks promising (though fairly bespoke) - her site looks great https://maggieappleton.com/garden
   * [ ] What do we choose? **🔑 My instinct says go with NextJS even if some pain.**
     * [ ] What starter template?
+  * [ ] How do we do continuous deployment? 🔑 Netlify or similar
 
+Implementation
+
+* [ ] ...
 
 Meta
 
@@ -107,3 +111,43 @@ Would be nice to use this and perhaps the zettelkasten methodology.
 ### Why a Digital Garden?
 
 TODO
+
+### Tech Stack
+
+Situation:
+
+* we have all my files in markdown on disk (and maybe some other formats)
+* we are using nextjs (not gatsby)
+* we need to load content and metadata from these files and display it. It would be useful to have some common utilities and (perhaps) an abstraction for this
+  * 💡 YAGNI Rufus! Be careful of premature optimization. That second sentence is a judgment not a ffact.
+* Currently we copy very simple micro-library code for doing the MDX loading and parsing from project to project gradually adding a few helper utilities (e.g. get me a list of pages so that i can display them on the front page)
+
+Complication
+
+* Loading file content is very simple.
+* However, more complex needs arise and we end up having to write code
+* This is both buggy and we end up with bespoke code
+
+Question
+
+* What approach should we take? Should we just KISS and write our own code as we need ... or should we find (or write 😬) a library for this?
+  * Surely there are libraries for this already? i.e. a library that takes markdown files on disk and gives me a CMS style API around it?
+    * In particular, is there some kind of graphql type thing
+
+Answering ...
+
+Tina.io looks the most promising here in that it does exactly what we want. The only downside is having to call a server rather than a library API. In terms of steps it would be to look at the code and try it out.
+
+Brainstorm
+
+* Gatsby does this already i.e. https://www.gatsbyjs.com/plugins/gatsby-source-filesystem - https://github.com/gatsbyjs/gatsby/tree/master/packages/gatsby-source-filesystem#readme. 💬 I doubt this is useable outside of Gatsby.
+* 👍 Tina-CMS https://tina.io/ is the closest to this as standalone but seems quite coupled into Tina's setup. https://tina.io/blog/using-graphql-with-the-filesystem/
+  * That said Tina's design seems good and well thought out (plus one can use Tina for editing!)
+* I have searched *a lot* and not found a simple library that just does this. All grapqhl
+  * I looked at https://blitzjs.com. This is a separate framework and backend ORM is graphql based but is backend agnostic.
+* What is it i need?
+  * Graphql consists of ... (see https://graphql.org/graphql-js/)
+    * Schema
+    * Resolvers
+    * (Optional) Server
+    * (Optional) Client
