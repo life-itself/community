@@ -4,6 +4,7 @@ Here we plan to describe some research projects ideas related to community livin
 
 ## Research questions
 The first question we start with is: How can we document, map and analyse community life? 
+We are also in particular interested in the question: How does the space influence the community dynamics?
 
 ## Method for mapping community life
 We propose an abstract method for creating and mapping community life addressing its evolution in space and time.  
@@ -17,6 +18,7 @@ How do we define the concept of community phase space, which allows us to dissec
 
 #### Method documentation
 The main document with method documentation is located here https://docs.google.com/document/d/1wy4fFZ-ympMCR_FeMrWTs_Dz8buWgABRBrVrSj203tE/edit?usp=sharing
+
 Feel free to suggest and propose changes to the document.
 
 ## Outlook
