@@ -29,7 +29,7 @@ aka "Spaces" ^P5wHAVr2
 Community Gatherings
 comes under "Community" circle
 but it has a lot of overlap
-plus for simplicity show it here ^77Sjpzhn
+so for simplicity show it here ^77Sjpzhn
 
 Lead
 Producer ^kmDMnAyu
@@ -52,8 +52,8 @@ space ^GHAn7ZaO
 	"elements": [
 		{
 			"type": "ellipse",
-			"version": 535,
-			"versionNonce": 39254410,
+			"version": 537,
+			"versionNonce": 1946906188,
 			"isDeleted": false,
 			"id": "uijrRmqz-CbwVLNbCSyX0",
 			"fillStyle": "hachure",
@@ -72,12 +72,12 @@ space ^GHAn7ZaO
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1646124782475
+			"updated": 1648804549496
 		},
 		{
 			"type": "ellipse",
-			"version": 267,
-			"versionNonce": 769047574,
+			"version": 269,
+			"versionNonce": 929197172,
 			"isDeleted": false,
 			"id": "nW_MgCRGaTu8iRwkLAWrA",
 			"fillStyle": "hachure",
@@ -96,12 +96,12 @@ space ^GHAn7ZaO
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1646124782475
+			"updated": 1648804549496
 		},
 		{
 			"type": "ellipse",
-			"version": 1050,
-			"versionNonce": 1293105226,
+			"version": 1052,
+			"versionNonce": 933217484,
 			"isDeleted": false,
 			"id": "oj5PT9FvmcWVBr9B6bJWO",
 			"fillStyle": "hachure",
@@ -133,12 +133,12 @@ space ^GHAn7ZaO
 					"id": "DmHHC16G"
 				}
 			],
-			"updated": 1646124782475
+			"updated": 1648804549496
 		},
 		{
 			"type": "ellipse",
-			"version": 707,
-			"versionNonce": 722651478,
+			"version": 816,
+			"versionNonce": 1724169716,
 			"isDeleted": false,
 			"id": "F4Vl2JDu0VuhAQKrFoaHW",
 			"fillStyle": "cross-hatch",
@@ -147,8 +147,8 @@ space ^GHAn7ZaO
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -61.08136526880817,
-			"y": -336.1415825309032,
+			"x": -49.528630893808156,
+			"y": -352.6259575309032,
 			"strokeColor": "#000000",
 			"backgroundColor": "#868e96",
 			"width": 178.2905562750678,
@@ -166,12 +166,12 @@ space ^GHAn7ZaO
 					"id": "aNUDb0Iw"
 				}
 			],
-			"updated": 1646124782475
+			"updated": 1648804549496
 		},
 		{
 			"type": "text",
-			"version": 456,
-			"versionNonce": 1533784320,
+			"version": 571,
+			"versionNonce": 628382668,
 			"isDeleted": false,
 			"id": "aNUDb0Iw",
 			"fillStyle": "hachure",
@@ -180,8 +180,8 @@ space ^GHAn7ZaO
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -31.08136526880817,
-			"y": -271.9963043933693,
+			"x": -19.528630893808156,
+			"y": -288.4806793933693,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 118.29055627506779,
@@ -190,7 +190,7 @@ space ^GHAn7ZaO
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1646738253964,
+			"updated": 1648804579654,
 			"fontSize": 20,
 			"fontFamily": 1,
 			"text": "Petit Bois \nMartin",
@@ -203,8 +203,8 @@ space ^GHAn7ZaO
 		},
 		{
 			"type": "ellipse",
-			"version": 724,
-			"versionNonce": 1473982102,
+			"version": 873,
+			"versionNonce": 2036155340,
 			"isDeleted": false,
 			"id": "2NYY3TiWK5RKFSN5_iYj6",
 			"fillStyle": "cross-hatch",
@@ -213,8 +213,8 @@ space ^GHAn7ZaO
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -60.172405864658984,
-			"y": -151.44763792064856,
+			"x": -2.882366802158998,
+			"y": -168.61560667064856,
 			"strokeColor": "#000000",
 			"backgroundColor": "#868e96",
 			"width": 178.2905562750678,
@@ -242,14 +242,18 @@ space ^GHAn7ZaO
 				{
 					"type": "text",
 					"id": "w5lApmyF"
+				},
+				{
+					"id": "WxlnjTkt8SDSRWOzGxnBS",
+					"type": "arrow"
 				}
 			],
-			"updated": 1646124782475
+			"updated": 1648804582375
 		},
 		{
 			"type": "text",
-			"version": 501,
-			"versionNonce": 1761091328,
+			"version": 654,
+			"versionNonce": 1222815476,
 			"isDeleted": false,
 			"id": "w5lApmyF",
 			"fillStyle": "hachure",
@@ -258,8 +262,8 @@ space ^GHAn7ZaO
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -30.172405864658984,
-			"y": -87.30235978311467,
+			"x": 27.117633197841002,
+			"y": -104.47032853311467,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 118.29055627506779,
@@ -268,7 +272,7 @@ space ^GHAn7ZaO
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1646738253967,
+			"updated": 1648804582375,
 			"fontSize": 20,
 			"fontFamily": 1,
 			"text": "Place \nBarbacane",
@@ -281,8 +285,8 @@ space ^GHAn7ZaO
 		},
 		{
 			"type": "text",
-			"version": 879,
-			"versionNonce": 2113126144,
+			"version": 887,
+			"versionNonce": 2078139764,
 			"isDeleted": false,
 			"id": "DmHHC16G",
 			"fillStyle": "hachure",
@@ -301,7 +305,7 @@ space ^GHAn7ZaO
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1646738253963,
+			"updated": 1648804579653,
 			"fontSize": 20,
 			"fontFamily": 1,
 			"text": "Community \nGatherings",
@@ -314,8 +318,8 @@ space ^GHAn7ZaO
 		},
 		{
 			"type": "ellipse",
-			"version": 935,
-			"versionNonce": 1829823626,
+			"version": 939,
+			"versionNonce": 849804748,
 			"isDeleted": false,
 			"id": "KoWDvjMtAm9bl4vNVg4U0",
 			"fillStyle": "hachure",
@@ -324,8 +328,8 @@ space ^GHAn7ZaO
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -477.26428012951135,
-			"y": -356.0096831404974,
+			"x": -476.97619419201135,
+			"y": -355.7020659529974,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 178.2905562750678,
@@ -351,12 +355,12 @@ space ^GHAn7ZaO
 					"id": "R2ai9Xub"
 				}
 			],
-			"updated": 1646124782475
+			"updated": 1648804582375
 		},
 		{
 			"type": "text",
-			"version": 786,
-			"versionNonce": 1133195520,
+			"version": 800,
+			"versionNonce": 1839830260,
 			"isDeleted": false,
 			"id": "R2ai9Xub",
 			"fillStyle": "hachure",
@@ -365,8 +369,8 @@ space ^GHAn7ZaO
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -447.26428012951135,
-			"y": -279.3644050029635,
+			"x": -446.97619419201135,
+			"y": -279.0567878154635,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 118.29055627506779,
@@ -375,7 +379,7 @@ space ^GHAn7ZaO
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1646738253969,
+			"updated": 1648804582375,
 			"fontSize": 20,
 			"fontFamily": 1,
 			"text": "Sympoiesis",
@@ -388,8 +392,8 @@ space ^GHAn7ZaO
 		},
 		{
 			"type": "ellipse",
-			"version": 1105,
-			"versionNonce": 1062716234,
+			"version": 1107,
+			"versionNonce": 253820620,
 			"isDeleted": false,
 			"id": "TZyjc4b540C3up8Vu1gYB",
 			"fillStyle": "hachure",
@@ -429,12 +433,12 @@ space ^GHAn7ZaO
 					"id": "xZNbljGY"
 				}
 			],
-			"updated": 1646124782475
+			"updated": 1648804549496
 		},
 		{
 			"type": "text",
-			"version": 959,
-			"versionNonce": 970489600,
+			"version": 971,
+			"versionNonce": 628117492,
 			"isDeleted": false,
 			"id": "xZNbljGY",
 			"fillStyle": "hachure",
@@ -453,7 +457,7 @@ space ^GHAn7ZaO
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1646738253970,
+			"updated": 1648804579656,
 			"fontSize": 20,
 			"fontFamily": 1,
 			"text": "DDP",
@@ -466,8 +470,8 @@ space ^GHAn7ZaO
 		},
 		{
 			"type": "text",
-			"version": 180,
-			"versionNonce": 1255459338,
+			"version": 182,
+			"versionNonce": 1789871436,
 			"isDeleted": false,
 			"id": "2lsQYRVd",
 			"fillStyle": "hachure",
@@ -486,7 +490,7 @@ space ^GHAn7ZaO
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1646124782475,
+			"updated": 1648804549496,
 			"fontSize": 28,
 			"fontFamily": 1,
 			"text": "Real Estate\nManagement",
@@ -499,8 +503,8 @@ space ^GHAn7ZaO
 		},
 		{
 			"type": "arrow",
-			"version": 1289,
-			"versionNonce": 1922842368,
+			"version": 1669,
+			"versionNonce": 185783924,
 			"isDeleted": false,
 			"id": "RqEdin_Qaor5IYnj-gvsI",
 			"fillStyle": "cross-hatch",
@@ -509,26 +513,26 @@ space ^GHAn7ZaO
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -309.52231698281696,
-			"y": -217.58976111723973,
+			"x": -305.2348704713115,
+			"y": -224.32738243819514,
 			"strokeColor": "#000000",
 			"backgroundColor": "#228be699",
-			"width": 246.21291033325042,
-			"height": 147.00413815939504,
+			"width": 300.7843987937128,
+			"height": 121.59527034112173,
 			"seed": 1639359178,
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1646738253968,
+			"updated": 1648804582376,
 			"startBinding": {
 				"elementId": "KoWDvjMtAm9bl4vNVg4U0",
-				"gap": 3.6201756935884646,
-				"focus": 0.022611186074350597
+				"gap": 3.6201756935884504,
+				"focus": 0.09185375767157133
 			},
 			"endBinding": {
 				"elementId": "2NYY3TiWK5RKFSN5_iYj6",
-				"gap": 3.508008107159654,
-				"focus": -0.4508983758913206
+				"gap": 4.503151813186122,
+				"focus": -0.13946424245461975
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -539,15 +543,15 @@ space ^GHAn7ZaO
 					0
 				],
 				[
-					246.21291033325042,
-					147.00413815939504
+					300.7843987937128,
+					121.59527034112173
 				]
 			]
 		},
 		{
 			"type": "arrow",
-			"version": 1594,
-			"versionNonce": 1828524288,
+			"version": 1912,
+			"versionNonce": 1544716788,
 			"isDeleted": false,
 			"id": "pztpWI4S2trgmCteLgD7w",
 			"fillStyle": "cross-hatch",
@@ -556,17 +560,17 @@ space ^GHAn7ZaO
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -364.3047660398123,
-			"y": -92.57045103038377,
+			"x": -364.8540635970635,
+			"y": -96.10871889614305,
 			"strokeColor": "#000000",
 			"backgroundColor": "#228be699",
-			"width": 300.61306212435284,
-			"height": 20.68564911233254,
+			"width": 358.14970190907434,
+			"height": 10.669050028258155,
 			"seed": 881936086,
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1646738253970,
+			"updated": 1648804582375,
 			"startBinding": {
 				"elementId": "TZyjc4b540C3up8Vu1gYB",
 				"gap": 2.8325854639488455,
@@ -586,15 +590,15 @@ space ^GHAn7ZaO
 					0
 				],
 				[
-					300.61306212435284,
-					20.68564911233254
+					358.14970190907434,
+					10.669050028258155
 				]
 			]
 		},
 		{
 			"type": "ellipse",
-			"version": 779,
-			"versionNonce": 31281366,
+			"version": 822,
+			"versionNonce": 1134737140,
 			"isDeleted": false,
 			"id": "Xieka4ewKjEVGyPl6V1sB",
 			"fillStyle": "cross-hatch",
@@ -603,8 +607,8 @@ space ^GHAn7ZaO
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -55.53455137267788,
-			"y": 32.00543702876513,
+			"x": -50.88611387267787,
+			"y": 20.83356202876513,
 			"strokeColor": "#000000",
 			"backgroundColor": "#868e96",
 			"width": 178.2905562750678,
@@ -634,12 +638,12 @@ space ^GHAn7ZaO
 					"id": "HwtnZH8M"
 				}
 			],
-			"updated": 1646124782475
+			"updated": 1648804549497
 		},
 		{
 			"type": "text",
-			"version": 580,
-			"versionNonce": 1295184128,
+			"version": 629,
+			"versionNonce": 1685313868,
 			"isDeleted": false,
 			"id": "HwtnZH8M",
 			"fillStyle": "hachure",
@@ -648,8 +652,8 @@ space ^GHAn7ZaO
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -25.534551372677882,
-			"y": 96.15071516629902,
+			"x": -20.886113872677868,
+			"y": 84.97884016629902,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 118.29055627506779,
@@ -658,7 +662,7 @@ space ^GHAn7ZaO
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1646738253971,
+			"updated": 1648804579657,
 			"fontSize": 20,
 			"fontFamily": 1,
 			"text": "GNS 52, \nBerlin",
@@ -671,8 +675,8 @@ space ^GHAn7ZaO
 		},
 		{
 			"type": "arrow",
-			"version": 131,
-			"versionNonce": 55431424,
+			"version": 318,
+			"versionNonce": 2010522484,
 			"isDeleted": false,
 			"id": "WxlnjTkt8SDSRWOzGxnBS",
 			"fillStyle": "cross-hatch",
@@ -681,23 +685,27 @@ space ^GHAn7ZaO
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -294.5629751639934,
-			"y": 101.27212344217428,
+			"x": -294.11454422385236,
+			"y": 102.83825884800066,
 			"strokeColor": "#000000",
 			"backgroundColor": "#228be699",
-			"width": 235.4639740435049,
-			"height": 166.17446719217423,
+			"width": 285.0882510241578,
+			"height": 176.97002701887874,
 			"seed": 525334602,
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1646738253962,
+			"updated": 1648804582375,
 			"startBinding": {
 				"elementId": "oj5PT9FvmcWVBr9B6bJWO",
-				"gap": 2.996772511079115,
-				"focus": 0.5100457403939183
+				"gap": 3.3029034943302094,
+				"focus": 0.47406397514329296
 			},
-			"endBinding": null,
+			"endBinding": {
+				"elementId": "2NYY3TiWK5RKFSN5_iYj6",
+				"gap": 6.293355170301936,
+				"focus": 0.5128717949833305
+			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": "arrow",
@@ -707,15 +715,15 @@ space ^GHAn7ZaO
 					0
 				],
 				[
-					235.4639740435049,
-					-166.17446719217423
+					285.0882510241578,
+					-176.97002701887874
 				]
 			]
 		},
 		{
 			"type": "text",
-			"version": 571,
-			"versionNonce": 25087562,
+			"version": 573,
+			"versionNonce": 120928460,
 			"isDeleted": false,
 			"id": "P5wHAVr2",
 			"fillStyle": "hachure",
@@ -734,7 +742,7 @@ space ^GHAn7ZaO
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1646124782476,
+			"updated": 1648804549497,
 			"fontSize": 28,
 			"fontFamily": 1,
 			"text": "Praxis\naka \"Spaces\"",
@@ -747,8 +755,8 @@ space ^GHAn7ZaO
 		},
 		{
 			"type": "text",
-			"version": 276,
-			"versionNonce": 1968411478,
+			"version": 281,
+			"versionNonce": 477137396,
 			"isDeleted": false,
 			"id": "77Sjpzhn",
 			"fillStyle": "hachure",
@@ -757,31 +765,31 @@ space ^GHAn7ZaO
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -733.3395396227443,
+			"x": -731.8395396227443,
 			"y": 125.171875,
 			"strokeColor": "#000000",
 			"backgroundColor": "#fa525299",
-			"width": 239,
+			"width": 236,
 			"height": 106,
 			"seed": 784937034,
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1646124782476,
+			"updated": 1648804549497,
 			"fontSize": 16,
 			"fontFamily": 1,
-			"text": "🚩 Strictly\nCommunity Gatherings\ncomes under \"Community\" circle\nbut it has a lot of overlap\nplus for simplicity show it here",
-			"rawText": "🚩 Strictly\nCommunity Gatherings\ncomes under \"Community\" circle\nbut it has a lot of overlap\nplus for simplicity show it here",
+			"text": "🚩 Strictly\nCommunity Gatherings\ncomes under \"Community\" circle\nbut it has a lot of overlap\nso for simplicity show it here",
+			"rawText": "🚩 Strictly\nCommunity Gatherings\ncomes under \"Community\" circle\nbut it has a lot of overlap\nso for simplicity show it here",
 			"baseline": 100,
 			"textAlign": "center",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "🚩 Strictly\nCommunity Gatherings\ncomes under \"Community\" circle\nbut it has a lot of overlap\nplus for simplicity show it here"
+			"originalText": "🚩 Strictly\nCommunity Gatherings\ncomes under \"Community\" circle\nbut it has a lot of overlap\nso for simplicity show it here"
 		},
 		{
 			"type": "ellipse",
-			"version": 1386,
-			"versionNonce": 878288342,
+			"version": 1388,
+			"versionNonce": 137117516,
 			"isDeleted": false,
 			"id": "9dMUq-I4BuQuXL8XmVzNg",
 			"fillStyle": "hachure",
@@ -825,12 +833,12 @@ space ^GHAn7ZaO
 					"type": "arrow"
 				}
 			],
-			"updated": 1646124899945
+			"updated": 1648804549497
 		},
 		{
 			"type": "text",
-			"version": 1283,
-			"versionNonce": 1806487808,
+			"version": 1291,
+			"versionNonce": 1975701452,
 			"isDeleted": false,
 			"id": "kmDMnAyu",
 			"fillStyle": "hachure",
@@ -849,7 +857,7 @@ space ^GHAn7ZaO
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1646738253972,
+			"updated": 1648804579657,
 			"fontSize": 16,
 			"fontFamily": 1,
 			"text": "Lead\nProducer",
@@ -862,8 +870,8 @@ space ^GHAn7ZaO
 		},
 		{
 			"type": "text",
-			"version": 245,
-			"versionNonce": 71936970,
+			"version": 247,
+			"versionNonce": 293500364,
 			"isDeleted": false,
 			"id": "f81zYyan",
 			"fillStyle": "hachure",
@@ -882,7 +890,7 @@ space ^GHAn7ZaO
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1646124888722,
+			"updated": 1648804549497,
 			"fontSize": 16,
 			"fontFamily": 1,
 			"text": "Coordinate use of space\nplus running of events.\nIndividual events will\nlikely have their own producer.",
@@ -895,8 +903,8 @@ space ^GHAn7ZaO
 		},
 		{
 			"type": "arrow",
-			"version": 139,
-			"versionNonce": 141598464,
+			"version": 297,
+			"versionNonce": 810168692,
 			"isDeleted": false,
 			"id": "3BolimCgFIlYwh_SzmR39",
 			"fillStyle": "hachure",
@@ -905,21 +913,21 @@ space ^GHAn7ZaO
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -180.5259109966164,
-			"y": 122.5390625,
+			"x": -185.15947128317046,
+			"y": 120.70752160186132,
 			"strokeColor": "#000000",
 			"backgroundColor": "#fa525299",
-			"width": 0.35546875,
-			"height": 171.671875,
+			"width": 2.345286857399202,
+			"height": 189.25585714439117,
 			"seed": 1517658762,
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1646738253972,
+			"updated": 1648804579657,
 			"startBinding": {
 				"elementId": "9dMUq-I4BuQuXL8XmVzNg",
-				"gap": 5.6282112331956995,
-				"focus": 0.01381558944321823
+				"gap": 7.53846921146274,
+				"focus": -0.06776790406250632
 			},
 			"endBinding": null,
 			"lastCommittedPoint": null,
@@ -931,15 +939,15 @@ space ^GHAn7ZaO
 					0
 				],
 				[
-					0.35546875,
-					-171.671875
+					2.345286857399202,
+					-189.25585714439117
 				]
 			]
 		},
 		{
 			"type": "text",
-			"version": 85,
-			"versionNonce": 1468031626,
+			"version": 177,
+			"versionNonce": 1346755660,
 			"isDeleted": false,
 			"id": "GHAn7ZaO",
 			"fillStyle": "hachure",
@@ -948,8 +956,8 @@ space ^GHAn7ZaO
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -213.7212234966164,
-			"y": -124.2568359375,
+			"x": -209.9028641216164,
+			"y": -133.3779296875,
 			"strokeColor": "#000000",
 			"backgroundColor": "#fa525299",
 			"width": 60,
@@ -958,7 +966,7 @@ space ^GHAn7ZaO
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1646156594215,
+			"updated": 1648804549497,
 			"fontSize": 16,
 			"fontFamily": 1,
 			"text": "use the\nspace",
