@@ -22,10 +22,11 @@ How do we define the concept of community phase space, which allows us to dissec
 The main document with method documentation is located here https://docs.google.com/document/d/1wy4fFZ-ympMCR_FeMrWTs_Dz8buWgABRBrVrSj203tE/edit?usp=sharing
 Feel free to suggest and propose changes to the document.
 
-### Communities 
+### Data of Communities 
 
 Life itself Sympoesis "Contemplative activism" 15 November - 15 December 2021 and "Collective Intelligence" March 2022. 
-
+Some information about communities is available at https://en.wikipedia.org/wiki/List_of_intentional_communities 
+Another is https://github.com/life-itself/intentional-communities
 
 ## Outlook
 
