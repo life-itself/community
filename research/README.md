@@ -5,6 +5,7 @@ Here we describe  research projects ideas related to community living inspired b
 ## Research questions
 The first question we start with is: How can we document, map and analyse community life? 
 The other question: What are common practices, which can be inherited and quantified from the life in monasteries to life in recent communities?
+We are also generally interested in analysis of intentional communities around the globe and creation of open database for this.
 
 ## Method for mapping community life
 We propose an abstract method for creating and mapping community life addressing its evolution in space and time.  
