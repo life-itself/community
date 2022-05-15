@@ -3,7 +3,8 @@
 Here we plan to describe some research projects ideas related to community living inspired by Life itself community.
 
 ## Research questions
-The first question we start with is: How can we document, map and analyse community life? 
+1. The first question we start with is: How can we document, map and analyse community life? 
+2. We are also interested in analysis of communities history and trying to visualise history of their development in different parts of the globe. Some historical data was highlighted here https://github.com/life-itself/intentional-communities
 
 ## Method for mapping community life
 We propose an abstract method for creating and mapping community life addressing its evolution in space and time.  
