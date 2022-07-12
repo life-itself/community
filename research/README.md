@@ -3,9 +3,16 @@
 Here we describe  research projects ideas related to community living inspired by Life itself community.
 
 ## Research questions
-The first question we start with is: How can we document, map and analyse community life? 
+The main question here is: How can we document, map and analyse community life? 
 The other question: What are common practices, which can be inherited and quantified from the life in monasteries to life in recent communities?
 We are also generally interested in analysis of intentional communities around the globe and creation of open database for this.
+
+Other groups of questions are related to specific life-time of communities.
+What is the life expectations for communities based on their type (e.g.anarchy, non-anarchy communities)?
+Are there selected features or features combination of communities, which are playing an important for long-term existance? (survivability analysis)
+Can we estimate the average time for sustainability for each existing community based on their features?
+
+
 
 ## Method for mapping community life
 We propose an abstract method for creating and mapping community life addressing its evolution in space and time.  
