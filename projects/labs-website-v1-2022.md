@@ -28,7 +28,7 @@ Simple, elegant website conveying the Labs presence and offer to the (online) wo
 * [ ] What content does it need to start with? **✅ the front page**
   * [ ] What is the wireframe of the front page? **https://excalidraw.com/#room=b4e8415fb8bd1cc82e4f,O9fQxbbRymDW07f0WlQ4Dg link**
   * [ ] What is the content for the front page?
-* [ ] What is the design system / palette etc?
+* [ ] What is the design system / palette etc? **
 * [x] What are the editorial job stories / requirements? **✅2022-04-15 ok to live with markdown for now**
   * [x] What editorial technological sophistication do we have? e.g. is markdown ok? **✅2022-04-15 markdown is ok**
   * [x] Is the content behind it private? Or do we have a public backend content system? **✅2022-04-15 private-ish for now**
