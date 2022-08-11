@@ -23,3 +23,7 @@ Feel free to suggest and propose changes to the document.
 
 This is the beginning of the research on community living and we plan to consider other research questions and research directions here. M.S. and L.T.B are working on this, please feel free to comment and discuss here and in issues.
 
+## Interested in this topict?
+We discussed with Penny (c.coliving) and she proposed to unite forces on the interest group around the co-living spaces analysis.The idea is to also do it with one of the architect we are in contact with Natalie Rozin from Israel. 
+
+Write to us here if you are interested
