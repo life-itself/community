@@ -1,8 +1,9 @@
 ---
 created: 2021-11-25
+author: [rufuspollock]
 ---
 
-# Creating our Digital Note-base (aka Digital Garden aka Collective Second Brain)
+# Creating a Digital Garden (and maybe whole life itself site)
 
 Community Repo as forum + wiki x+ research notebook (digital garden / second brain)
 
@@ -17,23 +18,104 @@ There are roughly two parts to this:
 
 ## Job Stories
 
+💭 2022-10-06: a lot of current job stories are about what "we" (or even "I" Rufus) want to do. Valuable to think more about the other side: why would others want to see this material. Some of this is in the so that and it is so far a bit vague. Rough sense is:
+
+- The topics we are interested in are quite niche and often hard to find "good" material on them online, especially summary
+- Providing our material could be valuable to this long-tail of people searching
+- Publishing early, publishing often, even in draft form can therefore be of value because what we have (compared to what is out there) is useful - cf the 8 precious exercises post
+
 ### Notebook
+
+#### Publish notes on a book
 
 When I have notes on a book I want to be able to publish them somewhere so that others (and myself) can find them
 
+- what about unfinished notes? at what state do the notes "show up"
+  - is it possible to have material that is not yet published
+
+#### Publish notes on person or movement
+
+When i have notes on a person e.g. lindisfarne association I want to post them up so that others can see 
+
+- why not use wikipedia? because we are often adding additional material, or adding our own selective take or commentary.
+
+#### Publish a mini-report on an area
+
+When researching a topic I want to collect multiple entries on a particular topic  and then display them together
+
+- e.g. i want to find organizations working on X e.g. climate crisis + mindfulness.
+- mini-ecosystem mapping
+
+#### Jot down a quick idea or a few screenshots
+
 When I have quick ideas or notes (incl e.g. a screenshot) I want to be able to store (and publish) them somewhere so I can find and link to them later
+
+- this sounds more like a scratch pad / inbox type facility.
+- what's the benefit of publishing them? because often you don't get round to doing anything with them for a while and then just sit around. if published maybe someone else comes along and improves or at least shows interest.
+- also you can still link to them.
+- what about the "public" question, maybe this is better semi-internally?
+  - What's the fear? that someone is going to get offended.
+
+#### Want discussion and feedback
 
 When creating notes or ideas or questions I want to be able to discuss them with others so that they get get refined or answered
 
+#### See related pages / posts
+
+When I read one notes/post I want to have clearly indicated related posts so that I can investigate them and go deeper and learn more
+
+#### Want to know who is behind this
+
+When I have come across this wonderful digital garden I want to know who is behind it so i can deepen my trust (who are they and what are they up to!), or find out about their other work or get in contact
+
 ### Forum
+
+#### Share unformed thoughts for feedback
 
 When I have ideas or thoughts (relatively unformed) I want to share with others so that i can get input / feedback
 
+#### Want to see what people are thinking and doing in this community
+
 When I want to learn more day to day about a community I want to have somewhere I can see what they are up to and thinking so that ...
+
+#### Loosely engaged and want to come find out and engage in lightweight way
 
 When I am loosely associated with Life Itself I want a place I can come and find out and engage in a lightweight way
 
-## Context
+### Tao (tbd)
+
+💭 We did a job stories in a spreadsheet a couple of years ago for this. TODO: look them up and merge here.
+
+Tao is the evolving culture of life itself. our handbook.
+
+### Sutras
+
+- bit of a special one: part of "dream of a unified text".
+- place to find wisdom teachings beautifully presented
+  - a way for people to find this community that would be of interest to them
+- for us a convenient stable reference location
+
+#### Want an elegant, easy to use wisdom texts
+
+When looking for a wisdom text e.g. diamond sutra, shortness of life etc I want an elegant, free, online (downloadable) all in one version i can read and take with me (and which will stay online)
+
+- want the curation work done (why select this version)
+  - maybe recommendations on which non-open (copyright) text to get
+- many classic zen texts are no obviously available to an outsider i.e. which ones should i read
+- true for buddhist sutras - which are the key ones to start with
+  - and are are good translations
+
+#### Want key texts of buddhism online
+
+When interested in buddhism I want to know which are the key sutras to read and get to read them so that I learn more and are not put off by the formal language
+
+- sites which have *all* the sutras and totally overwhelming. plus translation are very mixed.
+- => we should have a reason for including a sutra in our "sutras"
+- focus on accessibility
+- explanation of the key ideas
+- mobile friendly etc
+
+## Context re this repo
 
 This community repository currently houses a few things:
 
@@ -56,7 +138,7 @@ MVP: some notes created and published
   * [ ] Format for creating notes **🔑 Markdown (+ MDX if you really want) using digital garden extensions e.g. `[[..]]` of the kind supported by Obsidian** 
   * [ ] Tooling for managing notes **🔑 [Obsidian](https://obsidian.md)** 
   * [ ] Basic layout of repo
-  * [ ] Some notes created
+  * [ ] Some notes created **✅2022-10-06 we have a fair number of notes in `notes` folder**
 * [ ] How can we publish the site?
   * [ ] Publishing architecture
   * [ ] Publishing implemented
@@ -112,7 +194,7 @@ Would be nice to use this and perhaps the zettelkasten methodology.
 
 TODO
 
-### Tech Stack
+### Tech Stack (Jan 2022)
 
 Situation:
 
@@ -151,3 +233,76 @@ Brainstorm
     * Resolvers
     * (Optional) Server
     * (Optional) Client
+
+# Notes
+
+## Outflow - 2022-10-06
+
+- Now have flowershow and clear direction in publishing a nextjs digital garden
+- Have several distinct sub-projects that could be part of one big site.
+  - tao
+  - sutras
+  - main
+  - notes (aka digital garden)
+  - forum
+- deciding whether this all merges into one is important because ...
+  - if we have all together then we need one system to satisfy most of the requirements
+  - ...?
+- what are the benefits of all in one?
+  - need to distinguish backend and frontend
+  - for frontend having everything in one url-space leads to
+    - better SEO
+    - greater bulk of material in one place.
+    - ? reduces duplication
+    - ? generates more interlinking.
+  - backend:
+    - can do linking in the editor (and updating linking when pages change location)
+    - common theming is easy
+    - one system to upgrade rather than multiple sites
+- What are downsides of all in one?
+  - people step on each other toes
+  - one system to satisfy all requirements (though note could load into one url space)
+- An agile approach would imply doing one thing at a time and adding functionality as we go.
+  - What are potential chunks we could do?
+    - tao: move to lifeitself.org/tao/
+    - front page: take over front page
+      - incremental switch-over of wordpress site
+    - sutras: minor and easy
+    - notes: publish what we already have
+    - ecosystem: migrate it over
+- Outflow
+  - General aspect of a blog/wiki (bliki) is highly attractive in many ways. content does age and knowing the timestamp is very helpful. posting on a forum or something that allows interaction is great - it builds community and content. The aspect of a forum is that things are not perfect which is psychologically very beneficial.
+    - Downside can be that people are put off coming to a site that is unpolished and/or chaotic (so much material) 
+
+Practice circles and project circles.
+
+## Potential layouts
+
+```bash
+/          # home page
+/ecosystem
+/tao
+/notes     # do we merge notes with forum? 
+/forum
+/sutras
+
+# extras
+books      # surely this merges with notes
+journal    # merge under notes as a distinct folder? do we have personal journals
+~{your-name}/   # folder for your personal stuff
+projects   # distinct folder for projects following para principles
+```
+
+Questions
+
+- do we merge ecosystem into the root or in a subdirectory?
+  - what are options
+    - ecosystem merges up with home page disappearing => do something with profile search => end up having somewhere for index page maybe at `/profiles/`
+      - backend-wise: have to merge content into the main site repo
+    - ecosystem lives at subdirectory `/ecosystem/` so we have stuff like `/ecosystem/profiles/`
+      - backend-wise: could keep separate and do url proxying. kind of a hassle (e.g. `_next` directory stuff) but has advantage you can plug and play.
+- Notes and forum: would really to merge these, to make these one
+  - All notes should be date-stamped.
+  - Some stuff can be in draft
+  - When ready to go we mark as published and it goes out with that date
+- Do we commit obsidian config (?). useful at least for some stuff e.g. some plugin config?
