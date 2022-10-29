@@ -1,8 +1,3 @@
----
-author: Ken Wilber
-title: The Religion of Tomorrow
----
-
 # The Religion of Tomorrow by Ken Wilber (2017)
 
 # Excerpts

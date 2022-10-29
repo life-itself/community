@@ -23,6 +23,13 @@ const sharedFields = {
   layout: { type: "string", default: "docs" },
   editLink: { type: "boolean" },
   isDraft: { type: "boolean" },
+  aliases: { type: "list", of: { type: 'string' }, },
+  url: { type: "string" },
+  created: { type: "date" },
+  posted: { type: "string" },
+  date: { type: "date" },
+  tags: { type: "list", of: { type: 'string' }, },
+  author: { type: "string", of: { type: 'string' }, },
 };
 
 const computedFields = {

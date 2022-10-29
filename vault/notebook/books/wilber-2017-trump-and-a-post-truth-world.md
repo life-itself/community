@@ -1,8 +1,5 @@
 ---
 title: Notes on Wilber's Trump and a Post-Truth World
-book: Trump and a Post-Truth World
-author: Ken Wilber
-published: 2017
 date: 2019-12-28
 posted: https://rufuspollock.com/2020/01/02/wilber-trump-post-truth-world/
 ---

@@ -1,5 +1,5 @@
 ---
-aliases: Techno-solutionism
+aliases: ["Techno-solutionism"]
 ---
 
 # Techno-solutionism

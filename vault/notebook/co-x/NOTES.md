@@ -18,13 +18,13 @@ This material is gradually being integrated elsewhere. Most of the info is now i
 
 ## Housing Cooperatives and Mutuals
 
--   Atchison Village [[https://en.wikipedia.org/wiki/Atchison\_Village,\_Richmond,\_California]{.underline}](https://en.wikipedia.org/wiki/Atchison_Village,_Richmond,_California)
+- Atchison Village [https://en.wikipedia.org/wiki/Atchison\_Village,\_Richmond,\_California](https://en.wikipedia.org/wiki/Atchison_Village,_Richmond,_California)
 
 ### Kibbutz
 
 Abramitzky on Kibbutz - most of this downloadable from [[https://people.stanford.edu/ranabr/research]](https://people.stanford.edu/ranabr/research)
 
-Good overview [[http://eml.berkeley.edu//\~saez/course/Abramitzky\_book\_presentation.pdf]{.underline}](http://eml.berkeley.edu//~saez/course/Abramitzky_book_presentation.pdf)
+Good overview [http://eml.berkeley.edu//\~saez/course/Abramitzky\_book\_presentation.pdf](http://eml.berkeley.edu//~saez/course/Abramitzky_book_presentation.pdf)
 
 -   "Lessons from the Kibbutz on the Equality-Incentives Trade-Off," Journal of Economic Perspectives, 25:1, 185-208, Winter 2011 2.
 
@@ -64,17 +64,17 @@ drain, then why is not the entire world a Kibbutz? And, why are all Kibbutzim re
 
 # Readings
 
--   NetFlix: [[http://www.slideshare.net/reed2001/culture-1798664]{.underline}](http://www.slideshare.net/reed2001/culture-1798664) - NetFlix Culture \...
+-   NetFlix: [http://www.slideshare.net/reed2001/culture-1798664](http://www.slideshare.net/reed2001/culture-1798664) - NetFlix Culture ...
 
     -   Money and high profile organization
 
--   Valve - [[http://newcdn.flamehaus.com/Valve\_Handbook\_LowRes.pdf]{.underline}](http://newcdn.flamehaus.com/Valve_Handbook_LowRes.pdf) - Valve manual including insights into their culture
+-   Valve - [http://newcdn.flamehaus.com/Valve\_Handbook\_LowRes.pdf](http://newcdn.flamehaus.com/Valve_Handbook_LowRes.pdf) - Valve manual including insights into their culture
 
     -   Money and high profile organization
 
 -   Ricardo Semler and Maverick - workplace democracy (and pre-existing organization)
 
--   First Let's Fire All the Managers (HBR) ([[on gdocs]{.underline}](https://drive.google.com/open?id=1cHYVhMx2uo1feIdngnvN-DGy2qp733dPCyp9N3Hgxas))
+-   First Let's Fire All the Managers (HBR) ([on gdocs](https://drive.google.com/open?id=1cHYVhMx2uo1feIdngnvN-DGy2qp733dPCyp9N3Hgxas))
 
 -   Southwest airlines HR system (HBR - paper)
 
@@ -84,7 +84,7 @@ drain, then why is not the entire world a Kibbutz? And, why are all Kibbutzim re
 
 -   Reinventing Organizations
 
-    -   [[http://www.reinventingorganizations.com/uploads/2/1/9/8/21988088/140305\_laloux\_reinventing\_organizations.pdf]{.underline}](http://www.reinventingorganizations.com/uploads/2/1/9/8/21988088/140305_laloux_reinventing_organizations.pdf) - slide deck summary but no info
+    - [http://www.reinventingorganizations.com/uploads/2/1/9/8/21988088/140305\_laloux\_reinventing\_organizations.pdf] - slide deck summary but no info
 
 -   Buurtzorg
 
@@ -94,7 +94,7 @@ drain, then why is not the entire world a Kibbutz? And, why are all Kibbutzim re
 
 ### Buurtzorg
 
-[[http://www.strategy-business.com/article/00344]{.underline}](http://www.strategy-business.com/article/00344)
+[http://www.strategy-business.com/article/00344](http://www.strategy-business.com/article/00344)
 
 Buurtzorg, a large Dutch nursing care provider, is a good example of an organization running with Teal management structures and practices. Since the 19th century, every neighborhood in the Netherlands has had a local nurse who makes home visits to care for the sick and the elderly. These nurses operated largely autonomously until the early 1990s. Then, to maximize efficiency and reduce costs, the government created incentives for care-giving agencies to merge into larger enterprises.
 

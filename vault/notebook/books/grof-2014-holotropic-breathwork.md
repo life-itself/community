@@ -1,7 +1,3 @@
----
-citation: Grof, S. (2014). _Holotropic Breathwork: A New Experiential Method of Psychotherapy and Self-Exploration_. _6_, 18.
----
-
 # Holotropic Breathwork: A New Experiential Method of Psychotherapy and Self-Exploration by Stanislav Grof (2014)
 
 * Conducted 35,000 sessions

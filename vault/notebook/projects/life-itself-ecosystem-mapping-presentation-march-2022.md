@@ -2,6 +2,7 @@
 theme: solarized
 ---
 
+```
 <style>
 .reveal section h1 {
   font-size: 2.5em;
@@ -15,6 +16,7 @@ theme: solarized
     display: block;
   }
 </style>
+```
 
 # Charting An Emerging Ecosystem
 

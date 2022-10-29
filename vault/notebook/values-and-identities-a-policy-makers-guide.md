@@ -1,6 +1,4 @@
 ---
-type: report
-published: 2021-12-15
 created: 2022-01-11
 ---
 
