@@ -4,7 +4,7 @@ aliases: [Ken Wilber, Wilber]
 
 # Ken Wilber
 
-Ken Wilber is the creator of [[../notes/integral|Integral]] Theory, a pioneer of transpersonal psychology and has been described as the Einstein of consciousness studies.
+Ken Wilber is the creator of [[integral|Integral]] Theory, a pioneer of transpersonal psychology and has been described as the Einstein of consciousness studies.
 
 We consider his work foundational to the emerging paradigm.
 
