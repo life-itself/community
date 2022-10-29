@@ -8,10 +8,10 @@ https://lifeitself.us/2017/09/18/techno-solutionism/ - Techno-solutionism: tech 
 
 NB: currently only page on site on this topic afaict 2022-01-30 ~rufus.
 
-![[techno-solutionism-aet-gathering-2018.pdf]]
+![[../assets/notebook/techno-solutionism-aet-gathering-2018.pdf]]
 
 
-[Source file (keynote)](/assets/techno-solutionism-aet-gathering-2018.key)
+[Source file (keynote)](../assets/notebook/techno-solutionism-aet-gathering-2018.key)
 
 # Inbox
 

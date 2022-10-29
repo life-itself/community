@@ -185,7 +185,7 @@ Mapping brings a more coherent external identity for this ecosystem making it ac
 #### https://ecosystem.lifeitself.us
 
 
-![[assets/Pasted image 20220324164228.png]]
+![[../../assets/notebook/Pasted image 20220324164228.png]]
 
 # Background
 
@@ -213,7 +213,7 @@ First pass on key characteristics to answer the question - what distinguishes *t
 
 # Directory
 
-![[assets/Pasted image 20220324165048.png]]
+![[../../assets/notebook/Pasted image 20220324165048.png]]
 
 ---
 
@@ -243,7 +243,7 @@ Emphasize that it is the combination of all three that is important and distinct
 
 # Visualization
 
-![[assets/Pasted image 20220324165225.png]]
+![[../../assets/notebook/Pasted image 20220324165225.png]]
 
 ---
 
