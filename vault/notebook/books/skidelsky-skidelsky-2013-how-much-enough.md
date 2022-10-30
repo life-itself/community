@@ -1,3 +1,8 @@
+---
+author: [rufuspollock]
+posted: https://lifeitself.org/2017/02/05/summary-how-much-is-enough-skidelsky-2012/
+---
+
 # How Much is Enough – Summary
 
 ## Overview

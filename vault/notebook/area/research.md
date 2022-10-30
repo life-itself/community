@@ -1,4 +1,10 @@
-# Introduction
+---
+created: 2016-09-09
+---
+
+# Community Research Initiative
+
+Sep 2016 to present.
 
 ## Why do research?
 
@@ -19,7 +25,7 @@
     - This would likely come under other activities e.g. the working
       group looking at material sustainability would research
       business models
-    
+
 ## Criteria
 
 - Relate to why we do this
@@ -34,7 +40,6 @@
   Tech could be interested
 - Replicable - others can follow our findings and “repeat” them in
   appropriate manner
-
 
 ## Guidelines for Primers
 
@@ -57,3 +62,9 @@
     - 1 page is great! 1 page exec summary if more than 2 pages.
     - + further reading / references
 - Style: friendly, succinct, informative, not too academic.
+
+## Primers
+
+- [[../memes|Memes Primer]] (2016)
+- [[../mindfulness|Mindfulness Primer]] (2016)
+- [[../non-attachment-to-views|Non-attachment to Views Primer]] (2016)

@@ -1,4 +1,9 @@
-# Non-attachment to Views
+---
+author: [rufuspollock]
+posted: https://lifeitself.org/2016/10/20/open-mindedness-and-non-attachment-to-views/
+---
+
+# Open-mindedness and Non-attachment to Views
 
 > *… Seeing that harmful actions arise from anger, fear, greed, and
 > intolerance, which in turn come from dualistic and discriminative

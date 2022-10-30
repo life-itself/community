@@ -1,3 +1,8 @@
+---
+author: [stiivi]
+date: 2016-10-13
+---
+
 # Memes
 
 A *meme*[^1] is an idea, behavior, style or anything that spreads from
