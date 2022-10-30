@@ -103,9 +103,7 @@ deeply. This is an active not a passive act. Where actively engage
 ourselves with what they are saying, opening our mind to it, positively
 welcoming what they are saying.
 
-![](media/image02.jpg){width="1.5625in"
-height="1.1770833333333333in"}![](media/image05.jpg){width="1.5625in"
-height="1.1666666666666667in"}
+TODO: image goes here (see gdoc)
 
 ## Common garden examples of attachment
 
@@ -508,19 +506,15 @@ non-attachment, what is?
 
 Clench / unclench
 
-![Hands\_in\_action\_-\_fist\_1](media/image04.jpg){width="1.5625in"
-height="1.1666666666666667in"}
+TODO: image goes here of clenching, unclenching hands
 
-![Hand reach](media/image01.jpg){width="1.5625in"
-height="1.1770833333333333in"}
+```
+Attachment ... Detachment
+    |
 
-Attachment ← —&gt; Detachment
-
-|
-
-V
-
+    V
 Engagement
+```
 
 People think of non-attachment = opposite = detachment = apathy,
 disengagement, absence etc …
