@@ -29,7 +29,7 @@ const sharedFields = {
   posted: { type: "string" },
   date: { type: "date" },
   tags: { type: "list", of: { type: 'string' }, },
-  author: { type: "string", of: { type: 'string' }, },
+  author: { type: "list", of: { type: 'string' }, },
 };
 
 const computedFields = {

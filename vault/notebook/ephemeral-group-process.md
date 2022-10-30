@@ -1,6 +1,6 @@
 ---
 created: 2020-12-16
-author: rufuspollock
+author: [rufuspollock]
 title: Ephemeral Group Process (EGP)
 ---
 

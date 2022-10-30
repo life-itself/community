@@ -1,6 +1,6 @@
 ---
 created: 2022-05-30
-author: rufuspollock
+author: [rufuspollock]
 ---
 
 # Coops or co-nots: understanding the strengths and weaknesses of (worker) cooperative organization
