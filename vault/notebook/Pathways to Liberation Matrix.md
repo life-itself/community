@@ -1,4 +1,6 @@
 ---
+title: Pathways to Liberation Matrix of Assessment
+author: [rufuspollock]
 url: https://pathwaystoliberation.com/the-matrix/
 ---
 
