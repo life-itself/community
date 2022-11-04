@@ -9,7 +9,8 @@ const userConfig = {
     text: "Life Itself",
   },
   navLinks: [
-    { href: "/about", name: "About" }
+    { href: "/about", name: "About" },
+    { href: "/ecosystem", name: "Ecosystem" }
   ],
 };
 

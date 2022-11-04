@@ -1,5 +1,5 @@
 /* eslint import/no-unresolved: off */
-import { defineDocumentType, makeSource } from "contentlayer/source-files";
+import { defineDocumentType, defineNestedType, makeSource } from "contentlayer/source-files";
 import { h } from "hastscript";
 import rehypeAutolinkHeadings from "rehype-autolink-headings";
 import rehypeMathjax from "rehype-mathjax";
@@ -23,6 +23,8 @@ const sharedFields = {
   layout: { type: "string", default: "docs" },
   editLink: { type: "boolean" },
   isDraft: { type: "boolean" },
+  // TODO document usage of data field
+  data: { type: "list", of: { type: "string" }, default: [] },
   aliases: { type: "list", of: { type: 'string' }, },
   url: { type: "string" },
   created: { type: "date" },
@@ -42,7 +44,7 @@ const computedFields = {
 
 const Page = defineDocumentType(() => ({
   name: "Page",
-  filePathPattern: "**/*.md*",
+  filePathPattern: "!ecosystem/*(topics|profiles)/**/*.md*",
   contentType: "mdx",
   fields: {
     ...sharedFields,
@@ -69,6 +71,87 @@ const Blog = defineDocumentType(() => ({
   computedFields,
 }));
 
+/* Ecosystem document types */
+
+const NestedUrl = defineNestedType(() => ({
+  name: 'NestedUrl',
+  fields: {
+    url: { type: 'string' },
+    cached: { type: 'string' },
+    cached_new: { type: 'string' }
+  }
+}));
+
+const SocialChangeFields = defineNestedType(() => ({
+  name: 'SocialChange',
+  fields: {
+    inner: { type: 'json' },
+    cultural: { type: 'json' },
+    systems: { type: 'json' }
+  }
+}));
+
+const resolveArrays = ['topic', 'activity', 'people', 'locations'].reduce(
+  (el, key) => ({
+    ...el,
+    [key]: {
+      type: 'json',
+      resolve: (doc) => (doc[key] == 0 ? [] : doc[key])
+    }
+  }),
+  {}
+);
+
+const Profile = defineDocumentType(() => ({
+  name: 'Profile',
+  filePathPattern: 'ecosystem/profiles/**/*.md*',
+  contentType: 'mdx',
+  fields: {
+    ...sharedFields,
+    layout: { type: 'string', default: 'profile' },
+    id: { type: 'string' },
+    url: { type: 'string' },
+    tagline: { type: 'json' },
+    activity: { type: 'json' },
+    topic: { type: 'json' },
+    regions: { type: 'json' },
+    locations: { type: 'json' },
+    started: { type: 'json' },
+    ended: { type: 'string' },
+    active: { type: 'string' },
+    people: { type: 'json' },
+    notes_data_entry: { type: 'string' },
+    facebook: { type: 'json' },
+    twitter: { type: 'json' },
+    instagram: { type: 'json' },
+    linkedin: { type: 'json' },
+    youtube: { type: 'json' },
+    blog: { type: 'json' },
+    logo: { type: 'nested', of: NestedUrl },
+    image: { type: 'nested', of: NestedUrl },
+    curation_status: { type: 'string' },
+    social_change: { type: 'nested', of: SocialChangeFields }
+  },
+  computedFields: {
+    ...computedFields,
+    ...resolveArrays
+  }
+}));
+
+const Topic = defineDocumentType(() => ({
+  name: 'Topic',
+  filePathPattern: 'ecosystem/topics/**/*.md*',
+  contentType: 'mdx',
+  fields: {
+    ...sharedFields,
+    id: { type: 'string' },
+    image: { type: 'string' },
+    emoji: { type: 'json' },
+    super_topic: { type: 'string' }
+  },
+  computedFields
+}));
+
 const contentLayerExcludeDefaults = [
   "node_modules",
   ".git",
@@ -89,7 +172,7 @@ export default makeSource({
     ...siteConfig.contentExclude,
   ]),
   contentDirInclude: siteConfig.contentInclude,
-  documentTypes: [Blog, Page],
+  documentTypes: [Blog, Page, Profile, Topic],
   mdx: {
     cwd: process.cwd(),
     remarkPlugins: [
