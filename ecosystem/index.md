@@ -5,10 +5,10 @@ data:
   - topics
 ---
 
-import Hero from "components/ecosystem/Hero.jsx"
-import TernaryPlot from "components/ecosystem/TernaryPlot.jsx"
-import CircularVis from "components/ecosystem/CircularVis.jsx"
-import ProfileSearch from "components/ecosystem/ProfileSearch.jsx"
+import Hero from "components/custom/ecosystem/Hero.jsx"
+import TernaryPlot from "components/custom/ecosystem/TernaryPlot.jsx"
+import CircularVis from "components/custom/ecosystem/CircularVis.jsx"
+import ProfileSearch from "components/custom/ecosystem/ProfileSearch.jsx"
 
 <Hero />
 
