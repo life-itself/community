@@ -12,6 +12,7 @@ const userConfig = {
     { href: "/about", name: "About" },
     { href: "/ecosystem", name: "Ecosystem" }
   ],
+  theme: { default: "" }
 };
 
 export default userConfig;
