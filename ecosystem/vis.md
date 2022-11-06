@@ -4,8 +4,8 @@ data:
   - topics
 ---
 
-import TernaryPlot from "components/ecosystem/TernaryPlot.jsx"
-import CircularVis from "components/ecosystem/CircularVis.jsx"
+import TernaryPlot from "components/custom/ecosystem/TernaryPlot.jsx"
+import CircularVis from "components/custom/ecosystem/CircularVis.jsx"
 
 # Explore Visualizations of the Ecosystem Map
 
