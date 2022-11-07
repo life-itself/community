@@ -8,5 +8,3 @@ import Collaborators from "components/custom/collaborators.jsx"
 <Hero />
 
 <Collaborators />
-
-
