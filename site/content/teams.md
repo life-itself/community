@@ -2,6 +2,6 @@
 layout: unstyled
 ---
 
-import Teams from "components/custom/teams.jsx"
+import Teams from "components/custom/Teams.jsx"
 
 <Teams />
