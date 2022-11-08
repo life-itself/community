@@ -9,10 +9,8 @@ const userConfig = {
     text: "Life Itself",
   },
   navLinks: [
-    { name: "About", subItems: [
-      { href: "/about", name: "About Life Itself"},
-      { href: "/people", name: "The Team"}
-    ]  },
+    { href: "/about", name: "About"},
+    { href: "/people", name: "The Team"},
     { href: "/ecosystem", name: "Ecosystem" }
   ],
   theme: { default: "" }
