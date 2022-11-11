@@ -1,3 +1,5 @@
+const colors = require("tailwindcss/colors")
+
 module.exports = {
   content: [
     "./pages/**/*.{js,ts,jsx,tsx}",
@@ -11,6 +13,12 @@ module.exports = {
       // support wider width for large screens >1440px eg. in hero
       maxWidth: {
         "8xl": "88rem",
+      },
+      fontFamily: {
+        archivo: ['Archivo']
+      },
+      colors: {
+        "theme-yellow": "#F0CA5E"
       },
     },
   },

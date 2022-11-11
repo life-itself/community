@@ -193,7 +193,7 @@ function List({ data }) {
   return (
     <ul
       role="list"
-      className="space-y-12 lg:grid lg:grid-cols-3 lg:items-start lg:gap-x-8 lg:gap-y-12 lg:space-y-0"
+      className="font-archivo space-y-12 lg:grid lg:grid-cols-3 lg:items-start lg:gap-x-8 lg:gap-y-12 lg:space-y-0"
     >
       {data.map((person) => (
         <li key={person.name}>
