@@ -328,6 +328,52 @@ Options
       - Other generic items like key texts would go to notebook and get referenced from the tao e.g. five mindfulness trainings go to notebook. If we have a special version of five mindfulness trainings that could be in the tao
     - Items re culture, practices and ops of Life Itself go in Tao
 
+## 2022-11-12 - thoughts on structure
+
+3 areas
+
+- Sensemaking
+- Community
+- Courses / Spaces
+
+Example classification
+
+- Sensemaking: research, policy, narrative etc. making sense for ourselves and others. 
+  - Web3
+  - Ecosystem mapping (at the start)
+- Community: connection, collaboration, creation.
+  - Gathering
+  - Hangouts
+  - Hubs?
+- Courses / Spaces
+  - ECT
+  - Calls
+  - Hubs?
+
+Comments
+
+- Sensemaking is a bit narrow for things that are kind of activisty
+- Where would Art stuff go
+- Community is a very generic term. e.g. would a hub come under there or the course / spaces?
+- Where would Real Estate Fund go?
+- wonder if sensemaking makes more sense as a type of activity rather than a *domain* of activity. At same time, something like web3 seems like a clear sensemaking activity. However, could frame this under a "Investigating future paradigm" segment (with sensemaking being the type of activity we are doing)
+- Courses seems a solid area
+- 💡 more i think about the more i don't think sensemaking is an area. it is one of the things you do in a give area. e.g. web3 is sensemaking around "big vision / alternative socio-economic systems"
+
+Alternative
+
+- Incubator
+- Courses
+
+Other ways of cutting the cake
+
+- Talking and Doing. e.g. research on hubs and doing hubs.
+- Stages: Incubator, Beta, Stable, Paused, Retired
+
+## 2022-11-12 #somedaymaybe create beautiful pdf reports from markdown
+
+Currently generated reports like https://lifeitself.org/download/4441/ (collective intelligence) from a gdoc. Should create from markdown using pandoc etc. this would also be a nice thing to have in flowershow.
+
 # Archive (Obsolete)
 
 ### Tech Stack especially how we have a "content layer" (Jan 2022)
