@@ -16,6 +16,62 @@ There are roughly two parts to this:
 1. A structure and process for adding content, discussions etc
 2. A way of publishing that online
 
+## Plan of Work
+
+```mermaid
+graph TD
+
+brand[Brand Strategy]
+offers[Offers]
+content[Content Migration]
+design[Brand Design]
+
+brand --> offers
+brand --> design
+
+platform[Platform to NextJS]
+structure[Site structure]
+
+
+platform --> content
+structure --> content
+wiser[Wiser aka new/refined Offers]
+
+offers --> structure
+offers --> wiser
+
+classDef done fill:#21bf73,stroke:#333,stroke-width:1px;
+classDef nearlydone fill:lightgreen,stroke:#333,stroke-width:1px;
+classDef inprogress fill:orange,stroke:#333,stroke-width:1px;
+classDef next fill:lightblue,stroke:#333,stroke-width:1px;
+
+class brand done;
+class offers nearlydone;
+class platform,structure,design inprogress;
+class content,wiser next;
+```
+
+```mermaid
+graph TD
+
+subgraph Key
+  done[Done]
+  nearlydone[Nearly Done]
+  inprogress[In Progress]
+  next[Next Up]
+end
+
+classDef done fill:#21bf73,stroke:#333,stroke-width:1px;
+classDef nearlydone fill:lightgreen,stroke:#333,stroke-width:1px;
+classDef inprogress fill:orange,stroke:#333,stroke-width:1px;
+classDef next fill:lightblue,stroke:#333,stroke-width:1px;
+
+class done done;
+class nearlydone nearlydone;
+class inprogress inprogress;
+class next next;
+```
+
 ## Job Stories
 
 💭 2022-10-06: a lot of current job stories are about what "we" (or even "I" Rufus) want to do. Valuable to think more about the other side: why would others want to see this material. Some of this is in the so that and it is so far a bit vague. Rough sense is:
