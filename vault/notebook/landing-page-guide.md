@@ -216,15 +216,6 @@ Should demonstrate the product in action. GIFS work too.
 
 Don't include video unless you're selling a visual or physical product that is intriguing to see in action. 
 
-<div style={{position:"relative", paddingBottom:"calc(56.25% + 44px)"}}>
-    <iframe src='https://gfycat.com/ifr/PlumpCourteousBluet' frameBorder="0" scrolling="no" width="100%" height="100%" style={{position:"absolute",top:0,left:0}} allowfullscreen></iframe>
-</div>
-
-<p>
-    <a href="https://gfycat.com/discover/coca-cola-gifs"></a>
-    <a href="https://gfycat.com/plumpcourteousbluet-coke-coca-cola"></a>
-</p>
-
 Rules for video:
 
 1. Explain your product in 5 seconds. 
