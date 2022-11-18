@@ -44,7 +44,7 @@ const computedFields = {
 
 const Page = defineDocumentType(() => ({
   name: "Page",
-  filePathPattern: "!ecosystem/*(topics|profiles)/**/*.md*",
+  filePathPattern: "!{ecosystem/*(topics|profiles),podcast}/**/*.md*",
   contentType: "mdx",
   fields: {
     ...sharedFields,
@@ -70,6 +70,20 @@ const Blog = defineDocumentType(() => ({
   },
   computedFields,
 }));
+
+const Podcast = defineDocumentType(() => ({
+  name: "Podcast",
+  contentType: "mdx",
+  filePathPattern: "podcast/**/*.md*",
+  fields: {
+    ...sharedFields,
+    author: { type: "string" },
+    src: { type: "string" },
+    audioType: { type: "string", default: "audio/x-m4a" },
+    layout: { type: "string", default: "podcast" },
+  },
+  computedFields
+}))
 
 /* Ecosystem document types */
 
@@ -172,7 +186,7 @@ export default makeSource({
     ...siteConfig.contentExclude,
   ]),
   contentDirInclude: siteConfig.contentInclude,
-  documentTypes: [Blog, Page, Profile, Topic],
+  documentTypes: [Blog, Page, Podcast, Profile, Topic],
   mdx: {
     cwd: process.cwd(),
     remarkPlugins: [

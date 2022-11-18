@@ -11,7 +11,8 @@ const userConfig = {
   navLinks: [
     { href: "/about", name: "About"},
     { href: "/people", name: "The Team"},
-    { href: "/ecosystem", name: "Ecosystem" }
+    { href: "/ecosystem", name: "Ecosystem" },
+    { href: "/podcast", name: "Podcast" }
   ],
   theme: { default: "" }
 };
