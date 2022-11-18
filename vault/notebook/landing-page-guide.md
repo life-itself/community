@@ -81,9 +81,9 @@ These are your notes. Now, you need to write your value propositions in full.
 Value propositions are the selling points that increase customers' desire. Use them wherever you pitch your product. 
 
 
-:::tip  
-Concise doesn't mean short. It means there's a high ratio of ideas to words.  
-:::
+> [!tip]  
+> Concise doesn't mean short. It means there's a high ratio of ideas to words.
+> 
 
 ## Landing Page Template
 
@@ -121,11 +121,11 @@ To write a header:
 
 Examples:  
 
-:::tip  
+> [!tip] 
 **For a website design tool** — "Visually design and develop sites from scratch. No coding."  
 **For a grocery delivery service** — "Groceries delivered in 1 hour. Say goodbye to traffic, parking, and long lines."  
 **For a home rental service** — "Rent people's homes. So you can experience a city like a true local."  
-:::  
+
 
 Keep it within 6-12 words so it  reads quickly. 
 
@@ -135,10 +135,10 @@ The header is the **what**. The subheader is the **how**.
 
 Examples:  
 
-:::tip  
+> [!tip]  
 **Real estate app subheader** — "Our network of remote concierges monitor your email inbox and respond to leads when you're too busy to."  
 **Video chat app subheader** — "In real-time, our on-call team transcribes and translates your words into over 20 languages."  
-:::
+
 
 #### Image
 
@@ -216,7 +216,14 @@ Should demonstrate the product in action. GIFS work too.
 
 Don't include video unless you're selling a visual or physical product that is intriguing to see in action. 
 
-<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/PlumpCourteousBluet' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div><p><a href="https://gfycat.com/discover/coca-cola-gifs"></a> <a href="https://gfycat.com/plumpcourteousbluet-coke-coca-cola"></a></p>
+<div style={{position:"relative", paddingBottom:"calc(56.25% + 44px)"}}>
+    <iframe src='https://gfycat.com/ifr/PlumpCourteousBluet' frameBorder="0" scrolling="no" width="100%" height="100%" style={{position:"absolute",top:0,left:0}} allowfullscreen></iframe>
+</div>
+
+<p>
+    <a href="https://gfycat.com/discover/coca-cola-gifs"></a>
+    <a href="https://gfycat.com/plumpcourteousbluet-coke-coca-cola"></a>
+</p>
 
 Rules for video:
 
@@ -288,9 +295,8 @@ Your conversion rate = [# of Visits Containing the Conversion Event] / [Total un
 
 This assumes that each unique visitor can only convert once. If not, you might prefer to use total visits on the denominator -- but generally, conversions do only occur once (e.g. signing up for an account).
 
-:::tip  
+> [!tip]
 You should only include visitors from geographies you service.  
-:::
 
 Google analytics tracks these measures. 
 
