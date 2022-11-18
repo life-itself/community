@@ -1,0 +1,14 @@
+# Why do our hubs exist? 
+
+We create hubs to provide co-living spaces. Co-living for us means living in community. Co-living is a path to strengthening our community and transforming ourselves and our society through the fostering of a shared culture. It helps us maintain and live our values and transmit them in our daily life. It is a way to demonstrate that a different path is possible. Please read our [Co-living Model](https://tao.lifeitself.us/coliving/#introduction) for more information about why and how we want to establish a growing coliving community. 
+
+
+## Context for our hubs
+
+**Situation**: We – and many others – want to live in a mindful, joyful,[affordable] sustainable, hopeful, creative, well and dynamic community which would support us in right livelihood, getting stuff done and being well and mindful [and that would ultimately support children as well]. However, many communities fail because they lack shared goals and vision, as well as shared practices and tools to do emotional cleaning and to deal with conflicts (and/or the capacity to use those tools). Finally, spaces in Berlin and Bergerac have been purchased by Life Itself and Life Itself has a plan for a network of rural-city spaces that provide a base for community members, a meeting place to share and build a big vision and be of inspiration to others.
+
+**Complication**: We are not currently living in an [affordable] mindful getting stuff done community. We don’t know if one can join with the right balance of being and doing, demonstrating requisite rigour and connection with [Life Itself’s] greater goals. Life Itself requires a base in cities like Berlin (to scale and demonstrate the middle way) and to generate a return on the investment it has received (both to attract future investment and to provide surplus for future investments like expanding the Hubs).
+
+**Question**: How can we manage the Berlin and Bergerac spaces especially in terms of tools, values and rules over the next 18m-3y such that the community running it is sustainable, creative, well, joyful, mindful, getting stuff done; and, that furthers Life Itself’s goal of a wiser world by facilitating like-minded people to connect and align, develop ideas, support each other in taking concrete action in a context of open-mindedness, critical rigour and prioritising quality over quantity. 
+
+**Hypothesis**: Create a hub built around a co-living community and supporting a broader community of members, based on mindful living, critical open-mindedness, integrous workability, getting stuff done, and a sustainable, well-defined, mix of public and private space and time; and that supports its members in connection, ideation and concrete action [in pursuit of a wiser world], and, more broadly, acts as a prototype for further evolution of coliving, co-projecting (incubator) and expansion of the Life Itself nodes.  

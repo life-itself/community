@@ -1,0 +1,17 @@
+{
+  "name": "playbook",
+  "version": "1.0.0",
+  "description": "Playbook",
+  "dependencies": {
+    "markdown-it-footnote": ""
+  },
+  "devDependencies": {
+    "@vuepress/plugin-google-analytics": "^1.1.0",
+    "vuepress": "^1.3.0",
+    "vuepress-plugin-mermaidjs": "^1.5.1"
+  },
+  "scripts": {
+    "start": "npx vuepress dev",
+    "build": "npx vuepress build"
+  }
+}
