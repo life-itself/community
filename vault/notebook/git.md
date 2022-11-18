@@ -378,7 +378,7 @@ If changes are being made to the remote repo while you're working on your local 
 
 To do this type
 
-> git pull <REMOTE> <name-of-branch>
+git pull `REMOTE` `name-of-branch`
 
 > *REMOTE is the name of the remote repository you want to pull from, usually 'origin,' and name-of-branch is the name of the branch in the remote repo that you want to pull from. This will usually be 'master.'*
 
@@ -388,7 +388,7 @@ If you just want to view differences between your local and remote repo, type:
 
 Once you're happy with the changes you have made, and have tracked and committed them using the 'git add' and 'git commit' commands from before, you 'push' the repo back to GitHub.com:
 
-> git push <REMOTE> <name-of-branch>
+> git push `REMOTE` `name-of-branch`
 
 ### Putting the steps together
 
