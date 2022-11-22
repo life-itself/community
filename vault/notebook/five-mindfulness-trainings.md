@@ -1,6 +1,6 @@
 # Five Mindfulness Trainings
 
-*   _From Thich Nhat Hanh_
+_From Thich Nhat Hanh_
 
 #### Reverence For Life
 
