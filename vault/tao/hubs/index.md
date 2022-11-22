@@ -16,10 +16,10 @@ The [Residents' Agreement](https://tao.lifeitself.us/hubs/agreement/) applies to
 
 Our most important principles and practices are:
 
-* [Five Mindfulness Trainings](/vault/notebook/five-remembrances) 
+* [Five Mindfulness Trainings](five-remembrances.md) 
 * Eating together
-  * [Five Remembrances](/vault/notebook/five-remembrances) 
-* [Beginning Anew](/vault/notebook/beginning-anew) for sharing issues and healing conflicts
+  * [Five Remembrances](five-remembrances.md) 
+* [Beginning Anew](beginning-anew.md) for sharing issues and healing conflicts
 
 [5mt]: /five-mindfulness-trainings/
 

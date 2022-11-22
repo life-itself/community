@@ -16,7 +16,7 @@
 
 * We run two types of check-in session at the hub, one every Friday and one every other Sunday. 
 * The Friday evening check-in is designed to cover the logistics of running the hub, such as who will fill what roles in the coming week and how we will adapt our practices to integrate any learnings from the week. We still, however, also leave space for emotional matters to be discussed if any hub members deems this necessary.
-* Every other Sunday we hold a longer meeting dedicated exclusively to emotional sharing, to ensure everyone has the opportunity to express themselves and avoid any issues remaining pent up. This is either conducted as a more typical sharing circle or through a method such as [Beginning Anew](/vault/notebook/beginning-anew), depending on what is felt to be appropriate. 
+* Every other Sunday we hold a longer meeting dedicated exclusively to emotional sharing, to ensure everyone has the opportunity to express themselves and avoid any issues remaining pent up. This is either conducted as a more typical sharing circle or through a method such as [Beginning Anew](beginning-anew.md), depending on what is felt to be appropriate. 
 
 ## Roles
 

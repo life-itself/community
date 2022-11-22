@@ -84,7 +84,7 @@ We don’t have it all worked out. As we explore unknown land we need to embrace
 ## Integrity
  
 :::tip SEE ALSO
-For more detail see the dedicated [page on Integrity](vault/notebook/integrity).
+For more detail see the dedicated [page on Integrity](integrity.md).
 :::
  
 An object has integrity when it is whole and complete. Any diminution in its wholeness and completeness results in a diminution in workability. Think of a wheel with missing spokes, it is not whole, complete. It will become out-of-round, work less well and eventually stop working entirely. Likewise, a system has integrity when it is whole and complete.

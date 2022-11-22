@@ -65,6 +65,6 @@ Sep 2016 to present.
 
 ## Primers
 
-- [[../memes|Memes Primer]] (2016)
-- [[../mindfulness|Mindfulness Primer]] (2016)
-- [[../non-attachment-to-views|Non-attachment to Views Primer]] (2016)
+- [[memes|Memes Primer]] (2016)
+- [[mindfulness|Mindfulness Primer]] (2016)
+- [[non-attachment-to-views|Non-attachment to Views Primer]] (2016)

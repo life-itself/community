@@ -40,7 +40,7 @@ of a gene. Thus we can consider a dam as the extended phenotype of a
 beaver or culture as the extended phenotype of the collective memeotypes
 of humanity.
 
-![](../assets/notebook/meme.png)
+![](meme.png)
 
 Understanding of this concept of memes and their expression/phenotypes
 helps us to understand effects of teachings and beliefs, understand

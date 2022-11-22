@@ -2,7 +2,7 @@
 
 We are a mindful community seeking to create a sustainable shared space of warmth, getting stuff done, joy, creativity, generosity, acceptance and authentic connection. 
 
-We are committed to living together in a way that cultivates wisdom, compassion and care for ourselves, each other and the world around us. In order to achieve that we embrace certain principles, such as the [Five Mindfulness Principles](/vault/notebook/five-mindfulness-trainings). 
+We are committed to living together in a way that cultivates wisdom, compassion and care for ourselves, each other and the world around us. In order to achieve that we embrace certain principles, such as the [Five Mindfulness Principles](five-mindfulness-trainings.md). 
 
 ## Shared Meals
 
@@ -32,7 +32,7 @@ We are committed to living together in a way that cultivates wisdom, compassion 
 *   We believe that unspoken resentment and unresolved disagreements cause blocked relationships that damage a community.
 *   We seek to create safe spaces for each other and to learn tools such as meditation, integrity (restoration), flower watering (acknowledgement), non-violent communication and sharing to help us transform conflict into positive growth.
 *   We are determined to show-up to each other and not hide from things for convenience, when we have a chance to address issues in a sufficiently safe and kind space. 
-*   We do practices like [Beginning Anew](/vault/notebook/beginning-anew) on a regular basis (once a month/bi-monthly), or when the situation necessitates it.
+*   We do practices like [Beginning Anew](beginning-anew.md) on a regular basis (once a month/bi-monthly), or when the situation necessitates it.
 
 ## Practicalities
 
