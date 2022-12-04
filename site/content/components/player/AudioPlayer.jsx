@@ -48,7 +48,7 @@ export function AudioPlayer({ audioData }) {
           href={player.meta.link}
           className="truncate text-center text-sm font-bold leading-6 md:text-left"
           title={player.meta.title}
-        >
+          legacyBehavior>
           {player.meta.title}
         </Link>
         <div className="flex justify-between gap-6">
@@ -91,5 +91,5 @@ export function AudioPlayer({ audioData }) {
         </div>
       </div>
     </div>
-  )
+  );
 }
