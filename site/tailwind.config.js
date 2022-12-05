@@ -15,7 +15,9 @@ module.exports = {
         "8xl": "88rem",
       },
       fontFamily: {
-        archivo: ['Archivo']
+        archivo: ['Archivo'],
+        poppins: ['Poppins'],
+        
       },
       colors: {
         "theme-yellow": "#F0CA5E"
@@ -23,5 +25,9 @@ module.exports = {
     },
   },
   /* eslint global-require: off */
-  plugins: [require("@tailwindcss/typography")],
+  plugins: [
+    require('@tailwindcss/aspect-ratio'),
+    require('@tailwindcss/line-clamp'),
+    require("@tailwindcss/typography"),
+  ],
 };
