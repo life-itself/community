@@ -8,6 +8,15 @@ import { Pre } from "./Pre";
 const components = {
   Head,
   a: CustomLink,
+  img: ({ src, ...rest }) => {
+   /** 
+    * Images do not render in Obsidian if image paths start with a leading slash.
+    * In Next, we require the leading slash for the path to resolve.
+    * To fix this we add the slash for image paths to resolve in markdown.
+    */
+   const imageSrc = src.startsWith("http") || src.startsWith("/") ? src : `/${src}`
+    return (<img src={imageSrc} {...rest} />)
+  },
   pre: Pre,
   wrapper: ({ layout, ...rest }) => {
     const Layout = require(`../layouts/${layout}`).default;
