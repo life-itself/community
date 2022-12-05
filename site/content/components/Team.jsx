@@ -198,7 +198,7 @@ function List({ data }) {
       {data.map((person) => (
         <li key={person.name}>
           <div className="space-y-4">
-            <div className="aspect-w-3 aspect-h-2">
+            <div>
               <img className="rounded-lg object-cover shadow-lg" src={person.imageUrl} alt={person.name} />
             </div>
             <div className="space-y-1 text-lg font-medium leading-6">
@@ -224,7 +224,7 @@ export default function Team() {
       <div className="space-y-12">
         {allTeams.map((team,i) => (
           <section key={i}>
-            <h1 className="text-4xl font-bold tracking-tight sm:text-5xl">{team.heading}</h1>
+            <h1 className="text-4xl font-poppins font-bold tracking-tight sm:text-5xl">{team.heading}</h1>
             <List data={team.data} />
           </section>
         ))}
