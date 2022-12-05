@@ -3,7 +3,7 @@ import { formatDate } from "@/lib/formatDate.js";
 
 /* eslint import/no-default-export: off */
 export default function BlogLayout({ children, frontMatter }) {
-  const { created, title, authors, tags } = frontMatter;
+  const { created, title, authors, tags, categories } = frontMatter;
   return (
     <>
       <Link href="/blog" className="flex flex-col items-center w-fit mx-auto space-x-2 pt-6 text-gray-500 hover:text-gray-900 hover:underline">
@@ -15,8 +15,8 @@ export default function BlogLayout({ children, frontMatter }) {
       <article className="docs prose prose-a:break-words dark:prose-invert font-poppins max-w-2xl px-6 pt-6 mx-auto space-y-12 dark:bg-gray-800 dark:text-gray-50">
         <header className="w-full mx-auto space-y-4 text-center">
           <div className="flex space-x-4 justify-center border-b border-t border-theme-yellow">
-            {tags ? tags.map((tag,i) => (
-              <a key={i} className="py-4 text-xs font-semibold tracking-wider uppercase no-underline hover:underline">#{tag}</a>
+            {categories ? categories.map((category,i) => (
+              <a key={i} className="py-4 text-xs font-semibold tracking-wider uppercase no-underline hover:underline">#{category}</a>
             )): <a className="py-4 text-xs font-semibold tracking-wider uppercase no-underline hover:underline">#uncategorized</a>}
           </div>
           <h1 className="text-4xl font-bold leading-tight md:text-5xl">{title}</h1>
@@ -43,7 +43,14 @@ export default function BlogLayout({ children, frontMatter }) {
         <section>
           {children}
         </section>
-        <div className="pt-12 border-t border-theme-yellow" />
+        <div className="flex items-center space-x-4 py-6 border-b border-theme-yellow text-sm capitalize">{tags &&
+          <>
+            tags:&nbsp;&nbsp;
+            {tags.map((tag,i) => (
+              <a key={i} className="no-underline hover:underline italic">#{tag}</a>
+            ))}
+          </>}
+        </div>
       </article>
     </>
   );

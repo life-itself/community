@@ -64,9 +64,9 @@ export default function BlogList ({ posts }) {
             <a href={post.url_path} className="no-underline hover:underline">
               <h1 className="text-4xl font-bold md:tracking-tight md:text-3xl m-0">{post.title}</h1>
             </a>
-            {post.tags && <div className="flex flex-wrap space-x-2">
-              {post.tags.map(tag => (
-                <a key={tag} href="#" className="pr-3 hover:underline dark:text-gray-900 m-0 capitalize">#{tag}</a>
+            {post.categories && <div className="flex flex-wrap space-x-2">
+              {post.categories.map(category => (
+                <a key={category} href="#" className="pr-3 hover:underline dark:text-gray-900 m-0 text-sm uppercase">#{category}</a>
               ))}
             </div>}
             <div className="flex flex-col items-start justify-between w-full md:flex-row md:items-center dark:text-gray-400">
