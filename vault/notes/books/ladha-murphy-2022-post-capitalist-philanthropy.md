@@ -198,7 +198,7 @@ This dearth of relevant experience and emotional capacity builds the edifice of 
 
 ## Five Elements Mandala
 
-![[assets/notebook/Pasted image 20221104001259.png]]
+![[Pasted image 20221104001259.png]]
 
 ## SUPERSTRUCTURE AS MYCELIAL SERVICE FOR VARIOUS BIOMES
 
@@ -222,7 +222,7 @@ p.169 ff.
 
 > Work in this area can include funding and aligning with land and water protectors, food/land/water/medicine/cultural sovereignty projects, indigenous sciences, resistance movements, the Rights of Nature200, legal jurisprudence, elders/wisdom circles and supporting the Life Plans201 and the myriad efforts led by Indigenous communities that preserve and uplift their self-determination.
 
-![[assets/notebook/Pasted image 20221104094645.png]]
+![[Pasted image 20221104094645.png]]
 
 ### Fire
 
@@ -239,13 +239,13 @@ p.169 ff.
 > - Education issues – This includes both alternative education and “alternatives to education.”.202
 > - Migration rights – This will become increasingly important as the climate catastrophe worsens and the traditional nation-state unravels. This work may include the abolition of borders and even ultimately the nation-state altogether.
 
-![[assets/notebook/Pasted image 20221104094706.png]]
+![[Pasted image 20221104094706.png]]
 
 ### Earth
 
 > The Earth element includes, but is not limited to, supporting commons-based land stewardship (including creating local land trusts); alternative communities (and other experiments “outside the grid”); mutual aid networks; alternative currencies; open- source knowledge systems for locally tailoring decentralised models of production and consumption; ecological restoration and protection; and bio-regional resiliency and sovereignty (including work involving land, water, food, energy, medicine, health, education, cultural regeneration and sovereignty).
 
-![[assets/notebook/Pasted image 20221104094812.png]]
+![[Pasted image 20221104094812.png]]
 
 ### Air
 
@@ -253,7 +253,7 @@ p.169 ff.
 >
 > This is the realm of artists, poets, culture hackers, shamans, educators and others. Here we include supporting cultural narrative work; artistic and creative interventions; emerging media approaches; sacred activism (work that goes beyond the binaries of traditional activism to include prayer and other trans-rational approaches); gatherings and other ways of accompanying and deepening relations (which are often not seen as a viable programmatic areas in and of themselves but are critical to nurturing a connective/relational fabric); and even the work that disrupts the philanthropic sector itself.
 
-![[assets/notebook/Pasted image 20221104102009.png]]
+![[Pasted image 20221104102009.png]]
 
 ### Ether
 
@@ -265,7 +265,7 @@ p.169 ff.
 >
 > Again, with all of these practices, it’s critical that we do not replicate the coloniser’s approach of consumption and acquisition, which keeps us locked in egoic, self- centred states of asking only “what I can gain” from this experience. We not only recommend the support and accessibility of these modalities for practitioners, but especially for wealth holders and wealth granters. Just as all oppression is connected, all healing is interconnected. The deepening of inner practices by all who are affected by and entangled in the murky, complex world of social change (especially social change that requires money) must continually strive to heal, integrate and reconnect themselves and their awareness to the present moment and the continuum of life.
 
-![[assets/notebook/Pasted image 20221104102140.png]]
+![[Pasted image 20221104102140.png]]
 
 ### Other concrete recommendations
 
