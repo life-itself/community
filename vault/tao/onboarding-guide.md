@@ -12,7 +12,7 @@ We value feedback 😄 You can make this handbook better by making amendments di
 Your onboarding journey will consist of the following steps in order. Each stage will be covered in more depth further on in the guide.
 
 1. [Prerequisites](#prerequisites)
-2. Welcome Call - this will be set up by person onboarding you :smile:
+2. Welcome Call - this will be set up by person onboarding you
 3. [First Steps](#first-steps)
 4. [How we Communicate](#how-we-communicate)
 5. [Further Reading](#further-reading)
