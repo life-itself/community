@@ -22,16 +22,9 @@ const sharedFields = {
   image: { type: "string" },
   layout: { type: "string", default: "docs" },
   editLink: { type: "boolean" },
+  toc: { type: "boolean" },
   isDraft: { type: "boolean" },
-  // TODO document usage of data field
   data: { type: "list", of: { type: "string" }, default: [] },
-  aliases: { type: "list", of: { type: 'string' }, },
-  url: { type: "string" },
-  created: { type: "date" },
-  posted: { type: "string" },
-  date: { type: "date" },
-  tags: { type: "list", of: { type: 'string' }, },
-  author: { type: "list", of: { type: 'string' }, },
 };
 
 const computedFields = {
@@ -48,25 +41,27 @@ const Page = defineDocumentType(() => ({
   contentType: "mdx",
   fields: {
     ...sharedFields,
+    created: { type: "date" },
   },
   computedFields,
 }));
 
-const blogFields = {
-  date: { type: "date" },
-  layout: { type: "string", default: "blog" },
-  authors: {
-    type: "list",
-    of: { type: "string" },
-  },
-};
-
 const Blog = defineDocumentType(() => ({
   name: "Blog",
+  filePathPattern: `${siteConfig.blogDir}/!(index)*.md*`,
   contentType: "mdx",
   fields: {
     ...sharedFields,
-    ...blogFields,
+    // layout: { type: "string", default: "blog" },
+    created: { type: "date" },
+    authors: {
+      type: "list",
+      of: { type: "string" },
+    },
+    tags: {
+      type: "list",
+      of: { type: "string" },
+    },
   },
   computedFields,
 }));
@@ -77,6 +72,7 @@ const Podcast = defineDocumentType(() => ({
   filePathPattern: "podcast/**/*.md*",
   fields: {
     ...sharedFields,
+    date: { type: "date" },
     author: { type: "string" },
     src: { type: "string" },
     audioType: { type: "string", default: "audio/x-m4a" },

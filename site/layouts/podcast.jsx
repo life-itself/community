@@ -178,19 +178,20 @@ export default function PodcastLayout({ children, frontMatter }) {
       <div className='border-t border-gray-200'>
         <aside className='fixed z-10 h-full pb-12 w-1/4 top-16 mt-3 overflow-hidden overflow-y-auto border-r border-gray-200'>
           <div className="relative z-10 mx-auto px-4 pb-4 pt-10 sm:px-6 md:max-w-2xl md:px-4 lg:min-h-full lg:flex-auto lg:py-12 lg:pt-5 lg:px-8 xl:px-12">
-            <Link href="/">
-              <a 
-                className="relative mx-auto block w-48 overflow-hidden rounded-lg bg-slate-200 shadow-xl shadow-slate-200 sm:w-64 sm:rounded-xl lg:w-auto lg:rounded-2xl"
-                aria-label="Homepage">
-                <img
-                  className="w-full"
-                  src="assets/site/lifeitself-podcast.jpeg"
-                  alt=""
-                  sizes="(min-width: 1024px) 20rem, (min-width: 640px) 16rem, 12rem"
-                  priority="true"
-                />
-                <div className="absolute inset-0 rounded-lg ring-1 ring-inset ring-black/10 sm:rounded-xl lg:rounded-2xl" />
-              </a>
+            <Link
+              href="/"
+              className="relative mx-auto block w-48 overflow-hidden rounded-lg bg-slate-200 shadow-xl shadow-slate-200 sm:w-64 sm:rounded-xl lg:w-auto lg:rounded-2xl"
+              aria-label="Homepage">
+
+              <img
+                className="w-full"
+                src="assets/site/lifeitself-podcast.jpeg"
+                alt=""
+                sizes="(min-width: 1024px) 20rem, (min-width: 640px) 16rem, 12rem"
+                priority="true"
+              />
+              <div className="absolute inset-0 rounded-lg ring-1 ring-inset ring-black/10 sm:rounded-xl lg:rounded-2xl" />
+
             </Link>
             <AboutSection className="mt-12 hidden lg:block" />
             <section className="mt-10 lg:mt-12">
@@ -247,5 +248,5 @@ export default function PodcastLayout({ children, frontMatter }) {
         </div>
       </div>
     </AudioProvider>
-  )
+  );
 }
