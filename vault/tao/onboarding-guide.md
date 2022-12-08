@@ -185,9 +185,9 @@ We use Google Chat and Whatsapp for quick messages of which there is no need to 
 
 Our default tools for video are Google Hangouts and Zoom. We add a video call link to every meeting set up in Google calendar.
 
-:::tip
+> [!tip]
 Face to face communication is a big deal for humans. Facial cues are very important. Always prefer video over voice for synchronous.
-:::
+
 
 #### Email
 
