@@ -1,4 +1,4 @@
-t # Working with Us
+# Working with Us
 
 ## What's your culture? What makes you unique? 
 
@@ -22,7 +22,7 @@ Pay particular attention to the importance of capture. If you are assigned a res
 
 We use GitHub Issues to track our work. You should create an issue for any assignment, or project, that has more than one actionable step.
 
-Read [Getting Stuff Done](/getting-stuff-done/#how-do-we-complete-tasks) to learn more about issues and the specific layout we use. 
+Read [[getting-stuff-done#How do we complete tasks?]] to learn more about issues and the specific layout we use. 
 
 ## What should I do if I don't have enough work? 
 
@@ -46,7 +46,7 @@ We need to pay an invoice on Xero. How should we do this?
 
 ## How do projects get initiated?  
 
-Typically by creating a Project A10. See our [Getting Work Done Guide](/getting-stuff-done/#how-do-we-set-up-projects).
+Typically by creating a Project A10. See [[getting-stuff-done#How do we set up projects?]].
 
 ## Feedback and reviews
 
