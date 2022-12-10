@@ -25,6 +25,7 @@ const sharedFields = {
   toc: { type: "boolean" },
   isDraft: { type: "boolean" },
   data: { type: "list", of: { type: "string" }, default: [] },
+  aliases: { type: "list", of: { type: "string" } },
 };
 
 const computedFields = {
