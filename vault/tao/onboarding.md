@@ -31,9 +31,8 @@ If you get stuck you will be able to ask your Onboarder questions during your on
 2. **Key systems**: Setup your accounts on [the key systems we use](#key-systems). **Do this before the next step!**
 4. **Phonebook**: Add your details to our [Phonebook using this form][phonebook]. Note: you will need to be logged in to your Life Itself email. Then, **notify the Onboarder that you have added accounts in team phonebook** so that they can add you to relevant systems.
 5. **Laptop setup**: Setup your [laptop as per these Datopian instructions][laptop]. Some of these instructions may not seem obviously applicable to your role, but you are likely to find all of these programmes useful.
-6. **Background on working with us:** Read about [Working with Us][]
+6. **Background on working with us:** Read about [[working-with-us|Working with Us]]
 
-[Working with Us]: /working-with-us/
 [phonebook]: https://docs.google.com/forms/d/e/1FAIpQLSfgK-NrAkplGwO5OIPKfO3Gjyh0332aJaL0zwobk2qc4-lCLA/viewform?usp=sf_link
 [laptop]: https://playbook.datopian.com/laptop-setup/
 
@@ -236,7 +235,7 @@ If you are new to Markdown, see the [Markdown tutorial](https://playbook.datopia
 
 We recommend you look at the reading below as part of your onboarding:
 
-* Read [the culture page](/culture/) for an introduction to the principles behind Life Itself.
+* Read the [[culture]] page for an introduction to the principles behind Life Itself.
 * You can also have a quick look around https://lifeitself.us/.
 
 ## Getting Help and Finding Stuff
