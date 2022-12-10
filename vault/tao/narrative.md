@@ -40,6 +40,4 @@ Mystery, Transformation, Possibility and Joy -- and the commitment, practice and
 
 Mystery, joy, iron and earth. We discuss Buddhism and Kim Kardashian. We’re activists who discovered Zen. We’re hippies with discipline. We have macbooks on the farm. We are real more than nice. We are ordinary people who choose an extra-ordinary path.
 
-See also [our principles][]
-
-[our principles]: /principles/
+See also our [[principles]]

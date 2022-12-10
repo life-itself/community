@@ -10,7 +10,7 @@ Our intention is to bring about cultural and political transformation and to cre
 
 Within our lifetime and six generations hence, we will develop a federation of resilient, flourishing communities based on a shared culture (views, values and practices including the possibility of transformation, the primacy of (inter)being and getting stuff done). These communities will engage with broader society and ally with like-minded groups to foster a culture of wisdom and awakening [^1] that can transform society and will be committed to practical action, including large scale political efforts to address collective challenges.
  
-See the full [SCQH](/scqh/) for context.
+See the full [[scqh|SCQH]] for context.
 
 [^1]: Shorthand for "waking up, growing up, cleaning up and showing up".
 
@@ -118,6 +118,6 @@ See our Transforming the Narrative Issue Tree, which details our plans for the w
 
 ## Annual Plans
 
-* [2021](/plans/2021/)
+* [[2021]]
 * [2020](/plans/2020/)
 * [2019](/plans/2019/)
