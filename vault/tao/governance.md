@@ -25,11 +25,9 @@ We propose to address these intentions by:
 
 # Membership
 
-Our intention is to create membership structure which reflects the vision of Life Itself – where people experience being part of something, contributing and being contributed to and living the Life Itself vision and mission through our key [values][].
+Our intention is to create membership structure which reflects the vision of Life Itself – where people experience being part of something, contributing and being contributed to and living the Life Itself vision and mission through our key [[principles]] and [[culture]]
 
 The other intention of the model is to reflect and recognise the different level of involvement and contribution to Life Itself by its members.
-
-[values]: /culture/
 
 ## How do you become a member of the community and how does it work?
 
