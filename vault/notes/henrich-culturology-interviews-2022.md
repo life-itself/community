@@ -114,7 +114,7 @@ Questions
 - Importance of (rigorous/slavish) imitation changes our views on stuff e.g. nowadays in west we often think of tradition as something that is a constraint
   - Quite a breakthrough to get to a point of experimentation but in a structured way
 
-![[Excalidraw/layers-of-evolution-and-complexity-2022-09-16.excalidraw]]
+![[../Excalidraw/layers-of-evolution-and-complexity-2022-09-16.excalidraw.svg]]
 
 # Notes
 
