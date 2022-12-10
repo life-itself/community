@@ -108,9 +108,9 @@ Life Itself will focus on 8 key work streams, with the primary focus in 2020 bei
 7. Art
 8. Core
 
-![](./aet-workstreams-as-of-2020.png)
+![[../assets/tao/aet-workstreams-as-of-2020.png]]
 
-Life Itself Workstreams as of Jan 2020 ([source coggle](https://coggle.it/diagram/XiR1dpbiFfqK6G8n/t/life-itself-workstreams-as-of-2020)
+Life Itself Workstreams as of Jan 2020 ([source coggle](https://coggle.it/diagram/XiR1dpbiFfqK6G8n/t/life-itself-workstreams-as-of-2020)A)
 
 ## Transforming the Narrative 
 
@@ -118,6 +118,6 @@ See our Transforming the Narrative Issue Tree, which details our plans for the w
 
 ## Annual Plans
 
-* [[2021]]
-* [2020](/plans/2020/)
-* [2019](/plans/2019/)
+* [[plan-2021|2021 Plan]]
+* [[plan-2020|2020 Plan]]
+* [[plan-2019|2019 Plan]]
