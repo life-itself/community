@@ -1,10 +1,10 @@
 ## What is it about?
 
-Here we describe  research projects ideas related to community living inspired by Life itself community.
+Here I describe research projects ideas related to community living inspired by Life itself community. The document aims to document research related to mainly usage of communal co-living space. Initially the README started in December 2021.
 
 ## Research questions
-The main question here is: How can we document, map and analyse community life? 
-The other question: What are common practices, which can be inherited and quantified from the life in monasteries to life in recent communities?
+The main question here is: How can we document, map and analyse community life in general? 
+The more concrete questions: What are common practices, which can be inherited and quantified from the life in monasteries to life in recent communities?
 We are also generally interested in analysis of intentional communities around the globe and creation of open database for this.
 
 Other groups of questions are related to specific life-time of communities.
