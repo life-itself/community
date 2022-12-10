@@ -1,5 +1,5 @@
 ---
-author: [stiivi]
+authors: [stiivi]
 date: 2016-10-13
 ---
 

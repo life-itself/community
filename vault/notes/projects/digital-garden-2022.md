@@ -1,6 +1,6 @@
 ---
 created: 2021-11-25
-author: [rufuspollock]
+authors: [rufuspollock]
 ---
 
 # Creating a Digital Garden (and maybe whole life itself site)

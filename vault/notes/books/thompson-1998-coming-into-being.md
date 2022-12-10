@@ -1,6 +1,6 @@
 ---
 created: 2022-09-29
-author: [rufuspollock]
+authors: [rufuspollock]
 ---
 
 # Coming into Being by [[../William Irwin Thompson]]

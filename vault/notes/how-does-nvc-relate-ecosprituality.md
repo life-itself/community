@@ -1,6 +1,6 @@
 ---
 created: 2022-03-30
-author: [Karl Steyaert]
+authors: [Karl Steyaert]
 ---
 
 # How does non-violent communication relate to eco spirituality?

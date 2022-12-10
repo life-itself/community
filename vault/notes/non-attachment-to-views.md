@@ -1,5 +1,5 @@
 ---
-author: [rufuspollock]
+authors: [rufuspollock]
 posted: https://lifeitself.org/2016/10/20/open-mindedness-and-non-attachment-to-views/
 ---
 

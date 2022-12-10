@@ -1,5 +1,5 @@
 ---
-author: [rufuspollock]
+authors: [rufuspollock]
 posted: https://lifeitself.org/mindfulness/
 created: 2016-09-19
 date: 2016-09-26
