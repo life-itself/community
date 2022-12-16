@@ -43,6 +43,10 @@ const Page = defineDocumentType(() => ({
   fields: {
     ...sharedFields,
     created: { type: "date" },
+    authors: {
+      type: "list",
+      of: { type: "string" },
+    },
   },
   computedFields,
 }));
