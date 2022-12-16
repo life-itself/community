@@ -1,5 +1,5 @@
 ---
-title: "Sympoiesis #1:<br>Daily collective practices<br>15 Oct to 14 Nov 2021"
+title: "Sympoiesis #1: Daily collective practices 15 Oct to 14 Nov 2021"
 created: 2021-09-06
 authors: 
   - rufuspollock
