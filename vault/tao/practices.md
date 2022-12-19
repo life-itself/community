@@ -2,6 +2,7 @@
 
 * [Five Remebrances](/five-remembrances/)
 * [Five Mindfulness Trainings](/five-mindfulness-trainings/)
+* [[../notes/shining-light|Shining a Light]]
 
 ## Contemplations Before Eating
 
