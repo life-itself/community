@@ -10,3 +10,4 @@ Below are the key views in which the work of Life Itself is grounded.
 * [The Middle Way](https://lifeitself.us/2018/06/22/synthesis-and-the-middle-way/) — this is the way Life Itself is seeking; a way which synthesises the best qualities of spirituality and pragmatism, engagement and reflection.
 * [True Joy in Life](https://tao.lifeitself.us/true-joy-in-life/#fuller-version-from-erhard-the-heart-of-the-matter) — "This is the true joy in life, to be used for a purpose recognized by yourself as a mighty one..."
 * [Not everyone knows what they want](vault/notes/not-everyone-knows-what-is-good-for-them) – knowing (or discoverring) what we *really* want is hard and takes effort. 
+* [What is so](/vault/notes/what-is-so) – Ask yourself what’s so and align with that. Align with what’s so and it will not matter. That is the foundation of transformation and satisfaction. 
