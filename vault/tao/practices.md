@@ -1,6 +1,6 @@
 # Practices
 
-* [Five Remebrances](/five-remembrances/)
+* [[five-remembrances|Five Remembrances]]
 * [[five-mindfulness-trainings|Five Mindfulness Trainings]] 
 * [[../notes/shining-light|Shining a Light]]
 
