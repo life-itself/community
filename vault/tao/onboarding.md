@@ -16,7 +16,7 @@ Your onboarding journey will consist of the following steps in order. Each stage
 2. Welcome Call - this will be set up by person onboarding you :smile:
 3. [First Steps](#first-steps)
 4. [How we Communicate](#how-we-communicate)
-5. [Further Reading](#further-reading)
+5. [[further-reading|Further Reading]]
 6. [Getting Help and Finding Stuff](#getting-help-and-finding-stuff)
 
 ## Prerequisites 
