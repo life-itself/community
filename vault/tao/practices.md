@@ -3,6 +3,7 @@
 * [Five Remebrances](/five-remembrances/)
 * [Five Mindfulness Trainings](/five-mindfulness-trainings/)
 * [[../notes/shining-light|Shining a Light]]
+* [Primacy of Being](/vault/notes/primacy-of-being)
 
 ## Contemplations Before Eating
 
