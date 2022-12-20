@@ -4,6 +4,7 @@
 * [[five-mindfulness-trainings|Five Mindfulness Trainings]] 
 * [[../notes/shining-light|Shining a Light]]
 * [[beginning-anew|Beginning Anew]] 
+* [[true-joy-in-life|True Joy In Life]]
 
 ## Contemplations Before Eating
 
