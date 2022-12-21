@@ -1,0 +1,1 @@
+../../vault/2-week-relational-embodiment-residency.md
