@@ -1,10 +1,11 @@
 # Practices
 
-* [[five-remembrances|Five Remembrances]]
-* [[five-mindfulness-trainings|Five Mindfulness Trainings]] 
+* [[../notes/five-remembrances|Five Remembrances]]
+* [[../notes/five-mindfulness-trainings|Five Mindfulness Trainings]] 
 * [[../notes/shining-light|Shining a Light]]
-* [[beginning-anew|Beginning Anew]] 
-* [[true-joy-in-life|True Joy In Life]]
+* [[../notes/primacy-of-being|Primacy of Being]]
+* [[../notes/beginning-anew|Beginning Anew]] 
+* [[../notes/true-joy-in-life|True Joy In Life]]
 
 ## Contemplations Before Eating
 

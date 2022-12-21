@@ -108,7 +108,7 @@ deeply. This is an active not a passive act. Where actively engage
 ourselves with what they are saying, opening our mind to it, positively
 welcoming what they are saying.
 
-TODO: image goes here (see gdoc)
+![](vault/assets/notebook/non-attachment.png)
 
 ## Common garden examples of attachment
 
@@ -511,7 +511,7 @@ non-attachment, what is?
 
 Clench / unclench
 
-TODO: image goes here of clenching, unclenching hands
+![](vault/assets/notebook/hand-and-fist.jpg)
 
 ```
 Attachment ... Detachment

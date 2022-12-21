@@ -73,4 +73,8 @@ It takes dedication and effort to be great, to build something big. We want to c
 We are open to experiment and change.
  
 We don’t have it all worked out. As we explore unknown land we need to embrace uncertainty. We don’t deify innovation and change. We are sensibly conservative – and open-mindedly innovative. We are working things out on an ongoing basis (but we don’t value change for the sake of change).
+
+## Integrity 
+
+We relate to [integrity](vault/notes/integrity) at Life Itself as "honoring your word". In other words, doing what you said you would do by when you said you would do it. It is a condition of being whole and complete and of maximum workability. When integrity is present, there is a solid foundation for outstanding performance.
  
