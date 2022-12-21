@@ -48,7 +48,7 @@ Here are a few reflections from our Open Space Harvest Board, where members of t
 
 **Reflections:** “How can we find the space for being responsible for our lineage & not falling into guilt? How can we be aware of what we carry of our conditioning without shame?”
 
-“There is a lot of pain around this and people need lots of empathy <3”
+“There is a lot of pain around this and people need lots of empathy ”
 
 “We discovered that in general there’s less polarisation and marginalisation in our subculture at the Hub than in our perception of general society.”
 

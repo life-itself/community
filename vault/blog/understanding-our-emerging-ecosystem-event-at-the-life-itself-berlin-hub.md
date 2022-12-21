@@ -34,7 +34,7 @@ The event is free to attend, and you are welcome to walk in on the day, but to h
 
 **Where:** The Life Itself Berlin Hub
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5409941.028444954!2d2.400193608227641!3d48.5414187665732!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a84f79e5e8d543%3A0x5f0a0a18588de933!2sLife%20Itself%20Berlin%20Hub!5e0!3m2!1sen!2suk!4v1633105059567!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen loading="lazy"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5409941.028444954!2d2.400193608227641!3d48.5414187665732!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a84f79e5e8d543%3A0x5f0a0a18588de933!2sLife%20Itself%20Berlin%20Hub!5e0!3m2!1sen!2suk!4v1633105059567!5m2!1sen!2suk" width="600" height="450" style={{border:0}} allowFullScreen loading="lazy"></iframe>
 
 **When:** Friday 8th October 2021. Come and mingle from 12.30pm, with discussion from 1-2pm CEST.
 

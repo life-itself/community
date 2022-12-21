@@ -41,7 +41,7 @@ Recently, Olivia Nater from Population Matters came to stay with us at our Berge
 
 Sign up to our mailing list to get more detailed info on everything that goes on here at Life Itself.
 
- #mc\_embed\_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; } /\* Add your own Mailchimp form style overrides in your site stylesheet or in this style block. We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. \*/ 
+  Add your own Mailchimp form style overrides in your site stylesheet or in this style block. We recommend moving this block and the preceding CSS link to the HEAD of your HTML file.
 
 ## Subscribe
 
