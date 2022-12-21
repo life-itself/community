@@ -9,7 +9,7 @@ L'intelligence collective comme clef de changement sociétal
 
 ### Questionner, explorer et pratiquer l'intelligence collective
 
-![](assets/images/20210228_105800-1024x576.jpg)
+![](/assets/images/20210228_105800-1024x576.jpg)
 
 ## Info Clés
 
@@ -51,7 +51,7 @@ Il est attendu de la part des participants de la residence qu'ils participent é
 
 - **Intéressé.e ?** [je me préinscris](https://docs.google.com/forms/d/e/1FAIpQLSdiykDKyZR6DgtPKeYuNePy9sWc-qkIc4BVfKBRjkFWKvFp-g/viewform)
 
-![](assets/images/transmettre.png)
+![](/assets/images/transmettre.png)
 
 L'idée de cette résidence est de combiner une expérience du vivre ensemble en intelligence collective et de partager la technologie de l'intelligence collective sous forme de stages .Vivre en communauté est une belle opportunité d’explorer les multiples champs d’application possible de l’intelligence collective dans nos vies et d'intégrer les outils de l'intelligence collective à notre quotidien .
 
@@ -87,7 +87,7 @@ Pour en savoir plus sur les résidences du Praxis hub de bergerac , cliquez sur 
 
 ## Les repas au Hub
 
-![](assets/images/IMG_3591-1024x1024.jpg)
+![](/assets/images/IMG_3591-1024x1024.jpg)
 
 Le budget de base de €8 euros repose sur des menus composés d'une céréale neutre , un plat incluant des protéines végétales/ légumes et une salade crue avec le maximum de variétés, couleurs et textures ainsi qu'un dessert et cookies . Aucun repas collectif n'utilisera de produits animaux toutefois il sera possible d'intégrer des produits animaux en conscience ( traçabilité éthique ) et selon des modalités qui seront définies en intelligence collective .
 

@@ -11,7 +11,7 @@ authors:
 
 How do we seed new narratives?
 
-![](assets/images/ee2766221bc99af791d15d70fd87990e.jpg)
+![](/assets/images/ee2766221bc99af791d15d70fd87990e.jpg)
 
 ## Key Info
 
@@ -84,7 +84,7 @@ Here is the general frame of this retreat:
 
 ##### Valérie Duvauchelle 
 
-![](assets/images/011_11A-679x1024.jpg)
+![](/assets/images/011_11A-679x1024.jpg)
 
 Valérie is a pioneer within Life Itself and head curator of the Bergerac Praxis hub. Her passion is to create enabling frameworks that allow a different relationship to the world and to oneself in order to live fully. She is passionate about community and seeks to understand the invisible evolutionary mechanisms that occur when we do things together. She is a Tenzo (cook) in the Zen tradition; her practice is part of the movement of "being with" in just sitting and just cooking.
 

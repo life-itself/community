@@ -24,7 +24,7 @@ https://www.youtube.com/watch?v=8Lyvsu2mnUI&t=23s
 - **Notes on costs:** our aim is that cost is not an obstacle to anyone in participating. If finance is an issue please get in touch and we will see if we can provide support in some way or another.
 - **Interested?** [Apply now »](https://docs.google.com/forms/d/e/1FAIpQLSdiykDKyZR6DgtPKeYuNePy9sWc-qkIc4BVfKBRjkFWKvFp-g/viewform)
 
-![](assets/images/gabriel-jimenez-jin4W1HqgL4-unsplash-scaled-e1637582767309-1024x941.jpg)
+![](/assets/images/gabriel-jimenez-jin4W1HqgL4-unsplash-scaled-e1637582767309-1024x941.jpg)
 
 ## Overview
 

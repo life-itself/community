@@ -3,6 +3,7 @@ title: "Upcoming Residencies & Gatherings"
 created: 2022-06-02
 authors: 
   - eilidhross
+image: /assets/images/Blog-Feature-Images-11.png
 ---
 
 @[Life Itself Praxis Hub, Bergerac](https://lifeitself.org/hubs/bergerac/), South of France

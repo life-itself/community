@@ -3,6 +3,7 @@ title: "Real Estate-fund"
 created: 2020-08-12
 authors: 
   - artearthtech
+image: /assets/images/15030017-scaled.jpg
 ---
 
 The Fund exists to provide capital to develop mindful, wiser and weller co-living and co-housing communities, whilst providing investors with an opportunity for social impact, security of capital and a fair return.
@@ -15,7 +16,7 @@ You are investing in one of the safest assets: land and property. Income is base
 
 We practice ethical management with a long-term vision for the Fund and investors. We define maximum and minimum salary packages, do not use bonus incentives, and employ a not-for-profit management approach. We are inspired by the mindfulness trainings of Thich Nhat Hanh, founder of the Plum Village Monastery, and believe them to be an accurate compass with which to steward the fund. In this vein, we are committed to a regular mindfulness practice and to engage in ongoing personal and professional development.
 
-![](assets/images/bergerac-photo-1.jpg)
+![](/assets/images/bergerac-photo-1.jpg)
 
 ## Enabling Wiser, Weller Living
 

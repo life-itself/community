@@ -3,6 +3,7 @@ title: "Blind Spots"
 created: 2020-10-07
 authors: 
   - artearthtech
+image: /assets/images/carcrash-scaled.jpg
 ---
 
 ## About Blind Spots
@@ -17,7 +18,7 @@ Literally a blind spot is a part of our visual field we can’t see – and whic
 
 More generally, imagine you are in your car parking at the supermarket, you look around, check, then back up and CRASH! You’ve driven into a pole. When you get home, your partner says “Didn’t you look and check your mirrors?!” You say “Of course I did! But it was in my blind spot!”
 
-![](assets/images/carcrash.jpg)
+![](/assets/images/carcrash.jpg)
 
 Our blind spots are not only what we can’t see but what we can’t see that we can’t see. What we don’t know and that we don’t know that we don’t know.
 
@@ -35,7 +36,7 @@ There is a longing for community and belongingness yet there is a huge fear of c
 
 Why is it we can’t talk about politics and religion in a civilised way?
 
-![](assets/images/pub.jpg)
+![](/assets/images/pub.jpg)
 
 ## Blind Spot Examples
 

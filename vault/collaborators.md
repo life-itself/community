@@ -3,9 +3,10 @@ title: "Collaborators"
 created: 2020-03-18
 authors: 
   - sylvieshiweibarbier
+image: /assets/images/dsc_9969_sarah_hickson.jpg
 ---
 
-![](assets/images/Plum-village-logo.png)
+![](/assets/images/Plum-village-logo.png)
 
 #### Plum Village
 
@@ -15,7 +16,7 @@ Plum Village, near Bordeaux in southwest France, is a world renowned practice ce
 
 Plum Village is where Thich Nhat Hanh has realised his dream of building a Beloved Community: creating a healthy, nourishing environment where people can learn the art of living in harmony with one another and with the Earth.
 
-![](assets/images/untitled_logo.svg)
+![](/assets/images/untitled_logo.svg)
 
 #### Untitled
 
@@ -23,7 +24,7 @@ Life Itself is proud to call Untitled one of our closest collaborators. We have 
 
 UNTITLED’s purpose is to collectively reimagine the society, set the agenda for the most important experiments and execute them together. It is founded by an alliance of activists across sectors. The Alliance and its invitees gather together in an annual festival.
 
-![](assets/images/1200px-LSE_Logo.svg_-300x300.png)
+![](/assets/images/1200px-LSE_Logo.svg_-300x300.png)
 
 #### LSE
 
@@ -33,7 +34,7 @@ London School of Economics is unique in its concentration on teaching and resear
 
 [https://www.lse.ac.uk/](https://www.lse.ac.uk/)
 
-![](assets/images/Rockefeller-Foundation-300x79.png)
+![](/assets/images/Rockefeller-Foundation-300x79.png)
 
 #### Rockefeller Foundation
 
@@ -43,7 +44,7 @@ You can find more about the project here: [http://imedproject.org/](http://imed
 
 The Rockefeller Foundation’s mission—unchanged since 1913—is to promote the well-being of humanity throughout the world. Today the Foundation advances new frontiers of science, data, policy, and innovation to solve global challenges related to health, food, power, and economic mobility.
 
-![](assets/images/IPPR-2017-Logo_Standard_pink-248x300.png)
+![](/assets/images/IPPR-2017-Logo_Standard_pink-248x300.png)
 
 #### IPPR
 
@@ -51,7 +52,7 @@ For our Blind Spot Event with Roberto Unger we were delighted to collaborate wit
 
 [http://www.ippr.org/](http://www.ippr.org/)
 
-![](assets/images/Open_Knowledge_International_Logo-291x300.png)
+![](/assets/images/Open_Knowledge_International_Logo-291x300.png)
 
 #### Open Knowledge
 
@@ -69,11 +70,11 @@ Open Knowledge International is a worldwide network of people passionate about o
 
 [https://okfn.org/](https://okfn.org/)
 
-![](assets/images/1200px-CRI-logo-sq.svg_-1-300x300.png)
+![](/assets/images/1200px-CRI-logo-sq.svg_-1-300x300.png)
 
 #### CRI
 
-We collaborated with the leading Institute for Interdisciplinary research in France, CRI in organising a dialogue on the Open Science of Learning. You can read the white paper which arose out of this exchange here: [https://artearthtech.files.wordpress.com/2020/06/the-world-needs-a-truly-open-science-of-learning.pdf](assets/the-world-needs-a-truly-open-science-of-learning.pdf)
+We collaborated with the leading Institute for Interdisciplinary research in France, CRI in organising a dialogue on the Open Science of Learning. You can read the white paper which arose out of this exchange here: [https://artearthtech.files.wordpress.com/2020/06/the-world-needs-a-truly-open-science-of-learning.pdf](/assets/the-world-needs-a-truly-open-science-of-learning.pdf)
 
 CRI was founded by François Taddei and Ariel Lindner in 2005 to create a student/researcher centered open environment in which they can collaborate together to build a world where lifelong learning is at the heart of our society.
 
@@ -83,7 +84,7 @@ Sitting at the crossroads of research and education, CRI advocates for innovativ
 
 [https://cri-paris.org/](https://cri-paris.org/)
 
-![](assets/images/datopian.png)
+![](/assets/images/datopian.png)
 
 #### Datopian
 
@@ -93,7 +94,7 @@ We build tools, provide advice, implement projects, and develop communities in t
 
 [www.datopian.com](https://www.datopian.com)
 
-![](assets/images/imed-logo04-1-300x164.png)
+![](/assets/images/imed-logo04-1-300x164.png)
 
 #### iMed
 
@@ -103,7 +104,7 @@ The best resolution to the tension between access and innovation is a remunerati
 
 Read more on: [http://imedproject.org/](http://imedproject.org/)
 
-![](assets/images/leap-logo.png)
+![](/assets/images/leap-logo.png)
 
 #### The LEAP Education
 
@@ -115,7 +116,7 @@ Life Itself provided key initial inspiration, consulting and incubation for The 
 
 [https://www.theleap-tw.com/](https://www.theleap-tw.com/)
 
-![](assets/images/ecosoulhostel-1.png)
+![](/assets/images/ecosoulhostel-1.png)
 
 #### Eco soul hostel
 
@@ -129,7 +130,7 @@ We invite guests to enjoy a sense of shared responsibility for the living space.
 
 [https://www.ecosoulhostel.com/](https://www.ecosoulhostel.com/)
 
-![](assets/images/coco-1.png)
+![](/assets/images/coco-1.png)
 
 #### Conscious
 
@@ -143,7 +144,7 @@ Coco consults with shared living ventures to transform their communities so that
 
 [https://www.consciouscoliving.com](https://www.consciouscoliving.com)
 
-![](assets/images/lifecloud.png)
+![](/assets/images/lifecloud.png)
 
 #### Life Cloud
 
@@ -155,7 +156,7 @@ Life Cloud is dedicated to create the mental, physical, emotional and social are
 
 [https://www.lifecloudmap.com/](https://www.lifecloudmap.com/)
 
-![](assets/images/spendwithlove-300x293.png)
+![](/assets/images/spendwithlove-300x293.png)
 
 #### Spend with love
 
@@ -163,7 +164,7 @@ How we spend our money shapes the world Sparking a global conversation with wor
 
 [http://www.spendwithlove.org/](http://www.spendwithlove.org/)
 
-![](assets/images/logo_purple-e1475606726432.png)
+![](/assets/images/logo_purple-e1475606726432.png)
 
 #### WooWoo
 

@@ -66,7 +66,7 @@ Participer à l'expérience globale de la résidence de l'intelligence collectiv
 
 Rime LOUHAICHI
 
-![](assets/images/GraphiqueColle-1.png)
+![](/assets/images/GraphiqueColle-1.png)
 
 J’accompagne l’élément humain au quotidien dans mes pratiques depuis près de 25 ans. Que ce soit par le biais des fonctions RH que j’ai exercées pendant 15 ans, la facilitation en intelligence collective, le co-développement, la communication non violente, le coaching, l’approche narrative, j’ai à cœur de permettre l’émergence de nos multiples intelligences, l’accueil de nos ressentis, l’écriture de récits alternatifs, collectifs et résilients. De cette traversée commune, se vit et s’expérimente profondément nos liens visibles et invisibles, singuliers et universels.
 

@@ -5,7 +5,7 @@ authors:
   - sylvieshiweibarbier
 ---
 
-![](assets/images/aet-142-scaled.jpg)
+![](/assets/images/aet-142-scaled.jpg)
 
 ## Get in touch
 

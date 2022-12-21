@@ -26,7 +26,7 @@ And much else besides…. Participants will be invited to bring their own practi
 - **Interested?** [Apply now »](https://docs.google.com/forms/d/e/1FAIpQLSdiykDKyZR6DgtPKeYuNePy9sWc-qkIc4BVfKBRjkFWKvFp-g/viewform)
 - **Have questions?** email liam@lifeitself.org
 
-![](assets/images/gabriel-jimenez-jin4W1HqgL4-unsplash-scaled-e1637582767309-1024x941.jpg)
+![](/assets/images/gabriel-jimenez-jin4W1HqgL4-unsplash-scaled-e1637582767309-1024x941.jpg)
 
 ## Overview
 

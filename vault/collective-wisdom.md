@@ -3,6 +3,7 @@ title: "Collective Wisdom"
 created: 2020-08-14
 authors: 
   - liamaet
+image: /assets/images/davide-ragusa-24118-unsplash-scaled.jpg
 ---
 
 Western society is deeply attached to ”Enlightenment” ideals of rationality, individualism and equality. These have become dogma, taboo to even question, which creates blindspots central to unfolding ecological and political crises. Looking into these blindspots is way of rediscovering the capacity for deep intuition, collective action, and politics motivated by love.

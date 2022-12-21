@@ -60,7 +60,7 @@ Sans ordre particulier, au cours de cette résidence nous allons expérimenter c
 - Analyser notre relation intime à la nourriture
 - Explorer la notion de besoin
 
-![](assets/images/IMG_1534-1024x1024.jpeg)
+![](/assets/images/IMG_1534-1024x1024.jpeg)
 
 #### 2 axis :
 
@@ -81,7 +81,7 @@ The art of recycling
 The movement of the bowls  
 The dynamic absorption of sitting, cooking , eating
 
-![](assets/images/P5080066.jpg)
+![](/assets/images/P5080066.jpg)
 
 #### L'enseignement se compose de deux volets :
 
@@ -102,7 +102,7 @@ The dynamic absorption of sitting, cooking , eating
 - Le mouvement des bols
 - L'absorption dynamique de s'assoir, cuisiner, manger
 
-![](assets/images/P5080066.jpg)
+![](/assets/images/P5080066.jpg)
 
 ## Community of practices
 
@@ -139,7 +139,7 @@ Pour plus d'informations sur les PMV lire le document en lien . 
 
 Ce stage vise à aider les cuisiniers à pratiquer la nourriture comme un espace dynamique à vivre . L'atelier a été développé grâce à l'expérience de Valérie qui a étudié avec des enseignants et des cuisiniers zen (Tenzo) et cuisine dans des communautés et pour des retraites. Cette pratique de la nourriture est une proposition laïque de la cuisine Shojin des temples zen, adaptée à notre terroir.
 
-![](assets/images/191111-cuisine-zen2-1-1024x680.jpg)
+![](/assets/images/191111-cuisine-zen2-1-1024x680.jpg)
 
 Crédit photo Anne Gabrielle Dumont
 
@@ -187,7 +187,7 @@ More about our residencies
 
  [https://lifeitself.org/sympoiesis/](https://lifeitself.org/sympoiesis/)
 
-![](assets/images/class-people-1024x819.jpg)
+![](/assets/images/class-people-1024x819.jpg)
 
 ### Testimonials
 
@@ -208,7 +208,7 @@ More about our residencies
 > 
 > Catherine Sengthavy , kinésithérapeute, praticienne shiatsu et tenzo
 
-![](assets/images/IMG-20210803-WA0028-1024x768.jpg)
+![](/assets/images/IMG-20210803-WA0028-1024x768.jpg)
 
 > My encounter with Valérie has profoundly transformed my relationship with cooking. As a fan of "flashy" seasonings, I was able to discover another way of cooking that gives pride of place to the meeting of the moment with the ingredient, allowing listening before any "voluntarist" intervention, erasing the ego and inviting us to a new dance. My seasonings are now much simpler and even more delicious! This simple but crucial aspect of my cooking has evolved enormously thanks to Valerie: cooking with her and receiving her teaching has allowed me to become aware of my position as a creative cook and teacher. The common thread of her practice, around the activation of the "living" through the act of cooking and eating, has brought to light feelings that I had not been able to connect to anything before. Thanks to her, I now welcome my life as a cook with much more peace and satisfaction. The five contemplations of shojin ryori resonate with me every day, while Valerie's reflections on "goodness" in the kitchen feed my need for simplicity, commitment, resilience and generosity in the kitchen. It's a priceless gift in these troubled times to put cooking back at the heart of our lives and communities, the indispensable engine of our joyful sustenance…and I am so grateful.
 > 
@@ -218,7 +218,7 @@ More about our residencies
 > 
 > Ona Maioco, vegan chef, at [super-naturelle](http://www.super-naturelle.com)
 
-![](assets/images/th.jpeg)
+![](/assets/images/th.jpeg)
 
 > One of the first things that touched me was the fluidity and simplicity with which everything was organized in the kitchen, in a true collaboration. Valerie was able to quickly establish a trust and sharing that was precious to me, not posing as the sole holder of the knowledge, but asking us for our point of view on this or that ingredient to be added, and calling upon our own creativity. She managed to give us a subtle mix of joy and attention that allowed me to learn a lot about food preparation of course, but also about managing a group in the kitchen, in a relatively short time. When I returned, my close family, friends and people who come on retreat to our place of healing, were able to enjoy it fully. The quality of the presentation, the variety of the proposals, the fact that I dared to be even more creative with what I had and the joy that this gave me, were immediately felt by my daily guests. I feel a deep gratitude for what Valerie has given me, and there is something life changing about this teaching. Thank you for this!
 
@@ -226,7 +226,7 @@ More about our residencies
 > 
 > Sandra dao , retreat Participant, facilitator and owner of [La Source](https://espacedelasource.com) , a retreats place
 
-![](assets/images/th-1-1.jpeg)
+![](/assets/images/th-1-1.jpeg)
 
 > This experience has led me to reflect on: the seeming benefits/importance of (measured) hunger; the importance of variety; the importance of raw foods and balanced flavours. What has been most striking has not just been the physical benefits from this, but the meditative / calming aspects too. It is very rare that a lunch/dinner will inspire this level of reflection in me, and so that in itself speaks volumes!
 > 
@@ -244,7 +244,7 @@ More about our residencies
 
 ### Valérie Duvauchelle
 
-![](assets/images/Eleonore-grignon-pour-ilots-magazine-4-679x1024.jpg)
+![](/assets/images/Eleonore-grignon-pour-ilots-magazine-4-679x1024.jpg)
 
 ( photo Eleonore Grigon pour Ilots Magazine)
 
@@ -259,6 +259,6 @@ Elle est l'auteur du " goût silencieux , la pratique zen de la nourriture " ' A
 
 [Bio complète ici](https://www.lacuisinedelabienveillance.org/les-messagers)
 
-![This image has an empty alt attribute; its file name is Bol-de-nourriture-1-1-1024x672.jpg](assets/images/Bol-de-nourriture-1-1-1024x672.jpg)
+![This image has an empty alt attribute; its file name is Bol-de-nourriture-1-1-1024x672.jpg](/assets/images/Bol-de-nourriture-1-1-1024x672.jpg)
 
 [(](https://www.youtube.com/watch?v=VC__NTMta)photo credit: Cristelle Enault)

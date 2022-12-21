@@ -1,5 +1,5 @@
 ---
-title: "Sympoiesis #1: Daily collective practices 15 Oct to 14 Nov 2021"
+title: "Sympoiesis #1:<br>Daily collective practices<br>15 Oct to 14 Nov 2021"
 created: 2021-09-06
 authors: 
   - rufuspollock
@@ -7,7 +7,7 @@ authors:
 
 ## **Question: How can collective practices in everyday life nourish a way of being-withness in the world?**
 
-![](assets/images/20210402_082033-768x1024.jpg)
+![](/assets/images/20210402_082033-768x1024.jpg)
 
 # **Introduction**
 
@@ -78,7 +78,7 @@ We are a Lab of practices and want to experience the effect of the collective bo
 
 ## Tenzo retreat /21th-24th october 2021 
 
-![](assets/images/IMG_0686-2-768x1024.jpeg)
+![](/assets/images/IMG_0686-2-768x1024.jpeg)
 
 **To participate to the Tenzo retreat please click** [https://ti.to/praxis-hub/sympoiesis-1-daily-collective-practices](https://ti.to/praxis-hub/sympoiesis-1-daily-collective-practices)
 
@@ -86,7 +86,7 @@ As the food is at the heart of both joy and pain of our world we will explore wh
 
 Valerie Dai Hatsu  has been practicing the shojin ryori ( zen cooking) in zen  monastic temples in Japan for 10 years  and  carries the enthusiasm to share it  in the secular world. More info on her website : [http://lacuisinedelabienveillance.org](http://lacuisinedelabienveillance.org)
 
-![](assets/images/IMG_0002-1024x683.jpg)
+![](/assets/images/IMG_0002-1024x683.jpg)
 
 photo Prem Krishnamurthy
 
@@ -114,7 +114,7 @@ Formal retreat will start the 28th at 7 pm and finish the 1st at 3 pm.
 
 **Valerie Dai Hatsu Duvauchelle**  is a guardian of the Zen tradition and practices the tenzo path . Member of the Collective Intelligence Cooperative [( MIC](https://coomic.coop/site/)) , she offers to communities workshops of Work That reconnects and food practices coaching. she also explores the frontier of contemplation and activism through contemplative activism .She is the author of "Goût silencieux, la pratique zen de la nourriture" published by Actes sud.
 
-![](assets/images/ValerieDuvauchelle-9©sophie-lavaur-2-1024x683.jpg)
+![](/assets/images/ValerieDuvauchelle-9©sophie-lavaur-2-1024x683.jpg)
 
 **Jean Nyojo Rat**  is a Buddhist monk in the Zen tradition, a father of two and an active listener coach. He devotes himself to simple sitting, sewing the kesa and studying the teachings, practising their deployment in daily life.
 
