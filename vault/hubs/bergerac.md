@@ -130,7 +130,7 @@ The address of the Hub is 11 Place Barbacane, Bergerac, 24100, France.
 
 You can view the correct location on the map below:
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2828.721257497998!2d0.47933471562071056!3d44.84760968239347!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12aada824e2f1507%3A0x8ad8c625e2f99200!2s11%20Pl.%20Barbacane%2C%2024100%20Bergerac%2C%20France!5e0!3m2!1sen!2suk!4v1630575848887!5m2!1sen!2suk" width="600" height="450" style={{border:0}}" allowFullScreen loading="lazy"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2828.721257497998!2d0.47933471562071056!3d44.84760968239347!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12aada824e2f1507%3A0x8ad8c625e2f99200!2s11%20Pl.%20Barbacane%2C%2024100%20Bergerac%2C%20France!5e0!3m2!1sen!2suk!4v1630575848887!5m2!1sen!2suk" width="600" height="450" style={{border:0}} allowFullScreen loading="lazy"></iframe>
 
 #### By train 🚆
 
