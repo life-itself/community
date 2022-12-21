@@ -3,6 +3,7 @@ title: "Autobiography"
 created: 2020-06-23
 authors: 
   - rufuspollock
+image: /assets/images/calls1.jpg
 ---
 
 ## Write!

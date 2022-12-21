@@ -3,6 +3,7 @@ title: "Emergent Dialogue Residency - June 2022"
 created: 2022-03-01
 authors: 
   - rufuspollock
+image: /assets/images/Page-Feature-Images.jpg
 ---
 
 ###### [April 2022 update: DATE TBD. This residency was originally scheduled to take place in June 2022. It will now take place at a later date. Be the first to know when a new date is confirmed by signing up to our newsletter.](https://lifeitself.org/contact/)
@@ -13,7 +14,7 @@ authors:
 
 #### How can we cohere our autonomy and uniqueness to live and create at the edge of emergence?
 
-[Apply Now](https://docs.google.com/forms/d/e/1FAIpQLSdiykDKyZR6DgtPKeYuNePy9sWc-qkIc4BVfKBRjkFWKvFp-g/viewform) [Read Key Info](#key-info) ![](assets/images/cropped-cropped-life-itself-horizontal.png)
+[Apply Now](https://docs.google.com/forms/d/e/1FAIpQLSdiykDKyZR6DgtPKeYuNePy9sWc-qkIc4BVfKBRjkFWKvFp-g/viewform) [Read Key Info](#key-info) ![](/assets/images/cropped-cropped-life-itself-horizontal.png)
 
 ###### June 2022, Bergerac, France
 
@@ -23,11 +24,11 @@ authors:
 
 ##### Led by Elizabeth Debold & Thomas Steininger
 
-![](assets/images/Thomas-Eliz-Side-Assisi-2020.jpg)
+![](/assets/images/Thomas-Eliz-Side-Assisi-2020.jpg)
 
 ##### For more info: https://lifeitself.org/emergent-dialogue/
 
-![](assets/images/IMG_1534-1024x1024.jpeg) ![](assets/images/small-meditator-5.png) ![](assets/images/Fall-Equinox-Fire-Ceremony-2018-2-1024x1024.jpg) ![](assets/images/emerge-SWG-fire-circle-Pfingsten-2018-2-1024x1024.jpeg)
+![](/assets/images/IMG_1534-1024x1024.jpeg) ![](/assets/images/small-meditator-5.png) ![](/assets/images/Fall-Equinox-Fire-Ceremony-2018-2-1024x1024.jpg) ![](/assets/images/emerge-SWG-fire-circle-Pfingsten-2018-2-1024x1024.jpeg)
 
 ## Key Info
 
@@ -75,7 +76,7 @@ Moreover, we don’t want to (and can’t) “go back” to pre-individuated col
 
 Where do we turn? Already, human beings are being moved to seek connection and connectedness beyond the separate self. Efforts to end the divisions of racism and sexism are part of this desire. The mindfulness revolution of the last forty years has been a powerful impulse to free the self from separation. And the craving for community, for co-working and co-living and co-creation, is growing stronger and finding new expression in remarkable social and organizational experiments.
 
-![](assets/images/Rectangle-3-1.png) How can we cohere our autonomy and individuality within a greater collective whole?  
+![](/assets/images/Rectangle-3-1.png) How can we cohere our autonomy and individuality within a greater collective whole?  
   
   
 Can we individually contribute to and collectively tap into a new, synergetic intelligence and awareness?  
@@ -105,7 +106,7 @@ Is there a collective creativity in which the unique contribution of each indivi
 
 If this intrigues you and you would like to experiment with a new potential that transcends and includes our individual creativity, you may now have the question: How do I find out more about this? How do I learn and practice this?
 
-![](assets/images/Rectangle-3-2-1-1024x341.png)
+![](/assets/images/Rectangle-3-2-1-1024x341.png)
 
 Come to this 7-day intensive workshop and residency led by the global pioneers of _emergent dialogue,_ Thomas Steininger and Elizabeth Debold, to open yourself to the co-conscious creativity of the living space between us, hosted in a beautiful villa in the southwest of France in full-bloom June.
 
@@ -221,53 +222,53 @@ After a few residencies at Life itself, we have come to realize how important th
 
 The residency will also be a field of experimentation. We will continue to explore the new capacities that emergent dialogue opens up in a variety of contexts: to develop a creative project together, to think deeply together about current issues, and to reveal shadow aspects of the self. Our aim during this month together is to bring to life a vital, creative community that allows us to experience being a living, creative field that transcends and includes our uniqueness.
 
-![](assets/images/Mike-Casa-della-Pace-circle-group-scaled-e1649237518146-883x1024.jpeg) [ Join us in June! ](https://docs.google.com/forms/d/e/1FAIpQLSdiykDKyZR6DgtPKeYuNePy9sWc-qkIc4BVfKBRjkFWKvFp-g/viewform) Here is the suggested daily timetable for the residency ![](assets/images/Frame-37-1.png) Silent Meditation
+![](/assets/images/Mike-Casa-della-Pace-circle-group-scaled-e1649237518146-883x1024.jpeg) [ Join us in June! ](https://docs.google.com/forms/d/e/1FAIpQLSdiykDKyZR6DgtPKeYuNePy9sWc-qkIc4BVfKBRjkFWKvFp-g/viewform) Here is the suggested daily timetable for the residency ![](/assets/images/Frame-37-1.png) Silent Meditation
 
 7:30 - 8:30
 
-![](assets/images/Group-16.svg) Breakfast Buffet
+![](/assets/images/Group-16.svg) Breakfast Buffet
 
 8:30 - 9:00
 
-![](assets/images/Group-17.svg) emergent dialogue Practice
+![](/assets/images/Group-17.svg) emergent dialogue Practice
 
 9:00 - 10:00
 
-![](assets/images/Group-20.svg) Practical Scenius (cooking, cleaning, gardening, repairs)
+![](/assets/images/Group-20.svg) Practical Scenius (cooking, cleaning, gardening, repairs)
 
 10:00 - 11:00
 
-![](assets/images/Group-19.svg) Work or Leisure, alone or with others
+![](/assets/images/Group-19.svg) Work or Leisure, alone or with others
 
 11:00 - 14:00
 
-![](assets/images/Group-16.svg) Lunch at the table">
+![](/assets/images/Group-16.svg) Lunch at the table">
 
 14:00 - 15:00
 
-![](assets/images/Group-19.svg) Work or Leisure, alone or with others (cooking, cleaning, gardening, repairs)
+![](/assets/images/Group-19.svg) Work or Leisure, alone or with others (cooking, cleaning, gardening, repairs)
 
 15:00 - 18:00
 
-![](assets/images/Frame-37-1.png) Scenius Project or Practical Scenius
+![](/assets/images/Frame-37-1.png) Scenius Project or Practical Scenius
 
 18:00 - 19:00
 
-![](assets/images/Group-17.svg) emergent dialogue Holons
+![](/assets/images/Group-17.svg) emergent dialogue Holons
 
 19:00 - 20:00
 
-![](assets/images/Group-16.svg) Simple Dinner Buffet
+![](/assets/images/Group-16.svg) Simple Dinner Buffet
 
 20:00 - 20:30
 
-![](assets/images/Group-25.svg) Scenius Salons or Free Time until bed
+![](/assets/images/Group-25.svg) Scenius Salons or Free Time until bed
 
 20:30 - ??
 
 ## Facilitators
 
-![](assets/images/Frame-37-2.png)
+![](/assets/images/Frame-37-2.png)
 
 #### Dr. Elizabeth Debold
 
@@ -277,7 +278,7 @@ This inquiry has taken me from feminist activism in New York City to a doctorate
 
 I founded One World in Dialogue, an online forum to explore how intersubjectivity can bring us together across cultures to create new capacities in global consciousness. An author, transformative educator, journalist/editor, community leader and mentor, I have found the answer to my question in the amazing collective emergence of the Co-Conscious We and seek to share its potential in all that I do.
 
-![](assets/images/Thomas-Steininger-300x300-1.jpg)
+![](/assets/images/Thomas-Steininger-300x300-1.jpg)
 
 #### Dr. Thomas Steininger
 
@@ -289,31 +290,31 @@ For the last decades, I have co-founded and developed a process of _emergent dia
 
 ## Testimonials
 
-![](assets/images/1.svg)
+![](/assets/images/1.svg)
 
 Being part of the emergent dialogue practice, experiencing for real a new and deeper way of being together, and also the thrill and excitement of bringing new insights and capacities into existence, is what gives me real hope for a better future for all of us and also the means for how to contribute to that.
 
-–Eirin A., Norway ![](assets/images/Ellipse-1-2.png) ![](assets/images/1.svg)
+–Eirin A., Norway ![](/assets/images/Ellipse-1-2.png) ![](/assets/images/1.svg)
 
 This was one of the most powerful practice gatherings I have experienced.
 
-–Ali W., UK ![](assets/images/Frame-37-2-2.png) ![](assets/images/1.svg)
+–Ali W., UK ![](/assets/images/Frame-37-2-2.png) ![](/assets/images/1.svg)
 
 Opening my life to the We Space has opened my awareness even more to the living field which connects all of existence. In doing so, I feel my Self transformed, along with the way I show up in the relationships in my life. Participating in different We Space programs has given me a great gift of feeling touched, seen and connected effortlessly along with inspiring me to give a voice to this living field, the We Space. It feels easier to ground into the present and receive life’s surprises with grace and clarity.
 
-–Nura, Earth, 30 ![](assets/images/1.svg)
+–Nura, Earth, 30 ![](/assets/images/1.svg)
 
 ...being together on a new level.
 
-–Christo, Witten, Germany ![](assets/images/1.svg)
+–Christo, Witten, Germany ![](/assets/images/1.svg)
 
 I’ve been involved in business start-ups and integral community design for over 40 years… work that was frequently interwoven with my spiritual path. The discovery of we space five years ago was like entering a whole new octave of possibility… in all three arenas. The emergent dialogue work with Elizabeth and Thomas has been particularly beneficial for us since the cultivation of we space has both increased our capacity to work with emergence within the business and to weave a much richer level of connection here in the community.
 
-–Kerry L., Asheville, NC, USA ![](assets/images/Kerry-Lindsey-2-2021-2-1.jpg) ![](assets/images/1.svg)
+–Kerry L., Asheville, NC, USA ![](/assets/images/Kerry-Lindsey-2-2021-2-1.jpg) ![](/assets/images/1.svg)
 
 emergent dialogue is transformation in any community... the practice is Soulfelt.
 
-–Rev. Cass C., USA ![](assets/images/Cass-Charrette.jpg)
+–Rev. Cass C., USA ![](/assets/images/Cass-Charrette.jpg)
 
 ## Part of the Sympoiesis Series
 

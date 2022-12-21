@@ -25,7 +25,7 @@ authors:
 - **Notes on costs:** our aim is that cost is not an obstacle to anyone in participating. If finance is an issue please get in touch and we will see if we can provide support in some way or another.
 - **Interested?** [Apply now »](https://docs.google.com/forms/d/e/1FAIpQLSdiykDKyZR6DgtPKeYuNePy9sWc-qkIc4BVfKBRjkFWKvFp-g/viewform)
 
-![](assets/images/gathering-meal-2019-1024x576.jpg)
+![](/assets/images/gathering-meal-2019-1024x576.jpg)
 
 Please find out about our **[common principles](https://lifeitself.org/sympoiesis/#Common_principles_please_read_carefully) which need to be agreed on** before coming.
 
@@ -87,25 +87,25 @@ Some may already have a background in some or all of these practices, and that i
 > 
 > – An Van Damme, Workshop Participant and Process Facilitator
 
-![](assets/images/AnVanDamme_rond.png)
+![](/assets/images/AnVanDamme_rond.png)
 
 > _I appreciated the magic, the warmth, the safe space to be seen and see others with an open heart, the inspiring facilitation by Karl, tangible skills (NVC distinctions, Parts Work, empathy, dialogue practices come to mind first), embodied experiences of these skills and ways of being, personal transformation, and a reminder of the beauty of community._
 > 
 > – Corinna Zuckerman, Workshop Participant and Social Entrepreneur
 
-![](assets/images/Mercator-Kolleg_2013_2780-edited.jpg)
+![](/assets/images/Mercator-Kolleg_2013_2780-edited.jpg)
 
 ## Facilitators
 
 ### Karl Steyaert
 
-![](assets/images/image_2021-10-30_151727.png)
+![](/assets/images/image_2021-10-30_151727.png)
 
 Karl is a visionary cultural catalyst with over 25 years experience facilitating personal and collective transformation across North America, Europe and Asia. His clients range from universities and ecovillages, to metropolitan governments and Silicon Valley tech companies such as Netflix. Having designed and directed university programs in Integral Sustainability at Findhorn Ecovillage (Scotland) and Auroville (India), as well as supporting the development of dozens of ecovillage and community projects worldwide, Karl has a passion for co-creating hubs for the evolution of consciousness and life-enriching culture. He is a certified trainer in Nonviolent Communication, and a trained practitioner of Internal Family Systems therapy, collective trauma healing, restorative justice, aikido, and meditation. In 2013 he founded the Cultural Catalyst Network – a global community of change makers integrating inner, interpersonal, and systemic transformation.
 
 ## Rufus Pollock
 
-![](assets/images/rufus-Cropped.jpg)
+![](/assets/images/rufus-Cropped.jpg)
 
 Rufus is one of the co-founders of Life Itself and co-curator of the Praxis Hub in Bergerac. He has been engaged both with community and transformative practice for over two decades as a Zen student and a leader at Landmark. As well as being passionate about transformative community, Rufus has also been an active social entrepreneur and researcher founding and growing a variety of non-profit initiatives as well as teaching economics at the University of Cambridge.
 

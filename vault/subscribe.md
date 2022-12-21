@@ -18,7 +18,7 @@ authors:
 
 By subscribing you agree to our [privacy policy](/privacy-policy). You may unsubscribe at any time.
 
-![ebook](assets/images/eBook-mockup.webp)
+![ebook](/assets/images/eBook-mockup.webp)
 
 ### A welcome gift when you subscribe
 
@@ -30,7 +30,7 @@ A contemplative essay about an unseen force which feels eerily familiar: the out
 
 By subscribing you agree to our [privacy policy](/privacy-policy). You may unsubscribe at any time.
 
-[![logo](assets/images/life-itself-logo-black.png)
+[![logo](/assets/images/life-itself-logo-black.png)
 
 ##### Life Itself
 

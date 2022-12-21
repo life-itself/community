@@ -3,6 +3,7 @@ title: "Sunday Salon"
 created: 2020-06-23
 authors: 
   - rufuspollock
+image: /assets/images/cecile01.jpg
 ---
 
 ## Learn from experts

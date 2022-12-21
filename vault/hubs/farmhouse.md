@@ -3,27 +3,28 @@ title: "Farmhouse"
 created: 2020-08-11
 authors: 
   - sophie84d503f875
+image: /assets/images/bergerac-photo-1.jpg
 ---
 
 ## Surrounded by nature
 
 The Farmhouse is situated in peaceful, natural surroundings just 5 minutes drive from Plum Village Monastery and 20 minutes from the Dordogne River. See [how to find us](https://lifeitself.org/how-to-find-us/) for more information on the location and instructions for getting here.
 
-- [![](assets/images/20190618_152631.jpg)](https://artearthtech.files.wordpress.com/2020/08/20190618_152631.jpg)
+- [![](/assets/images/20190618_152631.jpg)](https://artearthtech.files.wordpress.com/2020/08/20190618_152631.jpg)
     
-- [![](assets/images/img_20200825_205219-1.jpg)](https://artearthtech.files.wordpress.com/2020/09/img_20200825_205219-1.jpg?w=580)
+- [![](/assets/images/img_20200825_205219-1.jpg)](https://artearthtech.files.wordpress.com/2020/09/img_20200825_205219-1.jpg?w=580)
     
-- [![](assets/images/qodutnz.jpg)](https://artearthtech.files.wordpress.com/2020/09/qodutnz.jpg?w=580)
+- [![](/assets/images/qodutnz.jpg)](https://artearthtech.files.wordpress.com/2020/09/qodutnz.jpg?w=580)
     
-- [![](assets/images/img_20200823_200544.jpg)](https://artearthtech.files.wordpress.com/2020/09/img_20200823_200544.jpg?w=580)
+- [![](/assets/images/img_20200823_200544.jpg)](https://artearthtech.files.wordpress.com/2020/09/img_20200823_200544.jpg?w=580)
     
-- [![](assets/images/img_20200822_102408.jpg)](https://artearthtech.files.wordpress.com/2020/09/img_20200822_102408.jpg?w=580)
+- [![](/assets/images/img_20200822_102408.jpg)](https://artearthtech.files.wordpress.com/2020/09/img_20200822_102408.jpg?w=580)
     
-- [![](assets/images/whatsapp-image-2020-08-19-at-14.40.11-1.jpg)](https://artearthtech.files.wordpress.com/2020/09/whatsapp-image-2020-08-19-at-14.40.11-1.jpg?w=580)
+- [![](/assets/images/whatsapp-image-2020-08-19-at-14.40.11-1.jpg)](https://artearthtech.files.wordpress.com/2020/09/whatsapp-image-2020-08-19-at-14.40.11-1.jpg?w=580)
     
-- [![](assets/images/bergerac-photo-1-1-1024x768.jpg)](https://lifeitself.org/wp-content/uploads/2020/12/bergerac-photo-1-1.jpg)
+- [![](/assets/images/bergerac-photo-1-1-1024x768.jpg)](https://lifeitself.org/wp-content/uploads/2020/12/bergerac-photo-1-1.jpg)
     
-- [![](assets/images/115811446_1215685965443545_7392111846893456331_n1.jpg)](https://artearthtech.files.wordpress.com/2020/08/115811446_1215685965443545_7392111846893456331_n1.jpg?w=580)
+- [![](/assets/images/115811446_1215685965443545_7392111846893456331_n1.jpg)](https://artearthtech.files.wordpress.com/2020/08/115811446_1215685965443545_7392111846893456331_n1.jpg?w=580)
     
 
 ## Your future home

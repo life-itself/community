@@ -7,7 +7,7 @@ authors:
 
 ESSENTIAL FOOD
 
-![](assets/images/57ad5de930708c0650d38a1fc4dadb1b05647fec129a7233f87f6034b24de9e5-2-675x1024.jpg)
+![](/assets/images/57ad5de930708c0650d38a1fc4dadb1b05647fec129a7233f87f6034b24de9e5-2-675x1024.jpg)
 
 crédit photo Eléonore Grignon
 
@@ -178,7 +178,7 @@ Plus d'informations sur les résidences Sympoiesis
 
  [https://lifeitself.org/sympoiesis/](https://lifeitself.org/sympoiesis/)
 
-![](assets/images/image-1.png)
+![](/assets/images/image-1.png)
 
 Credit photo Eléonore Grignon
 
@@ -202,7 +202,7 @@ Credit photo Eléonore Grignon
 
 ### Valérie Duvauchelle
 
-![](assets/images/Eleonore-grignon-pour-ilots-magazine-4-679x1024.jpg)
+![](/assets/images/Eleonore-grignon-pour-ilots-magazine-4-679x1024.jpg)
 
 ( photo Eleonore Grigon pour Ilots Magazine)
 
@@ -213,7 +213,7 @@ Son site : [](https://en.lacuisinedelabienveillance.org/les-messagers)[la cuisin
 
 ### Ôna Maiocco
 
-![](assets/images/cueillette_grenouille_4_recadree-944x1024.jpeg)
+![](/assets/images/cueillette_grenouille_4_recadree-944x1024.jpeg)
 
 Ôna Maiocco a été l'une des pionnières de la cuisine vegan en France. Après avoir crée l'atelier super naturelle à Paris afin de promouvoir une cuisine de résilience , locale et écologique elle est désormais installée dans la Creuse ou elle cultive son jardin et explore l'abondance de la nature au quotidien .
 

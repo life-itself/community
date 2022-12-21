@@ -11,7 +11,7 @@ authors:
 
 [Apply now](https://docs.google.com/forms/d/e/1FAIpQLSdiykDKyZR6DgtPKeYuNePy9sWc-qkIc4BVfKBRjkFWKvFp-g/viewform)
 
-![](assets/images/Blog-Feature-Images-9-1024x576.png)
+![](/assets/images/Blog-Feature-Images-9-1024x576.png)
 
 ## Key Info
 
@@ -67,13 +67,13 @@ Valerie and Marc will welcome you and be the guardians of MVP ( minimum Viable p
 
 ### Valérie Duvauchelle (first 3 weeks)
 
-![](assets/images/star-portrait--1024x683.jpg)
+![](/assets/images/star-portrait--1024x683.jpg)
 
 Pioneer of Life Itself since 2020 as the daily collective practices guardian of the Hub, Valerie is also the steward of the Bergerac Praxis Hub . Trained in zen soto lineage as a cook ( tenzo) she is passionate about the question of food and open spaces to sit in its complexity . She is facilitating regular food trainings and retreats to help cooks to expand their practice and takes care of the food system of the hub.
 
 ##### Marc Santolini (last week)
 
-![](assets/images/event_image-58e4e9144dacebaa7d011553573fbeab.jpg)
+![](/assets/images/event_image-58e4e9144dacebaa7d011553573fbeab.jpg)
 
 Marc Santolini is a researcher at the Learning Planet Institute where he uses network science to investigate how groups innovate, collaborate and learn, with a particular focus on open and citizen science and the open-source movement. He is also a co-founder of the Just One Giant Lab NGO that equips emergent open research communities with a virtual space and tools to thrive. Fascinated by the emergence of higher-order simplicity out of complex interactions, he also explores how group rituals and facilitations mechanisms help achieve a collective flow state, and has developed embodied sound-based resonance practices to experience our shared interbeing.
 

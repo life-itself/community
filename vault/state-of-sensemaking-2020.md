@@ -3,6 +3,7 @@ title: "State of Sensemaking 2020"
 created: 2021-09-02
 authors: 
   - theo-cox
+image: /assets/images/Social_Change_Ecosystem.png
 ---
 
 This report is our first output from [our ongoing efforts to map the ecosystem in which we exist](/ecosystem/). The ecosystem is still emerging and ill-defined. Reflecting this there is no clear name for it and we have settled, not entirely happily on the “state of sensemaking”.
@@ -29,7 +30,7 @@ Download the full report below to read our analysis, and find out more about sel
 
 Our overview map from our preliminary research. To explore the diagram in more detail [visit the full interactive version on coggle](https://coggle.it/diagram/YR_QUHIgSTQ5i8Oc/t/social-change-ecosystem).
 
-![](assets/images/Social_Change_Ecosystem-1024x626.png)
+![](/assets/images/Social_Change_Ecosystem-1024x626.png)
 
 ## Credits
 

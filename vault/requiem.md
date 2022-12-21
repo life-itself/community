@@ -3,6 +3,7 @@ title: "Requiem for a Passing Age<br /><br />To create a future, we need to comp
 created: 2022-05-24
 authors: 
   - rufuspollock
+image: /assets/images/ruben-ortega-viel7n9kgNA-unsplash-scaled.jpg
 ---
 
 Oh silence.  

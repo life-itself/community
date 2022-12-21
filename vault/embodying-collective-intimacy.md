@@ -59,7 +59,7 @@ Training week: 3rd - 8th
 
 [Life Itself Praxis Hub, Bergerac](https://lifeitself.org/hubs/bergerac/), France. A palazzo in the Dordogne in the medieval town of Bergerac near Bordeaux.
 
-![View of Bergerac on the Dordogne](assets/images/ima5206798460595800666-e1653592511495.jpeg)
+![View of Bergerac on the Dordogne](/assets/images/ima5206798460595800666-e1653592511495.jpeg)
 
 ### Who is it for?
 
@@ -102,7 +102,7 @@ Our hope is that you'll find the application process to be a meaningful self-ref
 
 ## Transformational Community Residencies
 
-![Group of people gathered around a display of cards on the floor](assets/images/WhatsApp-Image-2022-01-07-at-00.19.46-e1653601766615-1024x663.jpeg)
+![Group of people gathered around a display of cards on the floor](/assets/images/WhatsApp-Image-2022-01-07-at-00.19.46-e1653601766615-1024x663.jpeg)
 
 ### **Why these community residencies?**
 
@@ -116,7 +116,7 @@ To build the capacity to do so in a meaningful and lasting way does not simply i
 
 Each month’s residency will open with a week-long intensive training on core practices to cultivate inner well-being and thriving interdependent relationships and communities. It is both a setup for the residency’s self-practice and demonstrator of the practices we are seeking to explore. The week-long training may also be booked as a stand-alone workshop.
 
-![three people meditating in sunny room](assets/images/IMG_4924_1-scaled-e1653601439702-1024x827.jpg)
+![three people meditating in sunny room](/assets/images/IMG_4924_1-scaled-e1653601439702-1024x827.jpg)
 
 ### **What we will explore**
 
@@ -159,7 +159,7 @@ Following each month’s training week, we’ll dive deeper as a micro-collectiv
 
 \* Choose one Collective Home Care slot per day
 
-![a man and a woman serve food onto plates](assets/images/IMG_5059-scaled-e1653602699309-1024x836.jpg)
+![a man and a woman serve food onto plates](/assets/images/IMG_5059-scaled-e1653602699309-1024x836.jpg)
 
 **Rest of the month**
 
@@ -179,25 +179,25 @@ Throughout the remaining time in these 3 weeks, we will construct an agenda coll
 
 _Tell me, what is it you plan to do with your one wild and precious life?_Mary Oliver
 
-![This image has an empty alt attribute; its file name is e1ce9022-71d8-4bae-a0dc-ecd636652497-1024x767.jpg](assets/images/e1ce9022-71d8-4bae-a0dc-ecd636652497-1024x767.jpg)
+![This image has an empty alt attribute; its file name is e1ce9022-71d8-4bae-a0dc-ecd636652497-1024x767.jpg](/assets/images/e1ce9022-71d8-4bae-a0dc-ecd636652497-1024x767.jpg)
 
 * * *
 
 ## Facilitation & Hosting Team
 
-![portrait of karl steyaert](assets/images/Karl-portrait.jpeg)
+![portrait of karl steyaert](/assets/images/Karl-portrait.jpeg)
 
 **Karl** **Steyaert** is a visionary cultural catalyst with over 25 years experience facilitating personal and collective transformation across North America, Europe and Asia. His clients range from non-profits, intentional communities and ecovillages, to universities, governments and Silicon Valley tech companies. Having designed and directed programs in Integral Sustainability for the University of Massachusetts at Findhorn Ecovillage (Scotland) and Auroville (India), as well as supporting the development of dozens of ecovillage and community projects worldwide, Karl has a passion for co-creating hubs for the evolution of consciousness and life-enriching culture. He is a certified trainer in Nonviolent Communication, and a Level 1-3 trained practitioner of Internal Family Systems therapy, as well as having extensive training and experience facilitating collective trauma healing, restorative justice, aikido, and meditation. Karl has studied directly with Marshall Rosenberg, Richard Schwartz, Thomas Hübl, Arnold Mindell, Joanna Macy, and Thich Nhat Hanh. In 2013 he founded the Cultural Catalyst Network – a global community of changemakers integrating inner, interpersonal, and systemic transformation. More on Karl at [www.karlsteyaert.com](http://www.karlsteyaert.com).
 
-![portrait of nadine helm](assets/images/Nadine-portrait.png)
+![portrait of nadine helm](/assets/images/Nadine-portrait.png)
 
 **Nadine Helm** loves contemplative practices, deep connection and presence with life and all beings. She began her study of Nonviolent Communication (NVC) in 2004, began facilitating in 2007 and is on the path to certification. Besides NVC and Living Compassion (work of Robert Gonzales), she is trained as a yoga teacher in the Sivananda tradition, yoga therapy instructor, Level 1 trained practitioner of Internal Family Systems therapy, received Mindfulness and MBSR teacher training with Tara Brach, Jack Kornfield, Joseph Goldstein, Bob Stahl and Thich Nhat Hanh. Nadine spent three years living and working in an Ashram and about 8 months at Plum Village monastery.  Nadine gives workshops and accompanies people in individual sessions on the fascinating journey into the inner world, intuitively allowing the pillars that shaped her to flow together in her work. More on Nadine at [www. embracing-life.com](https://www.embracing-life.com/).
 
-![portrait of jocelyn ames](assets/images/Jocelyn-portrait.png)
+![portrait of jocelyn ames](/assets/images/Jocelyn-portrait.png)
 
 **Jocelyn Ames** is a community catalyst with over 10 years of experience embodying a toolkit of practices for personal and collective transformation. Her inquiry into making the world a better place for all was seeded by her schooling at the United World College of Southeast Asia. After completing a BA in International Development and Geography at the School of Oriental and African Studies (London, 2012) she went on to explore more grassroots and systemic approaches to collective change and sustainability. She has dedicated many years to living and experimenting in various forms of community around the world while tending to the inner ecology of the self, the interpersonal ecology of relationship, and regenerative relationships to the earth through yoga, permaculture, Nonviolent Communication, mediation, Internal Family Systems and menstrual cycle awareness. Since 2020, she has been working alongside Karl as host and developer of the Cultural Catalyst Network, as well as being a ‘social fabric weaver’ within the Microsolidarity network. You can read more about Jocelyn at [www.becomingtogether.net](http://www.becomingtogether.net/).
 
-![portrait of catherine tran](assets/images/Catherine-portrait.png)
+![portrait of catherine tran](/assets/images/Catherine-portrait.png)
 
 **Catherine** **Tran** studied English at the University of Cambridge (UK) before completing a joint M.A. in Cultural Narratives at the University of Guelph (Canada), University of Santiago de Compostela (Spain), and University of Perpignan (France) in 2021. During her master’s she explored the role that art and literature might play in cultivating ecological responsibility, and she's currently interested in what it means to be a responsible human being in a web of interspecies interdependence. This has led her to working for Life Itself, an organization of pragmatic utopians committed to action for a radically wiser, weller world. She participated in the Cultivating Conscious Community residency facilitated by Karl at the Life Itself Hub in January 2022, which inspired her to commit to embodying collective transformation.
 
@@ -207,21 +207,21 @@ _Tell me, what is it you plan to do with your one wild and precious life?_Mary O
 
 ## Testimonials
 
-![](assets/images/4-1024x1024.png)
+![](/assets/images/4-1024x1024.png)
 
-![](assets/images/2-1024x1024.png)
+![](/assets/images/2-1024x1024.png)
 
-![](assets/images/1-1024x1024.png)
+![](/assets/images/1-1024x1024.png)
 
-![](assets/images/3-1024x1024.png)
+![](/assets/images/3-1024x1024.png)
 
-![](assets/images/4-1024x1024.png)
+![](/assets/images/4-1024x1024.png)
 
-![](assets/images/2-1024x1024.png)
+![](/assets/images/2-1024x1024.png)
 
 _The ultimate goal in life is… to become the truest expression of ourselves, to live into authentic selfhood, to honor our birthright gifts and callings, and be of service to humanity and our world._Frederic LalouxAPPLY NOW
 
-![This image has an empty alt attribute; its file name is free-to-use-sounds-XtQNZRTIMYc-unsplash-1024x684.jpeg](assets/images/free-to-use-sounds-XtQNZRTIMYc-unsplash-1024x684.jpeg)
+![This image has an empty alt attribute; its file name is free-to-use-sounds-XtQNZRTIMYc-unsplash-1024x684.jpeg](/assets/images/free-to-use-sounds-XtQNZRTIMYc-unsplash-1024x684.jpeg)
 
 * * *
 

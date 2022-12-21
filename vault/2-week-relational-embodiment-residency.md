@@ -13,7 +13,7 @@ authors:
 
 **Bergerac, France**
 
-![](assets/images/e1ce9022-71d8-4bae-a0dc-ecd636652497-1024x767.jpg)
+![](/assets/images/e1ce9022-71d8-4bae-a0dc-ecd636652497-1024x767.jpg)
 
 [**Apply Now**](https://docs.google.com/forms/d/e/1FAIpQLSdwDceOgSSk3IlkR5AG8DNpnDATuWILTvpzJxeRjZh7KZ4h1w/viewform?usp=sf_link)
 
@@ -102,7 +102,7 @@ We will have a maximum of 18 participants and 6 facilitators and participants wi
 
 [Life Itself Praxis Hub, Bergerac](https://lifeitself.org/hubs/bergerac/), France. A palazzo in the Dordogne in the medieval town of Bergerac near Bordeaux.
 
-![View of Bergerac on the Dordogne](assets/images/ima5206798460595800666-e1653592511495.jpeg)
+![View of Bergerac on the Dordogne](/assets/images/ima5206798460595800666-e1653592511495.jpeg)
 
 ### How does it cost?
 
@@ -124,25 +124,25 @@ Residency Application Procedure:
 
 **[Apply Now via the Online Form](https://docs.google.com/forms/d/e/1FAIpQLSdwDceOgSSk3IlkR5AG8DNpnDATuWILTvpzJxeRjZh7KZ4h1w/viewform?usp=sf_link)**
 
-![a man and a woman serve food onto plates](assets/images/IMG_5059-scaled-e1653602699309-1024x836.jpg)
+![a man and a woman serve food onto plates](/assets/images/IMG_5059-scaled-e1653602699309-1024x836.jpg)
 
 * * *
 
 ## Facilitation & Hosting Team
 
-![](assets/images/TEAM3-1-1024x1024.jpg)
+![](/assets/images/TEAM3-1-1024x1024.jpg)
 
 **Boaz** is a clinical psychologist, a Dharma teacher in the Western Insight tradition and a trainer acting for worldwide positive change. He has worked with international organisations (UNHCR, UNOCHA, WHO, Doctors Without Borders) in a variety of humanitarian contexts, studied MBCT/MBSR at [University of Oxford](https://www.oxfordmindfulness.org/)/[Bangor](https://www.bangor.ac.uk/mindfulness/), and ordained as a Buddhist Monk in Thailand in his early 20's. He founded NeuroSystemics, an integrative somatically-centred approach for spiritual, and psychosocial development and healing.
 
-![](assets/images/Rebekka_Simple-1024x1024.jpg)
+![](/assets/images/Rebekka_Simple-1024x1024.jpg)
 
 ****Rebekka**** is a mindfulness coach (ICF) and counsellor for individual and group sessions. She is extensively trained in Organic Intelligence®, a clinical protocol for trauma resolution through shepherding nervous system states from bottom-up. Her participation in NeuroSystemics expands her contribution to healing from an individual to a greater, psycho-social frame through group work. She is a certified yoga teacher and the co-founder of multiple yoga Studios.
 
-![](assets/images/Heath_Simple-1024x1024.jpg)
+![](/assets/images/Heath_Simple-1024x1024.jpg)
 
 Working over 30 years, **Heath** weaves his expertise as a psychologist, trauma healer, rolf practitioner, craniosacral therapist, enneagram consultant, dating/relationship coach, and has been trained  in Somatic Experiencing. Heath has a long-standing Vipassana meditation practice and founded the 5aspects® center, where Body, Sexuality, Heart, Mind and Spirit can heal, grow and flourish.
 
-![](assets/images/TEAM6-copy-1024x1024.jpg)
+![](/assets/images/TEAM6-copy-1024x1024.jpg)
 
 **Helena** is an Entrepreneur, Researcher and Human Empowerment and Resiliency Coach (Organic Intelligence) and an International Voice & Acting Coach. She is the CEO and Founder of Helena Walsh Empowerment Studios.  Over the past twenty five years she has worked with people all over the world, from top executives and CEO's, to preparing leading actors for major TV network shows.
 
@@ -150,6 +150,6 @@ Working over 30 years, **Heath** weaves his expertise as a psychologist, traum
 
 * * *
 
-![](assets/images/free-to-use-sounds-XtQNZRTIMYc-unsplash-1024x684.jpeg)
+![](/assets/images/free-to-use-sounds-XtQNZRTIMYc-unsplash-1024x684.jpeg)
 
 * * *

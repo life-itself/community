@@ -3,6 +3,7 @@ title: "Institute"
 created: 2020-03-09
 authors: 
   - artearthtech
+image: /assets/images/a_state_1.jpg
 ---
 
 ## Our Purpose

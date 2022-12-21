@@ -3,6 +3,7 @@ title: "Compassionate Mental Health"
 created: 2021-05-14
 authors: 
   - rufuspollock
+image: /assets/images/mike-erskine-S_VbdMTsdiA-unsplash-scaled.jpg
 ---
 
 ### Coming Home to Ourselves

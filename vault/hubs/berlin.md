@@ -3,6 +3,7 @@ title: "Berlin"
 created: 2020-06-23
 authors: 
   - rufuspollock
+image: /assets/images/berlin-hub-2.jpg
 ---
 
 ## 19th century building. 21st century living 
@@ -25,29 +26,29 @@ As a relatively new community, now’s the time to shape our culture, and we nee
 
 The bedrooms in the Berlin Hub are relatively large, and we offer a range of accommodation, from single bedrooms to studio apartments, to suit your needs. Prices start from €560 per calendar month.
 
-- [![](assets/images/aet4f_20200504_120528.jpg)](https://artearthtech.files.wordpress.com/2020/06/aet4f_20200504_120528.jpg?w=580)
+- [![](/assets/images/aet4f_20200504_120528.jpg)](https://artearthtech.files.wordpress.com/2020/06/aet4f_20200504_120528.jpg?w=580)
     
-- [![](assets/images/copy-of-img_1978.jpeg)](https://artearthtech.files.wordpress.com/2020/06/copy-of-img_1978.jpeg)
+- [![](/assets/images/copy-of-img_1978.jpeg)](https://artearthtech.files.wordpress.com/2020/06/copy-of-img_1978.jpeg)
     
-- [![](assets/images/aet4f_20200504_120441.jpg)](https://artearthtech.files.wordpress.com/2020/06/aet4f_20200504_120441.jpg?w=1024)
+- [![](/assets/images/aet4f_20200504_120441.jpg)](https://artearthtech.files.wordpress.com/2020/06/aet4f_20200504_120441.jpg?w=1024)
     
-- [![](assets/images/img-20200417-wa0003.jpg)](https://artearthtech.files.wordpress.com/2020/06/img-20200417-wa0003.jpg)
+- [![](/assets/images/img-20200417-wa0003.jpg)](https://artearthtech.files.wordpress.com/2020/06/img-20200417-wa0003.jpg)
     
-- [![](assets/images/aet4f_20200504_120631.jpg)](https://artearthtech.files.wordpress.com/2020/06/aet4f_20200504_120631.jpg?w=1024)
+- [![](/assets/images/aet4f_20200504_120631.jpg)](https://artearthtech.files.wordpress.com/2020/06/aet4f_20200504_120631.jpg?w=1024)
     
-- [![](assets/images/aet4f_20200504_120714.jpg)](https://artearthtech.files.wordpress.com/2020/06/aet4f_20200504_120714.jpg?w=1024)
+- [![](/assets/images/aet4f_20200504_120714.jpg)](https://artearthtech.files.wordpress.com/2020/06/aet4f_20200504_120714.jpg?w=1024)
     
-- [![](assets/images/soenke_niemann_1.jpg)](https://artearthtech.files.wordpress.com/2020/07/soenke_niemann_1.jpg?w=580)
+- [![](/assets/images/soenke_niemann_1.jpg)](https://artearthtech.files.wordpress.com/2020/07/soenke_niemann_1.jpg?w=580)
     
-- [![](assets/images/soenke_niemann_7.jpg)](https://artearthtech.files.wordpress.com/2020/07/soenke_niemann_7.jpg?w=580)
+- [![](/assets/images/soenke_niemann_7.jpg)](https://artearthtech.files.wordpress.com/2020/07/soenke_niemann_7.jpg?w=580)
     
-- [![](assets/images/soenke_niemann_6.jpg)](https://artearthtech.files.wordpress.com/2020/07/soenke_niemann_6.jpg?w=580)
+- [![](/assets/images/soenke_niemann_6.jpg)](https://artearthtech.files.wordpress.com/2020/07/soenke_niemann_6.jpg?w=580)
     
-- [![](assets/images/soenke_niemann_5.jpg)](https://artearthtech.files.wordpress.com/2020/07/soenke_niemann_5.jpg?w=580)
+- [![](/assets/images/soenke_niemann_5.jpg)](https://artearthtech.files.wordpress.com/2020/07/soenke_niemann_5.jpg?w=580)
     
-- [![](assets/images/soenke_niemann_4.jpg)](https://artearthtech.files.wordpress.com/2020/07/soenke_niemann_4.jpg?w=580)
+- [![](/assets/images/soenke_niemann_4.jpg)](https://artearthtech.files.wordpress.com/2020/07/soenke_niemann_4.jpg?w=580)
     
-- [![](assets/images/soenke_niemann_3.jpg)](https://artearthtech.files.wordpress.com/2020/07/soenke_niemann_3.jpg?w=580)
+- [![](/assets/images/soenke_niemann_3.jpg)](https://artearthtech.files.wordpress.com/2020/07/soenke_niemann_3.jpg?w=580)
     
 
 Photos Credits: Life Itself and Soenke Niemann

@@ -31,7 +31,7 @@ Neither our society nor our planet are as well as they should be. Greater wisdom
 
 We emphasize wisdom because we believe this is about more than finding a quick-fix in technology or politics – it is about finding something deeper within ourselves and our societies.
 
-![](assets/images/ales-krivec-2892-unsplash.jpg)
+![](/assets/images/ales-krivec-2892-unsplash.jpg)
 
 ## What we will cover
 
@@ -43,7 +43,7 @@ The Gathering is a moment for the mind, heart, soul and body to meet through a p
 
 We will preserve space in the program to allow for suggestions during the week and we welcome ideas for new topics and activities in advance.
 
-![](assets/images/200710_10150234235402942_7382081_n_720x461.jpg)
+![](/assets/images/200710_10150234235402942_7382081_n_720x461.jpg)
 
 ## For whom
 
@@ -53,7 +53,7 @@ Farmers, technologists, researchers, lawyers, artists, young, old — all are we
 
 We believe this conversation needs to be open and broad so that we may enhance each other's understanding by sharing our knowledge and skills.
 
-![](assets/images/a_state_3.jpg)
+![](/assets/images/a_state_3.jpg)
 
 ## Workshops
 
@@ -73,7 +73,7 @@ Here are some examples of the practical workshops that have have held during pas
 
 **Meditation:** Follow your breath and watch your thoughts.
 
-![](assets/images/12961452_165466130514064_6522683904244243683_n_640x640.jpg)
+![](/assets/images/12961452_165466130514064_6522683904244243683_n_640x640.jpg)
 
 ## Benefits
 
@@ -89,7 +89,7 @@ Gain a broader understanding of the architecture of co-living and how this can f
 
 Explore of meditative and embodied practices.
 
-![](assets/images/1909newsletter-wanttostartyourownevent.jpg)
+![](/assets/images/1909newsletter-wanttostartyourownevent.jpg)
 
 # Discussions
 
