@@ -46,9 +46,9 @@ _with a focus on Shalom Schwartz's work._
   relationships, and of self. (family security, national security,
   social order, clean, reciprocation of favors)
 
-![Relations among ten motivational types of values](assets/images/motivational_types_of_values.png)
+![Relations among ten motivational types of values](vault/assets/images/motivational_types_of_values.png)
 
 ## Futher Reading (In Zotero)
 
-* [https://www.zotero.org/groups/1488090/life-itself/collections/F74GMKPG/items/GB3L7TVF/collection|Cultural Value Orientations: Nature & Implications of National Differences _by Schwartz, Shalom H._]
-* [https://www.zotero.org/groups/1488090/life-itself/collections/F74GMKPG/items/YL9C5UIE/collection|Draft Users Manual: Proper Use of the Schwartz Value Survey _by Schwartz, Shalom H._]
+* [Cultural Value Orientations: Nature & Implications of National Differences _by Schwartz, Shalom H._](https://www.zotero.org/groups/1488090/life-itself/collections/F74GMKPG/items/GB3L7TVF/collection)
+* [Draft Users Manual: Proper Use of the Schwartz Value Survey _by Schwartz, Shalom H._](https://www.zotero.org/groups/1488090/life-itself/collections/F74GMKPG/items/YL9C5UIE/collection)
