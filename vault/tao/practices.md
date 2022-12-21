@@ -1,9 +1,11 @@
 # Practices
 
-* [Five Remebrances](/five-remembrances/)
-* [Five Mindfulness Trainings](/five-mindfulness-trainings/)
+* [[../notes/five-remembrances|Five Remembrances]]
+* [[../notes/five-mindfulness-trainings|Five Mindfulness Trainings]] 
 * [[../notes/shining-light|Shining a Light]]
-* [Primacy of Being](/vault/notes/primacy-of-being)
+* [[../notes/primacy-of-being|Primacy of Being]]
+* [[../notes/beginning-anew|Beginning Anew]] 
+* [[../notes/true-joy-in-life|True Joy In Life]]
 
 ## Contemplations Before Eating
 
