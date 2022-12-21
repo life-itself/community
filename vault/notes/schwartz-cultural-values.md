@@ -46,7 +46,7 @@ _with a focus on Shalom Schwartz's work._
   relationships, and of self. (family security, national security,
   social order, clean, reciprocation of favors)
 
-![Relations among ten motivational types of values](assets/notebook/motivational_types_of_values.png)
+![Relations among ten motivational types of values](/assets/notebook/motivational_types_of_values.png)
 
 ## Futher Reading (In Zotero)
 
