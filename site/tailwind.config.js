@@ -19,7 +19,7 @@ module.exports = {
         sans: ["ui-sans-serif", ...defaultTheme.fontFamily.sans],
         serif: ["ui-serif", ...defaultTheme.fontFamily.serif],
         mono: ["ui-monospace", ...defaultTheme.fontFamily.mono],
-        headings: ["-apple-system", ...defaultTheme.fontFamily.sans],
+        headings: ["Archivo", ...defaultTheme.fontFamily.sans],
       },
       colors: {
         background: {
@@ -31,8 +31,8 @@ module.exports = {
           dark: colors.gray[300],
         },
         secondary: {
-          DEFAULT: "",
-          dark: "",
+          DEFAULT: "#F0CA5E",
+          dark: "#F0CA5E",
         },
       },
     },
