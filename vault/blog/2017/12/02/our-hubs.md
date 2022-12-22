@@ -1,16 +1,16 @@
 ---
-title: "Our Hubs"
+title: "A Vision For Our Hubs"
 created: 2017-12-02
 categories: 
   - hubs
 authors: 
-  - eilidhross
+  - rufuspollock
 image: /assets/images/Blog-Feature-Images-9-1200x675-1.png
 ---
 
-Hubs are central to Life Itself's mission to create a weller, wiser world. Hubs house members of the Life Itself community, and create a welcoming space to live and be, to share and connect.
+Hubs are central to Life Itself’s mission to create a weller, wiser world. Hubs house members of the Life Itself community, and create a welcoming space to live and be, to share and connect.
 
-Life Itself currently has two hubs: Berlin and Bergerac. Visit our website to [discover more about our hubs](https://lifeitself.us/hubs/).
+We’re starting our first hub located in London. This documented resulting from a co-creation visioning and planning session with the Hubs’s first members.
 
 ## Why do our hubs exist?
 
