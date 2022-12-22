@@ -1,4 +1,5 @@
-const colors = require("tailwindcss/colors")
+const defaultTheme = require("tailwindcss/defaultTheme");
+const colors = require("tailwindcss/colors");
 
 module.exports = {
   content: [
@@ -15,10 +16,24 @@ module.exports = {
         "8xl": "88rem",
       },
       fontFamily: {
-        archivo: ['Archivo']
+        sans: ["ui-sans-serif", ...defaultTheme.fontFamily.sans],
+        serif: ["ui-serif", ...defaultTheme.fontFamily.serif],
+        mono: ["ui-monospace", ...defaultTheme.fontFamily.mono],
+        headings: ["-apple-system", ...defaultTheme.fontFamily.sans],
       },
       colors: {
-        "theme-yellow": "#F0CA5E"
+        background: {
+          DEFAULT: colors.white,
+          dark: colors.slate[900],
+        },
+        primary: {
+          DEFAULT: colors.gray[700],
+          dark: colors.gray[300],
+        },
+        secondary: {
+          DEFAULT: "",
+          dark: "",
+        },
       },
     },
   },
