@@ -48,13 +48,17 @@ const Page = defineDocumentType(() => ({
   fields: {
     ...sharedFields,
     created: { type: "date" },
+    authors: {
+      type: "list",
+      of: { type: "string" }
+    }
   },
   computedFields,
 }));
 
 const Blog = defineDocumentType(() => ({
   name: "Blog",
-  filePathPattern: `${siteConfig.blogDir}/!(index)*.md*`,
+  filePathPattern: `${siteConfig.blogDir}/**/!(index)*.md*`,
   contentType: "mdx",
   fields: {
     ...sharedFields,
@@ -80,6 +84,7 @@ export const Person = defineDocumentType(() => ({
   contentType: "mdx",
   fields: {
     ...sharedFields,
+    layout: { type: "string", default: "people" },
     id: {
       type: "string",
     },
