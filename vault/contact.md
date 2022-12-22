@@ -5,16 +5,13 @@ authors:
   - sylvieshiweibarbier
 ---
 
-![](/assets/images/aet-142-scaled.jpg)
-
 ## Get in touch
 
-Via email: **[hello@lifeitself.org](mailto:hello@lifeitself.org)** which is the best method to reach us (we usually respond within hours) or via our contact form:
-
-\[wpforms id="3858" title="false"\]
+Via email: **[hello@lifeitself.org](mailto:hello@lifeitself.org)** which is the best method to reach us (we usually respond within hours)
 
 ## Social Media
 
-## Newsletter
+[Instagram: @forlifeitself](https://www.instagram.com/forlifeitself/)
 
-Subscribe to our newsletter for updates on our hubs, events and research.
+[Twitter: @forlifeitself](https://twitter.com/forlifeitself) 
+
