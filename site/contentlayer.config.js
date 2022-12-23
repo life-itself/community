@@ -50,8 +50,8 @@ const Page = defineDocumentType(() => ({
     created: { type: "date" },
     authors: {
       type: "list",
-      of: { type: "string" }
-    }
+      of: { type: "string" },
+    },
   },
   computedFields,
 }));
