@@ -1,5 +1,5 @@
 ---
-title: Governance at Art Earth Tech: A Proposal
+title: "Governance at Art Earth Tech: A Proposal"
 created: 2018-09-17
 authors: sylvieshiweibarbier
 ---
