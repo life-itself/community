@@ -1,6 +1,7 @@
 import { formatDate } from "@/lib/formatDate.js";
-import { useState } from "react";
+import { Children, useState } from "react";
 import { useMDXComponent } from "next-contentlayer/hooks";
+import React from "react"
 
 const BLOGS_LOAD_COUNT = 5
 
@@ -9,15 +10,29 @@ const BLOGS_LOAD_COUNT = 5
 //   return body[0]
 // }
 
+const strippedComponents = [
+  "h1", "h2", "h3", "h4", "h5", "h6", "li", "img", "ul", "ol", "div", "hr", "pre", "code"
+].reduce((acc,curr)=> (acc[curr]=() => <></>,acc),{})
+
 const PostBody = ({ code }) => {
   const Component = useMDXComponent(code)
-  const stripComponents = {
-    img: () => <></>
+  const components = {
+    ...strippedComponents,
+    p: (props) => {
+      if (typeof props.children === "string") {
+        return <p className="inline m-0" {...props} />
+      } else {
+        return <></>
+      }
+    },
+    wrapper: ({ children }) => {
+      return <div className="h-20 overflow-hidden line-clamp-3">{
+        children
+      }</div>
+    }
   }
   return (
-    <div className="line-clamp-3">
-      <Component components={stripComponents} />
-    </div>
+    <Component components={components} />
   )
 }
 
@@ -34,7 +49,7 @@ export function BlogsList({ posts }) {
         <li key={post._id} className="list-none py-6 space-y-4">
           <div className="space-y-1">
             <a href={post.url_path} className="no-underline hover:underline">
-              <h1 className="text-4xl font-bold md:tracking-tight md:text-3xl m-0">{post.title}</h1>
+              <h1 className="text-4xl font-bold md:tracking-tight md:text-3xl m-0 w-fit">{post.title}</h1>
             </a>
             <div className="flex flex-col items-start justify-between w-full md:flex-row md:items-center dark:text-gray-400">
               <div className="flex items-center space-x-2">
@@ -66,12 +81,12 @@ export function BlogsList({ posts }) {
               ))}
             </div>}
           </div>
-          <div className="">
+          <div className="flex flex-col space-y-1">
             {post.description 
               ? <p className="my-0">{post.description}</p>
               : <PostBody code={post.body.code} />
             }
-            <a href={post.url_path} className="text-sm text-gray-500 hover:text-gray-900 pt-2">{"[ Read more ]"}</a>
+            <a href={post.url_path} className="text-sm text-gray-500 hover:text-gray-900 pt-2 w-fit">{"[ Read more ]"}</a>
           </div>
         </li>
       ))}

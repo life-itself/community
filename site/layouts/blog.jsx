@@ -45,7 +45,7 @@ export default function BlogLayout({ children, frontMatter }) {
           {image && <img src={image} alt={title} className="w-full h-auto m-0 drop-shadow-md" />}
         </header>
         <section>{children}</section>
-        <div className="flex items-center space-x-4 py-6 border-b border-theme-yellow text-sm capitalize">{tags &&
+        <div className="flex flex w-full flex-wrap items-center space-x-4 py-6 border-b border-theme-yellow text-sm capitalize">{tags &&
           <>
             tags:&nbsp;&nbsp;
             {tags.map((tag,i) => (
