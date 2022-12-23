@@ -1,11 +1,10 @@
 ---
-title: "# Bergerac Hub: Some Practicalities"
+title: "Bergerac Hub: Some Practicalities"
 created: 2020-10-01
 categories: 
   - hubs
 authors: 
   - rufuspollock
-image:
 ---
 
 An insight into some practical details of staying at the [Bergerac Hub](https://lifeitself.org/hubs/bergerac/).
