@@ -1,10 +1,7 @@
 ---
 title: Contemplative Activism Event
-
-\created: 2020-02-20
-
-authors: 
-  - liamkavanagh
+created: 2020-02-20
+authors: liamkavanagh
 ---
 We are hosting our second event of Art Earth Tech's contemplative activism initiative -- held in a “drop-in, drop-out” format, located at Bidston Observatory (a lovely space for artistic exploration outside Liverpool) from March 14th through to March 29th. The gathering is open invitation, and very reasonably priced (£15 a night), so please forward this invitation to anybody who might be interested. We would love to see you there for as little as much of the time as you could attend.
 

@@ -1,7 +1,6 @@
 ---
 title: Inequality Of Being
-
-/created: 2020-03-26
+created: 2020-03-26
 
 authors: sylvieshiweibarbier
 ---
