@@ -12,7 +12,7 @@ https://youtu.be/vYzOr7l-U20
 
 In this episode of the Life Itself Podcast, Rufus Pollock sits down with Professor Joseph Henrich to discuss the study of cultural evolution. Joe gives an insight into how the discipline has emerged and the interdisciplinary nature of the field. He discusses some examples of areas of interest within the field, such as understanding innovation and institutional evolution. Rufus and Joe finish with a brief consideration of where on the "cultural evolutionary tree" we are today, laying the ground for a potential future follow up.
 
-<iframe src="https://anchor.fm/life-itself/embed/episodes/Joseph-Henrich-and-the-Emergence-of-a-Rigorous-Culturology-e1r9pgv" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/life-itself/embed/episodes/Joseph-Henrich-and-the-Emergence-of-a-Rigorous-Culturology-e1r9pgv" height="102px" width="400px" frameBorder="0" scrolling="no"></iframe>
 
 ## About Joseph Henrich
 
