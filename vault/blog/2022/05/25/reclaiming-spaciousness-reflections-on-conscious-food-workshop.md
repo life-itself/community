@@ -1,5 +1,5 @@
 ---
-title: Reclaiming Spaciousness: Reflections On The Conscious Food Workshop
+title: "Reclaiming Spaciousness: Reflections On The Conscious Food Workshop"
 created: 2022-05-25
 authors: valerie
 ---
