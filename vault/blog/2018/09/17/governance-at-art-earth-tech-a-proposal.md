@@ -3,6 +3,8 @@ title: "Governance at Art Earth Tech: A Proposal"
 created: 2018-09-17
 authors: 
 - sylvieshiweibarbier
+- rufuspollock
+- liamkavanagh
 ---
 
 This is a joint post by nucleus members Sylvie Barbier, Ninon Godefroy, Liam Kavanagh and Rufus Pollock.
