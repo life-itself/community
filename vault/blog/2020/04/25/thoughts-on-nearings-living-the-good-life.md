@@ -1,7 +1,8 @@
 ---
 title: Nearing's 'Living the Good Life' - Thoughts
 created: 2020-04-25
-authors: rufuspollock
+authors: 
+- rufuspollock
 ---
 Helen and Scott Nearing’s ‘Living the Good Life’ is the auto-biography of a New York couple living the “simple life” in post-Depression America, after they leave the city and move to Vermont. Detaching themselves and their livelihood from consumerism and a market-driven business model, the Nearing’s success truly embodies the good life. What I ask, though, is is good life a result of the simple life, or is the simple life a result of the good life? What I mean by this, is Nearing's ideas and written beliefs surrounding community and behaviour something that could be quite easily inserted into twenty-first century life? And if so, how do we do it in a way that is enriching and fulfilling for those who want to try it?
 
