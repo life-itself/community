@@ -1,7 +1,8 @@
 ---
 title: "Reclaiming Spaciousness: Reflections On The Conscious Food Workshop"
 created: 2022-05-25
-authors: valerie
+authors: 
+- valerie
 ---
 
 From April 25th to May 4th, the Life Itself Bergerac hub was host to the 'Nourriture D’Eveil' residency, an integrated conscious food workshop, facilitated by [Valérie Duvauchelle](https://en.lacuisinedelabienveillance.org/les-messagers). In this blog post, Valérie shares her reflections on this experience.
