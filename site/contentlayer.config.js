@@ -70,6 +70,10 @@ const Blog = defineDocumentType(() => ({
       type: "list",
       of: { type: "string" },
     },
+    categories: {
+      type: "list",
+      of: { type: "string" }
+    },
     tags: {
       type: "list",
       of: { type: "string" },
