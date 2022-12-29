@@ -1,5 +1,5 @@
 ---
-title: Episodes
+title: Podcast
 data:
   - podcasts
 ---

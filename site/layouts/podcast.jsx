@@ -1,9 +1,9 @@
-import { useRef, useMemo } from 'react'
+import { useRef } from 'react'
 import Link from 'next/link'
 
-import { AudioProvider, useAudioPlayer } from "../content/components/player/AudioProvider";
-import { PlayButton } from '../content/components/player/PlayButton';
-import { AudioPlayer } from '../content/components/player/AudioPlayer';
+import { AudioProvider, useAudioPlayer } from "../components/custom/player/AudioProvider";
+import { PlayButton } from '../components/custom/player/PlayButton';
+import { AudioPlayer } from '../components/custom/player/AudioPlayer';
 
 function randomBetween(min, max, seed = 1) {
   return () => {
@@ -141,12 +141,12 @@ function AboutSection(props) {
       <h2 className="flex items-center font-mono text-sm font-medium leading-7 text-slate-900">
         <TinyWaveFormIcon
           colors={['fill-[#d97706]', 'fill-theme-yellow']}
-          className="h-2.5 w-2.5"
+          className="h-2.5 w-2.5 hidden lg:inline-flex"
         />
-        <span className="ml-2.5">About</span>
+        <span className="ml-2.5 hidden lg:inline-flex">About</span>
       </h2>
       <p
-        className="mt-2 text-base leading-7 text-slate-700"
+        className="lg:mt-2 text-base text-center lg:text-left leading-7 text-slate-700"
       >
         Welcome to the Life Itself Podcast, we where sit down to have conversations with thought leaders and seek solutions to our current crises by exploring emerging culture and technology.
       </p>
@@ -176,28 +176,26 @@ export default function PodcastLayout({ children, frontMatter }) {
   return (
     <AudioProvider>
       <div className='border-t border-gray-200'>
-        <aside className='fixed z-10 h-full pb-12 w-1/4 top-16 mt-3 overflow-hidden overflow-y-auto border-r border-gray-200'>
+        <aside className='lg:fixed z-10 h-full pb-12 lg:w-1/4 top-16 mt-3 overflow-hidden overflow-y-auto border-r border-gray-200'>
           <div className="relative z-10 mx-auto px-4 pb-4 pt-10 sm:px-6 md:max-w-2xl md:px-4 lg:min-h-full lg:flex-auto lg:py-12 lg:pt-5 lg:px-8 xl:px-12">
             <Link
-              href="/"
+              href="/podcast"
               className="relative mx-auto block w-48 overflow-hidden rounded-lg bg-slate-200 shadow-xl shadow-slate-200 sm:w-64 sm:rounded-xl lg:w-auto lg:rounded-2xl"
-              aria-label="Homepage">
-
+            >
               <img
                 className="w-full"
-                src="assets/site/lifeitself-podcast.jpeg"
+                src="/assets/site/lifeitself-podcast.jpeg"
                 alt=""
                 sizes="(min-width: 1024px) 20rem, (min-width: 640px) 16rem, 12rem"
                 priority="true"
               />
               <div className="absolute inset-0 rounded-lg ring-1 ring-inset ring-black/10 sm:rounded-xl lg:rounded-2xl" />
-
             </Link>
-            <AboutSection className="mt-12 hidden lg:block" />
+            <AboutSection className={`mt-12 ${url_path !== "podcast" && "hidden"} lg:block`} />
             <section className="mt-10 lg:mt-12">
               <h2 className="sr-only flex items-center font-mono text-sm font-medium leading-7 text-slate-900 lg:not-sr-only">
               <TinyWaveFormIcon
-                colors={['fill-[#d97706]', 'fill-theme-yellow']}
+                colors={['fill-[#d97706]', 'fill-secondary']}
                 className="h-2.5 w-2.5"
               />
                 <span className="ml-2.5">Listen</span>
@@ -220,7 +218,7 @@ export default function PodcastLayout({ children, frontMatter }) {
                       className="group flex items-center"
                       aria-label={label} target="_blank">
                       <Icon className="h-8 w-8 fill-slate-400 group-hover:fill-slate-600" />
-                      <span className="hidden sm:ml-3 sm:block">{label}</span>
+                      <span className="hidden lg:ml-3 lg:block">{label}</span>
                     </a>
                   </li>
                 ))}
@@ -228,18 +226,26 @@ export default function PodcastLayout({ children, frontMatter }) {
             </section>
           </div>
         </aside>
-        <section className='relative ml-[25%] mb-10'>
+        <section className={`lg:relative lg:ml-[25%] mb-10 ${url_path !== "podcast" && "px-4"}`}>
           <Waveform className="absolute left-0 top-0 h-20 w-full" />
-          <header className="flex items-center gap-6 mx-auto md:max-w-2xl lg:max-w-4xl px-4 sm:px-6 md:px-4 lg:px-8 pt-20">
+          {url_path !== "podcast" && <Link href="/podcast" className="flex flex-col lg:flex-row items-center w-fit mx-auto lg:ml-8 xl:ml-28 space-x-4 pb-16 lg:pb-0 lg:pt-20 text-gray-500 hover:text-gray-900 hover:underline">
+            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth="1.5" stroke="currentColor" className="w-6 h-6">
+              <path strokeLinecap="round" strokeLinejoin="round" d="M6.75 15.75L3 12m0 0l3.75-3.75M3 12h18" />
+            </svg>
+            <p className="text-sm">back to episode list</p>
+          </Link>}
+          <header className="flex items-start lg:items-center gap-6 mx-auto md:max-w-2xl lg:max-w-4xl px-4 sm:px-6 md:px-4 lg:px-8 lg:pt-16">
             {src && <PlayButton playerData={audioPlayerData} size="large" />}
-            <div className="flex flex-col">
-              {title && <h1 className="text-2xl font-semibold text-gray-900">{title}</h1>}
+            <div className="flex flex-col w-full">
+              {title && <h1 className={`text-2xl font-semibold text-gray-900 ${url_path === "podcast" && "text-center lg:text-left"}`}>
+                {url_path === "podcast" ? "Episodes" : title}
+              </h1>}
               {date && <time className='order-first font-mono text-sm leading-7 text-slate-500'>{dateFormatter(date)}</time>}
             </div>
           </header>
-          <article className="mx-auto md:max-w-2xl lg:max-w-4xl py-16 px-4 sm:px-6 md:px-4 lg:px-8">
-            <div className='prose'>
-                {children}
+          <article className="mx-auto md:max-w-2xl lg:max-w-4xl pt-8 lg:py-16 px-4 sm:px-6 md:px-4 lg:px-8">
+            <div className="prose">
+              {children}
             </div>
           </article>
         </section>

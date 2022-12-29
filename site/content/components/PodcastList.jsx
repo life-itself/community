@@ -1,4 +1,5 @@
 import { AudioProvider, useAudioPlayer } from "./player/AudioProvider";
+import { useMDXComponent } from "next-contentlayer/hooks";
 
 const dateFormatter = date => new Date(date).toLocaleDateString('en-US', {
   year: 'numeric',
@@ -23,7 +24,6 @@ function PlayPauseIcon({ playing, ...props }) {
 }
 
 function EpisodeEntry({ episode }) {
-
   let audioPlayerData = {
     title: episode.title,
     audio: {
@@ -34,9 +34,11 @@ function EpisodeEntry({ episode }) {
   }
 
   let player = useAudioPlayer(audioPlayerData)
+
+  const Body = useMDXComponent(episode.body.code)
   
   return (
-    <article
+    <li
       aria-labelledby={`episode-${episode._id}-title`}
       className="py-6"
     >
@@ -46,14 +48,14 @@ function EpisodeEntry({ episode }) {
             <div className="flex flex-col items-start">
               <h2
                 id={`episode-${episode._id}-title`}
-                className="mt-2 text-lg font-bold text-slate-900"
+                className="mt-2 lg:mb-0 text-lg font-bold text-slate-900"
               >
                 <a href={episode.url_path}>{episode.title}</a>
               </h2>
               <time className="order-first font-mono text-sm leading-7 text-slate-500">{dateFormatter(episode.date)}</time>
-              <p className="mt-1 text-base leading-7 text-slate-700 truncate max-w-xl truncate">
-                {episode.body.raw}
-              </p>
+              <div className="mt-1 text-base leading-7 text-slate-700 lg:max-w-xl line-clamp-3">
+                <Body />
+              </div>
               <div className="mt-4 flex items-center gap-2">
                 <button
                   type="button"
@@ -89,18 +91,18 @@ function EpisodeEntry({ episode }) {
           </div>
         </div>
       </div>
-    </article>
+    </li>
   )
 }
 
 export default function PodcastList({ data }) {
   return (
     <AudioProvider>
-      <div className="divide-y divide-theme-yellow">
+      <ul className="divide-y divide-secondary list-none p-0 overflow-hidden">
         {data.length > 0 && data.map(ep => (
           <EpisodeEntry key={ep._id} episode={ep} />
         ))}
-      </div>
+      </ul>
     </AudioProvider>
   )
 }
