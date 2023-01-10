@@ -5,7 +5,7 @@ import { useEffect, useRef } from 'react';
 export default function CircularVis({ profiles, topics, size = 700 }) {
   const svg = useRef(null);
 
-  useEffect(async () => {
+  useEffect(() => {
     // TODO refactor this code
     // clone the orgs array to avoid conflicts
     const primaryTopic = clone(profiles);

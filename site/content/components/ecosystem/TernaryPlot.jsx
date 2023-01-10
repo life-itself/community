@@ -4,7 +4,7 @@ import { drawChart } from './d3';
 export default function TernaryPlot({ profiles }) {
   let svg = useRef(null);
 
-  useEffect(async () => {
+  useEffect(() => {
     drawChart(svg, profiles);
   }, [svg]);
 

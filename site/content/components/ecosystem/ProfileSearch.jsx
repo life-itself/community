@@ -10,7 +10,7 @@ import React, { useState, useEffect } from 'react';
   * */
 export default function ProfileSearch({ profiles }) {
   const [orgs, setOrgs] = useState([]);
-  useEffect(async () => {
+  useEffect(() => {
     setOrgs(profiles);
   }, []);
 
