@@ -19,19 +19,13 @@ const people = [
   },
   {
     name: "Theo Cox",
-    role: "Head of Life Itself Labs",
+    role: "Head of Labs",
     bio: "Theo read Politics, Philosophy and Economics at the University of Oxford, and holds an MSc in Development Studies from the London School of Economics. His single greatest drive is to do the most good he can in the world, resulting in his spending probably a bit too much time ruminating on what it means to live a good life. When he’s not philosophising Theo is an avid martial artist, having competed in both western boxing and muay Thai and also regularly training in Brazilian jiujitsu. Despite his love of fighting he remains a committed pacifist in his day to day life, and is just as confused by this seeming contradiction as everyone else.",
     imageUrl: "assets/site/team/Theo-bio.jpeg"
   },
   {
-    name: "Karl Steyaert",
-    role: "Head of Transformational Programmes",
-    bio: "Karl is a visionary cultural catalyst with over 25 years experience facilitating personal and collective transformation across North America, Europe and Asia. His clients range from non-profits, intentional communities and ecovillages, to universities, governments and Silicon Valley tech companies. Having designed and directed programs in Integral Sustainability for the University of Massachusetts at Findhorn Ecovillage (Scotland) and Auroville (India), as well as supporting the development of dozens of ecovillage and community projects worldwide, Karl has a passion for co-creating hubs for the evolution of consciousness and life-enriching culture. He is a certified trainer in Nonviolent Communication, and a Level 1-3 trained practitioner of Internal Family Systems therapy, as well as having extensive training and experience facilitating collective trauma healing, restorative justice, aikido, and meditation.",
-    imageUrl: "assets/site/team/Karl-bio.png"
-  },
-  {
     name: "Nathen Fitchen",
-    role: "Head of Communications",
+    role: "Communications",
     bio: "Nathen Fitchen is a digital marketing expert who works specifically with social enterprises and non-profits creating a better future. He is the co-founder of Wildfeet Productions, a digital media group and is a full-time digital nomad. On his travels he has lived in many communities, co-living spaces and other alternative living situations. He is a trained permaculture designer and has a degree in Earth Sciences from University College London. He loves outdoor adventure sports, cooking, and caring for animals.",
     imageUrl: "assets/site/team/Nathen-bio.png"
   },
@@ -56,12 +50,6 @@ const people = [
 ]
 
 const pioneers = [
-  {
-    name: "Charley Lee",
-    role: "Psychotherapist",
-    bio: "Charley is a practicing psychotherapist who also engages in podcasting, facilitation and research. He is fascinated by new approaches to understanding and healing the human mind, and holds a deep interest in the relationship between individuals and their environment.",
-    imageUrl: "assets/site/team/Charley-profile.jpeg"
-  },
   {
     name: "Valerie Duvauchelle",
     role: "Tenzo",
@@ -95,12 +83,6 @@ const residents = [
     bio: "In real life, Inna is a systems innovator and just transformation facilitator with over a decade of experience in strategic management consulting and a dual Master’s in Finance and Strategic Leadership towards Sustainability. At the Hub, she is a maverick weaver, blending the polarities into a magic carpet of care, co-creation and self-development, catalysing innovation and transformation on both individual and collective levels.",
     imageUrl: "assets/site/team/Inna.jpeg"
   },
-  {
-    name: "Thanasekaran Gopal",
-    role: "Aeronautical Engineer",
-    bio: "Sekar applies his skills in the field of Green Aviation. Born in India, his native language is Tamil. When he's not working or cooking, he enjoys exploring cultures and countries.",
-    imageUrl: "assets/site/team/sekar.jpeg"
-  },
 ]
 
 const contributors = [
@@ -111,15 +93,15 @@ const contributors = [
     imageUrl: "assets/site/team/Esteban-profile.jpeg"
   },
   {
-    name: "Mark (Mark & Poppy)",
+    name: "Mark McGlynn",
     role: "Architect",
-    bio: "Mark trained as an architect at the Architectural Association in Bedford Square. Together with Poppy they work to create worlds using experiences as a medium. They are the designers behind the Life Itself London Hub.",
+    bio: "Mark trained as an architect at the Architectural Association in Bedford Square. Together with Poppy they work to create worlds using experiences as a medium. They are the designers behind the Life Itself Hubs.",
     imageUrl: "assets/site/team/mark-cropped.jpeg"
   },
   {
-    name: "Poppy (Mark & Poppy)",
-    role: "Fashion Designer",
-    bio: "Poppy trained as a fashion designer at London College of Fashion. Together with Mark they work to create worlds using experiences as a medium. They are the designers behind the Life Itself London Hub.",
+    name: "Poppy Rose",
+    role: "Designer",
+    bio: "Poppy trained as a fashion designer at London College of Fashion. Together with Mark they work to create worlds using experiences as a medium. They are the designers behind Life Itself Hubs.",
     imageUrl: "assets/site/team/poppy-cropped.jpeg"
   },
 ]
