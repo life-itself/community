@@ -40,7 +40,13 @@ const redirects = [
     source: '/community-projects',
     destination: '/blog/2021/03/18/berlin-hub-community-projects',
     permanent: true,
-  }
+  },
+  {
+    // regex matches slugs starting with the date format YYYY/mm/dd
+    source: '/:slug(\\d{4}\/(?:0?[1-9]|1[012])\/(?:0?[1-9]|[12][0-9]|3[01])\/.*)',
+    destination: '/blog/:slug',
+    permanent: false,
+  },
 ]
 
 export default withContentlayer({

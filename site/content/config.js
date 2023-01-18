@@ -17,7 +17,10 @@ const userConfig = {
     { href: "/podcast", name: "Podcast" },
     { href: "/contact", name: "Contact"}
   ],
-  theme: { default: "" }
+  theme: { default: "" },
+  search: {
+    provider: "kbar"
+  },
 };
 
 export default userConfig;
