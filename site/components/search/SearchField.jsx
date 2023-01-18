@@ -32,7 +32,7 @@ export function SearchField(props) {
         }
       `}
       >
-        Search docs
+        Search ...
       </span>
       {modifierKey && (
         <kbd
