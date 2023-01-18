@@ -1,6 +1,7 @@
 ---
-title:Growth Hierarchies
+title: Growth Hierarchies
 ---
+
 Wilber on growth and dominator hierarchies (in Trump and a Post-Truth World):
 
 > What Gilligan had stumbled upon was a truth now widely acknowledged by virtually all developmentalists: namely, that there are two major but very different types of hierarchies, usually called *dominator hierarchies* and *growth hierarchies*. Dominator hierarchies are all the nasty things that postmodern multiculturalists say they are: oppressive, power-driven, suffering-inducing, dominating. We see these in everything from the caste system to la cosa nostra–style criminal rings to slave networks everywhere. In these dominator hierarchies, the higher you go, the more people you can control and oppress. Growth hierarchies, on the other hand, *are exactly the opposite*. Where each higher level in a dominator hierarchy is more excluding and more oppressive, each higher level in a growth hierarchy is more inclusive and less oppressive (or, stated conversely, is more loving—and we actually have empirical research demonstrating this). Because of their unifying and integrating nature, growth hierarchies are often called “holarchies.” The evolutionary leaps that we are looking at in this presentation—the major developmental stages from egocentric to ethnocentric to worldcentric to integral—is exactly a type of growth holarchy. Each higher level is more inclusive, more caring, more loving, more conscious, and more embracing.
