@@ -3,7 +3,7 @@ export default function Hero() {
     <section className="lg:relative">
       <div className="font-archivo mx-auto w-full max-w-7xl pt-16 pb-20 text-center lg:pt-48 lg:pb-32 lg:text-left">
         <div className="px-4 sm:px-8 lg:w-1/2 xl:pr-16">
-          <h1 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-5xl md:text-6xl lg:text-5xl xl:text-6xl flex flex-col">
+          <h1 className="text-4xl font-headings font-bold tracking-tight text-gray-900 sm:text-5xl md:text-6xl lg:text-5xl xl:text-6xl flex flex-col">
             <span className="block xl:inline">We are</span>
             <span className="block text-theme-yellow xl:inline">pragmatic utopians.</span>
           </h1>

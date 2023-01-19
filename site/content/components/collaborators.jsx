@@ -39,7 +39,7 @@ const collabs = [
 export default function Collaborators() {
   return (
     <section className="mx-auto max-w-7xl py-12 px-4 sm:px-6 lg:px-8">
-      <h2 className="text-3xl font-bold tracking-tight sm:text-4xl mb-6">Collaborators</h2>
+      <h2 className="text-3xl font-headings font-bold tracking-tight sm:text-4xl mb-6">Collaborators</h2>
       <div className="grid gap-8 grid-cols-2 md:grid-cols-6 lg:grid-cols-none lg:grid-flow-col lg:auto-cols-auto grayscale">
         {collabs.map(collaborator => (
           <a key={collaborator.title} href={collaborator.url} className="col-span-1 flex justify-center md:col-span-2 lg:col-span-1">

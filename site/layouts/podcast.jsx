@@ -237,7 +237,7 @@ export default function PodcastLayout({ children, frontMatter }) {
           <header className="flex items-start lg:items-center gap-6 mx-auto md:max-w-2xl lg:max-w-4xl px-4 sm:px-6 md:px-4 lg:px-8 lg:pt-16">
             {src && <PlayButton playerData={audioPlayerData} size="large" />}
             <div className="flex flex-col w-full">
-              {title && <h1 className={`text-2xl font-semibold text-gray-900 ${url_path === "podcast" && "text-center lg:text-left"}`}>
+              {title && <h1 className={`text-3xl font-headings font-semibold text-gray-900 ${url_path === "podcast" && "text-4xl text-center lg:text-left"}`}>
                 {url_path === "podcast" ? "Episodes" : title}
               </h1>}
               {date && <time className='order-first font-mono text-sm leading-7 text-slate-500'>{dateFormatter(date)}</time>}
