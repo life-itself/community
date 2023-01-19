@@ -48,7 +48,7 @@ function EpisodeEntry({ episode }) {
             <div className="flex flex-col items-start">
               <h2
                 id={`episode-${episode._id}-title`}
-                className="mt-2 lg:mb-0 text-lg font-bold text-slate-900"
+                className="mt-2 lg:mb-0 text-xl font-headings font-bold text-slate-900"
               >
                 <a href={episode.url_path}>{episode.title}</a>
               </h2>

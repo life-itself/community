@@ -206,7 +206,7 @@ export default function Team() {
       <div className="space-y-12">
         {allTeams.map((team,i) => (
           <section key={i}>
-            <h1 className="text-4xl font-bold tracking-tight sm:text-5xl">{team.heading}</h1>
+            <h1 className="text-4xl font-headings font-bold tracking-tight sm:text-5xl">{team.heading}</h1>
             <List data={team.data} />
           </section>
         ))}
