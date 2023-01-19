@@ -8,7 +8,7 @@ image: https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode
 
 Rufus Pollock is joined by [Dr Jeffery Martin](https://drjefferymartin.com/). Jeffery is a founder of the Transformative Technology space, a serial entrepreneur, and a social scientist who researches personal transformation and the states of greatest human well-being.
 
-In this episode, Jeffery discusses Persistent Non-Symbolic Experience, more commonly referred to as Fundamental Wellbeing. He discusses his research and key findings, and the protocols he has developed and tested to help people obtain "fundamental wellbeing" in a rapid, secular, and safe way.
+In this episode, Jeffery discusses Persistent Non-Symbolic Experience, more commonly referred to as Fundamental Wellbeing. He discusses his research and key findings, and the protocols he has developed and tested to help people obtain Fundamental Wellbeing in a rapid, secular, and safe way.
 
 Watch the episode on YouTube: https://youtu.be/EmsLdIH8nzU 
 
