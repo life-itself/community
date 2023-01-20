@@ -22,7 +22,7 @@ Below is a checklist of all the steps to be taken when producing a podcast episo
 
 - [ ] **Create Youtube video**
 	- [ ] Create the Youtube Thumbnail from [this template](https://www.canva.com/design/DAE99drPH4s/7mR8CgHWyHfimwC9jDerDA/edit?utm_content=DAE99drPH4s&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).
-	- [ ] Edit the video file in Da Vinci Resolve:
+	- [ ] Edit the video file in [Da Vinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve):
 		- [ ] Trim beginning and end, plus any sections of poor internet connection or other interruptions
 		- [ ] Add thumbnail at the beginning of the video with a fade transition to the video
 		- [ ] Add graphic overlay ["Please Like & Subscribe"](https://drive.google.com/file/d/1iQjSdgjTyrN9xnQ8Xnlzdjmk2sw2eKXJ/view?usp=sharing) at the 5, 10, 20, 40 minute
