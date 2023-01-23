@@ -62,7 +62,7 @@ Below is a checklist of all the steps to be taken when producing a podcast episo
 		- [ ] Copy the transcription into a google doc and save in the episode folder.
 		- [ ] Convert into markdown. Copy and paste into blog post.
 
-- [ ] Once episode is published to YouTube and Anchor, publish the blog post with the links. Once blog post is published, edit the YouTube and Anchor episode bios and paste in the link to the blog.
+- [ ] Once episode is published to YouTube and Anchor, **publish the blog post** with the links. Once blog post is published, edit the YouTube and Anchor episode bios and paste in the link to the blog.
 
 - [ ] Once YouTube video, podcast episode and blog post are published, **create a page for the episode on the [podcast page](https://lifeitself.org/podcast) of the website.**
 	- [ ] Add a new page in vault/podcast in the community repo. Use [Jeffery Martin episode page](https://lifeitself.org/podcast/a-scientific-approach-to-awakening-and-fundamental-wellbeing-podcast) as a guide. Generate the links for the frontmatter:
