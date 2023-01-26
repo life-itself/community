@@ -67,5 +67,5 @@ image: /assets/images/Blog-Feature-Images-11.png
 - **How:** Creating the conditions for the posture to arise 
 - **How many:** 12 participants max 
 - **How much:** From 750 to 1350 euros
-- Facilitators: Valérie Duvauchelle, Victoria Wilding, Lauren Uba
+- **Facilitators:** Valérie Duvauchelle, Victoria Wilding, Lauren Uba
 - **[Learn more and apply](vault/ouroboros-residency)**
