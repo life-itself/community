@@ -8,7 +8,8 @@ image: /assets/images/Blog-Feature-Images-11.png
 
 @[Life Itself Praxis Hub, Bergerac](https://lifeitself.org/hubs/bergerac/), South of France
 
-## Miso retreat , Feb 2023
+
+## Miso retreat, Feb 2023
 
 - **When:** 5th - 8th February 2023
 - **What:** A 3 day "meditation - fermentation" retreat to miror fermentation within and without and hybrid our narratives .This includes the production of miso beans ( Japanese method) .
@@ -58,7 +59,7 @@ image: /assets/images/Blog-Feature-Images-11.png
 - **What:** A one month residency to focus on having exceptional big picture discussions. (The kind of discussions that draw the comment “You’re setting the world to rights!” Questions like: How do we address polarisation? How can we address global warming? How do we address the massive economic equality, racism and historical injustices that are rife across the globe? We won’t answer these questions, but we will do our utmost to have discussions that are really about *getting somewhere together* rather than scoring points. We will joyfully take up the neglected responsibility of citizens in a democracy, rather than a parlour game or indulgence
 - **How much:** Dependent on rooming (around €1100 for accommodation, food, facilitation and practices)
 - **Facilitator:** [Liam Kavanagh](https://www.liamkavanagh.me/)
-- [**Learn more and apply**](vault/setting-the-world-to-rights-residency)
+- [**Learn more and apply**](setting-the-world-to-rights-residency)
 
 ## Orouboros Residency, May 2023
 
@@ -68,4 +69,4 @@ image: /assets/images/Blog-Feature-Images-11.png
 - **How many:** 12 participants max 
 - **How much:** From 750 to 1350 euros
 - Facilitators: Valérie Duvauchelle, Victoria Wilding, Lauren Uba
-- **[Learn more and apply](vault/ouroboros-residency)**
+- **[Learn more and apply](ouroboros-residency)**
