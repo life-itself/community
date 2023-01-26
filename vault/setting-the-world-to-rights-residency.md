@@ -3,7 +3,6 @@ title: "Setting the World to Rights"
 created: 2023-01-25
 authors: 
   - eilidhross
-image:
 ---
 
 ## *Talking about the big picture while staying grounded*
