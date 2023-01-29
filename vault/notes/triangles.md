@@ -1,6 +1,7 @@
 ---
-title:Triangles
+title: Triangles
 ---
+
 From "Practicing with the Triangle" in Plum Village's *Joyfully Together*:
  
 > In our daily activities as a Sangha, very often a relationship evolves into what we call the “triangle.” This is something that puts the happiness of the Sangha at risk. The triangle is created when one person in the Sangha is suffering, irritated, and upset at a second person and goes to a third person to complain. The one who is irritated has not yet learned to transform her suffering, to open her heart, to listen deeply, or to practice the art of loving speech. She is not able to go directly to the person whom she thinks is the cause of her suffering and talk to him. So she complains to her friend about the one who has made her suffer, pouring out all her dislike for him. This triangle can be established anywhere, in any community. It can also happen in our own family. Part of Sangha building is to prevent these triangles from forming. We have to find a way to stop it from blooming while it is still only a bud.
