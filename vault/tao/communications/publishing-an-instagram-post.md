@@ -1,5 +1,10 @@
-
-# Publishing an Instagram Post
+---
+title: "Publishing an Instagram Post"
+created: 2023-01-30
+authors: 
+  - eilidhross
+image: /assets/images/instagram-screenshot.png
+---
 
 Below are notes on using Instagram and a guide to publishing posts. These are notes for someone with a basic understanding of Instagram. If you're brand new, head to Instagram's [Help Centre](https://help.instagram.com/) for more instructions and help.
 
