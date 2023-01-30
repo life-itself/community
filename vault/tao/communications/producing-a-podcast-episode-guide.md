@@ -1,4 +1,9 @@
-# How to produce a podcast episode
+---
+title: "Publishing a Podcast/YouTube Episode"
+created: 2023-01-30
+authors: 
+  - eilidhross
+---
 
 Below is a checklist of all the steps to be taken when producing a podcast episode:
 
