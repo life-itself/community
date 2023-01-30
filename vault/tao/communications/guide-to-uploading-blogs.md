@@ -1,5 +1,10 @@
 
-# Guide to uploading blogs
+---
+title: "Guide to uploading blogs"
+created: 2023-01-30
+authors: 
+  - eilidhross
+---
 
 ## Overview
 
