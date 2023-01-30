@@ -40,3 +40,7 @@ For a tutorial on how to produce the monthly newsletter, see [How to produce the
 Every day, check the hello@lifeitself.org inbox. Respond to all, even if to let them know you are cc-ing in a different colleague.
 
 Occasionally someone emails asking about the possibility of collaboration. Research who they are and what they do. Then, if their work does align and you think they could be a potential collaborator or pioneer, set up a call between them and yourself. Record the call. After the call, write up a brief for Rufus and create a github issue for him to read the brief and let you know how he wants to proceed with the person. For an example, see https://github.com/life-itself/community/issues/165 
+
+### General website editing
+
+For a comprehensive guide on how to make edits to the Life Itself website, see the [Web3 site Contributors' Guide](https://web3.lifeitself.org/meta/editing). Note that when the guide refers to the 'Web3 repo', for the Life Itself site it will instead be the community repo you should be using. 
