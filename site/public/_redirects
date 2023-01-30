@@ -1,4 +1,5 @@
 /:year/:month/:date/:slug  /blog/:year/:month/:date/:slug
+/author/:slug         /people/:slug
 
 /manifesto            /blog/2015/11/01/manifesto
 /27aout               /blog/2022/07/15/art-eco-spirituality-aug-2022

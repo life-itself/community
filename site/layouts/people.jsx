@@ -7,11 +7,11 @@ export default function PeopleLayout({ children, frontMatter }) {
       <header>
         <div className="flex items-center space-x-6">
           {avatar && <div className="w-48">
-            <img className="rounded-lg object-cover shadow-lg" src={avatar} alt={name} />
+            <img className="rounded-full object-cover shadow-lg" src={avatar} alt={name} />
           </div>}
           <div className="flex flex-col">
             {name && name.split(" ").map(n => (
-              <h1 key={n} className="even:text-primary odd:text-secondary even:text-5xl odd:text-6xl m-0 odd:ml-4">{n}</h1>
+              <h1 key={n} className="even:text-primary odd:text-secondary even:text-5xl odd:text-6xl m-0">{n}</h1>
             ))}
           </div>
         </div>
