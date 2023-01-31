@@ -10,7 +10,6 @@ Below is a checklist of all the steps to be taken when producing a podcast episo
 ## Acceptance 
 
 - [ ] Conversation published on Youtube & Anchor.
-- [ ] Blog Post containing all content published.
 - [ ] Episode page added to the website.
 - [ ] Guest informed that the episode is out and has been sent the links.
 - [ ] The new episode has been announced on twitter.
@@ -54,22 +53,8 @@ Below is a checklist of all the steps to be taken when producing a podcast episo
 	- [ ] Add season number and episode number
 	- [ ] Schedule publication for desired day and time
   
-- [ ] **Create blogpost**
-	- [ ] Draft blogpost prior to scheduled publication of the episode on YouTube and Anchor. 
-	- [ ] Add a new blog in the vault/blog folder in the Community repo. 
-		- [ ] Follow the format: put it in date structured folders eg. vault -> blog -> 2023 -> 01 -> 16 -> blog-file-name.md. For the frontmattter fields have a look at any of the other blog posts within that folder and follow that format. Once added commit the new file as you usually would. For more directions on how to add to the website see the [Web3 site contributors' guide](https://web3.lifeitself.org/meta/editing) and/or the [ecosystem mapping site guide](https://ecosystem.lifeitself.org/contributors-guide).
-	- [ ] You can add in the YouTube link as you can access that even before the video is published, however you can't with the Anchor link. Once the podcast is published, source the embed link to the episode found when you click on the episode on Anchor, and paste into the blog (use previously published podcast blogposts as a guide).
-	- [ ] The blog should feature a brief introduction of the guest and an intro to the episode (eg v brief overview of what is discussed).
-	- [ ] Add any notes. Ensure they are complete, comprehensive and tidied.
-	- [ ] Add any references and further reading
-	- [ ] Add the transcript
-		- [ ] run the video through Otter to generate the transript. Go through and fix any errors. Export as docx with speaker names and timestamps.
-		- [ ] Copy the transcription into a google doc and save in the episode folder.
-		- [ ] Convert into markdown. Copy and paste into blog post.
 
-- [ ] Once episode is published to YouTube and Anchor, **publish the blog post** with the links. Once blog post is published, edit the YouTube and Anchor episode bios and paste in the link to the blog.
-
-- [ ] Once YouTube video, podcast episode and blog post are published, **create a page for the episode on the [podcast page](https://lifeitself.org/podcast) of the website.**
+- [ ] **Create a page for the episode on the [podcast page](https://lifeitself.org/podcast) of the website.** You can prep this before the podcast and YouTube video are published, however you will not be able to add the podcast link in until the podcast is up.
 	- [ ] Add a new page in vault/podcast in the community repo. Use [Jeffery Martin episode page](https://lifeitself.org/podcast/a-scientific-approach-to-awakening-and-fundamental-wellbeing-podcast) as a guide. Generate the links for the frontmatter:
 		- [ ] Follow this link: https://rss2json.com/
 		- [ ] Paste this link in the box on the page (under the text that says Enter the URL to your RSS feed): https://anchor.fm/s/79b39934/podcast/rss 
@@ -78,10 +63,19 @@ Below is a checklist of all the steps to be taken when producing a podcast episo
 		- [ ] Copy the link for "thumbnail" and paste it after "image:" in the frontmatter.
 		- [ ] For the src link, scroll down to where it says "enclosure" and copy the link that follows "link". Paste this after "src" in the frontmatter. 
 		- [ ] Fill out the rest of the frontmatter.
-	- [ ] Paste the same short intro to the episode and guest as used in the blog post below the frontmatter. Paste the youtube link and the link to the blogpost. 
+	- [ ] Paste a brief introduction of the guest and an intro to the episode (eg v brief overview of what is discussed) below the frontmatter. 
+	- [ ] Paste the youtube link.
+	- [ ] Add the transcript
+		- [ ] run the video through Otter to generate the transript. Go through and fix any errors. Export as docx with speaker names and timestamps.
+		- [ ] Copy the transcription into a google doc and save in the episode folder.
+		- [ ] Convert into markdown. Copy and paste into page
+	- [ ] Add any notes. Ensure they are complete, comprehensive and tidied.
+	- [ ] Add any references and further reading
+
+- [ ] Once the page is up, edit the YouTube and Anchor episode bios and paste in the link to the page.
 
 - [ ] **Inform the guest that the episode is out.** Send all links and encourage them to share.
 
-- [ ] **Send email out to Life Itself General Audience on Mailchimp** announcing that the latest episode of the Life Itself Podcast is now available. Use the same intro to the episode and guest as used in blog. Paste link to the podcast page - they can navigate to everything they need from that one link. Use a previous podcast episode launch email as a guide - you can replicate that email, just remember to change the text, link, subject line and preview text. 
+- [ ] **Send email out to Life Itself General Audience on Mailchimp** announcing that the latest episode of the Life Itself Podcast is now available. Use the same intro to the episode and guest as used on the podcast page on the website. Paste link to the podcast page - they can navigate to everything they need from that one link. Use a previous podcast episode launch email as a guide - you can replicate that email, just remember to change the text, link, subject line and preview text. 
 
 - [ ] **Announce release on Twitter.** Make sure to @ the guest and tweet the link to the podcast page. Tweet the secondary content throughout the following week. Consider writing a twitter thread covering the main points of the conversation. Use this guide to write an effective twitter thread: https://www.ship30for30.com/post/how-to-write-a-twitter-thread 
