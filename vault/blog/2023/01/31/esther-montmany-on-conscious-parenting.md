@@ -30,6 +30,13 @@ In this [second episode](https://lifeitself.org/podcast/esther-montmany-on-consc
 
 In this [third episode](https://lifeitself.org/podcast/esther-montmany-on-conscious-parenting-part-3), Esther and Rufus explore the question, what are basic needs?
 
+## Esther Montmany on Conscious Parenting and Education
+
+<iframe src="https://anchor.fm/life-itself/embed/episodes/Esther-Montmany-on-Conscious-Parenting-and-Education-e1u947h" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
+[This episode](https://lifeitself.org/podcast/esther-montmany-on-conscious-parenting-and-education) is a recording of a Life Itself [Community Hangout event](https://lifeitself.org/blog/2021/11/30/community-hangout-december-2021) which took place in December 2021, at which Esther was a special guest. 
+
+During her session, Esther shared concrete examples of how to deal with certain situations eg: refusing to eat certain food, jealousy between brother and sister, sleep etc – and the broader principles of conscious parenting and education behind them.
 
 
 
