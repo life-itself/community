@@ -12,8 +12,6 @@ authors:
 image: /assets/images/Blog-Feature-Images-10.jpg
 ---
 
-![](/assets/images/Blog-Feature-Images-10-1024x576.jpg)
-
 Laloux has done a great service bringing together multiple case studies, and drawing out commonalities in practices, attitudes and behaviours.
 
 Potential improvements:

@@ -11,8 +11,6 @@ authors:
 image: /assets/images/Blog-Feature-Images-6.jpg
 ---
 
-![](/assets/images/Blog-Feature-Images-6-1024x576.jpg)
-
 Recently, [Geoff Mulgan](http://www.geoffmulgan.com/) and I have been talking about wisdom and the need for wiser societies -- not, just smarter ones. "Bridging the Wisdom Gap" summarises are thinking so far and ideas for what we would like to do next.
 
 ## In a Nutshell

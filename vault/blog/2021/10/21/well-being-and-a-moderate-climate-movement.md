@@ -14,8 +14,6 @@ authors:
 image: /assets/images/Blog-Feature-Images-24.jpg
 ---
 
-![](/assets/images/Blog-Feature-Images-24-1024x576.jpg)
-
 This post summarises the second session of the Wiser Policy Forum, a space to bring together leading experts from across the spheres of policy and civil society to explore new perspectives on traditional policy issues. We were delighted to be joined by Rupert Read, Associate Professor of Philosophy at the University of East Anglia and former spokesperson of both Extinction Rebellion and the Green Party of England and Wales, to discuss the role of well-being in fostering a moderate flank of the climate movement. Our key learnings from the discussion are outlined below.
 
 #### The need for a moderate flank of the climate movement 

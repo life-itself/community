@@ -11,8 +11,6 @@ image: /assets/images/Blog-Feature-Images-32.jpg
 
 #### __By Marc Santolini__
 
-![](/assets/images/Blog-Feature-Images-32-1024x576.jpg)
-
 In November 2020, my partner Liuba and I were invited to partake in an online discussion with Liam Kavanagh on establishing the foundations of a “Contemplative Citizen Science”. My research interests have been devoted these past few years to the growth and sustainability of online epistemic communities (open source, open innovation, open science…), and Liuba’s focus had more recently been on the spatial architectures fostering real-world community interactions.
 
 During the past year, we have been navigating across a few intentional communities, noticing a common set of questions that would resonate with our own shared interests. In particular, intentional communities are often reported to foster a form of _self-knowledge_ that leads to therapeutic self-care. But what is the recipe that makes such groups best operate? When does communal burn-out disrupt self-care? What is the sweet spot of structure and self-organization for individuals and collectives to dance along? 

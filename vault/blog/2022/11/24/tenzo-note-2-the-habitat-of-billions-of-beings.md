@@ -10,8 +10,6 @@ image: /assets/images/Blog-Feature-Images-33-1.jpg
 
 #### _In the zen community, the tenzo is the cook. Every month, Valerie Duvauchelle, our Bergerac Praxis Hub tenzo, shares her thoughts in the tenzo notes series._
 
-![](/assets/images/Blog-Feature-Images-33-1-1024x576.jpg)
-
 We do not always realize how much our life is in danger and how much we are saved daily by our body. Several times a day, the greatest battles of the universe are played out inside our body. Hundreds of thousands of living beings are killed so that billions of others survive and maintain the mysterious balance that makes us a living being.
 
 From the stars, our earth appears as an entity in its own right living among its fellow creatures in the solar system. From the earth, each human being is also a full-fledged being living among his fellow human beings in society and in nature. And from the human, each bacterium lives in the middle of its colleagues, in the microbiome (place of the intestinal flora).

@@ -10,8 +10,6 @@ authors:
 image: /assets/images/Blog-Feature-Images-14.png
 ---
 
-![](/assets/images/Blog-Feature-Images-14-1024x576.png)
-
 > "We know that the bottom line of business is profit. But to _profit_ means “to benefit from.” … there’s nothing wrong with making money. It’s possible to make money in a way that is not destructive, that promotes more social justice and more understanding and lessens the suffering that exists all around us. To do this, we need to be free from the pursuit of power, wealth, fame, and sex. … it’s possible to work in the corporate world in a way that brings a lot of happiness, both to other people and to us."
 > 
 > Thich Nhat Hanh. “The Art of Power”

@@ -11,8 +11,6 @@ authors:
 image: /assets/images/Blog-Feature-Images-3.jpg
 ---
 
-![](/assets/images/Blog-Feature-Images-3-1024x576.jpg)
-
 Notes on Tetlock and Gardner's _Superforecasting: The Art and Science of Prediction_.
 
 Good book. A bit too journalisty for me at points but overall a very good balance of academic and popular. As is often the case, you could probably distill the majority of it down to ten pages (plus appendix on psychology). At the same time, the authors walk through complex ideas, skilfully illustrate the ideas with anecdotes and stories and retain the nuance of the underlying subject matter.

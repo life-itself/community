@@ -8,8 +8,6 @@ authors:
 image: /assets/images/Blog-Feature-Images-26.jpg
 ---
 
-![](/assets/images/Blog-Feature-Images-26-1024x576.jpg)
-
 _True conservatism involves planning for storms on the horizon._
 
 The conservative assumptions required of financial planners allow them to help plan for clients' financial welfare in all reasonably forseeable scanarios. This means being pessimistic about how rosy the future will be. Yet a different and perhaps unfortunate use of the term “conservative” prevails in climate discussions: “conservative” projections are, by definition, those that assume a future that looks like the past.  

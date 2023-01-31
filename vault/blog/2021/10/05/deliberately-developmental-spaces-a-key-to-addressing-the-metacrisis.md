@@ -58,8 +58,6 @@ Putting this together we define  **“deliberately developmental spaces”** as
 
 _Physically colocated groups together for a sustained period of time with a conscious engagement in multidimensional developmental praxis._
 
-![](/assets/images/dsc_9971_sarah_hickson-1024x683-1.jpg)
-
 ## Key principles for the design of these spaces
 
 In addition to these defining characteristics, we hypothesise the following principles which inform the design of these spaces to maximise their transformative potential at both the individual and social level.

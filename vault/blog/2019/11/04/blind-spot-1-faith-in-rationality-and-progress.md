@@ -13,8 +13,6 @@ authors:
 image: /assets/images/Blog-Feature-Images-25.png
 ---
 
-![](/assets/images/Blog-Feature-Images-25-1024x576.png)
-
 As I watched reports of the Arctic wildfires this summer and witnessed the climate protests of the fall, I wondered: are we finally nearing that long-anticipated, long-dreaded point of collective reckoning? Will the world’s sights and sounds force our guts to feel what our intellect has long held in ghostly form? Humans have messed the earth up badly, and destruction is easier than healing, which is a truth basic enough to make it into nursery rhyme:
 
 > Humpty Dumpty sat on a wall,  

@@ -17,8 +17,6 @@ We're excited to announce the alpha version of our ecosystem mapping directory e
 
 The site is one output from our [ongoing efforts to map an emerging ecosystem](https://lifeitself.org/ecosystem/). It provides a growing directory of organizations, communities and individuals organized by theme and activity. It also includes background content and interviews as well as visual overviews of the space.
 
-![](/assets/images/state-of-sensemaking-home-launch-20211012-1-1024x538.png)
-
 **Why**: currently, the ecosystem is largely uncharted and undefined making it hard to discover, navigate and engage with. We hope that mapping the ecosystem helps it become (more) visible, self-aware, interconnected, resourced and effective.
 
 **How**: the first stage of the project involves the creation of a directory, outlining the types and areas of focus of these organisations. Over time, we plan more in depth analysis to map the ecosystem and chart how actors relate to one another across a number of dimensions.

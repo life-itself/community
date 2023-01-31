@@ -8,8 +8,6 @@ authors:
 image: /assets/images/Blog-Feature-Images-29.jpg
 ---
 
-![](/assets/images/Blog-Feature-Images-29-1024x576.jpg)
-
 Welcome to our August newsletter! Here at the Life Itself Bergerac Hub, we've been hosting our "Light, Shadow, Integration" residency. While enjoying the late summer sun and the cooling Dordogne river, we've been dwelling deeply in the present moment and re-exploring our relationship with the intellect. We've been considering, how do we acknowledge our culture’s overrating of thought and theory, and the associated trauma, without getting caught in anti-thought and delusion (which are thoughts)? How do we discuss all the stuff that fills our heads without re-traumatising ourselves?
 
 Behind the scenes, the team organizing our autumn Embodying Collective Transformation residencies have been hard at work getting everything ready for three months of collective transformation. The first residency kicks off in just a week(!) and the team are getting excited to welcome our first cohort of attendees into our beautiful hub.

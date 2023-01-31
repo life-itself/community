@@ -11,8 +11,6 @@ image: /assets/images/Blog-Feature-Images-30.jpg
 
 #### _In the zen community, the tenzo is the cook. Every month, Valerie Duvauchelle, our Bergerac Praxis Hub tenzo, shares her thoughts in the tenzo notes series._
 
-![](/assets/images/Blog-Feature-Images-30-1024x576.jpg)
-
 It is not uncommon, especially when we are in a group, to see our hunger awaken. But is this sensation really the expression of a physiological need or is it the fear of lack waking up when we share our food in community?
 
   

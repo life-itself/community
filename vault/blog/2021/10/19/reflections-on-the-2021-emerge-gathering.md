@@ -16,8 +16,6 @@ I felt truly privileged to be in attendance, and to share space with so many ent
 
 My time in Berlin wasn’t simply spent as an attendee, however. Life Itself put together a whole programme of events both prior to and as part of the Gathering itself, to explore with friends both new and old how we might bring about a wiser and weller world for all. Thursday saw us host a workshop, under the guidance of our Pioneer Valerie Duvauchelle, exploring our relationship with food. Through a series of activities helping us link an analysis of the scarcity mindset underpinning our food systems, to our own personal responses to feelings of stress and scarcity, we were able to take a new perspective on the true costs of our consumption in a manner that was both profound and refreshingly non-judgemental. The workshop was then followed by a spectacular nine course Shojin Ryori dinner again prepared by Valerie, who guided us through the Zen principles underlying the flavours, preparation and eating of the meal.
 
-![](/assets/images/WhatsApp-Image-2021-10-07-at-20.27.20-768x1024.jpeg)
-
 Putting the final touches to the dinner table.
 
 The Friday before the conference, we launched the Alpha version of our [State of Sensemaking Ecosystem map](https://ecosystem.lifeitself.org/) with a fascinating discussion featuring Alistair Langer, James Redenbaugh and Life Itself’s very own Lauren Uba. Our panel shared their own perspectives on the emerging ecosystem we find ourselves in, and sparked a number of great insights from the larger group around where we are and where we might wish to head in the future.  I don’t have the space to capture all of them here, but a number of key lessons stood out to me.

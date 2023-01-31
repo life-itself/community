@@ -8,8 +8,6 @@ authors:
 image: /assets/images/IMG_9736.jpg
 ---
 
-![](/assets/images/IMG_9736-1024x768.jpg)
-
 #### _“How are we called to deepen our individual and collective capacity to care for the wellbeing of all life?”_
 
 On the 1st of November, a group of strangers from across the globe came together in a tall house in a small town in the south of France to embark on a journey of inquiry into this question. The reason for our congregation was to take part in a month-long “Embodying Collective Transformation” community residency. Perhaps I’m only speaking for myself when I say that as I stepped off the train in Bergerac, I wasn’t sure what to expect of the following month. I knew the title of the residency, I had read the website, I had spoken with the residency hosts and had checked out the recommended preparatory resources, but what did “embodying collective transformation” actually mean? Was I really going to come away “transformed”? Did I even want to?

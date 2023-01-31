@@ -11,8 +11,6 @@ authors:
 image: /assets/images/Blog-Feature-Images-12.png
 ---
 
-![](/assets/images/Blog-Feature-Images-12-1024x576.png)
-
 When I was 4 my mother would take me to the Louvre as she was preparing for her exam to become a tour guide. She would always bring paper and pencil for me to sit and draw and my favourite section was the greek sculptures! Not only were these sculpture about these extraordinary gods and goddess fabulous but their mythology was so powerful! These stories and archetypes became part of my own mythology.
 
 We live in a world of Mythologies. They are the stories that reinforce the way we relate to ourselves and the world around us. Mythology can be liberating but also a prison: we’ve seen many battle to free ourselves from certain myths, for example that women are less than men.

@@ -9,8 +9,6 @@ authors:
 image: /assets/images/Blog-Feature-Images-29.jpg
 ---
 
-![](/assets/images/Blog-Feature-Images-29-1024x576.jpg)
-
 The Bergerac Hub is buzzing with activity this October as we enter into the second of our three Embodying Collective Transformation residencies. Amid the activity, however, we take the time to recognize a special time for us - the marking of one year of residencies in the Bergerac Hub.
 
 Over the coming week will be sharing reflections on and testimonies from our residencies. First up, we have Valerie Duvauchelle, Life Itself Pioneer and co-curator of the Bergerac Hub, who has kindly written down her reflections on a year of “[sympoietic](https://en.wiktionary.org/wiki/sympoietic) living”.

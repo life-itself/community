@@ -10,8 +10,6 @@ authors:
 image: /assets/images/Blog-Feature-Images-14.jpg
 ---
 
-![](/assets/images/Blog-Feature-Images-14-1024x576.jpg)
-
 by Dr Liam Kavanagh
 
 Since its 2009 publication, many have been captivated by Iain McGilchrist’s _The Master and His Emissary (TMAHE)_. The book, whose jacket is decorated by approving quotes from famous thinkers and neuroscientists, provides a compelling exploration of the curious division of the brain into two hemispheres. It also relates this hemispheric divide, which has fascinated and frustrated neuroscience for centuries, to a profound perspective on the nature of being and the evolution of western culture, all in erudite but still relatable language.

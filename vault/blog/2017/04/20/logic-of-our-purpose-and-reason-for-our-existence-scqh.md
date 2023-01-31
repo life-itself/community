@@ -11,8 +11,6 @@ authors:
 image: /assets/images/Life-Itself-the-Reason-for-our-Existence-–-a-Preliminary-SCQH.png
 ---
 
-![](/assets/images/Life-Itself-the-Reason-for-our-Existence-–-a-Preliminary-SCQH-1024x576.png)
-
 [Sketches of a future society slides - DOWNLOAD](/assets/sketches-of-a-future-society-art-earth-tech-scqh-rufus-april-2017.pdf)
 
 Slides presented at the Art / Earth / Tech (Life Itself) sprint on 12 April 2017. This reflects early thinking on a more detailed explanation of purpose of Life Itself and the logic for its existence. Note these are my personal views and may not reflect those of everyone else!

@@ -10,8 +10,6 @@ authors:
 image: /assets/images/Blog-Feature-Images-22.jpg
 ---
 
-![](/assets/images/Blog-Feature-Images-22-1024x576.jpg)
-
 As part of our project to map the space that organisations like ours operate within, we had a great conversation with Adam Brock from [Regenerate Change](https://regeneratechange.com/), about social design and deepening relationships. Read below to find out more. 
 
 _Adam’s Journey_ 

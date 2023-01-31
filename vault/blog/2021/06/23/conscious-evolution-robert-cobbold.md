@@ -10,8 +10,6 @@ authors:
 image: /assets/images/Blog-Feature-Images-15.jpg
 ---
 
-![](/assets/images/Blog-Feature-Images-15-1024x576.jpg)
-
 We caught up last week with Robert Cobbold, who runs [Conscious Evolution](https://www.consciousevolution.co.uk/). Conscious Evolution is ‘the intentional effort to drive forward our individual and collective evolution. It is consciously leading our lives and designing our societies to unleash our evolutionary potential.’
 
 We spoke with Robert about the great need to map coherently the space that organisations like ours exist within. He agreed with us that he meets so many interesting people doing brilliant work, and yet it can remain tricky trying to determine exactly who is out there, doing exactly what, and how we can all best communicate and collaborate.

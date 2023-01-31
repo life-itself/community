@@ -9,8 +9,6 @@ authors:
 image: /assets/images/Blog-Feature-Images-13.png
 ---
 
-![](/assets/images/Blog-Feature-Images-13-1024x576.png)
-
 Notes on McGilchrist’s _The Master and His Emissary: The Divided Brain and the Making of the Western World_.
 
 This is an exceptional and extraordinary book. Its breadth and learning are awe-inspiring. Its topic of profound importance, its argument fascinating, thought-provoking and compelling. It defies categorisation: it is a work of reasoned ontology that bridges science and philosophy, history and literary criticism. It talks about the most important questions of how we “be in the world”, using reason and language but transcending them, a worthy exemplar of a “finger pointing at the moon”.

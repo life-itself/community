@@ -9,8 +9,6 @@ authors:
 image: /assets/images/Youtube-Thumbnail-Template-3.png
 ---
 
-![](/assets/images/Youtube-Thumbnail-Template-3-1024x576.png)
-
 We are excited to announce the newest era of The Life Itself Podcast! Welcome to 'Exploring Social Transformation', our newest series in which we explore the the full spectrum of work Life Itself is involved in.
 
 In this first episode, Life Itself team members Theo Cox and Eilidh Ross introduce this new series, discussing how our web3 project fits in with the wider social transformation work Life Itself engages with. Theo also introduces the newest branch of Life Itself, Life Itself Labs, discussing what Labs has already been up to and his aspirations for the future of the project.

@@ -8,8 +8,6 @@ authors:
 image: /assets/images/Screenshot-2022-06-09-at-14.51.41.png
 ---
 
-![](/assets/images/Screenshot-2022-06-09-at-14.51.41-1024x531.png)
-
 Some of our more eagle eyed readers may have noticed us begin to reference Life Itself Labs in some of our recent work. We’re therefore extremely proud to be giving Labs the proper launch it deserves. Life Itself Labs will act as a subsidiary of Life Itself, housing our research and consulting activities particularly on the themes of alternative economics and governance, and technology and society. 
 
 While we view inner transformation as a vital and overlooked element of social change, we are also aware that this must be both supported and reflected by the external structures of our societies. We’ve been engaged in this dual approach for some time now and are excited to finally give the systems-focused area of our work a clear home, bringing our unique perspective – marrying the inner and outer domains – into this high leverage area. 

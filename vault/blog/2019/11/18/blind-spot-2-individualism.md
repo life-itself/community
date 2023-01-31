@@ -12,8 +12,6 @@ authors:
 image: /assets/images/Blog-Feature-Images-26.png
 ---
 
-![](/assets/images/Blog-Feature-Images-26-1024x576.png)
-
 I started off this series of four blogs by first introducing the three major cultural attachments that Art Earth Tech has been taking as a theme this last year —rationality, individuality, and equality — and the blind spots that these attachments create. Next, I made the case that our religious faith in rationality stalls action on climate. Persistent faith that rational inquiry is _just about to_ come up with a technological fix is one well known problem but just as important is the notion that _we can understand the climate crisis precisely_, and that very good models of the climate are possible and necessary for action. This leads to time wasted waiting for firmer scientific consensus and clearer answers, when really none are possible.
 
 Though we have known it is “time for action” for decades, our culture of individualism has made political action almost impossible. Reducing carbon emissions is clearly technically possible, _there are straightforward ways of doing this — we could put a high price on carbon for example. But such measures have been politically impossible because they affect the individual’s ability to choose to buy what they want. We are allergic to this idea, because we have been told we can “do it my way” that there is a sphere of individual choice that is a natural and even sacred space._ The belief that we are entitled to live our own lives, doing our own thing, without interference from anybody, is quite dear to us. Libertarianism is basically this sentiment turned into a political creed; it claims to advance freedom by forbidding us to write laws.

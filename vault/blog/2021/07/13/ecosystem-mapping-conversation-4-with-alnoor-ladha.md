@@ -10,8 +10,6 @@ authors:
 image: /assets/images/Blog-Feature-Images-18.jpg
 ---
 
-![](/assets/images/Blog-Feature-Images-18-1024x576.jpg)
-
 Recently, we met with Alnoor Ladha, Board Member at [Culture Hack Labs](https://www.culturehack.io/), as part of our ongoing effort to map the space that organisations such as ours operate within. Alnoor gave a starkly honest depiction of the polycrisis facing humanity currently. Read a summary of his story, and the perspectives he shared, below:
 
 _Alnoor’s Personal Journey_ 

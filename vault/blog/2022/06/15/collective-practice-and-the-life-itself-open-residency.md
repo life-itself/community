@@ -9,8 +9,6 @@ authors:
 image: /assets/images/Blog-Feature-Images-17.png
 ---
 
-![](/assets/images/Blog-Feature-Images-17-1024x576.png)
-
 In the third episode of our Exploring Social Transformation series, Eilidh Ross sits down with Life Itself Pioneer, Valérie Duvauchelle. Valérie discusses the value collective practice brings to a community and tells us what we can expect from the upcoming Open Residency at the Life Itself Bergerac Hub. Valérie also offers some insight into individual activation and its central position in social transformation. To learn more about the upcoming Open Residency and to apply head over to https://lifeitself.org/open-residency/
 
 ## Watch:

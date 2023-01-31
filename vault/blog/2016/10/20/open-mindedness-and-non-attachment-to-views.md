@@ -12,8 +12,6 @@ authors:
 image: /assets/images/Blog-Feature-Images-6.png
 ---
 
-![](/assets/images/Blog-Feature-Images-6-1024x576.png)
-
 > … Seeing that harmful actions arise from anger, fear, greed, and intolerance, which in turn come from dualistic and discriminative thinking, I will cultivate openness, non-discrimination, and non-attachment to views in order to transform violence, fanaticism, and dogmatism in myself and in the world.
 > 
 > **Thich Nhat Hanh, First Mindfulness Training “Reverence for Life”**[1](https://artearthtech.com/2016/10/20/open-mindedness/#fn:1)

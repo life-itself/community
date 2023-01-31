@@ -8,8 +8,6 @@ authors:
 image: /assets/images/Blog-Feature-Images-24.png
 ---
 
-![](/assets/images/Blog-Feature-Images-24-1024x576.png)
-
 Welcome to our latest monthly update! June has been pretty glorious here in the south of France; we've been soaking up the sun on the banks of the Dordogne, jumping into its sparkling blue waters to cool off, and planning a total of five residencies so you can come enjoy it too!
 
 In this month's newsletter we'll tell you all you need to know about our upcoming residencies, as well as update you on everything else we've been up to - including the launch of a brand new podcast series! We hope you enjoy and, as ever, please do [get in touch](https://lifeitself.org/contact/) with any questions, comments or just to say hi; we love hearing from you 💛

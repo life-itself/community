@@ -8,8 +8,6 @@ authors:
 image: /assets/images/Blog-Feature-Images-21.png
 ---
 
-![](/assets/images/Blog-Feature-Images-21-1024x576.png)
-
 We started Life Itself in 2016 because it seemed time for seeds of another culture to sprout. My hope was actually largely based on what was falling apart. Disturbing elections were happening, faith in capitalism was shaken, news about global warming was worsening.
 
 Death makes room for life, and chaos and lost faith mean new beginnings. I felt sure others must see this, too, and we would find them and build together. Our gatherings connected people yearning for integration of the creative spirit, love of life, and the intellect. 

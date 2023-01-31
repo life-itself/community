@@ -8,8 +8,6 @@ authors:
 image: /assets/images/497295a2-6fd4-436c-9867-73c1dd2ac12b-1.jpg
 ---
 
-![](/assets/images/497295a2-6fd4-436c-9867-73c1dd2ac12b-1-1024x768.jpg)
-
 Welcome to our July update! The past month has been one of lots of behind the scenes work: preparing our upcoming residencies, refactoring our web3 guide, and contemplating and developing an exciting new project. So lots to be keeping an eye out for over the next few months!
 
 The [Bergerac Hub](https://lifeitself.org/hubs/bergerac/) hosted an Open Residency in June/July. Summer by the Dordogne provided the perfect backdrop for a relaxed, "Minimum Viable Practices" residency. Life Itself's Summer Gathering is currently taking place in the Bergerac Hub, with both core team members and members of the wider community coming together to connect and create.

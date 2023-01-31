@@ -14,8 +14,6 @@ authors:
 image: /assets/images/Blog-Feature-Images-12.jpg
 ---
 
-![](/assets/images/Blog-Feature-Images-12-1024x576.jpg)
-
 Notes on Diana Leafe Christian's _Creating a life together: practical tools to grow ecovillages and intentional communities_ (2003). An excellent handbook on how to create intentional communities. Extremely useful with telling anecdotes, concrete practical steps and a lot of wise advice based on long and diverse experience -- not only did Christian live in community but she was editor of Communities magazine for many years.
 
 It is also worth quoting a favourite adage of Christian's that she credits to cohousing activist Zev Paiss.

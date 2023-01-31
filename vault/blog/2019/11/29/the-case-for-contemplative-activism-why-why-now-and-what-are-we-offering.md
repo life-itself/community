@@ -10,8 +10,6 @@ authors:
 image: /assets/images/Blog-Feature-Images-27.png
 ---
 
-![](/assets/images/Blog-Feature-Images-27-1024x576.png)
-
 We are proposing that contemplative awareness, skills and practices can inform our responses to our collective cultural process of deep and lasting change. These changes are now being rapidly forced upon us. We are having to confront as a society, collectively and individually, the end of our way of life due to the breakdown in both the natural systems that have ensured the unbroken continuation of life on earth, and the concurrent breakdown of human social political, and economic systems. Contemplatives have, over millennia, faced death, ending, and change in ways most people have not. These gatherings aims to define a new relationship between activism and contemplation, create a sangha for holding this relationship, and inform and deepen activism in social change actors such as Extinction Rebellion.
 
 These gatherings will inject something new into change and changing making in our societies. We need something new because we face challenges and changes which we are unprepared for. We need another way of considering the present and future- a present in which we are facing the loss of just about everything, despite staggering levels technical achievements and knowledge.

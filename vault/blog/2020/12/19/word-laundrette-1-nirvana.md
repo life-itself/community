@@ -11,8 +11,6 @@ authors:
 image: /assets/images/Blog-Feature-Images-8.jpg
 ---
 
-![](/assets/images/Blog-Feature-Images-8-1024x576.jpg)
-
 ![](/assets/images/laundry.jpeg)
 
 _Word Laundrette is a new feature in which writers help to hand wash precious words of the grime smeared on them in our profiteering culture._

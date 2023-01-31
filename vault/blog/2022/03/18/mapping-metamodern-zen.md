@@ -9,8 +9,6 @@ authors:
 image: /assets/images/Blog-Feature-Images-28.jpg
 ---
 
-![](/assets/images/Blog-Feature-Images-28-1024x576.jpg)
-
 This post on Zen Buddhism is the second in a series of essays summarizing key traditions within the emerging metamodern ecosystem. To learn more about Life Itself's Mapping Metamodern project, visit our website [here](https://ecosystem.lifeitself.org/).
 
 ## Summary

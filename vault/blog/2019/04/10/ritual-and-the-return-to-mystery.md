@@ -11,8 +11,6 @@ authors:
 image: /assets/images/Blog-Feature-Images-19.png
 ---
 
-![](/assets/images/Blog-Feature-Images-19-1024x576.png)
-
 Ritual stands out as an element of religion, and became a symbol of superstition or arbitrary authority in the age of skepticism — but now, our culture seems to be getting skeptical towards skepticism. Will this movement usher ritual back into the mainstream along with yoga and meditation?
 
 The form of Catholic sacraments largely determined what would be associated with the word ritual in the Western mind. They were built by a tradition that reached, for over 1000 years for the visceral feelings of mystery and meaning, and the elaborate sacraments reinforced the church’s authority in matters of the mystical, making it THE CHURCH for centuries. Rational questioning of tradition-derived authority drove much of the “enlightenment”, and remade our culture. Now, ritual is often cast as a prop that allows tragically misguided or even sinister institutions to acquire burdensome power over the closest thing to a soul that humans have. Our Christian past may have contributed to the belief in human dignity and universal brotherhood that powered many of the enlightenment’s successes, but ritual and ceremony have often been seen, especially in intellectual circles, as unfortunate sticky residue to be peeled off from any valuable material contained inside Christianity.

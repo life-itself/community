@@ -9,8 +9,6 @@ authors:
 image: /assets/images/Blog-Feature-Images.jpg
 ---
 
-![](/assets/images/Blog-Feature-Images-1024x576.jpg)
-
 This blog series has focused on three revolutionary ideas that have slowly turned into dogmas: the faith in the power of rationality and scientific inquiry, individualism, and equality. I am arguing that seeing these enlightenment concepts as "the truth" has created our most dangerous collective blind spots.
 
 Equality is the most difficult of these ideas to question. Almost all of us owe a great deal political movements that used ideals of equality as a rallying cry. Most of us come from ancestral lines who were peasants and serfs or were enslaved. A central tactic in their arguments and battles for the rights we now have, was to point out the vast similarities between themselves and humans at vastly different positions in the social hierarchy. Arguments that we are equality have brought groups closer together but not to equality. It has been barely more than 100 years since women could vote, and non-white people have been denied the vote until very recently by people that called themselves democratic. It has been a historical eyeblink since anybody but Kings and nobles had a real say in any country on Earth. As activism based on ideology of equality has achieved these thngs, the ideal of equality has become very ingrained.

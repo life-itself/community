@@ -8,8 +8,6 @@ authors:
 image: /assets/images/Blog-Feature-Images-4.jpg
 ---
 
-![](/assets/images/Blog-Feature-Images-4-1024x576.jpg)
-
 We are proposing that contemplative awareness, skills and practices can inform our responses to our collective cultural process of deep and lasting change.
 
   

@@ -8,8 +8,6 @@ authors:
 image: /assets/images/Blog-Feature-Images-31.jpg
 ---
 
-![](/assets/images/Blog-Feature-Images-31-1024x576.jpg)
-
 In September, October and November, the Bergerac Hub is hosting a series of "Embodying Collective Transformation" residencies. This series of three one-month-long residencies consist of a seven-day intensive training in personal and group practices for courageous collective transformation, followed by a three-week community immersion to integrate and deepen these practices in our daily lives. 
 
 During the first of these residencies over the past month, we have been exploring the question: “how is life calling us to embody collective transformation on behalf of the whole?” Some of what we have enjoyed together over the past few weeks include: morning meditation and dancing, cooking (and eating!) delicious meals, deepening our practice of skills for living in community, movie nights… and much more!

@@ -11,8 +11,6 @@ authors:
 image: /assets/images/Blog-Feature-Images-2.jpg
 ---
 
-![](/assets/images/Blog-Feature-Images-2-1024x576.jpg)
-
 Whether you're a beginner, an expert, or just wanting to try something new this isolation period, here are the eight precious exercises of Qi Gong to help loosen your mind and body in these times.
 
 Excerpts taken from [_The Power of Ch’i_](https://johndixonacupuncture.co.uk/2019/09/15/geoff-pikes-pa-tuan-tsin-the-eight-precious-sets-of-exercise/) by Geoff Pike.

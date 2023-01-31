@@ -13,8 +13,6 @@ image: /assets/images/conscious-parenting-workshop-true-inner-growth-for-a-true-
 
 ## Led by Esther Montmany
 
-![](/assets/images/esther-headshot-trees.jpg)
-
 [ReGister Now (free)](#register)
 
 We are delighted to be organizing a special two hour workshop on conscious parenting and education. Led by Esther Montmany who has more than twenty years experience and training, having led workshops all over the world as well as running the children's program at the Plum Village summer retreat.
@@ -27,8 +25,6 @@ Specifically  dedicated to families, educators and people who love children. Al
 - **Register**: [please register with the form below](#register)
 - **Language**: in English with translation to French.
 - **Questions**: please [contact us](https://lifeitself.org/contact/) 🙂
-
-![](/assets/images/conscious-parenting-workshop-true-inner-growth-for-a-true-happy-child-1024x733.jpg)
 
 Nous sommes ravis d'organiser un atelier spécial de deux heures sur la parentalité consciente et l'éducation. Dirigé par Esther Montmany qui a plus de vingt ans d'expérience et de formation, ayant dirigé des ateliers partout dans le monde et dirigé le programme pour enfants de la retraite d'été du Village des Pruniers.
 

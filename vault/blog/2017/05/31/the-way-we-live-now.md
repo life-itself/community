@@ -9,9 +9,8 @@ tags:
   - rufus-pollock
 authors: 
   - rufuspollock
+image: /assets/images/Blog-Feature-Images-4.png
 ---
-
-![](/assets/images/Blog-Feature-Images-4.png)
 
 _Leading up to The Gathering at the end of July we are sharing weekly blogposts written by [Art Earth Tech Institute](https://artearthtech.com/institute/) members Rufus Pollock and Liam Kavanagh. This week’s post is titled ‘The Way We Live Now’ and is a reflection on the world’s current situation and its shortcomings._
 

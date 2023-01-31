@@ -10,8 +10,6 @@ authors:
 image: /assets/images/Blog-Feature-Images-20.png
 ---
 
-![](/assets/images/Blog-Feature-Images-20-1024x576.png)
-
 Juan told us that they call us ‘younger brothers’, as their ancestors inhabited this world long before the ‘modern’ man emerged. Juan, a member of the Colombian indigenous Koguis tribe (also spelt Kogi), explained why they see us as their younger siblings as he described their different way of life. Then he came to the topic of technology; and to my surprise said his tribe aren’t against technology  —  it is about how we use it.
 
 He said the problem was that the modern man has the technological and industrial prowess to destroy huge swathes of the rainforest, but little understanding how to nurture the forest or live in harmony with nature.

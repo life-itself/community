@@ -9,8 +9,6 @@ authors:
 image: /assets/images/Blog-Feature-Images-16.png
 ---
 
-![](/assets/images/Blog-Feature-Images-16-1024x576.png)
-
 Fascinating book. Its argument for the functional role of religion has much to offer for our own interest in “re-spiritualising society”. The detailed grounding of religious belief and organisation in evolutionary group-selection and the rich set of examples are the analogy of neuroscience (and positive psychology) for buddhist ontology: a modern scientific and utilitarian grounding for ancient wisdom and tradition.
 
 He also believes in the possibility of transformation (from Chapter 7):

@@ -10,8 +10,6 @@ authors:
 image: /assets/images/Blog-Feature-Images-16.jpg
 ---
 
-![](/assets/images/Blog-Feature-Images-16-1024x576.jpg)
-
 Recently, we spoke to [Richard D. Bartlett](http://richdecibels.com/) as part of our ecosystem mapping project. Read below to find out about all of the amazing things he is doing within the space. 
 
 _**Richard’s background story**_

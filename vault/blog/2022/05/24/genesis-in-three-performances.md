@@ -14,8 +14,6 @@ A year ago, I was in the depth of a depression, suicidal thoughts would pass thr
 
 In the depth of the mud, the buds appeared, the germing lotus started to emerge out. It was clear to me that my self expression was through art – so I created that the following year I would have an exhibition in Florence, the city of my heart. Little did I know that it would be the beginning of a personal renaissance but also the opening for my path into a greater Renaissance, one for the world.
 
-![](/assets/images/20220320_220109-1024x576.jpeg)
-
 After the _Performance of Requiem for a Passing age I in Thénac - _March 2022__
 
 Even earlier, in 2020 I was starting to create [Requiem for a Passing Age](https://lifeitself.org/requiem/) with Simon Longstaff. But there was a real reluctance to share it because, deep down, I knew that if the requiem was not followed with an act of creation it would just leave us with a sense of being stuck in the mud of modernity. 

@@ -7,11 +7,10 @@ tags:
   - bergerac
 authors: 
   - valerie
+image: /assets/images/sesshin.jpeg
 ---
 
 _Written by Valerie - Tenzo and Life Itself Pioneer_
-
-![](/assets/images/sesshin.jpeg)
 
 It was in the community of Life Itself in Bergerac that our _zafus_ settled down to practice and move together to the rhythm of _Zazen_, cleaning, cooking and eating, and it was in this dynamic movement that we touched the heart (the literal meaning of _sesshin_). 
 

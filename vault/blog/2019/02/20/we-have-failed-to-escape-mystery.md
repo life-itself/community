@@ -10,8 +10,6 @@ authors:
 image: /assets/images/Blog-Feature-Images-18.png
 ---
 
-![](/assets/images/Blog-Feature-Images-18-1024x576.png)
-
 Is it possible to escape “spiritual” or “mystical” experience? “Mysticism” is an uncomfortable word for many of us, but it has the same root and probably the same experiential source as _mystery_. Mystery will be there as long as there are things larger than us, things that are significant and beyond our comprehension. Some things seem irreducibly mysterious. For example, nobody has ever found a way to explain conscious experience as the outcome of an analytically understandable process. Some things are just too large to understand, like the whole of history and our place in it. We must relate to all of this, somehow, but … how? Mysticism is an ancient answer, and one definition of the term is:
 
 ### 1\. The belief that … the spiritual apprehension of knowledge inaccessible to the intellect, may be attained through contemplation and self-surrender.

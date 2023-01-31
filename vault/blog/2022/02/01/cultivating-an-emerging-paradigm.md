@@ -11,8 +11,6 @@ authors:
 image: /assets/images/Blog-Feature-Images-27.jpg
 ---
 
-![](/assets/images/Blog-Feature-Images-27-1024x576.jpg)
-
 _By Tomas Björkman and Rufus Pollock. Tomas Björkman is a social entrepreneur, philosopher and co-initiator of Emerge. Rufus Pollock is co-founder of Life Itself._ _This piece was cross-posted in [Emerge](https://www.whatisemerging.com/opinions/cultivating-and-emerging-paradigm), 27.1.2022_.
 
 _This piece is a result of a collaborative dialogue between Tomas Björkman ([Ekskäret Foundation](https://ekskaret.se/)) and Rufus Pollock ([Life Itself](https://lifeitself.org/)). We’d like to thank Theo Cox of Life Itself for his support in editing it._

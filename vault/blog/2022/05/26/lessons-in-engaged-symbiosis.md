@@ -10,8 +10,6 @@ image: /assets/images/Picture-2.jpg
 
 ## _An update on Climate Action Community (CAC)_
 
-![](/assets/images/Picture-2.jpg)
-
 Hi, I’m Lauren! I’m a resident of the Life Itself Berlin Hub and the founder of Climate Action Community (CAC). I was asked to write an update about the Berlin hub, and to share about CAC and a project that CAC is currently embarking on.
 
 Truthfully, I often come face to face with my own shortcomings when I try to write about CAC. I think it’s a struggle to articulate what I think CAC is in the larger context of metamodernism and systems transformation. I want to share how it feels to participate in this space, but struggle to make visible, tangible and legible the impacts CAC has on participants and our surroundings when so much of what happens at CAC isn’t about happening -- it’s about a shift in being with. It’s about the challenges of concretizing something unknown and alive, naming something that is evolving and shifting before your very eyes. It’s about new ways of engaging in the world and with each other. How does CAC fit within the ethos of larger cultural transformation, and how can I articulate what I feel CAC is, in a blog post? So, please bear with me.

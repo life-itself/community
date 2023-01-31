@@ -9,8 +9,6 @@ authors:
 image: /assets/images/Blog-Feature-Images-19.jpg
 ---
 
-![](/assets/images/Blog-Feature-Images-19-1-1024x576.jpg)
-
 There’s not really an established term yet for the kind of way of living that we imagine and seek to pioneer. We've come to call it **"conscious coliving"** reflecting the fusion of two related practices: **conscious living** and **coliving**.
 
 Here we want to say a bit more about what we mean by conscious co-living as well as frame within it within the broader space of co-living and intentional communities.

@@ -10,8 +10,6 @@ authors:
 image: /assets/images/beech-tree-moss.jpg
 ---
 
-![](/assets/images/beech-tree-moss.jpg)
-
 I asked the question at the end of Sunday's Contemplative Activist Sangha call, “Have we held this exploration of Patriarchy contemplatively?” What did I mean by that? What does holding a discussion or an exploration contemplatively mean? I was curious about whether we felt that we'd held this sometimes hot and uncomfortable discussion as contemplatives (and some don’t like this term} or was it just ‘a discussion‘ like any other? What qualities might holding something contemplatively have? I was genuinely curious. Although it felt, at times, more of a discussion than something else.
 
 Contemplating this question and holding it with Carmen the next day, we came to something about the quality of holding. We can hold discussions contemplatively. What does that mean? We are not seeking to get anywhere. We are not thinking in terms of nailing something down, delineating, remarking, defining, or creating a closed definitive description. Rather we open, we are curious, maintain an attitude of not knowing, welcome ideas and feelings from ‘other knowing’ that might contradict or violate our sense of understanding. The difference, is the openness to welcoming the other, the unknown, or the stranger. It is radical hospitality, a Derridian way of being. It is a way of being that allows both our, and others, arising of otherness, altness, strange, and weirdness to come into the discussion as arising takes place. To be open to the mysterious maybe.  

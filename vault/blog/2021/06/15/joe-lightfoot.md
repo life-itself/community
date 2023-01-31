@@ -10,8 +10,6 @@ authors:
 image: /assets/images/Blog-Feature-Images-13.jpg
 ---
 
-![](/assets/images/Blog-Feature-Images-13-1024x576.jpg)
-
 We are currently embarking on a project to map the space of organisations similar to ourselves, that broadly share our core values and beliefs, and that are trying to change the world around us. Recently, we had a great chat with Joe Lightfoot, about his work and the space that we exist in. 
 
 Joe Lightfoot is dedicated towards cultivating new kinds of mutual aid community. He creates books, articles, podcasts and conversational forums that explore similar themes. He is hugely inspired by the emergence of a truly regenerative planetary culture and is fascinated by the inner journey of transformation that seems to be required for each of us to fully show up for this system-wide metamorphosis. Read more about him on his website here: [https://www.joelightfoot.org/](https://www.joelightfoot.org/) 

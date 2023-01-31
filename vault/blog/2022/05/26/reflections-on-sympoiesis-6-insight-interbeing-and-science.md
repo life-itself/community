@@ -8,8 +8,6 @@ authors:
 image: /assets/images/Blog-Feature-Images-11.png
 ---
 
-![](/assets/images/Blog-Feature-Images-11-1024x576.png)
-
 Over the past few weeks, the Bergerac Hub has been hosting our sixth Sympoiesis residency: Insight, Interbeing and Science. Together we explored the question, how can insight into interbeing be cultivated in a way that is supported by personal inquiry and understanding of science? 
 
 Two of the residency's attendees, Boaz and Amir, have offered their reflections on the experience.

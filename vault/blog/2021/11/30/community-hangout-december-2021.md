@@ -12,8 +12,6 @@ image: /assets/images/esther-headshot-trees.jpg
 
 [REGISTER TO ATTEND](https://forms.gle/J7tHUsg3c3c3bPJTA)
 
-![](/assets/images/esther-headshot-trees.jpg)
-
 ****This month we have special guest Esther Montmany who has spent more than 20 years developing a unique approach to conscious parenting and education.****
 
 She has worked with Mauricio and Rebecca Wild at their legendary school in Ecuador and led the children's program at Plum Village summer retreats as well as starting several initiatives of her own. More about Esther below.
@@ -38,8 +36,6 @@ Participants are welcome to join for as little or as much of the hour as they wo
 More background on [Community Hangouts](https://lifeitself.org/hangouts/)
 
 ## **About Esther**
-
-![](/assets/images/esther-headshot-trees.jpg)
 
 Esther has spent more than twenty years learning and sharing about the conditions that help humans beings to grow from their natural inner wisdom, rooted in themselves and in harmony with others. She has travelled around the world seeking cultures and communities in order to enrich her vision for the wiser nurturing and education of children.
 

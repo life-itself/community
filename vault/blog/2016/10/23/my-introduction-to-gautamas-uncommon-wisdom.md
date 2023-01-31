@@ -9,9 +9,8 @@ tags:
   - wisdom
 authors: 
   - rufuspollock
+image: /assets/images/Blog-Feature-Images-3-1024x576.png
 ---
-
-![](/assets/images/Blog-Feature-Images-3-1024x576.png)
 
 Long ago, when I was in a Boy Scout summer camp, we were making out way through a pack of candy that a few of us had pooled our money to buy (“Nerds”, I think) when we noticed that there was a prize competition. Thousands of dollars of prizes were there to be won, and to us, it was life changing money. We mused about the possibilities of the prizes at stake, and in our unrestricted childish imaginations the musings quickly acquired lifelike resolution, and we were nearly living in the new lives that Nerds were offering.
 
