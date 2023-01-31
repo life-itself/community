@@ -1,5 +1,5 @@
 ---
-title: "Esther Montmany on Conscious Parenting: A Three-Part Series"
+title: "Esther Montmany on Conscious Parenting"
 created: 2023-01-30
 categories: 
   - podcast
