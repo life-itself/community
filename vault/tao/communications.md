@@ -21,19 +21,19 @@ For detailed information on an optimal use of Twitter (which is more than we hav
 
 #### Instagram
 
-We have currently been posting 1 post every 2 weeks to Instagram. For details on posting to instagram, see [Publishing an Instagram Post](communications/publishing-an-instagram-post).
+We have currently been posting 1 post every 2 weeks to Instagram. For details on posting to instagram, see [Publishing an Instagram Post](https://lifeitself.org/tao/communications/publishing-an-instagram-post).
 
 ### YouTube and Podcast 
 
-For detailed instructions on how to produce and market YouTube and Podcast episodes, see [How to produce YouTube and podcast episodes](communications/producing-a-podcast-episode-guide).
+For detailed instructions on how to produce and market YouTube and Podcast episodes, see [How to produce YouTube and podcast episodes](https://lifeitself.org/tao/communications/producing-a-podcast-episode-guide).
 
 ### Publishing Blogs
 
-Blogs are published whenever we publish a new podcast/YouTube episode, before, during, and after residencies, and on other miscellaneous occasions. For details on how to publish a blog see [How to publish a blog](communications/guide-to-uploading-blogs).
+Blogs are published whenever we publish a new podcast/YouTube episode, before, during, and after residencies, and on other miscellaneous occasions. For details on how to publish a blog see [How to publish a blog](https://lifeitself.org/tao/communications/guide-to-uploading-blogs).
 
 ### Producing the monthly newsletter
 
-For a tutorial on how to produce the monthly newsletter, see [How to produce the monthly newsletter](communications/creating-the-monthly-newsletter)
+For a tutorial on how to produce the monthly newsletter, see [How to produce the monthly newsletter](https://lifeitself.org/tao/communications/creating-the-monthly-newsletter)
 
 ### Email front door and connecting with other innitiatives
 
