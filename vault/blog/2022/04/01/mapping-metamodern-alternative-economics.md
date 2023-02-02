@@ -75,7 +75,7 @@ The Wellbeing Economy Governments partnership (WEGo) is a collaboration of gover
 ## References
 
 - Carpenter, S. and Bennett, E. Reconsideration of the planetary boundary for phosphorus. Environmental Research Letters 6. 2011. [https://weall.org/wp-content/uploads/2019/12/A-WE-Is-WEAll-Ideas-Little-Summaries-of-Big-Issues-4-Dec-2019.pdf](/assets/A-WE-Is-WEAll-Ideas-Little-Summaries-of-Big-Issues-4-Dec-2019.pdf)
-- Raworth, K. A safe and just space for humanity: Can we live within the doughnut?. Oxfam Discussion Papers, 2012 [https://www-cdn.oxfam.org/s3fs-public/file\_attachments/dp-a-safe-and-just-space-for-humanity-130212-en\_5.pdf](/assets/dp-a-safe-and-just-space-for-humanity-130212-en_5.pdf)
+- Raworth, K. A safe and just space for humanity: Can we live within the doughnut?. Oxfam Discussion Papers, 2012 [https://www-cdn.oxfam.org/s3fs-public/file\_attachments/dp-a-safe-and-just-space-for-humanity-130212-en\_5.pdf](assets/dp-a-safe-and-just-space-for-humanity-130212-en_5.pdf)
 
 ## Further Reading
 
