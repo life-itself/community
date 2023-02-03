@@ -59,13 +59,13 @@ fcd34d ^RRgNf46e
 
 
 # Embedded files
-5f8ea32deca453a463532ec2474aff9d0f588e20: [[../assets/notebook/Pasted Image 20220323172139_862.png]]
-5f0982d78b8474d99f9046b201f8ba0d10c1c0c6: [[../assets/notebook/Pasted Image 20220323172139_873.png]]
-070946a9f5a4dd3d83886f2f9dfab8b70580cead: [[../assets/notebook/Pasted Image 20220323172139_881.png]]
-10b59d214f4df8bd0ee3097531d15a77a549798c: [[../assets/notebook/Pasted Image 20220323172139_956.png]]
-7bf4e4dd744f68c6f6be267b3c5901cc05dc2031: [[../assets/notebook/Pasted Image 20220323172140_004.png]]
-331fd6ff344fc2a66660caed79dad3ffce79bae3: [[../assets/notebook/Pasted Image 20220323172140_043.png]]
-afc48493cedce20aad4b3fd3fbf3ded004943e0b: [[../assets/notebook/Pasted Image 20220323172140_079.png]]
+5f8ea32deca453a463532ec2474aff9d0f588e20: [[../assets/notes/Pasted Image 20220323172139_862.png]]
+5f0982d78b8474d99f9046b201f8ba0d10c1c0c6: [[../assets/notes/Pasted Image 20220323172139_873.png]]
+070946a9f5a4dd3d83886f2f9dfab8b70580cead: [[../assets/notes/Pasted Image 20220323172139_881.png]]
+10b59d214f4df8bd0ee3097531d15a77a549798c: [[../assets/notes/Pasted Image 20220323172139_956.png]]
+7bf4e4dd744f68c6f6be267b3c5901cc05dc2031: [[../assets/notes/Pasted Image 20220323172140_004.png]]
+331fd6ff344fc2a66660caed79dad3ffce79bae3: [[../assets/notes/Pasted Image 20220323172140_043.png]]
+afc48493cedce20aad4b3fd3fbf3ded004943e0b: [[../assets/notes/Pasted Image 20220323172140_079.png]]
 
 %%
 # Drawing

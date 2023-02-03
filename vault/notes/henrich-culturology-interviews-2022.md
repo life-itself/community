@@ -132,4 +132,4 @@ New paper of his: this is the "cultural" revolution in economics. Dreamed of thi
 
 Genetic => Learning => more evolution e.g. expanding brains, orienting for learning => super learner => growing group (maybe more genetic stuff for cooperation/sociability) => big groups
 
-![[assets/notebook/Pasted image 20220916141303.png]]
+![[../assets/notes/Pasted image 20220916141303.png]]
