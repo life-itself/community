@@ -9,10 +9,13 @@ authors:
 image: /assets/images/image_2021-10-30_151727.png
 ---
 
+## Watch the hangout with Karl Steyaert 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CknEw_qNpoQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 **This month we have special guest Karl Steyaert, a visionary cultural catalyser who has worked with dozens of intentional communities such as Findhorn and Auroville as well universities and tech companies such as Netflix.** More about Karl below.
 
 - **When**: Sunday 7th November, 2021 at 6-7pm European / 12-1pm eastern US.
-- **Where**: Online (zoom). [Register with your email to get the link](https://forms.gle/J7tHUsg3c3c3bPJTA).
+- **Where**: Online (zoom). 
 - **Who**: anyone who’d like to come.
 - **Cost**: Free (obviously!)
 
