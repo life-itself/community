@@ -30,10 +30,10 @@ Sometimes it is possible that we need to create a logo variation for a particula
 2. Use [Canva](https://www.canva.com) (Account access available in Bitwarden) to create new logo variation.
 3. Create a new custom design with the dimensions 1200x500px 
 4. Add the icon to the left of the design at full height
-5. Add the text "Life Itself" using the font Martel Regular
-6. Add project title below "Life Itself" using Martel Sans Extra Light font
+5. Add the text "Life Itself" using the font Restora (note if you cannot find the font on Canva this is because it is a custom font. It is available on the Life Itself Canva, or can be downloaded from Google if using another Canva account)
+6. Add project title below "Life Itself" using Restora and Italicized
 7. Resize the text so that "Life Itself" and the project title are balanced with width and height (see image below)
-8. Download the design as a png file with a transparent background
+8. Download the design as a png and svg file with a transparent background
 
 ![Logo example of text balancing](/assets/tao/logo-text-balancing.jpg)
 _Examples of text balancing for longer and shorter project titles. Observe that the combined height of the text is balanced along the horizontal center with equal spacing above and below. Also note that the combined text has less height than the logo icon._
