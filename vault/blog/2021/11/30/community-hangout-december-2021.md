@@ -10,7 +10,8 @@ authors:
 image: /assets/images/esther-headshot-trees.jpg
 ---
 
-[REGISTER TO ATTEND](https://forms.gle/J7tHUsg3c3c3bPJTA)
+## Watch the hangout with Esther Montmany
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FR_HnXUn_mc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ****This month we have special guest Esther Montmany who has spent more than 20 years developing a unique approach to conscious parenting and education.****
 
