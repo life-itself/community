@@ -12,6 +12,7 @@ image: /assets/images/communications-2023-feature-image.jpg
 
 We are seeking a versatile and creative human to join the Life Itself team. You will be playing a key role in communicating about our projects and connecting with the community. The work can range from managing social media and podcast, to planning events and designing entire new initiatives.  
 
+---
 **Engagement Type:** Contract
 
 **Hours:** Part-time
@@ -21,8 +22,11 @@ We are seeking a versatile and creative human to join the Life Itself team. You 
 **Compensation:** Based on skills, experience and availability
 
 **Timeline:** Apply as soon as possible! Flexible on start date, but the sooner the better.
+
+---
+
   
-### Types of work  
+## Types of work  
   
 Some examples of the responsibilities you may take on as part of your role include:  
   
