@@ -4,7 +4,7 @@ created: 2023-02-06
 categories: 
   - jobs
 authors: 
-  - nathenfitchen
+  - nathen-fitchen
 image: /assets/images/communications-2023-feature-image.jpg
 ---
 
