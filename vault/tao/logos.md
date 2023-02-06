@@ -11,7 +11,7 @@ authors:
 
 We've created the following guide on how to use our logos and how to create alternative versions of the logo. 
 
-[Our logo assets can be downloaded here](https://drive.google.com/drive/folders/1LAwR00CFvEv9nYHzrUb4QeScgXOWN01V?usp=sharing)
+[Our logo assets can be downloaded here](/assets/tao/logo-assets.zip)
 
 ## How to use our logos
 
