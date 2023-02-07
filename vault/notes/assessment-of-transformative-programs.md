@@ -1,4 +1,7 @@
-# Assessment of Transformative Programs
+---
+title: Assessment of Transformative Programs
+created: 2021-08-10
+---
 
 We're interested in assessing transformative programs including our own ECT. We need to identify both factors we wish to assess and measures for assessing them.
 
@@ -14,6 +17,7 @@ We're interested in assessing transformative programs including our own ECT. We 
 
 - [ ] Inner Development Goals
 - [ ] Wisdom related measures
+- [ ] [[Pathways to Liberation Matrix]]
 
 ### Examples of assessment scales used by Martin and NonSymbolic
 
@@ -23,7 +27,7 @@ From Martin, J. A. (20210909). Effects of two online positive psychology and med
 
 **NB: this paper is a nice example of rigorously measuring and assessing a novel and related area**
 
-### Authentic Happiness
+### Authentic Happiness from Seligman and colleagues
 
 https://www.authentichappiness.sas.upenn.edu/testcenter
 

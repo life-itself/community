@@ -17,7 +17,6 @@ Steel-manned with my own additions. Any misinterpretations are my responsibility
 - This is especially problematic because of the (increasingly) powerful role that philanthropy (plus the big agencies e.g. World Banke etc) play in civil society: in many countries most organizations will depend or seek philanthropic funding and thus must accommodate themselves to the dominant philanthropic worldview.
 - Yes, of course, we can use the "master's tools to dismantle the master's house [and build a new one]". However, very few philanthropies are doing this explicitly or implicitly. You don't see e.g. the Gates Foundation saying: "Oh yes, we acknowledge that the route by which this wealth was accumulated is part of a dysfunctional system that needs profound change and we are going to dedicate all of these resources to effecting that kind of change"
 
-
 ## Comments / thoughts
 
 - would have been useful to compare philanthropy vs government. Suspect government spends more and has more influence on civil society than philanthropy.
