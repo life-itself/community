@@ -3,6 +3,7 @@ import Link from "next/link";
 import { useCallback, useEffect, useState } from "react";
 
 import { siteConfig } from "../config/siteConfig";
+import NewsletterForm from "./custom/NewsletterForm";
 import { Nav } from "./Nav";
 
 function useTableOfContents(tableOfContents) {
@@ -49,7 +50,8 @@ function useTableOfContents(tableOfContents) {
 }
 
 export function Layout({ children, tableOfContents }) {
-  const { editLink, toc, _raw } = children.props;
+  const { editLink, toc, type: pageType, _raw } = children.props;
+  console.log(children)
   /* if editLink is not set in page frontmatter, link bool value will depend on siteConfig.editLinkShow */
   const editUrl = `${siteConfig.repoRoot}${siteConfig.repoEditPath}${_raw?.sourceFilePath}`;
 
@@ -110,6 +112,7 @@ export function Layout({ children, tableOfContents }) {
             )}
           </main>
         </div>
+        {pageType !== "Podcast" && <NewsletterForm />}
         <footer className="bg-background dark:bg-background-dark prose dark:prose-invert max-w-none flex flex-col items-center justify-center w-full h-auto pt-10 pb-20">
           <div className="flex w-full flex-wrap justify-center">
             {siteConfig.navLinks.map(
