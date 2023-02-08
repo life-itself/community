@@ -51,7 +51,6 @@ function useTableOfContents(tableOfContents) {
 
 export function Layout({ children, tableOfContents }) {
   const { editLink, toc, type: pageType, _raw } = children.props;
-  console.log(children)
   /* if editLink is not set in page frontmatter, link bool value will depend on siteConfig.editLinkShow */
   const editUrl = `${siteConfig.repoRoot}${siteConfig.repoEditPath}${_raw?.sourceFilePath}`;
 

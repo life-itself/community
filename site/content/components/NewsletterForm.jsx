@@ -24,7 +24,10 @@ export default function NewsletterForm() {
   const onSubmit = (e) => {
     e.preventDefault()
     if (!inputEl.value) return
-    subscribe({ EMAIL: inputEl.value })
+    subscribe({
+      EMAIL: inputEl.value,
+      FNAME: inputEl.value.split("@")[0]
+    })
   }
 
   return (
