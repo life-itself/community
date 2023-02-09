@@ -1,7 +1,6 @@
+import { useState } from "react";
 import { formatDate } from "@/lib/formatDate.js";
-import { Children, useState } from "react";
-import { useMDXComponent } from "next-contentlayer/hooks";
-import React from "react"
+import { PostBody } from "./getPageBody.jsx";
 
 const BLOGS_LOAD_COUNT = 5
 
@@ -9,32 +8,6 @@ const BLOGS_LOAD_COUNT = 5
 //   const body = /^[A-Za-z0-9 ].*/gm.exec(post)
 //   return body[0]
 // }
-
-const strippedComponents = [
-  "h1", "h2", "h3", "h4", "h5", "h6", "li", "img", "ul", "ol", "div", "hr", "pre", "code"
-].reduce((acc,curr)=> (acc[curr]=() => <></>,acc),{})
-
-const PostBody = ({ code }) => {
-  const Component = useMDXComponent(code)
-  const components = {
-    ...strippedComponents,
-    p: (props) => {
-      if (typeof props.children === "string") {
-        return <p className="inline m-0" {...props} />
-      } else {
-        return <></>
-      }
-    },
-    wrapper: ({ children }) => {
-      return <div className="h-20 overflow-hidden line-clamp-3">{
-        children
-      }</div>
-    }
-  }
-  return (
-    <Component components={components} />
-  )
-}
 
 export function BlogsList({ posts }) {
   const [postsCount, setPostsCount] = useState(BLOGS_LOAD_COUNT);
@@ -84,7 +57,7 @@ export function BlogsList({ posts }) {
           <div className="flex flex-col space-y-1">
             {post.description 
               ? <p className="my-0">{post.description}</p>
-              : <PostBody code={post.body.code} />
+              : <PostBody code={post.body.code} frontmatterImage />
             }
             <a href={post.url_path} className="text-sm text-gray-500 hover:text-gray-900 pt-2 w-fit">{"[ Read more ]"}</a>
           </div>

@@ -1,6 +1,8 @@
+import { AuthorPosts } from "components/custom/AuthorPosts.jsx"
+
 /* eslint import/no-default-export: off */
 export default function PeopleLayout({ children, frontMatter }) {
-  const { name, avatar } = frontMatter;
+  const { name, avatar, id } = frontMatter;
 
   return (
     <article className="prose text-primary dark:text-primary-dark dark:prose-invert prose-headings:font-headings prose-a:break-words w-full mx-auto p-6">
@@ -17,6 +19,8 @@ export default function PeopleLayout({ children, frontMatter }) {
         </div>
       </header>
       <section>{children}</section>
+      <hr />
+      <AuthorPosts id={id} name={name} />
     </article>
   );
 }
