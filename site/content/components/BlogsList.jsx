@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { formatDate } from "@/lib/formatDate.js";
-import { PostBody } from "../../lib/getPageBody.js";
+import { PostBody } from "./getPageBody.jsx";
 
 const BLOGS_LOAD_COUNT = 5
 
@@ -57,7 +57,7 @@ export function BlogsList({ posts }) {
           <div className="flex flex-col space-y-1">
             {post.description 
               ? <p className="my-0">{post.description}</p>
-              : <PostBody code={post.body.code} />
+              : <PostBody code={post.body.code} frontmatterImage />
             }
             <a href={post.url_path} className="text-sm text-gray-500 hover:text-gray-900 pt-2 w-fit">{"[ Read more ]"}</a>
           </div>
