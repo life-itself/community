@@ -11,14 +11,34 @@ authors:
 
 We've created the following guide on how to use our logos and how to create alternative versions of the logo. 
 
-[Our logo assets can be downloaded here](/assets/tao/logo-assets.zip)
+## Logo Assets
+
+### Filetype: PNG
+
+[Icon only logo in color](../assets/tao/icon-color-logo.png)
+[Icon only logo in black](../assets/tao/icon-black-logo.png)
+[Logotype horizonal in color](../assets/tao/horizontal-color-logo.png)
+[Logotype horizonal in black](../assets/tao/horizontal-black-logo.png)
+[Logotype condensed in color](../assets/tao/condensed-color-logo.png)
+[Logotype condensed in black](../assets/tao/condensed-black-logo.png)
+
+
+### Filetype: SVG
+
+[Icon only logo in color](../assets/tao/icon-color-logo.svg)
+[Icon only logo in black](../assets/tao/icon-black-logo.svg)
+[Logotype horizontal in color](../assets/tao/horizontal-color-logo.svg)
+[Logotype horizontal in black](../assets/tao/horizontal-black-logo.svg)
+[Logotype condensed in color](../assets/tao/condensed-color-logo.svg)
+[Logotype condensed in black](../assets/tao/condensed-black-logo.svg)
+
 
 ## How to use our logos
 
 In the assets folder above you will notice we have several variations of our logo:
 - Icon only: This can be used where there is not enough room to include text or a place where Life Itself is only represented by the icon
 - Icon & horizontal text: This should be used when possible. It works best to represent Life Itself where the space for the logo is wider than it is taller, such as a presentation header
-- Icon & stacked text: This is best used to represent Life Itself when there is limited width space for the logo, but you want to use the text 
+- Icon & condensed text: This is best used to represent Life Itself when there is limited width space for the logo, but you want to use the text 
 - SVG files: All files in SVG format can be used on websites for optimal storage and scability
 - Black logo: All logo variations are available in black. Use this only if it is not possible to use the colour version. 
 
@@ -27,7 +47,7 @@ In the assets folder above you will notice we have several variations of our log
 Sometimes it is possible that we need to create a logo variation for a particular project. This is a step-by-step to do this.
 
 1. [Download the icon only png file](https://drive.google.com/file/d/1OiUQ7qvuSGnMgPeChncZx6QhiRwzTC96/view?usp=sharing)
-2. Use [Canva](https://www.canva.com) (Account access available in Bitwarden) to create new logo variation.
+2. Use [Canva](https://www.canva.com) (Account access available in Bitwarden) to create new logo variation
 3. Create a new custom design with the dimensions 1200x500px 
 4. Add the icon to the left of the design at full height
 5. Add the text "Life Itself" using the font Restora (note if you cannot find the font on Canva this is because it is a custom font. It is available on the Life Itself Canva, or can be downloaded from Google if using another Canva account)
