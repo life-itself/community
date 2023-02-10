@@ -21,7 +21,9 @@ We are seeking a versatile and creative human to join the Life Itself team. You 
 
 **Compensation:** Based on skills, experience and availability
 
-**Timeline:** Apply as soon as possible! Flexible on start date, but the sooner the better.
+**Timeline:** Apply as soon as possible! Flexible on start date, but the sooner the better
+
+**To Apply:** Email jobs@lifeitself.org, see more details about the application below
 
 ---
 
@@ -63,10 +65,10 @@ Further to this, the ideal candidate will be:
 * Open to trying out a diverse range of tasks  
 * Enthusiastic about coaching, feedback and being challenged  
 * Familiar and comfortable with modern digital tools such as google docs and chat  
-  
+
 ## To Apply  
   
-To apply, please send an email to hello@lifeitself.org include a CV and a cover letter answering as many of the following you can:  
+To apply, please send an email to jobs@lifeitself.org include a CV and a cover letter answering as many of the following you can:  
   
 * 2 projects you've created or contributed to, that demonstrate your practical abilities  
 * Any skills or experience relevant to the position  
