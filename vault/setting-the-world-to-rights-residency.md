@@ -37,13 +37,27 @@ Some examples of world saving questions are below. Which ones we explore will be
 * How can societies be happier and live in harmony with each other? 
 * What is consciousness and will changing attitudes towards it change civilisation?
 
-### Facilitator
+### Facilitators
 
-The residency will be faciliated by Life Itself co-founder, Liam Kavanagh.
+The residency will be faciliated by Life Itself co-founder, Liam Kavanagh and Victoria Wilding.
+
+### Liam Kavanagh
+
+![[assets/images/liam-Cropped.jpg]]
 
 Liam is a researcher, community organiser, and cultural activist working at the borders of secularity and spirituality. He draws on contemplative, intellectual, and collective wisdom practices to mediate the tensions that immobilise cultural imagination, allowing new visions for collective flourishing to emerge. 
 
 Learn more about Liam and his work [here](https://www.liamkavanagh.me/).
+
+### Victoria Wilding
+
+![[victoria-wilding.png]]
+
+Victoria is an evolutionary activist with a particular interest in advancing human development. Her focus is on the development of a new level of psychological management and its importance to facilitating large scale systems change. She believes humanity needs to consciously and intentionally develop their social, emotional and cognitive capacities to envision and build systems that serve all life on the planet. 
+
+Victoria is most well known for her breakthrough work synthesizing practice and knowledge around presence and meta-systemic cognition. She is quick to get to the core of an individual’s thinking and facilitates deep understanding, new perspectives and innovative solutions.
+
+While Victoria brings enormous and credible knowledge and experience to the table, her real magic exists in her presence. Victoria is wildly irreverent, fun, and always a straight shooter. She has an unparalleled ability is to get right to the heart of a matter with profound compassion and breathtaking clarity.
 
 ### [Apply now!](https://docs.google.com/forms/d/1IeTEIET38KYzTbl1Gh7O4PcJzm9UfbiLXtu48Yw6laM/prefill)
 
