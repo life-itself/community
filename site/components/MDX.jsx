@@ -4,11 +4,13 @@ import Head from "next/head";
 import { siteConfig } from "../config/siteConfig";
 import { CustomLink } from "./Link";
 import { Pre } from "./Pre";
+import { Mermaid } from "./Mermaid";
 
 const components = {
   Head,
   a: CustomLink,
   pre: Pre,
+  mermaid: Mermaid,
   wrapper: ({ layout, ...rest }) => {
     const Layout = require(`../layouts/${layout}`).default;
     return <Layout {...rest} />;
