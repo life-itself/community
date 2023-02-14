@@ -18,8 +18,8 @@ const userConfig = {
     { href: "/contact", name: "Contact"}
   ],
   socialLinks: {
-    instagram: "https://www.instagram.com/forlifeitself/",
     twitter: "https://twitter.com/forlifeitself",
+    instagram: "https://www.instagram.com/forlifeitself/",
     whatsapp: "https://chat.whatsapp.com/JNJCTZugNQn1fq89xbHtfA",
   },
   theme: { default: "" },
