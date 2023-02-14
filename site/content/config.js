@@ -17,6 +17,11 @@ const userConfig = {
     { href: "/podcast", name: "Podcast" },
     { href: "/contact", name: "Contact"}
   ],
+  socialLinks: {
+    twitter: "https://twitter.com/forlifeitself",
+    instagram: "https://www.instagram.com/forlifeitself/",
+    whatsapp: "https://chat.whatsapp.com/JNJCTZugNQn1fq89xbHtfA",
+  },
   theme: { default: "" },
   search: {
     provider: "kbar"
