@@ -20,7 +20,7 @@ export function AuthorPosts({ id, name }) {
       <div>
         <h2>Posts by {name}</h2>
       </div>
-      <ul className="list-none p-0 grid grid-cols-2 gap-4">
+      <ul className="list-none p-0 grid md:grid-cols-2 gap-4">
         {authorPosts && authorPosts.slice(0, postsCount).map(post => (
           <li key={post._id} className="flex flex-col overflow-hidden rounded-lg shadow-lg p-0">
             <div className="flex-shrink-0 m-0">
@@ -36,8 +36,11 @@ export function AuthorPosts({ id, name }) {
                   )}
                 </p>
                 <a href={`/${post.url_path}`} className="mt-2 block no-underline">
-                  <p className="text-xl font-semibold font-headings text-gray-900 underline">{post.title}</p>
-                  <PostBody code={post.body.code} frontmatterImage={post.image} />
+                  <p className="text-lg font-semibold font-headings text-primary underline">{post.title}</p>
+                  {post.description
+                    ? <p className="mt-3 text-base text-gray-500">{post.description}</p>
+                    : <PostBody code={post.body.code} frontmatterImage={post.image} className="text-gray-500" />
+                  }
                 </a>
               </div>
               <div className="mt-6 flex items-center">

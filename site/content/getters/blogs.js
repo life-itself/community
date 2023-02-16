@@ -1,7 +1,7 @@
 import { allBlogs, allDocuments } from 'contentlayer/generated';
 import { siteConfig } from '../../config/siteConfig';
 
-export default function getPodcasts() {
+export default function getBlogs() {
   const authors = allDocuments.filter(doc => doc.type === "Person")
   const blogs = allBlogs.filter(post => !post.isDraft)
     .map(post => ({
