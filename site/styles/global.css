@@ -1,4 +1,5 @@
 @import "remark-callouts/styles.css";
+@import '@splidejs/react-splide/css/core';
 
 /* Fonts */
 @font-face {
