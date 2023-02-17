@@ -6,6 +6,9 @@ authors:
 image: /assets/images/ouroboros.jpg
 ---
 
+![[assets/images/ouroboros-residency- facebook.png]]
+
+
 ## *What is the posture beyond internalised patriarchy?*
 
 ## Summary
@@ -20,7 +23,7 @@ The patriarchal structures and systems built over centuries have been internalis
 
 The unfortunate reality is the values and expectations of these patriarchal structures and systems have resulted in a posture where we as a species have sacrificed our capacity and yearning for greater agency, connection and engagement at all levels of society.
 
-The seismic shifts we need to effectively respond to this meta-crisis, are systemic, global, and urgent, requiring us to access our intuition and creativity. 
+The seismic shifts we need to effectively respond to this meta-crisis, are systemic, global, and urgent, requiring us to access our intuition, creativity and imagination. 
  
 The Ouroboros residencies will be dedicated to creating the conditions to strengthen our connection to these innate capacities by bringing our attention moment by moment to our “posture” and noticing how it in-forms us. 
 
@@ -40,7 +43,7 @@ We will have a maximum of 12 participants and 3 facilitators.
 
 From 750 to 1350 euros
 
-### [Learn more and apply](https://docs.google.com/forms/d/1IeTEIET38KYzTbl1Gh7O4PcJzm9UfbiLXtu48Yw6laM/prefill)
+### [Learn more and apply](https://docs.google.com/forms/d/e/1FAIpQLSdiykDKyZR6DgtPKeYuNePy9sWc-qkIc4BVfKBRjkFWKvFp-g/viewform)
 
 
 ## Overview
