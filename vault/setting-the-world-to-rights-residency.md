@@ -59,7 +59,7 @@ Victoria is most well known for her breakthrough work synthesizing practice and 
 
 While Victoria brings enormous and credible knowledge and experience to the table, her real magic exists in her presence. Victoria is wildly irreverent, fun, and always a straight shooter. She has an unparalleled ability is to get right to the heart of a matter with profound compassion and breathtaking clarity.
 
-### [Apply now!](https://docs.google.com/forms/d/1IeTEIET38KYzTbl1Gh7O4PcJzm9UfbiLXtu48Yw6laM/prefill)
+### [Apply now!](https://docs.google.com/forms/d/e/1FAIpQLSdiykDKyZR6DgtPKeYuNePy9sWc-qkIc4BVfKBRjkFWKvFp-g/viewform)
 
 ## Context
 
@@ -103,7 +103,7 @@ Arguments go around and around in circles without ending up anywhere for a few r
 
 We’ve all been there: the conversation turns to the big picture, what a wonderful world we could have if we could just set our mind to it? Why does the better world we imagine elude us? Why can’t we make it like this? Why is our society seemingly in disarray? The questions come fast and furious.
 
-[Apply now.](https://docs.google.com/forms/d/1IeTEIET38KYzTbl1Gh7O4PcJzm9UfbiLXtu48Yw6laM/prefill)
+[Apply now.](https://docs.google.com/forms/d/e/1FAIpQLSdiykDKyZR6DgtPKeYuNePy9sWc-qkIc4BVfKBRjkFWKvFp-g/viewform)
 
 
 
