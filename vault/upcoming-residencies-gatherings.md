@@ -8,14 +8,6 @@ image: /assets/images/Blog-Feature-Images-11.png
 
 @[Life Itself Praxis Hub, Bergerac](https://lifeitself.org/hubs/bergerac/), South of France
 
-## Miso retreat , Feb 2023
-
-- **When:** 5th - 8th February 2023
-- **What:** A 3 day "meditation - fermentation" retreat to miror fermentation within and without and hybrid our narratives .This includes the production of miso beans ( Japanese method) .
-- **Quoi :** 3 jours de retraite "meditation - fermentation" pour mettre en miroir la fermentation interne et externe et hybrider nos narrations. Durant cette retraite nous fabriquerons du miso ( méthode japonaise)
-- **How many - combien** : 8 pers. max
-- **How much - coûts :**
-- **Learn more and apply**: [https://lifeitself.org/sympoiesis/conscious-food-retreats-culture-broths-1/](https://lifeitself.org/sympoiesis/conscious-food-retreats-culture-broths-1/)
 
 ## Conscious Food Workshop, Feb 2023
 
