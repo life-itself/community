@@ -1,0 +1,1 @@
+../../vault/setting-the-world-to-rights-residency.md

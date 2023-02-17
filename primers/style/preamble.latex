@@ -1,5 +1,0 @@
-\usepackage{color}
-
-\lstset{ %
-        numbers=left
-}

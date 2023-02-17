@@ -1,0 +1,1 @@
+../../vault/open-residency.md

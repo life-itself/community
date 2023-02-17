@@ -1,0 +1,1 @@
+../../vault/sustainable-wellbeing.md

@@ -1,0 +1,11 @@
+/:year/:month/:date/:slug  /blog/:year/:month/:date/:slug
+/author/:slug         /people/:slug
+
+/manifesto            /blog/2015/11/01/manifesto
+/27aout               /blog/2022/07/15/art-eco-spirituality-aug-2022
+/sunflower-school     /blog/2021/11/12/sunflower-school-ecole-des-tournesols
+/mindfulness          /blog/2020/06/29/mindfulness-an-introduction
+/bergerac-build       /blog/2020/07/09/bergerac-build-festival-2020-gathering-builders-diggers-and-dreamers
+/imaginary-society    /blog/2021/09/09/the-imaginary-society-series
+/community-projects   /blog/2021/03/18/berlin-hub-community-projects
+/institute/compassionate-mental-health  /blog/2021/05/14/compassionate-mental-health/
