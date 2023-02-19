@@ -1,7 +1,6 @@
 import { useState } from "react";
 import allBlogs from "../../.contentlayer/generated/Blog/_index.json";
 import { formatDate } from "@/lib/formatDate.js";
-import { PostBody } from "./getPageBody.jsx";
 
 const BLOGS_LOAD_COUNT = 6
 
@@ -24,29 +23,28 @@ export function AuthorPosts({ id, name }) {
         {authorPosts && authorPosts.slice(0, postsCount).map(post => (
           <li key={post._id} className="flex flex-col overflow-hidden rounded-lg shadow-lg p-0">
             <div className="flex-shrink-0 m-0">
-              {post.image && <img className="h-48 w-full object-cover m-0" src={post.image} alt="" />}
+             {post.image 
+                ? <img className="h-48 w-full object-cover m-0" src={post.image} alt="" />
+                : <span className="flex h-48 w-full bg-gray-200" />
+              }
             </div>
             <div className="flex flex-1 flex-col justify-between bg-white p-6 m-0">
               <div className="flex-1">
-                <p className="text-sm font-medium text-primary space-x-2">
+                <p className="text-xs font-medium text-primary space-x-2">
                   {post.categories?.map(category =>
-                    <span key={category} className="underline capitalize">
-                      {category}
+                    <span key={category} className="hover:underline">
+                      {category.charAt(0).toUpperCase() + category.slice(1)}
                     </span>
                   )}
                 </p>
                 <a href={`/${post.url_path}`} className="mt-2 block no-underline">
                   <p className="text-lg font-semibold font-headings text-primary underline">{post.title}</p>
-                  {post.description
-                    ? <p className="mt-3 text-base text-gray-500">{post.description}</p>
-                    : <PostBody code={post.body.code} frontmatterImage={post.image} className="text-gray-500" />
-                  }
+                  {post.description && <p className="mt-3 text-base text-gray-500 line-clamp-3">{post.description}</p>}
                 </a>
               </div>
               <div className="mt-6 flex items-center">
                 <div className="flex space-x-1 text-sm text-gray-500">
-                  <span aria-hidden="true">&middot;</span>
-                  <time dateTime={post.created}>{formatDate(post.created)}</time>
+                  <time>{formatDate(post.created)}</time>
                 </div>
               </div>
             </div>

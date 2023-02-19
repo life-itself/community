@@ -1,6 +1,5 @@
 import { Splide, SplideSlide, SplideTrack } from "@splidejs/react-splide";
 import { formatDate } from "@/lib/formatDate.js";
-import { PostBody } from "./getPageBody";
 
 export default function BlogSlider ({ posts }) {
   const slicedPosts = posts
@@ -52,19 +51,12 @@ export default function BlogSlider ({ posts }) {
                     </div>
                     <div className="flex flex-1 flex-col justify-between bg-white p-6 space-y-6 divide-y-2">
                       <div className="flex-1">
-                        <p className="text-sm font-medium text-primary">
+                        <p className="text-sm font-medium text-primary/80">
                           {post.categories?.map(category => <a key={category} className="capitalize mr-3 hover:underline">{category}</a>)}
                         </p>
                         <a href={`/${post.url_path}`} className="mt-2 block space-y-2">
                           <p className="text-lg font-bold font-headings text-primary h-[3.5rem] line-clamp-2 underline">{post.title}</p>
-                          {post.description 
-                            ? <p className="mt-3 text-base text-gray-500">{post.description}</p>
-                            : <PostBody 
-                                code={post.body.code}
-                                frontmatterImage={post.image}
-                                className="text-base text-gray-500"
-                              />
-                          }
+                          {post.description && <p className="mt-3 text-base text-gray-500 line-clamp-3">{post.description}</p>}
                         </a>
                       </div>
                       <div className="flex items-center pt-4">
