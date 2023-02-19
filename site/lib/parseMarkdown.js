@@ -18,5 +18,8 @@ export function parseMarkdown(markdownText) {
   markdownText = markdownText.replace(/^(https?:\/\/)?(www\.)?(youtube\.com|youtu\.?be)\/.+$/gm, '');
   // remove images
   markdownText = markdownText.replace(/!\[(.*?)\]\((.*?)\)/g, '');
+  // Remove HTML elements
+  markdownText = markdownText.replace(/<[^>]*>/g, '');
+  
   return markdownText;
 }

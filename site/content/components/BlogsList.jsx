@@ -1,13 +1,7 @@
 import { useState } from "react";
 import { formatDate } from "@/lib/formatDate.js";
-import { PostBody } from "./getPageBody.jsx";
 
 const BLOGS_LOAD_COUNT = 5
-
-// function getBody(post) {
-//   const body = /^[A-Za-z0-9 ].*/gm.exec(post)
-//   return body[0]
-// }
 
 export function BlogsList({ posts }) {
   const [postsCount, setPostsCount] = useState(BLOGS_LOAD_COUNT);
@@ -55,10 +49,7 @@ export function BlogsList({ posts }) {
             </div>}
           </div>
           <div className="flex flex-col space-y-1">
-            {post.description 
-              ? <p className="my-0">{post.description}</p>
-              : <PostBody code={post.body.code} frontmatterImage />
-            }
+            {post.description && <p className="my-0 line-clamp-3">{post.description}</p>}
             <a href={post.url_path} className="text-sm text-gray-500 hover:text-gray-900 pt-2 w-fit">{"[ Read more ]"}</a>
           </div>
         </li>
