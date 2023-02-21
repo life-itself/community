@@ -1,8 +1,10 @@
-# Finance and Operations Guide
+---
+title: Operations Guide
+---
 
-This guide has been prepared to help you, a member of the ops and finance team, to navigate common and recurring processes that you're responsible for, so that you can ensure that the ops team runs as a smoothly oiled machine, effective and efficient. 
+This guide is for members of the ops team. It covers the overall remit of the team as well as common and recurring processes that it is responsible for.
 
-## Objective of the Operations and Finance Team
+## Objective of the Operations Team
 
 Objective: To enable Life Itself and associated initiatives to operate efficiently and reliably, providing a high degree of integrity around payment, compliance, HR etc, as well as maintaining and making available key information (e.g. finances, metrics) to others. 
 
@@ -74,9 +76,9 @@ In addition, we file a confirmation statement by 29th November each year, which 
 
 Furthermore, we have to pay our corporation tax bill by 1st OCtober each year, 9 months and one day after the end of the accounting period, and we have to file our corporation tax return by 31st December every year for the previous accounting period.  The tax return is our account of how much corporation tax we owe, and must be filed no later than 365 days after the end of the accounting period. 
 
-## Operations
+## Processes
 
-The operations and finance functions are closely connected. In addition to the tasks above, ops handles:
+In addition to the tasks above, ops handles:
 
 - Signing and filing contracts from [contractors](https://docs.google.com/document/d/1rSLj081NKkWPkR0Ys3ZVTy0tkFEr3pcJ-W86ajhchbg/edit#heading=h.6u8mx8e95k1s) and [clients](https://docs.google.com/document/d/1rSLj081NKkWPkR0Ys3ZVTy0tkFEr3pcJ-W86ajhchbg/edit#heading=h.4gylhjtzszfw)
 - Managing projects (on time and [on budget](https://docs.google.com/document/d/1rSLj081NKkWPkR0Ys3ZVTy0tkFEr3pcJ-W86ajhchbg/edit#heading=h.eizj3jbuimiy)) and [planning sprints](https://docs.google.com/document/d/1RDVx_TbkIhBP6G1ZSkeU3r1ZQHbGJMg27xxl7pzpGQY/edit#heading=h.27nqov9f5wht)

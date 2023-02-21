@@ -64,3 +64,15 @@ Further reading:
 # Getting Stuff Done
 
 See [[getting-stuff-done|Getting Work Done section]].
+
+# Ops
+
+- [[ops|Operations Guide]]
+- [[ops#Finance|Finance]]
+- [[onboarding|Onboarding instructions for a new joiner]]
+- [[ops-onboarding-checklist|How to Onboard Someone]]
+- [[ops-offboarding|Offboarding]]
+
+# Comms
+
+- [[communications|Comms Guide]]
