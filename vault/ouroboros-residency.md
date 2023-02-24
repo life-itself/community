@@ -249,4 +249,4 @@ Residency Application Process:
 1. A preliminary Expression of Interest is completed by participants on the Life Itself website.
 2. The Hosting Team contacts you to discuss your participation in the residency.
 
- Apply: [Praxis residency pre-registration link](https://docs.google.com/forms/d/1IeTEIET38KYzTbl1Gh7O4PcJzm9UfbiLXtu48Yw6laM/prefill)
+ Apply: [Praxis residency pre-registration link](https://docs.google.com/forms/d/e/1FAIpQLSdiykDKyZR6DgtPKeYuNePy9sWc-qkIc4BVfKBRjkFWKvFp-g/viewform)
