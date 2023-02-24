@@ -20,8 +20,6 @@ Esther has worked with Mauricio and Rebecca Wild at their legendary school in Ec
 
 ## Key Resources 
 
-![[../podcast/esther-montmany-on-conscious-parenting-part-1]]
-
-![[../podcast/esther-montmany-on-conscious-parenting-part-2]]
-
-![[../podcast/esther-montmany-on-conscious-parenting-part-3]]
+- [Esther Montmany on Conscious Parenting: Part 1](/podcast/esther-montmany-on-conscious-parenting-part-1)
+- [Esther Montmany on Conscious Parenting: Part 2](/podcast/esther-montmany-on-conscious-parenting-part-2)
+- [Esther Montmany on Conscious Parenting: Part 3](/podcast/esther-montmany-on-conscious-parenting-part-3)
