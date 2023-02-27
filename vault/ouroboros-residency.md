@@ -11,37 +11,11 @@ image: /assets/images/ouroboros.jpg
 
 ## *What is the posture beyond internalised patriarchy?*
 
-## Summary
+Apply: [Praxis residency pre-registration link](https://docs.google.com/forms/d/e/1FAIpQLSdiykDKyZR6DgtPKeYuNePy9sWc-qkIc4BVfKBRjkFWKvFp-g/viewform)
 
 ### When?
 
 7th – 28th May 2023
-
-### What?
-
-The patriarchal structures and systems built over centuries have been internalised by all humans.
-
-The unfortunate reality is the values and expectations of these patriarchal structures and systems have resulted in a posture where we as a species have sacrificed our capacity and yearning for greater agency, connection and engagement at all levels of society.
-
-The seismic shifts we need to effectively respond to this meta-crisis, are systemic, global, and urgent, requiring us to access our intuition, creativity and imagination. 
- 
-The Ouroboros residencies will be dedicated to creating the conditions to strengthen our connection to these innate capacities by bringing our attention moment by moment to our “posture” and noticing how it in-forms us. 
-
-### How?
-
-Your attention each day will be directed to harnessing the capacity moment by moment through practices including meditation, contemplation, sitting, pausing, cooking, gardening, playing, working, celebrating and ritualising, noticing how, through the way you practice, a new posture is embodied.
-
-We will harvest the new narrative that wants to express itself through our collective experience and produce an “artefact “ reflecting our expression. 
-
-### For whom?
-
-This residency will speak to anyone who is interested and energised to explore the posture that lies beyond internalised patriarchy and are open and ready to experience, experiment and create collectively. 
-
-We will have a maximum of 12 participants and 3 facilitators.
-
-### How much?
-
-From 750 to 1350 euros
 
 ### [Learn more and apply](https://docs.google.com/forms/d/e/1FAIpQLSdiykDKyZR6DgtPKeYuNePy9sWc-qkIc4BVfKBRjkFWKvFp-g/viewform)
 
