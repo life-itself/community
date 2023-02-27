@@ -8,12 +8,7 @@ image: /assets/images/ouroboros.jpg
 
 ![[assets/images/ouroboros-residency- facebook.png]]
 
-
 Apply: [Praxis residency pre-registration link](https://docs.google.com/forms/d/e/1FAIpQLSdiykDKyZR6DgtPKeYuNePy9sWc-qkIc4BVfKBRjkFWKvFp-g/viewform)
-
-
-### [Learn more and apply](https://docs.google.com/forms/d/e/1FAIpQLSdiykDKyZR6DgtPKeYuNePy9sWc-qkIc4BVfKBRjkFWKvFp-g/viewform)
-
 
 ## Overview
 
@@ -33,6 +28,7 @@ The Ouroboros residencies will be dedicated to creating the conditions to streng
 
 In the residencies we will consciously move beyond the transformational dynamic of being withness to create what we describe as an “in-formational” space. 
 
+This residency is the first in a series of three.  residencies. Participants can choose to participate in one, two or all three residencies.
 For Ouroboros #1 and Ouroboros #2 we will be intentionally dividing the group into male and female for periods during the residency. 
 
 The purpose of selecting this structure in Ouroboros #1 and Ouroboros #2 is to use the division as a metaphor for the existing patriarchal structures and so that as a group we are informed from within those structures.
@@ -112,23 +108,23 @@ We consider this process developed by the Praxis Hub as foundational ground to c
 
 #### Daily Schedule (Monday - Friday):
 
-8:00          Meditation (40 minutes)
+8:00         Meditation (40 minutes)
 
-9:30           Collective Care/Lunch Preparation (60 minutes)
+9:30         Collective Care Praxis (60 minutes)
 
 10:30      	 Co-Working Space (2½ hours)
 
-13:00         Lunch
+13:00        Lunch
 
-2:30           Co-Working Space (2½ hours)
+2:30         Co-Working Space (2½ hours)
 
-17:30         Collective Care/Lunch Preparation (60 minutes)
+17:30        Collective Care Praxis (60 minutes)
 
-18:30         Dinner 
+18:30        Dinner 
 
-8:00           Co-Creative Space
+8:00         Co-Creative Space
 
-21:00         Meditation (Optional - 30 minutes)
+21:00        Meditation (Optional - 30 minutes)
 
 #### Weekly Schedule (Tuesday & Thursday)
 
@@ -138,7 +134,7 @@ Thursday 8:00 – 9:30   Deep Listening Circle
 
 #### Weekends  
 
-Daily Collective Practices will be reduced to one cooking session and a market shop on Saturdays. 
+Weekends Collective Practices will be reduced to minimum to allow personal rest. 
 
 ### Who is it for?
 
