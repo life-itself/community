@@ -7,8 +7,6 @@ image: /assets/images/ouroboros.jpg
 
 ![[assets/images/ouroboros-residency- facebook.png]]
 
-Apply: [Praxis residency pre-registration link](https://docs.google.com/forms/d/e/1FAIpQLSdiykDKyZR6DgtPKeYuNePy9sWc-qkIc4BVfKBRjkFWKvFp-g/viewform)
-
 ## Overview
 
 Our lives reflect the systems in which we are embedded. 
@@ -36,6 +34,7 @@ In Ouroboros #3 we will transition beyond this structure, integrating perspectiv
 
 We acknowledge that many of the participants of the residency may not identify with male or female. The purpose of this division is so that each can hear and benefit from the contributions of those who have the lived experience of transitioning beyond entrenched patriarchal structures. 
 
+
 ## Ouroboros #1 
 
 For this first residency we will seek to uncover the capacity of the group to receive “in-formation” to birth a posture beyond internalised patriarchy and how that posture informs a new narrative for perceiving our shared reality. 
@@ -43,6 +42,8 @@ For this first residency we will seek to uncover the capacity of the group to re
 We want to create a collective field to embody a posture “in-formed” by a disposition of presence, openness, readiness and receptivity.
 
 As a group we will create the conditions to enable the insights to be mid-wifed by the collective field and explore how they “in-form” a posture, a way of being, beyond internalised patriarchy. 
+
+## [Apply](https://docs.google.com/forms/d/e/1FAIpQLSdiykDKyZR6DgtPKeYuNePy9sWc-qkIc4BVfKBRjkFWKvFp-g/viewform)
 
 ### How?
 
