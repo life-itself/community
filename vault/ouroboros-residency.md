@@ -44,6 +44,7 @@ We want to create a collective field to embody a posture “in-formed” by a di
 As a group we will create the conditions to enable the insights to be mid-wifed by the collective field and explore how they “in-form” a posture, a way of being, beyond internalised patriarchy. 
 
 ## [Apply](https://docs.google.com/forms/d/e/1FAIpQLSdiykDKyZR6DgtPKeYuNePy9sWc-qkIc4BVfKBRjkFWKvFp-g/viewform)
+<center> test </center>
 
 ### How?
 
@@ -108,23 +109,23 @@ We consider this process developed by the Praxis Hub as foundational ground to c
 
 #### Daily Schedule (Monday - Friday):
 
-8:00         Meditation (40 minutes)
+8:00         Meditation 
 
-9:30         Collective Care Praxis (60 minutes)
+9:30         Collective Care Praxis 
 
-10:30      	 Co-Working Space (2½ hours)
+10:30      	 Co-Working Space 
 
 13:00        Lunch
 
-2:30         Co-Working Space (2½ hours)
+14:30         Co-Working Space
 
-17:30        Collective Care Praxis (60 minutes)
+17:30        Collective Care Praxis
 
 18:30        Dinner 
 
-8:00         Co-Creative Space
+20:00         Co-Creative Space
 
-21:00        Meditation (Optional - 30 minutes)
+21:00        Contemplation Practices (optional)
 
 #### Weekly Schedule (Tuesday & Thursday)
 
@@ -135,6 +136,7 @@ Thursday 8:00 – 9:30   Deep Listening Circle
 #### Weekends  
 
 Weekends Collective Practices will be reduced to minimum to allow personal rest. 
+The final schedule will be sent to participants before their arrival.
 
 ### Who is it for?
 
