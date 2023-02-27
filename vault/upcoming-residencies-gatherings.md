@@ -37,7 +37,7 @@ image: /assets/images/Blog-Feature-Images-11.png
 - **Facilitator:** [Liam Kavanagh](https://www.liamkavanagh.me/), [Victoria Wilding](https://www.victoriawilding.com/)
 - **[Learn more and apply](setting-the-world-to-rights-residency)**
 
-## Ouroboros Residency, May 2023
+## Ouroboros Residency #1, May 2023
 
 - **When:** 7th – 28th May 2023
 - **What:** Considering the question 'What is the posture beyond internalised patriarchy?' 
