@@ -43,7 +43,7 @@ For this first residency we will seek to uncover the capacity of the group to re
 
 We want to create a collective field to embody a posture “in-formed” by a disposition of presence, openness, readiness and receptivity.
 
-As a group we will create the conditions to enable the insights to be mid-wifed by the collective field and explore how they “in-form” a posture - a way of being, beyond internalised patriarchy. 
+As a group we will create the conditions to enable the insights to be mid-wifed by the collective field and explore how they “in-form” a posture, a way of being, beyond internalised patriarchy. 
 
 ### How?
 
