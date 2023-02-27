@@ -1,5 +1,5 @@
 ---
-title: "Ouroboros Residency: a series of three residencies"
+title: "Ouroboros Residency"
 created: 2023-01-25
 authors: 
   - eilidhross
