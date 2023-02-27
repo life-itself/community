@@ -15,6 +15,7 @@ authors:
 
 ![](/assets/images/e1ce9022-71d8-4bae-a0dc-ecd636652497-1024x767.jpg)
 
+
 [**Apply Now**](https://docs.google.com/forms/d/e/1FAIpQLSdwDceOgSSk3IlkR5AG8DNpnDATuWILTvpzJxeRjZh7KZ4h1w/viewform?usp=sf_link)
 
 * * *
@@ -36,6 +37,8 @@ The quality of our relationships accounts among the most important factors for b
 - **Respond:** As we grow our nervous system capacity and relational skills, we have more space and possibility for new ways of engaging with the world.
 
 The conceptual framework for group sessions stems of psychodynamic and attachment theories as well as social and positive psychology. The NeuroSystemics methodology specifically includes nervous system science to support relational resiliency. We emphasize “_neuroceptive safety_” which means we specifically attempt to modulate the containment of the group to skilfully face the challenges emerging, and embody the resources developed. For example, we start with a short embodiment practice at the beginning of the session to prime for somatic sensitivity and speaking from a place of experience. As the group builds in its quality of compassion, mutual support and enjoyment, it become a womb-like experience which enables a deep nervous system regulation for the group as a whole.
+
+Learn more about it in [youtube video](https://www.youtube.com/watch?v=QovkdbEmtGs)
 
 ### When is it?
 
