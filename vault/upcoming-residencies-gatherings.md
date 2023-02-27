@@ -44,8 +44,8 @@ image: /assets/images/Blog-Feature-Images-11.png
 The patriarchal structures and systems built over centuries have been internalised by all humans.
 The unfortunate reality is the values and expectations of these patriarchal structures and systems have resulted in a posture where we as a species have sacrificed our capacity and yearning for greater agency, connection and engagement at all levels of society.
 The seismic shifts we need to effectively respond to this meta-crisis, are systemic, global, and urgent, requiring us to access our intuition, creativity and imagination. cThe Ouroboros residencies will be dedicated to creating the conditions to strengthen our connection to these innate capacities by bringing our attention moment by moment to our “posture” and noticing how it in-forms us.
-- **How:** Creating the conditions for the posture to arise 
+- **How:** Creating the conditions for the posture to arise. Your attention each day will be directed to harnessing the capacity moment by moment through practices including meditation, contemplation, sitting, pausing, cooking, gardening, playing, working, celebrating and ritualising, noticing how, through the way you practice, a new posture is embodied. We will harvest the new narrative that wants to express itself through our collective experience and produce an “artefact “ reflecting our expression.
 - **How many:** 12 participants max 
 - **How much:** From 750 to 1350 euros
-- **Facilitators:** Valérie Duvauchelle, Victoria Wilding, Lauren Uba
+- **Facilitators:** [Valérie Duvauchelle](https://en.lacuisinedelabienveillance.org/),  [Victoria Wilding](https://www.victoriawilding.com/), [Lauren Uba](https://www.laurenuba.com/about)
 - **[Learn more and apply](ouroboros-residency)**
