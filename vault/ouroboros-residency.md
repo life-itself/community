@@ -1,5 +1,4 @@
 ---
-title: "Ouroboros Residency #1"
 created: 2023-01-25
 authors: 
   - eilidhross
