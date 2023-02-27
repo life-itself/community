@@ -106,7 +106,7 @@ We will have a maximum of 18 participants and 6 facilitators and participants wi
 
 ### How does it cost?
 
-The Basic cost of the residency will be ab0ut 1400 euros.
+The Basic cost of the residency will be about 1400 euros. If you intend to join the program while renting your own space in Bergerac, we offer reduced "non-resident" prices for around 800 euros.
 
 Our aim is that cost is not an obstacle to anyone participating. If finance is an issue, please get in touch and we will see if we can provide support in some way or another.
 
