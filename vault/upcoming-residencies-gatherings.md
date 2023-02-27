@@ -8,6 +8,20 @@ image: /assets/images/Blog-Feature-Images-11.png
 
 @[Life Itself Praxis Hub, Bergerac](https://lifeitself.org/hubs/bergerac/), South of France 
 
+## Intelligence collective: Gouvernance partagée (in French), 4-5 March 2023
+
+- **When:** March 4th - March 5th
+- **What**: 2 journées pour découvrir et expérimenter des pratiques, processus et dispositifs pour une autogouvernance inclusive.
+- **How much ?** 120 euros for accommodation, food, training and practices.
+- **Learn more and apply:** [https://coomic.coop/site/actions/gec3.html](https://coomic.coop/site/actions/gec3.html)
+
+## Intelligence collective: Conseil de tous les êtres (in French), 11-12 March 2023
+
+- **When:** March 11th - March 12th
+- **What**: 2 journées pour vivre la pratique fondatrice du TQR (Travail Qui Relie – Joanna Macy) et mieux se reconnecter avec nos émotions et notre pouvoir d’agir
+- **How much ?** 120 euros for accommodation, food, training and practices.
+- **Learn more and apply:** [https://coomic.coop/site/actions/cte.html](https://coomic.coop/site/actions/cte.html)
+
 ## Relational Embodiment Residency, March-April 2023
 
 - **When:** March 19th - April 2nd
@@ -20,7 +34,7 @@ image: /assets/images/Blog-Feature-Images-11.png
 - **When:** April 5th - May 2nd 2023
 - **What:** A one month residency to focus on having exceptional big picture discussions. (The kind of discussions that draw the comment “You’re setting the world to rights!” Questions like: How do we address polarisation? How can we address global warming? How do we address the massive economic equality, racism and historical injustices that are rife across the globe? We won’t answer these questions, but we will do our utmost to have discussions that are really about *getting somewhere together* rather than scoring points. We will joyfully take up the neglected responsibility of citizens in a democracy, rather than a parlour game or indulgence
 - **How much:** Dependent on rooming (around €1100 for accommodation, food, facilitation and practices)
-- **Facilitator:** [Liam Kavanagh](https://www.liamkavanagh.me/), Victoria Wilding
+- **Facilitator:** [Liam Kavanagh](https://www.liamkavanagh.me/), [Victoria Wilding](https://www.victoriawilding.com/)
 - **[Learn more and apply](setting-the-world-to-rights-residency)**
 
 ## Ouroboros Residency, May 2023
