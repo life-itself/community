@@ -9,13 +9,8 @@ image: /assets/images/ouroboros.jpg
 ![[assets/images/ouroboros-residency- facebook.png]]
 
 
-## *What is the posture beyond internalised patriarchy?*
-
 Apply: [Praxis residency pre-registration link](https://docs.google.com/forms/d/e/1FAIpQLSdiykDKyZR6DgtPKeYuNePy9sWc-qkIc4BVfKBRjkFWKvFp-g/viewform)
 
-### When?
-
-7th – 28th May 2023
 
 ### [Learn more and apply](https://docs.google.com/forms/d/e/1FAIpQLSdiykDKyZR6DgtPKeYuNePy9sWc-qkIc4BVfKBRjkFWKvFp-g/viewform)
 
