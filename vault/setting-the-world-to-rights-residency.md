@@ -59,6 +59,8 @@ Victoria is most well known for her breakthrough work synthesizing practice and 
 
 While Victoria brings enormous and credible knowledge and experience to the table, her real magic exists in her presence. Victoria is wildly irreverent, fun, and always a straight shooter. She has an unparalleled ability is to get right to the heart of a matter with profound compassion and breathtaking clarity.
 
+Learn more about Victoria and her work [here](https://www.victoriawilding.com/)
+
 ### [Apply now!](https://docs.google.com/forms/d/e/1FAIpQLSdiykDKyZR6DgtPKeYuNePy9sWc-qkIc4BVfKBRjkFWKvFp-g/viewform)
 
 ## Context
