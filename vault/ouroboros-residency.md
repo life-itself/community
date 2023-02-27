@@ -44,7 +44,7 @@ We want to create a collective field to embody a posture “in-formed” by a di
 As a group we will create the conditions to enable the insights to be mid-wifed by the collective field and explore how they “in-form” a posture, a way of being, beyond internalised patriarchy. 
 
 ## [Apply](https://docs.google.com/forms/d/e/1FAIpQLSdiykDKyZR6DgtPKeYuNePy9sWc-qkIc4BVfKBRjkFWKvFp-g/viewform)
-<center> test </center>
+
 
 ### How?
 
