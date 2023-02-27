@@ -103,13 +103,9 @@ The main house has a large dining room, a spacious kitchen, a spectacular living
 - [![](/assets/images/dsc01698_smaller-1.jpg)](https://lifeitself.org/wp-content/uploads/2020/12/dsc01698_smaller-1.jpg)
     
 - [![](/assets/images/4bbf90d3-28a6-46bd-a2c9-de40b2bf7238-768x1024.jpeg)](https://lifeitself.org/wp-content/uploads/2021/07/4bbf90d3-28a6-46bd-a2c9-de40b2bf7238-768x1024.jpeg)
-    
-- [![](/assets/images/31c1bbd4-ec30-4c39-9eb2-ccbc7e5ebcce-1024x768.jpeg)](https://lifeitself.org/wp-content/uploads/2021/07/31c1bbd4-ec30-4c39-9eb2-ccbc7e5ebcce.jpeg)
-    
+        
 - [![](/assets/images/52bef2df-b245-4e2b-aecd-716320f35edb-1024x768.jpeg)](https://lifeitself.org/wp-content/uploads/2021/07/52bef2df-b245-4e2b-aecd-716320f35edb.jpeg)
-    
-- [![](/assets/images/00278ba4-3e4a-4859-a97a-1fd2a80af860-768x1024.jpeg)](https://lifeitself.org/wp-content/uploads/2021/07/00278ba4-3e4a-4859-a97a-1fd2a80af860.jpeg)
-    
+        
 - [![](/assets/images/372bae83-cf59-4ac6-b6fd-19105c3c5075-768x1024.jpeg)](https://lifeitself.org/wp-content/uploads/2021/07/372bae83-cf59-4ac6-b6fd-19105c3c5075.jpeg)
     
 - [![](/assets/images/0552db0f-14a7-43e8-a7e5-80ec73e632a6-1024x768.jpeg)](https://lifeitself.org/wp-content/uploads/2021/07/0552db0f-14a7-43e8-a7e5-80ec73e632a6.jpeg)
@@ -123,11 +119,7 @@ The main house has a large dining room, a spacious kitchen, a spectacular living
 - [![](/assets/images/a1b43948-e034-4c8c-b769-7fde512c31d7-768x1024.jpeg)](https://lifeitself.org/wp-content/uploads/2021/07/a1b43948-e034-4c8c-b769-7fde512c31d7.jpeg)
     
 - [![](/assets/images/a4aae6fe-0c9b-4884-888a-cc10d1ce5cf3-1024x768.jpeg)](https://lifeitself.org/wp-content/uploads/2021/07/a4aae6fe-0c9b-4884-888a-cc10d1ce5cf3.jpeg)
-    
-- [![](/assets/images/f30dcd17-9101-4a3a-b8c6-20eea8005010-1024x768.jpeg)](https://lifeitself.org/wp-content/uploads/2021/07/f30dcd17-9101-4a3a-b8c6-20eea8005010.jpeg)
-    
-- [![](/assets/images/fdb8a1b5-8529-44a4-ad49-aa964f67b943-1024x768.jpeg)](https://lifeitself.org/wp-content/uploads/2021/07/fdb8a1b5-8529-44a4-ad49-aa964f67b943.jpeg)
-    
+            
 
 ### Bedrooms
 
