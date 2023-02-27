@@ -40,7 +40,10 @@ image: /assets/images/Blog-Feature-Images-11.png
 ## Ouroboros Residency, May 2023
 
 - **When:** 7th – 28th May 2023
-- **What:** Considering the question 'What is the posture beyond internalised patriarchy?'
+- **What:** Considering the question 'What is the posture beyond internalised patriarchy?' 
+The patriarchal structures and systems built over centuries have been internalised by all humans.
+The unfortunate reality is the values and expectations of these patriarchal structures and systems have resulted in a posture where we as a species have sacrificed our capacity and yearning for greater agency, connection and engagement at all levels of society.
+The seismic shifts we need to effectively respond to this meta-crisis, are systemic, global, and urgent, requiring us to access our intuition, creativity and imagination. cThe Ouroboros residencies will be dedicated to creating the conditions to strengthen our connection to these innate capacities by bringing our attention moment by moment to our “posture” and noticing how it in-forms us.
 - **How:** Creating the conditions for the posture to arise 
 - **How many:** 12 participants max 
 - **How much:** From 750 to 1350 euros
