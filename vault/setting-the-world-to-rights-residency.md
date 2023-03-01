@@ -1,11 +1,11 @@
 ---
-title: "Setting the World to Rights"
+title: "Saving the World (Together with Everybody Else)"
 created: 2023-01-25
 authors: 
   - eilidhross
 ---
 
-## *Talking about the big picture while staying grounded*
+## *Saving the World (Together with Everybody Else)*
 
 ## Overview
 
@@ -15,9 +15,71 @@ authors:
 
 ### What?
 
-It is a time for big conversations as the recent upsurge in podcasting shows, because the long-standing feeling that the structure of our societies is a settled matter, has melted away. [Life Itself Praxis Hub](vault/hubs/bergerac) in Bergerac France provides the ideal environment to go deep on these questions. This means creating a beautiful and cooperative emotional environment where the emotions that drive our thoughts are welcomed with curiosity and compassion. It means balancing the intellectual with the embodied, with cooking and cleaning together, and group activities. It means using appropriate modes of discussion including collaborative brainstorming, bohmian dialogue, and sharp but respectful and principled debate (avoiding sophistry at all times.) 
+In this April residency at the [Life Itself Praxis Hub](vault/hubs/bergerac) in Bergerc France, we will feature a practice of holding emotionally aware big picture discussions of our societies’ major challenges. We will approach these challenges and our part in responding to them, with humility, curiosity, and a sense of connection and even duty to our fellow humans, future generations and all life forms of life on Earth. Such a practice is needed in a time when a different world has come to seem not just possible, but inevitable. As in all residencies, these practices will be woven into a daily routine that allow residents to remotely work a job, with group sessions taking place in the evening. The intellectual will be balanced with the grounded, with cooking and cleaning together, and group activities. Appropriate modes of discussion including collaborative brainstorming, bohmian dialogue, and respectful and principled debate will be used. 
 
-### How?
+### Why did we pick that title?
+
+When a few people spend as much time discussing a big question as they would watching a super-hero movie, often somebody overhearing them will make the cliched remark: 
+“so, have you saved the world?”  
+
+The remark’s ironic implication is, basically, that big picture discussions of better societies are exercises in fantasy — inconsequential imagination done for their own sake. 
+
+The residency challenges that attitude. How can democracy work without intense discussion and moral imagination of possibilities that nobody can make real, alone? Won’t democracies crumble if we neglect these discussions? Is our aversion to understanding the big picture a major reason why so many now think our world now needs “saving”? Are we simply scared of imagining a better world because that creates disappointment with life as it is? 
+
+Things are changing. Searching podcasts for obscure perspectives has become a fairly mainstream activity. Millions of people are dreaming of a better world, right now as you read. A dismissive attitude towards big discussions was a hallmark of post-modernity — defined by acceptance of lives that we don’t believe in. The next cultural era seems to be starting precisely when business-as-usual, politics-as-usual, and thinking-as-usual have lost their aura of invincibility. Come and join us in preparing for your perspective, imagination and emotion for the exciting times ahead!
+
+### Facilitators
+
+The residency will be faciliated by Life Itself co-founder, Liam Kavanagh and Victoria Wilding.
+
+### Liam Kavanagh
+
+![[assets/images/liam-Cropped.jpg]]
+
+Liam is a cognitive scientist and co-founder of Life Itself, and co-director of Climate Majority a climate organisation devoted to spreading consensus for serious climate action to bridge boundaries. He draws on cogntive scientific, meta-modern theory, contemplative practices, and collective wisdom to navigate the tensions that immobilise cultural imagination. His book with Perspectiva "beyond the shadows of the enligthenment" explores how to move past the dogmas around over-rationality, individualism and moral superiority by addressing their emotional roots rather than trying argue with them. 
+
+Learn more about Liam and his work [here](https://www.liamkavanagh.me/).
+
+### Victoria Wilding
+
+![[victoria-wilding.png]]
+
+Victoria is an evolutionary activist with a particular interest in advancing human development. Her focus is on the development of a new level of psychological management and its importance to facilitating large scale systems change. She believes humanity needs to consciously and intentionally develop their social, emotional and cognitive capacities to envision and build systems that serve all life on the planet. 
+
+Victoria is most well known for her breakthrough work synthesizing practice and knowledge around presence and meta-systemic cognition. She is quick to get to the core of an individual’s thinking and facilitates deep understanding, new perspectives and innovative solutions.
+
+While Victoria brings enormous and credible knowledge and experience to the table, her real magic exists in her presence. Victoria is wildly irreverent, fun, and always a straight shooter. She has an unparalleled ability is to get right to the heart of a matter with profound compassion and breathtaking clarity.
+
+Learn more about Victoria and her work [here](https://www.victoriawilding.com/)
+
+
+### Questions – To be questioned, changed, and added to by participants.
+### Big Questions:
+
+World Care:
+
+* As the climate change and biodiversity crises become too obvious to ignore, is the time ripe for a new politics that can help to address larger issues and unite a polarised society? 
+* How can a widespread cultural movement toward a saner balance of having and doing (emphasizing things and accomplishments) with “being” (appreciation of life and finding content) be built.
+
+Self Care
+
+* How can we work for social transformation without falling into delusional “messiah complex” taking the weight of the world on our shoulders? Is messianism an outcome of pathological individualism?
+* Likewise how do we use reason without “fixing”? Is fixing an outcome of inflated belief in our intellect?
+* Can daily imaginative awareness of ourselves as part of something larger address our feelings of smallness?
+* How do we draw motivation from our moral imagination?
+
+### Some “Smaller” questions:  
+
+* Can political identity be (re)built around pragmatism and integration of different viewpoints?
+* How can we understand skepticism towards opinions of “elite” middle-class urban educated people who dominate environmentalism (and likely are most of our participants), and asking what we need to do to be more trust-worthy.
+* Why do we need to plan for a movement towards slowing down and appreciating what we have (“just being”)?
+* How do we find synergy between global warming, "poly-crisis" and prosocial culture change? 
+* Is “worldwide awakening” really a viable strategy.
+* Being realistic about the gravity of climate and biodiversity predicaments and the political inaction behind them v. The need for optimism.
+	Not being bound either by the myth of certain progress or trapped by opposition to it.
+* Maintaining commitment to social justice on the world stage without becoming immobilised by hopes and demands for unattainable perfect climate justice.
+* Taking advantage of improved technology while not simply depending on technology and market forces to achieve transition. 
+
 
 We will set the big questions together, and the rules. The important principles that will be used are: 
 
@@ -37,43 +99,8 @@ Some examples of world saving questions are below. Which ones we explore will be
 * How can societies be happier and live in harmony with each other? 
 * What is consciousness and will changing attitudes towards it change civilisation?
 
-### Facilitators
-
-The residency will be faciliated by Life Itself co-founder, Liam Kavanagh and Victoria Wilding.
-
-### Liam Kavanagh
-
-![[assets/images/liam-Cropped.jpg]]
-
-Liam is a researcher, community organiser, and cultural activist working at the borders of secularity and spirituality. He draws on contemplative, intellectual, and collective wisdom practices to mediate the tensions that immobilise cultural imagination, allowing new visions for collective flourishing to emerge. 
-
-Learn more about Liam and his work [here](https://www.liamkavanagh.me/).
-
-### Victoria Wilding
-
-![[victoria-wilding.png]]
-
-Victoria is an evolutionary activist with a particular interest in advancing human development. Her focus is on the development of a new level of psychological management and its importance to facilitating large scale systems change. She believes humanity needs to consciously and intentionally develop their social, emotional and cognitive capacities to envision and build systems that serve all life on the planet. 
-
-Victoria is most well known for her breakthrough work synthesizing practice and knowledge around presence and meta-systemic cognition. She is quick to get to the core of an individual’s thinking and facilitates deep understanding, new perspectives and innovative solutions.
-
-While Victoria brings enormous and credible knowledge and experience to the table, her real magic exists in her presence. Victoria is wildly irreverent, fun, and always a straight shooter. She has an unparalleled ability is to get right to the heart of a matter with profound compassion and breathtaking clarity.
-
-Learn more about Victoria and her work [here](https://www.victoriawilding.com/)
 
 ### [Apply now!](https://docs.google.com/forms/d/e/1FAIpQLSdiykDKyZR6DgtPKeYuNePy9sWc-qkIc4BVfKBRjkFWKvFp-g/viewform)
-
-## Context
-
-Until quite recently questions about how to change our societies for the better, how to balance incentives for economic productivity and education, and bringing greater justice to the world were often greeted with irony. For many discussions of such questions is an idle or adolescent attempt to “save the world” the most relevant question was simply: “how do I get by?”
-
-On the other hand, understanding the big picture was considered, according to the foundational idea of democratic(-ish) society, to be the responsibility of the citizens who steer a society together. Our inability to understand our current malaise, and feeling of impending civilisation collapse is, then, intimately related to our restricted sense of practicality.
-
-The prevailing ironic attitude towards big questions is perhaps a measure of the political cynicism that characterises what is called “the age of postmodernity.” For decades the Western world’s economic and political order went mostly unchallenged in public discussion, and to do so was often to arouse suspicion of being impractically utopian, or a dreaded communist. To entertain these questions became the privilege mainly of students and an elite few. In recent years, the possibility of a fundamentally different world, either better or worse than what we’ve known has come to feel much more real and the big questions are important again. 
-
-The point of this residency is not to come away with the answers but to give participants the experience of really going to big questions together. Without a celebrity leader, neither rejecting expertise nor slavishly submitting to it.
-
-Arguments go around and around in circles without ending up anywhere for a few reasons. One reason is that it is simply hard to come up with answers to these big questions, but it is equally true that often, the answers are simply not what we want to hear. They are more complicated and intricate; they do not give us easy simple magic bullet solutions. 
 
 ### The principles of this residency
 
