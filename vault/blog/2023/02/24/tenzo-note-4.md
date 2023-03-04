@@ -48,4 +48,4 @@ Potential dates TBC: June 11th - July 2nd 
 
 Valerie will organize this residency if a minimum of 7 people express their desire  for this Food Praxis teaching. Please send your interest via the general praxis hub form and Valerie will contact you quickly.
 
-[Express interest here](https://docs.google.com/forms/d/1IeTEIET38KYzTbl1Gh7O4PcJzm9UfbiLXtu48Yw6laM/prefill)
+[Express interest here](https://docs.google.com/forms/d/e/1FAIpQLSdiykDKyZR6DgtPKeYuNePy9sWc-qkIc4BVfKBRjkFWKvFp-g/viewform)
