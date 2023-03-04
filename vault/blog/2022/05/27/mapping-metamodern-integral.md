@@ -6,10 +6,11 @@ categories:
   - institute
 authors: 
   - eilidhross
-image: /assets/images/Blog-Feature-Images-7.png
+image:/assets/images/Blog-Feature-Images-7.png
 ---
 This post is the eighth in a series of essays summarizing key traditions within the emerging metamodern ecosystem. To learn more about Life Itself's Mapping Metamodern project, visit our website [here](https://ecosystem.lifeitself.org/).
-![](
+
+![[Blog-Feature-Images-41.png]]
 
 Contents
 1. Summary
@@ -115,9 +116,9 @@ Wilber introduced his integral theory in 1977 with the publication of The Spectr
 
 4.  Key Actors and Bodies
 
--   Ken Wilber
--   Institute for Integral Studies
--   California Institute of Integral Studies
+-   [Ken Wilber](https://integrallife.com/)
+-   [Institute for Integral Studies](https://www.ifis-freiburg.de/en)
+-   [California Institute of Integral Studies](https://www.ciis.edu/)
 
 5.  Key Texts
 
