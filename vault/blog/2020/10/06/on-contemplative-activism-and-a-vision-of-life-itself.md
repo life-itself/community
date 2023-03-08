@@ -137,7 +137,3 @@ Dimensions : 
 - Buying ( facing interdependence of our actions, eg recycling)
 - Fooding ( choosing to cook non-suffering ingredients) in hubs but not imposing vegan
 - Cleaning
-
-
---- 
-This is a test 
