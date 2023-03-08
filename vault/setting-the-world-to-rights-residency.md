@@ -15,20 +15,27 @@ authors:
 
 ### What?
 
-In this April residency at the [Life Itself Praxis Hub](vault/hubs/bergerac) in Bergerc France, we will feature a practice of holding emotionally aware big picture discussions of our societies’ major challenges. We will approach these challenges and our part in responding to them, with humility, curiosity, and a sense of connection and even duty to our fellow humans, future generations and all life forms of life on Earth. Such a practice is needed in a time when a different world has come to seem not just possible, but inevitable. As in all residencies, these practices will be woven into a daily routine that allow residents to remotely work a job, with group sessions taking place in the evening. The intellectual will be balanced with the grounded, with cooking and cleaning together, and group activities. Appropriate modes of discussion including collaborative brainstorming, bohmian dialogue, and respectful and principled debate will be used. 
-
-### Why did we pick that title?
-
 When a few people spend as much time discussing a big question as they would watching a super-hero movie, often somebody overhearing them will make the cliched remark: 
+
 “so, have you saved the world?”  
 
-The remark’s ironic implication is, basically, that big picture discussions of better societies are exercises in fantasy — inconsequential imagination done for their own sake. 
+The remark’s ironic implication is, basically, that big picture discussions of better societies are exercises in fantasy or delusion — inconsequential imagination done for their own sake. 
 
-The residency challenges that attitude. How can democracy work without intense discussion and moral imagination of possibilities that nobody can make real, alone? Won’t democracies crumble if we neglect these discussions? Is our aversion to understanding the big picture a major reason why so many now think our world now needs “saving”? Are we simply scared of imagining a better world because that creates disappointment with life as it is? 
+This residency challenges this attitude, seeing big topic conversations as a crucial job of citizens in a democracy. It will feature emotionally aware dialogue about our societies’ greatest challenges and our part in responding to them. These will be held with humility, curiosity, and a sense of duty to our fellow humans, future generations and life on Earth. As in all residencies, these practices will be woven into a daily routine that allows residents to work a job remotely with group cooking, dance, walks and more. Group inquiry sessions take place in the evening and will be held with attention to our intention and emotional balance.
 
-Things are changing. Searching podcasts for obscure perspectives has become a fairly mainstream activity. Millions of people are dreaming of a better world, right now as you read. A dismissive attitude towards big discussions was a hallmark of post-modernity — defined by acceptance of lives that we don’t believe in. The next cultural era seems to be starting precisely when business-as-usual, politics-as-usual, and thinking-as-usual have lost their aura of invincibility. Come and join us in preparing for your perspective, imagination and emotion for the exciting times ahead!
+### Where
 
-### Facilitators
+The [Life Itself Praxis Hub](vault/hubs/bergerac) in Bergerc France.
+
+### More
+
+Democracy cannot work without intense discussion and moral imagination of possibilities that nobody can make real, so isn't our aversion to understanding the big picture a major reason why so many now think our world now needs “saving”?  The trick is to see and imagine ourselves as something larger, rather than as the people who must change everything. This is not a fantasy, as we’re living in a time of change when searching podcasts for obscure perspectives has become a fairly mainstream activity. Millions of people are dreaming of a better world, right now as you read this. 
+
+The dismissive attitude towards big discussions was a hallmark of post-modernity — defined by acceptance of lives that we don’t believe in. The next cultural era is starting as business-as-usual, politics-as-usual, and thinking-as-usual have lost their aura of invincibility. Come and join us in preparing for your perspective, imagination and emotion for the exciting times ahead!
+
+Emotionally, we will also prepare ourselves to be open-minded with embodied practices and bohmian dialoguing. We will deal with the resistance to imagining a better world because this creates disappointment with life as it is. The ideal participants will be looking to use the conversations to help fuel their own decisions about how they persoanlly will be part of something larger. 
+
+## Facilitators
 
 The residency will be faciliated by Life Itself co-founder, Liam Kavanagh and Victoria Wilding.
 
@@ -36,7 +43,7 @@ The residency will be faciliated by Life Itself co-founder, Liam Kavanagh and Vi
 
 ![[assets/images/liam-Cropped.jpg]]
 
-Liam is a cognitive scientist and co-founder of Life Itself, and co-director of Climate Majority a climate organisation devoted to spreading consensus for serious climate action to bridge boundaries. He draws on cogntive scientific, meta-modern theory, contemplative practices, and collective wisdom to navigate the tensions that immobilise cultural imagination. His book with Perspectiva "beyond the shadows of the enligthenment" explores how to move past the dogmas around over-rationality, individualism and moral superiority by addressing their emotional roots rather than trying argue with them. 
+Liam is a cognitive and social scientist and co-founder of Life Itself, and co-director of the Climate Majority Project a climate organisation devoted to spreading consensus for serious climate action across cultural boundaries. He draws on cogntive scientific, meta-modern theory, contemplative practices, and collective wisdom to navigate the tensions that immobilise cultural imagination. His book with Perspectiva "beyond the shadows of the enligthenment" explores how to move past the dogmas around over-rationality, individualism and moral superiority by addressing their emotional roots rather than trying argue with them. 
 
 Learn more about Liam and his work [here](https://www.liamkavanagh.me/).
 
@@ -53,7 +60,7 @@ While Victoria brings enormous and credible knowledge and experience to the tabl
 Learn more about Victoria and her work [here](https://www.victoriawilding.com/)
 
 
-### Questions – To be questioned, changed, and added to by participants.
+## Questions – To be questioned, changed, and added to by participants.
 ### Big Questions:
 
 World Care:
