@@ -5,6 +5,7 @@ categories:
   - project
 authors: 
   - nathenfitchen
+  - rufuspollock
 image: /assets/images/conscious-parenting-project.jpg
 ---
 ![[../assets/images/conscious-parenting-project.jpg]]
@@ -13,14 +14,22 @@ image: /assets/images/conscious-parenting-project.jpg
 
 **Project Date:** Jan 2021 - Present
 
-**Team:** Esther Montmany & [[../people/rufuspollock |Rufus Pollock]]
+**Team:** Esther Montmany & [[../people/rufuspollock|Rufus Pollock]]
 
-Our conscious parenting project is a series of offerings from conscious parenting pioneer Esther Montmany. The offerings shed light on the impact of parents behaviours on the child, how to positively transform the role of the parents, and pragmatic tools for all elements of parenting.
+The conscious parenting project is about creating a wiser, more conscious approach to parenting. The project is developed and led by conscious parenting pioneer Esther Montmany. The materials shed light on the impact of parents behaviours on the child, how to positively transform the role of the parents, and pragmatic tools for all elements of parenting.
 
 Esther has worked with Mauricio and Rebecca Wild at their legendary school in Ecuador and led the children's program at Plum Village summer retreats as well as starting several initiatives of her own. Over the past 20 years she has been exploring how to relate with children through her own experiences as a mother and as a coach for other parents.
 
+## Context
+
+Children are the future (literally!) so how we raise them is central to shaping a wiser, weller world. And parents are the single biggest influence on a child's upbringing.
+
+And it works the other way around: bringing up a child can be a huge opportunity to grow -- it is certainly one of the most rewarding and challenging experiences we can have.
+
+So how can we parent more wisely, more consciously?
+
 ## Key Resources 
 
-- [[../podcast/esther-montmany-on-conscious-parenting-part-1 |]] [[../podcast/esther-montmany-on-conscious-parenting-part-1 |Esther Montmany on Conscious Parenting: Part 1]]
+- [[../podcast/esther-montmany-on-conscious-parenting-part-1 |Esther Montmany on Conscious Parenting: Part 1]]
 - [[../podcast/esther-montmany-on-conscious-parenting-part-2 |Esther Montmany on Conscious Parenting: Part 2]]
 - [[../podcast/esther-montmany-on-conscious-parenting-part-3 |Esther Montmany on Conscious Parenting: Part 3]]
