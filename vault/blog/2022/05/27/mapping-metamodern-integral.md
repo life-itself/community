@@ -21,7 +21,8 @@ Contents
 6. References
 7. Further Reading 
 
-1. Summary  
+1. Summary 
+
 1.1 Integral Studies
 
 An integrated approach to studies pursues a holistic view: an integration of mind, body, and spirit; an integration of material and spiritual values; and an integration of Eastern and Western philosophies and worldviews. 
