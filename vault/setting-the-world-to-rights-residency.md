@@ -23,6 +23,8 @@ The remark’s ironic implication is, basically, that big picture discussions of
 
 This residency challenges this attitude, seeing big topic conversations as a crucial job of citizens in a democracy. It will feature emotionally aware dialogue about our societies’ greatest challenges and our part in responding to them. These will be held with humility, curiosity, and a sense of duty to our fellow humans, future generations and life on Earth. As in all residencies, these practices will be woven into a daily routine that allows residents to work a job remotely with group cooking, dance, walks and more. Group inquiry sessions take place in the evening and will be held with attention to our intention and emotional balance.
 
+The Life Itself practice hub is itself a concrete place that started with a "saving the world conversation" and with ideas that were put into practice. It exists to create a space for the culture of tomorrow, which embraces the poetic/spiritual and the intellectual. This residency is not about privileging the intellectual but giving it its place and recognizing that, whether we like it or not, we live in a complicated and complex world. Even a cultural movement towards simplicity would mean understanding intricate systems enough to simplify them. 
+
 ### Where
 
 The [Life Itself Praxis Hub](vault/hubs/bergerac) in Bergerc France.
@@ -113,7 +115,7 @@ Some examples of world saving questions are below. Which ones we explore will be
 
 ### Price 
 
-850-1100 GBP
+850-1200 GBP
 
 ### The principles of this residency
 
