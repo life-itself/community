@@ -23,7 +23,7 @@ The remark’s ironic implication is, basically, that big picture discussions of
 
 This residency challenges this attitude, seeing big topic conversations as a crucial job of citizens in a democracy. It will feature emotionally aware dialogue about our societies’ greatest challenges and our part in responding to them. These will be held with humility, curiosity, and a sense of duty to our fellow humans, future generations and life on Earth. As in all residencies, these practices will be woven into a daily routine that allows residents to work a job remotely with group cooking, dance, walks and more. Group inquiry sessions take place in the evening and will be held with attention to our intention and emotional balance.
 
-Residents are encouraged ask how big picture thinking helps them to fit into a complex world.
+Residents are also encouraged ask how big picture thinking helps them to fit into a complex world, and to discuss this with facilitators and fellow residents.
 
 The Life Itself practice hub is, itself, a concrete place that started with a "saving the world conversation" and with ideas that were put into practice. It exists to create a space for the culture of tomorrow, which embraces the poetic/spiritual and the intellectual. This residency is not about privileging the intellectual but giving it its place and interweaving it with the "practical" and poetic.
 
