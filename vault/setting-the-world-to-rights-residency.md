@@ -35,6 +35,8 @@ The dismissive attitude towards big discussions was a hallmark of post-modernity
 
 Emotionally, we will also prepare ourselves to be open-minded with embodied practices and bohmian dialoguing. We will deal with the resistance to imagining a better world because this creates disappointment with life as it is. The ideal participants will be looking to use the conversations to help fuel their own decisions about how they persoanlly will be part of something larger. 
 
+The Arc of the residency will move over the weeks from the immediate threats of the polycrisis and misinformation (in the first two weeks) to the wider arc of cultural change. It will start with a sense of grounding, and a focus on climate change.
+
 ## Facilitators
 
 The residency will be faciliated by Life Itself co-founder, Liam Kavanagh and Victoria Wilding.
@@ -43,7 +45,7 @@ The residency will be faciliated by Life Itself co-founder, Liam Kavanagh and Vi
 
 ![[assets/images/liam-Cropped.jpg]]
 
-Liam is a cognitive and social scientist and co-founder of Life Itself, and co-director of the Climate Majority Project a climate organisation devoted to spreading consensus for serious climate action across cultural boundaries. He draws on cogntive scientific, meta-modern theory, contemplative practices, and collective wisdom to navigate the tensions that immobilise cultural imagination. His book with Perspectiva "beyond the shadows of the enligthenment" explores how to move past the dogmas around over-rationality, individualism and moral superiority by addressing their emotional roots rather than trying argue with them. 
+Liam is a cognitive and social scientist and co-founder of Life Itself, and co-director of the Climate Majority Project a climate organisation devoted to spreading consensus for serious climate action across cultural boundaries. He draws on cogntive scientific, meta-modern theory, contemplative practices, and collective wisdom to navigate the tensions that immobilise cultural imagination. His book with Perspectiva "beyond the shadows of the enligthenment" explores how contemplative practices such as Zen can help us to actually move past addictions to ideas of (over)rationality, individualism and moral superiority by addressing their emotional roots (like ad addiction) rather than disputing them on an intellectual level. He also loves to dance and cook.
 
 Learn more about Liam and his work [here](https://www.liamkavanagh.me/).
 
@@ -108,6 +110,10 @@ Some examples of world saving questions are below. Which ones we explore will be
 
 
 ### [Apply now!](https://docs.google.com/forms/d/e/1FAIpQLSdiykDKyZR6DgtPKeYuNePy9sWc-qkIc4BVfKBRjkFWKvFp-g/viewform)
+
+### Price 
+
+850-1100 GBP
 
 ### The principles of this residency
 
