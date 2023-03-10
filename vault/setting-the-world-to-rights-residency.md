@@ -23,7 +23,9 @@ The remark’s ironic implication is, basically, that big picture discussions of
 
 This residency challenges this attitude, seeing big topic conversations as a crucial job of citizens in a democracy. It will feature emotionally aware dialogue about our societies’ greatest challenges and our part in responding to them. These will be held with humility, curiosity, and a sense of duty to our fellow humans, future generations and life on Earth. As in all residencies, these practices will be woven into a daily routine that allows residents to work a job remotely with group cooking, dance, walks and more. Group inquiry sessions take place in the evening and will be held with attention to our intention and emotional balance.
 
-The Life Itself practice hub is itself a concrete place that started with a "saving the world conversation" and with ideas that were put into practice. It exists to create a space for the culture of tomorrow, which embraces the poetic/spiritual and the intellectual. This residency is not about privileging the intellectual but giving it its place and recognizing that, whether we like it or not, we live in a complicated and complex world. Even a cultural movement towards simplicity would mean understanding intricate systems enough to simplify them. 
+Residents are encouraged ask how big picture thinking helps them to fit into a complex world.
+
+The Life Itself practice hub is, itself, a concrete place that started with a "saving the world conversation" and with ideas that were put into practice. It exists to create a space for the culture of tomorrow, which embraces the poetic/spiritual and the intellectual. This residency is not about privileging the intellectual but giving it its place and interweaving it with the "practical" and poetic.
 
 ### Where
 
@@ -31,7 +33,7 @@ The [Life Itself Praxis Hub](vault/hubs/bergerac) in Bergerc France.
 
 ### More
 
-Democracy cannot work without intense discussion and moral imagination of possibilities that nobody can make real, so isn't our aversion to understanding the big picture a major reason why so many now think our world now needs “saving”?  The trick is to see and imagine ourselves as something larger, rather than as the people who must change everything. This is not a fantasy, as we’re living in a time of change when searching podcasts for obscure perspectives has become a fairly mainstream activity. Millions of people are dreaming of a better world, right now as you read this. 
+Democracy cannot work without intense discussion and moral imagination of possibilities that nobody, alone, can make real. So isn't our aversion to looking at the big picture a major reason why so many now think our world is in peril?  The trick is to see and imagine oneself as deeply a part of something larger, rather than as "the one" who must change everything. We’re living in a time when searching podcasts for new perspectives is mainstream. Millions of people are dreaming of a better world, right now as you read this. Let's be both humble and serious about it. 
 
 The dismissive attitude towards big discussions was a hallmark of post-modernity — defined by acceptance of lives that we don’t believe in. The next cultural era is starting as business-as-usual, politics-as-usual, and thinking-as-usual have lost their aura of invincibility. Come and join us in preparing for your perspective, imagination and emotion for the exciting times ahead!
 
@@ -85,7 +87,7 @@ Self Care
 * How can we understand skepticism towards opinions of “elite” middle-class urban educated people who dominate environmentalism (and likely are most of our participants), and asking what we need to do to be more trust-worthy.
 * Why do we need to plan for a movement towards slowing down and appreciating what we have (“just being”)?
 * How do we find synergy between global warming, "poly-crisis" and prosocial culture change? 
-* Is “worldwide awakening” really a viable strategy.
+* Is “worldwide awakening” really a viable strategy?
 * Being realistic about the gravity of climate and biodiversity predicaments and the political inaction behind them v. The need for optimism.
 	Not being bound either by the myth of certain progress or trapped by opposition to it.
 * Maintaining commitment to social justice on the world stage without becoming immobilised by hopes and demands for unattainable perfect climate justice.
