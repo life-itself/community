@@ -23,13 +23,13 @@ The remark’s ironic implication is, basically, that big picture discussions of
 
 This residency challenges this attitude, seeing big topic conversations as a crucial job of citizens in a democracy. It will feature emotionally aware dialogue about our societies’ greatest challenges and our part in responding to them. These will be held with humility, curiosity, and a sense of duty to our fellow humans, future generations and life on Earth. As in all residencies, these practices will be woven into a daily routine that allows residents to work a job remotely with group cooking, dance, walks and more. Group inquiry sessions take place in the evening and will be held with attention to our intention and emotional balance.
 
-The ideal participants will be looking to use the conversations to help fuel their own decisions about how they persoanlly will be part of something larger.
+The ideal participants will be looking to use the conversations to help fuel their own decisions about how they personally will be part of something larger.
 
 The Life Itself practice hub is, itself, a concrete place that started with a "saving the world conversation" and with ideas that were put into practice. It exists to create a space for the culture of tomorrow, which embraces the poetic/spiritual and the intellectual. This residency is not about privileging the intellectual but giving it its place and interweaving it with the "practical" and poetic.
 
 ### Where
 
-The [Life Itself Praxis Hub](vault/hubs/bergerac) in Bergerc France.
+The [Life Itself Praxis Hub](vault/hubs/bergerac) in Bergerac, France.
 
 ### More
 
@@ -39,7 +39,7 @@ The dismissive attitude towards big discussions was a hallmark of post-modernity
 
 Emotionally, we will also prepare ourselves to be open-minded with embodied practices and bohmian dialoguing. We will deal with the resistance to imagining a better world because this creates disappointment with life as it is. 
 
-The Arc of the residency will move over the weeks from the immediate threats of the polycrisis and misinformation (in the first two weeks) to the wider arc of cultural change. It will start with a sense of grounding, and a focus on climate change.
+The Arc of the residency will move over the weeks from a start with a sense of grounding and discussion of the immediate threats of the polycrisis and misinformation to the wider arc of cultural change. 
 
 ## Facilitators
 
