@@ -117,7 +117,7 @@ Some examples of world saving questions are below. Which ones we explore will be
 
 ### Price 
 
-850-1200 GBP
+850-1200 GBP for the whole month, including all food. Partial stays are possible.
 
 ### The principles of this residency
 
