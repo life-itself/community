@@ -85,6 +85,27 @@ const residents = [
   },
 ]
 
+const praxis = [
+  {
+    name: "Valerie Duvauchelle",
+    role: "Tenzo",
+    bio: "Valerie is a passionate advocate for activating new ways of being in the world. She believes that to live fully we need to allow for a radically different relationship to the world and to ourselves. Her specific interest is in the application of new ways of being in community and seeks to understand the invisible evolutionary impulses that occur when we do things together. She is a Tenzo cook in the Zen tradition and through her books, programs and retreats brings the universal teachings of this tradition into community living. She is most well known for the design and development of the Onboarding Process which bridges 20 years of learning in Zen temples with conscious community experience. Her dedicated practice is to cultivate a posture of 'being witness' in her life.  She embodies the balance between deep commitment and spontaneous playfulness.",
+    imageUrl: "assets/site/team/Valerie-profile.jpeg"
+  },
+  {
+    name: "Liu Bauer",
+    role: "Scientist",
+    bio: "Liu is a mathematician, a theoretical physicist and data scientist of urban systems, with a PhD in theoretical physics. She worked before in universities of Germany, Netherlands, Spain (IFISC), Uruguay, Italy, France. She has been involved in European and international interdisciplinary projects working on implementing new frameworks for working with data. In research she is working with complex networks, studying processes on networks and applying the network theory in various urban issues. For this she has worked with Strelka Institute, Urban AI think tank, Correlaid NGO. She also developed the international scientists-schools network exploring the potential of scientific networks (NGO which she co-founded in 2017) and co-lead the data-volunteering initiative to help NGOs to preprocess their data. Recently she has been involved in several citizen science projects, which aim to bring together the ideas of democratizing decision making processes and participatory modeling. She works on the interface of physics, mathematics, urbanism and humanitarian action. Liu took part in the Starts.eu project together with Sony labs (Italy) and museums in Italy and Germany, which brought specific attention to the phenomenon of citizens' emotions in cities. Her projects are now mostly focused on finding new approaches and methodologies (participatory simulations, collective intelligence, geolocalized crowdsourcing, sharing circles) to work with citizens and cities.",
+    imageUrl: "/assets/images/liu-bauer.jpeg"
+  },
+  {
+    name: "Marc Santolini",
+    role: "Scientist",
+    bio: "Marc Santolini is a network scientist who studies how individuals and groups innovate, collaborate and learn, with a particular focus on open and citizen science communities and the open-source movement. He holds a PhD in Statistical Physics from Ecole Normale Supérieure Paris, where he studied Complex Systems Physics and Philosophy of Science. Fascinated by the emergence of higher-order simplicity out of complex interactions, he specialized in network science applied to biological, medical and social contexts at the Barabasi Lab in Boston, before becoming a research fellow at the Learning Planet Institute (formerly Center for Research and Interdisciplinarity, CRI) of Université Paris Cité. He is also a co-founder of the Just One Giant Lab NGO that supports the development of emergent, large-scale open research communities through social and digital technologies. Passionate about music and spontaneous jamming, he explores how group rituals and facilitation mechanisms help achieve collective flow states, with a focus on multi-modal, dialogical embodied practices to experience philosophical and contemplative concepts such as emergence, inter-being, or at-onement.",
+    imageUrl: "/assets/images/marc-santolini.jpeg"
+  },
+]
+
 const contributors = [
   {
     name: "Esteban Ruseler",
@@ -167,6 +188,7 @@ const allTeams = [
   { heading: "Our Team", data: people },
   { heading: "Pioneers", data: pioneers },
   { heading: "Berlin Hub Residents", data: residents },
+  { heading: "Bergerac Praxis Hub Residents", data: praxis },
   { heading: "Contributors", data: contributors },
   { heading: "Alumni", data: alumni },
 ]
