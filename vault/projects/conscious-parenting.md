@@ -1,20 +1,19 @@
 ---
 title: "Conscious Parenting"
-created: 2023-02-24
-categories: 
-  - project
-authors: 
-  - nathenfitchen
-  - rufuspollock
+description: "Creating a wiser, weller world starts with great parenting. Join us in discovering conscious parenting to create the stewards of the future."
 image: /assets/images/conscious-parenting-project.jpg
+start: 2021-01
+end: 
+team:
+  rufuspollock
+  Esther Montmany
+size: xl | l | m | s | xs
+status: active | incubating | paused | done
+resolution: completed | retired | merged
+created: 2023-02-24
 ---
+
 ![[../assets/images/conscious-parenting-project.jpg]]
-
-**Creating a wiser, weller world starts with great parenting. Join us in discovering conscious parenting to create the stewards of the future.**
-
-**Project Date:** Jan 2021 - Present
-
-**Team:** Esther Montmany & [[../people/rufuspollock|Rufus Pollock]]
 
 The conscious parenting project is about creating a wiser, more conscious approach to parenting. The project is developed and led by conscious parenting pioneer Esther Montmany. The materials shed light on the impact of parents behaviours on the child, how to positively transform the role of the parents, and pragmatic tools for all elements of parenting.
 

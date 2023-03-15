@@ -23,17 +23,23 @@ The remark’s ironic implication is, basically, that big picture discussions of
 
 This residency challenges this attitude, seeing big topic conversations as a crucial job of citizens in a democracy. It will feature emotionally aware dialogue about our societies’ greatest challenges and our part in responding to them. These will be held with humility, curiosity, and a sense of duty to our fellow humans, future generations and life on Earth. As in all residencies, these practices will be woven into a daily routine that allows residents to work a job remotely with group cooking, dance, walks and more. Group inquiry sessions take place in the evening and will be held with attention to our intention and emotional balance.
 
+The ideal participants will be looking to use the conversations to help fuel their own decisions about how they personally will be part of something larger.
+
+The Life Itself practice hub is, itself, a concrete place that started with a "saving the world conversation" and with ideas that were put into practice. It exists to create a space for the culture of tomorrow, which embraces the poetic/spiritual and the intellectual. This residency is not about privileging the intellectual but giving it its place and interweaving it with the "practical" and poetic.
+
 ### Where
 
-The [Life Itself Praxis Hub](vault/hubs/bergerac) in Bergerc France.
+The [Life Itself Praxis Hub](vault/hubs/bergerac) in Bergerac, France.
 
 ### More
 
-Democracy cannot work without intense discussion and moral imagination of possibilities that nobody can make real, so isn't our aversion to understanding the big picture a major reason why so many now think our world now needs “saving”?  The trick is to see and imagine ourselves as something larger, rather than as the people who must change everything. This is not a fantasy, as we’re living in a time of change when searching podcasts for obscure perspectives has become a fairly mainstream activity. Millions of people are dreaming of a better world, right now as you read this. 
+Democracy cannot work without intense discussion and moral imagination of possibilities that nobody, alone, can make real. So isn't our aversion to looking at the big picture a major reason why so many now think our world is in peril?  The trick is to see and imagine oneself as deeply a part of something larger, rather than as "the one" who must change everything. We’re living in a time when searching podcasts for new perspectives is mainstream. Millions of people are dreaming of a better world, right now as you read this. Let's be both humble and serious about it. 
 
 The dismissive attitude towards big discussions was a hallmark of post-modernity — defined by acceptance of lives that we don’t believe in. The next cultural era is starting as business-as-usual, politics-as-usual, and thinking-as-usual have lost their aura of invincibility. Come and join us in preparing for your perspective, imagination and emotion for the exciting times ahead!
 
-Emotionally, we will also prepare ourselves to be open-minded with embodied practices and bohmian dialoguing. We will deal with the resistance to imagining a better world because this creates disappointment with life as it is. The ideal participants will be looking to use the conversations to help fuel their own decisions about how they persoanlly will be part of something larger. 
+Emotionally, we will also prepare ourselves to be open-minded with embodied practices and bohmian dialoguing. We will deal with the resistance to imagining a better world because this creates disappointment with life as it is. 
+
+The Arc of the residency will move over the weeks from a start with a sense of grounding and discussion of the immediate threats of the polycrisis and misinformation to the wider arc of cultural change. 
 
 ## Facilitators
 
@@ -43,7 +49,7 @@ The residency will be faciliated by Life Itself co-founder, Liam Kavanagh and Vi
 
 ![[assets/images/liam-Cropped.jpg]]
 
-Liam is a cognitive and social scientist and co-founder of Life Itself, and co-director of the Climate Majority Project a climate organisation devoted to spreading consensus for serious climate action across cultural boundaries. He draws on cogntive scientific, meta-modern theory, contemplative practices, and collective wisdom to navigate the tensions that immobilise cultural imagination. His book with Perspectiva "beyond the shadows of the enligthenment" explores how to move past the dogmas around over-rationality, individualism and moral superiority by addressing their emotional roots rather than trying argue with them. 
+Liam is a cognitive and social scientist and co-founder of Life Itself, and co-director of the Climate Majority Project a climate organisation devoted to spreading consensus for serious climate action across cultural boundaries. He draws on cogntive scientific, meta-modern theory, contemplative practices, and collective wisdom to navigate the tensions that immobilise cultural imagination. His book with Perspectiva "beyond the shadows of the enligthenment" explores how contemplative practices such as Zen can help us to actually move past addictions to ideas of (over)rationality, individualism and moral superiority by addressing their emotional roots (like ad addiction) rather than disputing them on an intellectual level. He also loves to dance and cook.
 
 Learn more about Liam and his work [here](https://www.liamkavanagh.me/).
 
@@ -81,7 +87,7 @@ Self Care
 * How can we understand skepticism towards opinions of “elite” middle-class urban educated people who dominate environmentalism (and likely are most of our participants), and asking what we need to do to be more trust-worthy.
 * Why do we need to plan for a movement towards slowing down and appreciating what we have (“just being”)?
 * How do we find synergy between global warming, "poly-crisis" and prosocial culture change? 
-* Is “worldwide awakening” really a viable strategy.
+* Is “worldwide awakening” really a viable strategy?
 * Being realistic about the gravity of climate and biodiversity predicaments and the political inaction behind them v. The need for optimism.
 	Not being bound either by the myth of certain progress or trapped by opposition to it.
 * Maintaining commitment to social justice on the world stage without becoming immobilised by hopes and demands for unattainable perfect climate justice.
@@ -108,6 +114,10 @@ Some examples of world saving questions are below. Which ones we explore will be
 
 
 ### [Apply now!](https://docs.google.com/forms/d/e/1FAIpQLSdiykDKyZR6DgtPKeYuNePy9sWc-qkIc4BVfKBRjkFWKvFp-g/viewform)
+
+### Price 
+
+850-1200 GBP for the whole month, including all food. Partial stays are possible.
 
 ### The principles of this residency
 
