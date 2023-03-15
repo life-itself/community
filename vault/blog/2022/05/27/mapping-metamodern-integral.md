@@ -57,25 +57,25 @@ Another phrase used to refer to the Integral Map is Integral Operating System, o
 
 The five elements of the Integral Theory:
 
-(1) States of Consciousness
+### 2.3 States of Consciousness
 
-There are all sorts of different states of consciousness: meditative states, altered states, peak experiences. 
+States of Consciousness  refers to the different modes or levels of awareness that individuals can experience. Some common examples of states of consciousness include, waking state, dreaming state, meditative state, flow state, altered states, and peak experiences.
 
-### 2.3  Stages or Levels of Development
+### 2.4  Stages or Levels of Development
 
 States of consciousness are temporary; one drifts from one to another. Stages of consciousness on the other hand are permanent. Stages represent the milestones of growth and development; they are enduring acquisitions. For example, once a child develops through the linguistic stages of development, the child has permanent access to language. There are all sorts of ways to divide up stages of development, and therefore there are all sorts of stage conceptions (just like temperature can be conceived of in celsius, fahrenheit, kelvin). 
 
-### 2.4 Lines of Development
+### 2.5 Lines of Development
 
 People are unevenly developed. Some are highly developed in logical thinking, but poorly developed in emotional feelings. Some people have highly advanced cognitive development but poor moral development. We can think of these multiple intelligences as domains of development or  “developmental lines”. Intelligences grow and develop through stages. There are many different ways of measuring or conceiving stages of development. In this instance, for example, if we were to measure development in the following three stages (or levels), egocentric, ethnocentric, and worldcentric, and consider there to be five key intelligences (or lines), cognitive, emotional, kinesthetic, interpersonal, moral and self-identity, by charting the major stages of development of intelligences we can see various lines unfold.  
 
 This psychograph can help us visualize and understand our own strengths. In this way, the Integral Approach can facilitate one to operate with knowledge of their strengths and weaknesses.  
 
-### 2.5 Types
+### 2.6 Types
 
 ‘Types’ simply refers to items that can be present at virtually any stage or state. For example, one common typology is the Myers-Briggs (whose main types are feeling, thinking, sensing, and intuiting). One can be any of those types at virtually any stage of development. These kinds of “horizontal typologies” can be useful, especially when combined with levels, lines, and states. The important point is that by using the Integral Approach, or IOS, you are able to check any situation – in yourself, in others, in an organization, or in a culture – and make sure that all appropriate types are included so as to be as comprehensive and inclusive as possible. It is also important to note that with any typology, there are healthy and unhealthy versions of a type. Being aware of an unhealthy type is just as important as being aware of a healthy type as a way to understand, communicate and operate most effectively, just as it is important to understand our own strengths and weaknesses, or lines of development.
 
-### 2.6 Quadrants 
+### 2.7 Quadrants 
 
 But how do the above all fit together? It’s one thing to simply lay all the pieces of the cross-cultural survey on the table and another to spot the patterns that connect all the pieces. With the Integral Approach, Wilber claims to have discovered the patterns. These patterns are together referred to as AQAL, shorthand for “all quadrants, all levels, all lines, all states, all types”. AQAL is just another term for IOS or the Integral Model.
 
