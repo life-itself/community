@@ -2,8 +2,9 @@
 title: "Food, Touch & Care - Community Call with Madelaine Ley"
 created: 2023-03-17
 categories: 
-  - community call
+  - "community call"
 authors:
+  - nathen-fitchen
 image: /assets/images/blog-image-food-touch-and-care.jpg
 ---
 
