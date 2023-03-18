@@ -13,12 +13,11 @@ end:
 team:
   - rufuspollock
 # can add alumni for past contributors
-alumni:
-  # - 
-# xl ~ years of effort over years, xs = days
+# alumni:
+#   - 
 size: xl | l | m | s | xs
 state: open | closed
-status: incubating | active | dormant | completed | retired | merged | incomplete
+status: incubating | active | dormant | completed | retired | merged | cancelled
 created: {{date}}	
 ---
 

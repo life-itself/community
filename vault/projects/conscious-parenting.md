@@ -5,12 +5,13 @@ image: /assets/images/conscious-parenting-project.jpg
 start: 2021-01
 end: 
 team:
-  rufuspollock
-  Esther Montmany
-size: xl | l | m | s | xs
-status: active | incubating | paused | done
-resolution: completed | retired | merged
-created: 2023-02-24
+  - rufuspollock
+  - esthermontmany
+size: xl
+state: open
+status: incubating
+created: 2023-02-24	
+---
 ---
 
 ![[../assets/images/conscious-parenting-project.jpg]]
@@ -19,13 +20,17 @@ The conscious parenting project is about creating a wiser, more conscious approa
 
 Esther has worked with Mauricio and Rebecca Wild at their legendary school in Ecuador and led the children's program at Plum Village summer retreats as well as starting several initiatives of her own. Over the past 20 years she has been exploring how to relate with children through her own experiences as a mother and as a coach for other parents.
 
-## Context
+## Motivation
 
 Children are the future (literally!) so how we raise them is central to shaping a wiser, weller world. And parents are the single biggest influence on a child's upbringing.
 
 And it works the other way around: bringing up a child can be a huge opportunity to grow -- it is certainly one of the most rewarding and challenging experiences we can have.
 
 So how can we parent more wisely, more consciously?
+
+## Status and Updates
+
+No Updates yet!
 
 ## Key Resources 
 
