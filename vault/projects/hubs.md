@@ -1,5 +1,5 @@
 ---
-title: "Hub"
+title: "Hubs"
 description: "Our hubs are micro-cultures which embody [the values of Life Itself]. The hubs provide communal environments that support the well-being and self-growth of their residents and foster links with local communities through events, workshops and co-working spaces."
 image: /assets/images/hub-gathering-meal-2019.jpg
 start: 2020
@@ -22,10 +22,10 @@ Our hubs are micro-cultures which embody [the values of Life Itself]. The hubs p
 
 ## Key Resources
 
-[Hubs Main Page].(https://lifeitself.org/hubs)
-[Hub - Bergerec].(https://lifeitself.org/hubs/bergerac/)
-[Hub - Berlin].(https://lifeitself.org/hubs)
-[Hub - London].(https://lifeitself.org/hubs/london/)
+[[../hubs |Hubs Main Page]]
+[[../hubs/bergerac |Bergerac Hub]]
+[[../hubs/berlin/ |Berlin Hub]]
+[[../hubs/farmhouse/ |Thenac Farmhouse]]
 
 
 
