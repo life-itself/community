@@ -2,7 +2,7 @@
 title: "Hubs"
 description: "Our hubs are micro-cultures which embody [the values of Life Itself]. The hubs provide communal environments that support the well-being and self-growth of their residents and foster links with local communities through events, workshops and co-working spaces."
 image: /assets/images/hub-gathering-meal-2019.jpg
-start: 2020
+start: 2020-06-23
 end: 
 team:
   - rufuspollock
@@ -11,7 +11,7 @@ alumni:
 size: xl
 state: open
 status: active
-created: 2020-06-23
+created: 2023-03-16
 ---
 
 ![[hub-gathering-meal-2019.jpg]]
