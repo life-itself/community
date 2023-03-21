@@ -2,11 +2,11 @@
 title: "Ontological Politics"
 description: "Any social or political envisioning is constrained by an invisible frame**: by the implicit values and views on which it is created, most importantly its view of the nature of human beings."
 image: /assets/images/ontological-politics.jpeg
+homepage:
 start: 2020
 end: 
 team:
   - rufuspollock
-  - valerie
 alumni:
 size: xl
 state: open
@@ -24,8 +24,9 @@ If we are to rediscover our political imagination we need to go back to basics. 
 
 ## Key Resources 
 
-[Ontological Politics].(https://lifeitself.org/ontological-politics)
-[Possibility Now].([https://possibilitynow.lifeitself.org](https://possibilitynow.lifeitself.org/))
+- [[../ontological-politics |Ontological Politics]]
+- [[../blog/2020/10/06/preface-to-an-ontological-politics |A Preface to Ontological Politics]]
+- [Possibility Now].([https://possibilitynow.lifeitself.org](https://possibilitynow.lifeitself.org/))
 
 
 

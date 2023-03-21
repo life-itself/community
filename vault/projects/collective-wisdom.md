@@ -2,10 +2,12 @@
 title: "Collective Wisdom"
 description: "Western society is deeply attached to ”Enlightenment” ideals of rationality, individualism and equality."
 image: /assets/images/Blog-Feature-Images-7.jpg
+homepage:
 start: 2019
 end: 2020
 team:
   - rufuspollock
+  - liamaet
 alumni:
 size: m
 state: open
@@ -19,6 +21,5 @@ Western society is deeply attached to ”Enlightenment” ideals of rationality,
 
 ## Key Resources
 
-[Collective Wisodm].(https://lifeitself.org/blog/2020/10/24/collective-wisdom-reflections)
-[Collective Wisdom Reflections].(https://lifeitself.org/2020/10/24/collective-wisdom-reflections/)
-[Contemplative Activism a Primer].(https://lifeitself.org/2020/06/11/contemplative-activism-a-primer/)
+- [[../collective-wisdom |Collective Wisdom Homepage]]
+- [[../blog/2020/10/24/collective-wisdom-reflections |Reflections on Collective Wisdom]]

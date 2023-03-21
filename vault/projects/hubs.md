@@ -2,11 +2,13 @@
 title: "Hubs"
 description: "Our hubs are micro-cultures which embody [the values of Life Itself]. The hubs provide communal environments that support the well-being and self-growth of their residents and foster links with local communities through events, workshops and co-working spaces."
 image: /assets/images/hub-gathering-meal-2019.jpg
+homepage:
 start: 2020-06-23
 end: 
 team:
   - rufuspollock
   - valerie
+  - liamaet
 alumni:
 size: xl
 state: open
@@ -20,10 +22,10 @@ Our hubs are micro-cultures which embody [the values of Life Itself]. The hubs p
 
 ## Key Resources
 
-[[../hubs |Hubs Main Page]]
-[[../hubs/bergerac |Bergerac Hub]]
-[[../hubs/berlin/ |Berlin Hub]]
-[[../hubs/farmhouse/ |Thenac Farmhouse]]
+- [[../hubs |Hubs Main Page]]
+- [[../hubs/bergerac |Bergerac Hub]]
+- [[../hubs/berlin/ |Berlin Hub]]
+- [[../hubs/farmhouse/ |Thenac Farmhouse]]
 
 
 

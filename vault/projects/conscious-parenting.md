@@ -2,11 +2,13 @@
 title: "Conscious Parenting"
 description: "Creating a wiser, weller world starts with great parenting. Join us in discovering conscious parenting to create the stewards of the future."
 image: /assets/images/conscious-parenting-project.jpg
+homepage:
 start: 2021-01
-end: 
+end:
 team:
   - rufuspollock
   - esthermontmany
+alumni:
 size: xl
 state: open
 status: incubating

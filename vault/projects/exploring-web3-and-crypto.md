@@ -2,20 +2,21 @@
 title: "Exploring Web3 & Crypto"
 description: "Crypto & Web3 are a huge phenomenon but can be hard to make sense of. We help with introductions to key concepts and in-depth evaluations of the claims for its social and economic impact."
 image: /assets/images/web3.jpeg
-start:
-end: 
+homepage:
+start: 2021-12
+end:
 team:
-  - rufuspollock
+  - rufus-pollock
+  - theo-cox
   - nathenfitchen
-  - catherinetran
-  - stephendiehl
+  - catherine-tran
+  - Stephen Diehl
 alumni:
-  - theocox
   - eilidhross
 size: xl
 state: open
 status: active
-created: 2021-12
+created: 2023-03-16
 ---
 
 ## Description
