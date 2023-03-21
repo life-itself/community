@@ -15,8 +15,6 @@ state: open
 status: dormant
 created: 2019-12
 ---
----
-![[../assets/images/Blog-Feature-Images-16.jpg]]
 
 **Charting an emerging ecosystem by Life Itself, Emerge and collaborators**
 

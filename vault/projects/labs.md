@@ -2,7 +2,7 @@
 title: Life Itself Labs
 description: "Research arm of Life Itself working on systems and data. Strategically relevant because learning and rigor are a key part of our approach."
 image: assets/images/life-itself-labs.png
-start:
+start: 2021
 end: 
 team:
   - rufuspollock
@@ -11,10 +11,8 @@ alumni:
 size: xl
 state: open
 status: active
-created: 2021
+created: 2023-03-16
 ---
-
-![[life-itself-labs.png]]
 
 ## Description
 

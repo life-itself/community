@@ -18,8 +18,6 @@ status: active
 created: 2021-12
 ---
 
-![[../assets/images/web3.jpeg]]
-
 ## Description
 
 **Crypto & Web3 are a huge phenomenon but can be hard to make sense of. We help with introductions to key concepts and in-depth evaluations of the claims for its social and economic impact.**
