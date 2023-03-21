@@ -42,6 +42,6 @@ _An initiative of the COVID-era._
 
 _Subscribe_ _to our mailing list to be kept up-to-date with future activities_
 
-\[mc4wp\_form id="3281"\]
-
 ## News
+
+[[blog/2020/10/06/preface-to-an-ontological-politics |A preface to Ontological Politics]]

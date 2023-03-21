@@ -2,17 +2,19 @@
 title: "Tao of Life Itself"
 description: "A guide to our way of being and doing. A combination of our playbook and our concrete envisioning of how pioneering Life Itself aligned communities operate."
 image: /assets/images/jose-luis-sanchez-pereyra-U6HOr6-CPSA-unsplash-scaled.jpg
+homepage:
 start: 2016
-end: 
+end:
 team:
   - rufuspollock
+  - sylvieshiweibarbier
   - nathen-fitchen
   - theo-cox
 alumni:
   - eilidh-ross
 size: xl
 status: open
-resolution:
+resolution: active
 created: 2023-03-20
 ---
 
@@ -30,25 +32,7 @@ This is our tao, or "way". It is a guide to what we stand for and how we operate
 
 We want a world that is wise, well and awake. We think being changes everything and that key steps to make that wiser world are to a) spearhead a waking up, growing up, cleaning up culture b) make politics cool again to address collective challenges. **[See our narrative for more](https://lifeitself.org/tao/narrative)**
 
-## Culture
 
--   [Culture](https://lifeitself.org/tao/culture)
--   [Views](https://lifeitself.org/tao/views)
--   [Principles](https://lifeitself.org/tao/principles)
--   [Patterns and Practices](https://lifeitself.org/tao/practices)
+## Key Resources
 
-## Getting Stuff Done
-
-[Getting Work Done section](https://lifeitself.org/tao/getting-stuff-done).
-
-## Ops
-
--   [Operations Guide](https://lifeitself.org/tao/ops)
--   [Finance](https://lifeitself.org/tao/ops#finance)
--   [Onboarding instructions for a new joiner](https://lifeitself.org/tao/onboarding)
--   [How to Onboard Someone](https://lifeitself.org/tao/ops-onboarding-checklist)
--   [Offboarding](https://lifeitself.org/tao/ops-offboarding)
-
-## Comms
-
--   [Comms Guide](https://lifeitself.org/tao/communications)
+- [The Tao of Life Itself](https://lifeitself.org/tao)

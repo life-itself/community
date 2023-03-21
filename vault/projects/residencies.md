@@ -1,18 +1,18 @@
 ---
-title: "Residences"
-description: "A guide to our way of being and doing. A combination of our playbook and our concrete envisioning of how pioneering Life Itself aligned communities operate."
+title: "Residencies"
+description: "A series of residencies and retreats that are a spiritual cooking-together of various ingredients: people, practices, workshops, art, community life and actual cooking."
 image: /assets/images/f30dcd17-9101-4a3a-b8c6-20eea8005010-1024x768.jpeg
+homepage:
 start: 2020
 end: 
 team:
   - rufuspollock
-  - nathen-fitchen
-  - theo-cox
+  - valerie
+  - liamaet
 alumni:
-  - eilidh-ross
 size: xl
 status: open
-resolution:
+resolution: active
 created: 2023-03-20
 ---
 
@@ -26,7 +26,7 @@ Under the banner of **[Sympoiesis](https://lifeitself.org/sympoiesis#sympoiesis
 
 ## Key Resources
 
-[Residencies].(https://lifeitself.org/upcoming-residencies-gatherings)
-[Life Itself Praxis Hub, Bergerac](https://lifeitself.org/hubs/bergerac/)
-[Life Itself Hub, Berlin].(https://lifeitself.org/hubs/berlin/)
-[Life Itself Hub, Petit Boi Martin].(https://lifeitself.org/hubs/farmhouse/)
+- [[../upcoming-residencies-gatherings |Upcoming Residencies]]
+- [[../previous-residencies |Previous Residencies]]
+- [[../hubs/bergerac |The Bergerac Praxis Hub]]
+

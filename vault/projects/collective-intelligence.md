@@ -2,10 +2,12 @@
 title: "Collective Intelligence"
 description: "This paper clarifies the concept of Collective Intelligence ─ the ability that allows a group to learn to take useful actions over time ─ and argues for the pre-eminence of emotional factors in group intelligence."
 image: /assets/images/Blog-Feature-Images-16.jpg
+homepage:
 start: 2018
 end: 2019
 team:
   - rufuspollock
+  - liamaet
 alumni:
 size: l
 state: closed
@@ -19,5 +21,5 @@ This paper clarifies the concept of Collective Intelligence ─ the ability that
 
 ## Key Resources
 
-[Collective Intelligence Republished].(https://drive.google.com/file/d/1NHBDtw3MplEuleEQN5oyPJtJ-rfQCgmX/view)
-[Collective Intelligence].(https://lifeitself.org/blog/2020/08/28/collective-intelligence)
+- [[../blog/2020/08/28/collective-intelligence |Collective Intelligence]]
+- [Collective Intelligence Republished](https://drive.google.com/file/d/1NHBDtw3MplEuleEQN5oyPJtJ-rfQCgmX/view)

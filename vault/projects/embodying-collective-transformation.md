@@ -2,17 +2,18 @@
 title: "Embodying Collective Transformation"
 description: "A guide to our way of being and doing. A combination of our playbook and our concrete envisioning of how pioneering Life Itself aligned communities operate."
 image: /assets/images/IMG_4924_1-scaled-e1653601439702.jpg
-start: 2022
-end: 
+homepage:
+start: 2022-09
+end: 2022-12
 team:
   - rufuspollock
-  - karl-steyaert
-  - nadine-helm
-  - jocelyn-ames
+  - Karl Steyaert
+  - Nadine Helm
+  - Jocelyn Ames
   - catherine-tran
-size: xl
-status: open
-resolution:
+size: l
+status: closed
+resolution: complete
 created: 2023-03-20
 ---
 
@@ -38,5 +39,5 @@ We’re passionate about coming together with others to embody the necessary per
 
 ## Key Resources
 
-[Embodying Collective Transformation].(https://lifeitself.org/embodying-collective-transformation)
+- [[../embodying-collective-transformation |Embodying Collective Transformation]]
 

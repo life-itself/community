@@ -1,12 +1,14 @@
 ---
-title: "Hub - Berlin"
+title: "The Berlin Hub"
 description: "The Life Itself Berlin Hub in Kreuzberg is an experiment in intentional community living. A place to push for change and grow together through shared values. Our beautiful co-living hub in Berlin has space for new members! If you want to live in a supportive community committed to wellbeing and social change, we'd love to hear from you"
 image: /assets/images/berlin-hub.jpg
+homepage:
 start: 2020
 end: 
 team:
   - rufuspollock
-  - valerie
+  - iljad20a2d59ebb
+  - sen-zhan
 alumni:
 size: xl
 state: open
@@ -20,5 +22,6 @@ The Life Itself Berlin Hub in Kreuzberg is an experiment in intentional communit
 
 ## Key Resources
 
-[Berlin Hub].(https://lifeitself.org/hubs/berlin)
+- [[../hubs/berlin/|The Hub Page]]
+
 

@@ -2,18 +2,20 @@
 title: "Polycrisis Response Mapping"
 description: "Charting an emerging ecosystem by Life Itself, Emerge and collaborators. This project maps an emerging ecosystem centred on a radical, alternative approach to social change – one that is simultaneously paradigmatic, integrated and engaged."
 image: /assets/images/Blog-Feature-Images-16.jpg
-start:
-end: 
+homepage:
+start: 2020
+end:
 team:
-  - nathenfitchen
   - rufuspollock
-  - theocox
-  - elidahross
-  - catherinetran
+  - theo-cox
+  - catherine-tran
+  - nathen-fitchen
+alumni:
+  - eilidhross
 size: xl
 state: open
 status: dormant
-created: 2019-12
+created: 2023-03-10
 ---
 
 **Charting an emerging ecosystem by Life Itself, Emerge and collaborators**
