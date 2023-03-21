@@ -16,8 +16,6 @@ resolution:
 created: 2023-03-20
 ---
 
-![[jose-luis-sanchez-pereyra-U6HOr6-CPSA-unsplash-scaled.jpg]]
-
 ## Description
 
 **A Guide to Our Way of Being and Doing**

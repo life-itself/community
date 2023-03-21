@@ -15,5 +15,9 @@ status: open
 resolution:
 created: 2023-03-15	
 ---
+## Description
 
 Welcome to the Life Itself Podcast, where we sit down to have conversations with thought leaders and seek solutions to our current crises by exploring emerging culture and technology.
+
+## Key Resources 
+

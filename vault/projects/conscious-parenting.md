@@ -12,9 +12,6 @@ state: open
 status: incubating
 created: 2023-02-24	
 ---
----
-
-![[../assets/images/conscious-parenting-project.jpg]]
 
 The conscious parenting project is about creating a wiser, more conscious approach to parenting. The project is developed and led by conscious parenting pioneer Esther Montmany. The materials shed light on the impact of parents behaviours on the child, how to positively transform the role of the parents, and pragmatic tools for all elements of parenting.
 

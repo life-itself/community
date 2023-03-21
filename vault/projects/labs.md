@@ -14,8 +14,6 @@ status: active
 created: 2023-03-16
 ---
 
-![[life-itself-labs.png]]
-
 ## Description
 
 Research arm of Life Itself working on systems and data. Strategically relevant because learning and rigor are a key part of our approach.

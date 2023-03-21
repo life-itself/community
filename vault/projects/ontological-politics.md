@@ -14,8 +14,6 @@ status: active
 created: 2023-03-20
 ---
 
-![[ontological-politics.jpeg]]
-
 ## Description
 
 **An integral politics grounded in the nature of being for human beings.**

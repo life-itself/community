@@ -14,8 +14,6 @@ status: active
 created: 2023-03-19
 ---
 
-![[bergerac-hub.jpeg]]
-
 ## Description
 
 The Bergerac Hub offers opportunities to explore what it really means to live more consciously together. The Hub is nestled near the River Dordogne and just a few minutes walk from Bergerac's beautiful town centre. A perfect location from which to enjoy both the glorious French countryside and the vibrant medieval town.
