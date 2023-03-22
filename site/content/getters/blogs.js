@@ -11,5 +11,5 @@ export default function getBlogs() {
       authors: authors.filter(author => post.authors.includes(author['id'])) ?? [siteConfig.author]
     })).sort((a, b) => new Date(b.created) - new Date(a.created))
 
-  return blogs
+  return blogs.slice(0,30)
 }
