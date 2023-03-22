@@ -1,14 +1,14 @@
 ---
-title: {{title}}
-description:
-image:
+title: "{{title}}"
+description: ""
+image: ""
 # https://project.org or leave blank if no page yet
 homepage:
 # for start/end leave blank if unknown
 # use yyyy-mm-dd format
 # can omit e.g. yyyy or yyyy-mm is ok
-start:
-end: 
+start: ""
+end: ""
 # add team members with their id one per line
 team:
   - rufuspollock
@@ -18,7 +18,7 @@ team:
 size: xl | l | m | s | xs
 state: open | closed
 status: incubating | active | dormant | completed | retired | merged | cancelled
-created: {{date}}	
+created: "{{date}}"
 ---
 
 Add description here.

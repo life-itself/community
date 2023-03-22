@@ -1,8 +1,8 @@
 ---
 title: "Wisdom Colloquia"
-description:
-image:
-homepage:
+description: ""
+image: ""
+homepage: ""
 start: 2020
 end: 2021
 team:

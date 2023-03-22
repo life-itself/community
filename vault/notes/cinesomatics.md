@@ -1,6 +1,6 @@
 ---
 title: Cinesomatics
-authors: 
+authors: []
 ---
 
 Crudely put it is "Somatics + (online) Video". Set up by Andrew Daniel - https://cinesomatics.org/author/andrewdaniel/.

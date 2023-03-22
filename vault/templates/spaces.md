@@ -1,6 +1,6 @@
 ---
 url: 
-image: 
+image: ""
 country: 
 start: 
 end: 
