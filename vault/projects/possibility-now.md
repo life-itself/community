@@ -21,4 +21,4 @@ Possibility Now is an initiative started by Life Itself to spark hope for social
 
 ## Key Resources 
 
-[Possibility Now].(https://possibilitynow.lifeitself.org/)
+[Possibility Now](https://possibilitynow.lifeitself.org/)
