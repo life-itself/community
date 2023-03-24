@@ -26,7 +26,7 @@ If we are to rediscover our political imagination we need to go back to basics. 
 
 - [[../ontological-politics |Ontological Politics]]
 - [[../blog/2020/10/06/preface-to-an-ontological-politics |A Preface to Ontological Politics]]
-- [Possibility Now].([https://possibilitynow.lifeitself.org](https://possibilitynow.lifeitself.org/))
+- [Possibility Now]([https://possibilitynow.lifeitself.org](https://possibilitynow.lifeitself.org/)
 
 
 

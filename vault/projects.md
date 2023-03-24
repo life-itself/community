@@ -27,7 +27,7 @@ Our work brings inner transformation out of the domain of the purely spiritual, 
 
 ### Active Projects
 
-[[projects/hubs-bergerac |The Bergerac Praxis Hub]]
+[[projects/hub-bergerac |The Bergerac Praxis Hub]]
 [[projects/hub-berlin |The Berlin Hub]]
 [[projects/columinate |Columinate]]
 [[projects/conscious-parenting |Conscious Parenting]]
