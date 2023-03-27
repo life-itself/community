@@ -8,20 +8,6 @@ image: /assets/images/Blog-Feature-Images-11.png
 
 @[Life Itself Praxis Hub, Bergerac](https://lifeitself.org/hubs/bergerac/), South of France 
 
-## Intelligence collective: Gouvernance partagée (in French), 4-5 March 2023
-
-- **When:** March 4th - March 5th
-- **What**: 2 journées pour découvrir et expérimenter des pratiques, processus et dispositifs pour une autogouvernance inclusive.
-- **How much ?** 120 euros for accommodation, food, training and practices.
-- **Learn more and apply:** [https://coomic.coop/site/actions/gec3.html](https://coomic.coop/site/actions/gec3.html)
-
-## Intelligence collective: Conseil de tous les êtres (in French), 11-12 March 2023
-
-- **When:** March 11th - March 12th
-- **What**: 2 journées pour vivre la pratique fondatrice du TQR (Travail Qui Relie – Joanna Macy) et mieux se reconnecter avec nos émotions et notre pouvoir d’agir
-- **How much ?** 120 euros for accommodation, food, training and practices.
-- **Learn more and apply:** [https://coomic.coop/site/actions/cte.html](https://coomic.coop/site/actions/cte.html)
-
 ## Relational Embodiment Residency, March-April 2023
 
 - **When:** March 19th - April 2nd
@@ -50,3 +36,22 @@ The seismic shifts we need to effectively respond to this meta-crisis, are syste
 - **How much:** From 750 to 1350 euros
 - **Facilitators:** [Valérie Duvauchelle](https://en.lacuisinedelabienveillance.org/),  [Victoria Wilding](https://www.victoriawilding.com/), [Lauren Uba](https://www.laurenuba.com/about)
 - **[Learn more and apply](ouroboros-residency)**
+
+
+# Past Residencies 
+
+## Intelligence collective: Gouvernance partagée (in French), 4-5 March 2023
+
+- **When:** March 4th - March 5th
+- **What**: 2 journées pour découvrir et expérimenter des pratiques, processus et dispositifs pour une autogouvernance inclusive.
+- **How much ?** 120 euros for accommodation, food, training and practices.
+- **Learn more and apply:** [https://coomic.coop/site/actions/gec3.html](https://coomic.coop/site/actions/gec3.html)
+
+## Intelligence collective: Conseil de tous les êtres (in French), 11-12 March 2023
+
+- **When:** March 11th - March 12th
+- **What**: 2 journées pour vivre la pratique fondatrice du TQR (Travail Qui Relie – Joanna Macy) et mieux se reconnecter avec nos émotions et notre pouvoir d’agir
+- **How much ?** 120 euros for accommodation, food, training and practices.
+- **Learn more and apply:** [https://coomic.coop/site/actions/cte.html](https://coomic.coop/site/actions/cte.html)
+
+
