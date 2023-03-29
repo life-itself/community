@@ -23,3 +23,8 @@ Wilber's thought has undergone major evolution over his life.
 ## Consciousness is multi-quadrant
 
 > "…consciousness actually exists distributed across all four quadrants with all of their various levels and dimensions. There is no one quadrant (and certainly no one level) to which we can point and say, There is consciousness. Consciousness is in no way localized in that fashion. …It is true that the Upper Left quadrant is the locus of consciousness as it appears in an individual, but that's the point: as it appears in an individual. Yet consciousness on the whole is anchored in, and distributed across, all of the quadrants – intentional, behavioral, cultural, and social. If you "erase" any quadrant, they all disappear, because each is intrinsically necessary for the existence of the others." (p. 273)
+
+## Other pieces
+
+- [[../blog/2019/01/22/ken-wilber-integral-spirituality|Integral Spirituality Notes]]
+- [[books/wilber-1994-integral-psychology|Integral Psychology Notes]]
