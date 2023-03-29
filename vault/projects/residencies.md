@@ -2,7 +2,7 @@
 title: "Residencies"
 description: "A series of residencies and retreats that are a spiritual cooking-together of various ingredients: people, practices, workshops, art, community life and actual cooking."
 image: /assets/images/f30dcd17-9101-4a3a-b8c6-20eea8005010-1024x768.jpeg
-homepage:
+homepage: /upcoming-residencies-gatherings
 start: 2020
 end: 
 team:

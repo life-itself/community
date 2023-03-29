@@ -2,7 +2,7 @@
 title: "Tao of Life Itself"
 description: "A guide to our way of being and doing. A combination of our playbook and our concrete envisioning of how pioneering Life Itself aligned communities operate."
 image: /assets/images/jose-luis-sanchez-pereyra-U6HOr6-CPSA-unsplash-scaled.jpg
-homepage:
+homepage: https://lifeitself.org/tao
 start: 2016
 end:
 team:
