@@ -15,6 +15,7 @@ import wikiLinkPlugin from "remark-wiki-link-plus";
 import mdxMermaid from 'mdx-mermaid';
 
 import { siteConfig } from "./config/siteConfig";
+import { formatDate } from "./lib/formatDate"
 
 const sharedFields = {
   title: { type: "string" },
@@ -131,6 +132,41 @@ const Podcast = defineDocumentType(() => ({
   computedFields
 }))
 
+const resolutionOptions = [
+  "incubating",
+  "active",
+  "dormant",
+  "completed",
+  "retired",
+  "merged",
+  "cancelled"
+]
+
+const Initiative = defineDocumentType(() => ({
+  name: "Initiative",
+  contentType: "mdx",
+  filePathPattern: "initiatives/**/*.md*",
+  fields: {
+    ...sharedFields,
+    homepage: { type: "json" },
+    start: { type: "json" },
+    end: { type: "json" },
+    team: { type: "list", of: { type: "string" }, default: [] },
+    size: { type: "enum", options: ["xl", "l", "m", "s", "xs"] },
+    state: { type: "enum", options: ["open", "closed"] },
+    status: { type: "enum", options: resolutionOptions },
+    resolution: { type: "enum", options: resolutionOptions },
+    created: { type: "date" },
+  },
+  computedFields: {
+    ...computedFields,
+    alumni: {
+      type: "list",
+      resolve: doc => doc.alumni ?? []
+    }
+  }
+}))
+
 /* Ecosystem document types */
 
 const NestedUrl = defineNestedType(() => ({
@@ -232,7 +268,7 @@ export default makeSource({
     ...siteConfig.contentExclude,
   ]),
   contentDirInclude: siteConfig.contentInclude,
-  documentTypes: [Blog, Person, Podcast, Profile, Topic, Page],
+  documentTypes: [Blog, Person, Podcast, Profile, Topic, Initiative, Page],
   mdx: {
     cwd: process.cwd(),
     remarkPlugins: [
