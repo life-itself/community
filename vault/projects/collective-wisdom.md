@@ -2,7 +2,7 @@
 title: "Collective Wisdom"
 description: "Western society is deeply attached to ”Enlightenment” ideals of rationality, individualism and equality."
 image: /assets/images/Blog-Feature-Images-7.jpg
-homepage:
+homepage: /collective-wisdom
 start: 2019
 end: 2020
 team:

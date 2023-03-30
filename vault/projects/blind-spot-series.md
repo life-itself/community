@@ -1,8 +1,8 @@
 ---
 title: "Blind Spot Series"
-description: "Blind Spots is our new series of conversations exploring the collective blind spots of our society."
-image: /assets/images/Blog-Feature-Images-22.jpg
-homepage:
+description: "Blind Spots is our series of conversations exploring the collective blind spots of our society."
+image: /assets/images/carcrash-scaled.jpg
+homepage: /blind-spots
 start: 2018
 end: 2019
 team:
@@ -18,7 +18,7 @@ created: 2023-03-21
 
 ## Description
 
-Blind Spots is our new series of conversations exploring the collective blind spots of our society.  
+Blind Spots is our series of conversations exploring the collective blind spots of our society.  
   
 What is holding us back from creating a powerful vision for our future? What’s behind the rise in populism? What’s stopping us addressing climate change effectively?
 
@@ -30,5 +30,6 @@ What is holding us back from creating a powerful vision for our future? What’s
 - [[../blog/2019/12/01/blind-spot-3-the-equality-complex |Blind Spot 3: The Equality Complex]]
 - [[../blog/2019/02/06/blind-spots-roberto-unger-future-of-britain |Roberto Unger on the Future of Britain]]
 - [[../blog/2019/10/25/introduction-to-our-collective-blind-spots |Introduction to our Collective Blindspots]]
+
 
 

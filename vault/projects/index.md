@@ -1,7 +1,7 @@
 ---
-Title: "Projects"
-Decription: "Life Itself is a multi-level, multi-disciplinary organisation. This page showcases all our projects present and past."
-Created: 2023-03-23
+title: "Our Projects"
+decription: "Life Itself is a multi-level, multi-disciplinary organisation. This page showcases all our projects present and past."
+created: 2023-03-23
 ---
 How do we bring about the shifts in being, culture and systems necessary to transform our social paradigm, and steer humanity and the planet into a flourishing future?
 
@@ -27,31 +27,31 @@ Our work brings inner transformation out of the domain of the purely spiritual, 
 
 ### Active Projects
 
-[[projects/hub-bergerac |The Bergerac Praxis Hub]]
-[[projects/hub-berlin |The Berlin Hub]]
-[[projects/columinate |Columinate]]
-[[projects/conscious-parenting |Conscious Parenting]]
-[[projects/ecosystem-mapping |Ecosystem Mapping]]
-[[projects/exploring-web3-and-crypto |Exploring Web3 & Crypto]]
-[[projects/hubs |Hubs]]
-[[projects/labs |Labs]]
-[[projects/hub-petit-bois-martin |The Petit Bois Martin Hub]]
-[[projects/podcast |The Life Itself Podcast]]
-[[projects/residencies |Residencies]]
-[[projects/tao-of-life-itself |The Tao of Life Itself]]
+- [[projects/hub-bergerac |The Bergerac Praxis Hub]]
+- [[projects/hub-berlin |The Berlin Hub]]
+- [[projects/columinate |Columinate]]
+- [[projects/conscious-parenting |Conscious Parenting]]
+- [[projects/ecosystem-mapping |Ecosystem Mapping]]
+- [[projects/exploring-web3-and-crypto |Exploring Web3 & Crypto]]
+- [[projects/hubs |Hubs]]
+- [[projects/labs |Labs]]
+- [[projects/hub-petit-bois-martin |The Petit Bois Martin Hub]]
+- [[projects/podcast |The Life Itself Podcast]]
+- [[projects/residencies |Residencies]]
+- [[projects/tao-of-life-itself |The Tao of Life Itself]]
 
 
 ### Currently Inactive Projects
 
-[[projects/blind-spot-series |Blind Spots]]
-[[projects/collective-intelligence |Collective Intelligence]]
-[[projects/collective-wisdom |Collective Wisdom]]
-[[projects/contemplative-activism |Contemplative Activism]]
-[[projects/embodying-collective-transformation |Embodying Collective Transformation]]
-[[projects/ontological-politics |Ontological Politics]]
-[[projects/possibility-now |Possibility Now]]
-[[projects/sustainable-wellbeing |Sustainable Wellbeing]]
-[[projects/wisdom-colloquia |Wisdom Colloquia]]
+- [[projects/blind-spot-series |Blind Spots]]
+- [[projects/collective-intelligence |Collective Intelligence]]
+- [[projects/collective-wisdom |Collective Wisdom]]
+- [[projects/contemplative-activism |Contemplative Activism]]
+- [[projects/embodying-collective-transformation |Embodying Collective Transformation]]
+- [[projects/ontological-politics |Ontological Politics]]
+- [[projects/possibility-now |Possibility Now]]
+- [[projects/sustainable-wellbeing |Sustainable Wellbeing]]
+- [[projects/wisdom-colloquia |Wisdom Colloquia]]
 
 
 

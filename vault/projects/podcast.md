@@ -2,7 +2,7 @@
 title: "The Life Itself Podcast"
 description: "An ongoing series of conversations with thought leaders in the fields of emerging social change, culture and technology."
 image: /assets/images/projects-life-itself-podcast-header.png
-homepage:
+homepage: /podcast
 start: 2020-11
 end: 
 team:
