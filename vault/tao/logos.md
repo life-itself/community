@@ -1,12 +1,8 @@
 ---
-
 title: Logos for Life Itself
-
 created: 2023-01-30
-
 authors:
-- nathenfitchen
-
+  - nathen-fitchen
 ---
 
 We've created the following guide on how to use our logos and how to create alternative versions of the logo. 
@@ -21,7 +17,6 @@ We've created the following guide on how to use our logos and how to create alte
 [Logotype horizonal in black](../assets/tao/horizontal-black-logo.png)
 [Logotype condensed in color](../assets/tao/condensed-color-logo.png)
 [Logotype condensed in black](../assets/tao/condensed-black-logo.png)
-
 
 ### Filetype: SVG
 
