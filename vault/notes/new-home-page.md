@@ -40,7 +40,7 @@ We have regular community calls, presentation, a jobs board and events board.
 
 ## [Join Here](https://chat.whatsapp.com/JNJCTZugNQn1fq89xbHtfA) 
 
-![[../assets/images/Whatsapp General Chat QR Code.png]]
+![[../assets/images/whatsapp-general-chat-qr-code.png]]
 
 ## What We're Up To
 

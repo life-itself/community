@@ -1,5 +1,5 @@
 ---
-title: "Life Itself Community Chat Guidelines"
+title: "Life Itself Community Guidelines"
 created: 2023-03-28
 authors: 
   - nathenfitchen
@@ -7,7 +7,7 @@ authors:
 
 The Life Itself community chat is a space for members of the Life Itself community to gather online. [Join the community chat here](https://chat.whatsapp.com/JNJCTZugNQn1fq89xbHtfA) or by scanning the QR Code below. 
 
-![[../assets/images/Whatsapp General Chat QR Code.png |400]]
+![[../assets/images/whatsapp-general-chat-qr-code.png |400]]
 
 ## Purpose
 
