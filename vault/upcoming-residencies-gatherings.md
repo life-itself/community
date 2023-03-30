@@ -37,6 +37,22 @@ The seismic shifts we need to effectively respond to this meta-crisis, are syste
 - **Facilitators:** [Valérie Duvauchelle](https://en.lacuisinedelabienveillance.org/),  [Victoria Wilding](https://www.victoriawilding.com/), [Lauren Uba](https://www.laurenuba.com/about)
 - **[Learn more and apply](ouroboros-residency)**
 
+## Pioneering the next Food culture, June 2023  
+
+- **What:** 1 week retreat and workshop + 2 weeks residency to embody food , cook and act from this place and share it to the world. How to seed new narratives within our inner capacity to relate with the world through food? How to live food as an embodied integrative reality? This residency will craft a unique experience of how food cares deeply about us and how it supports us through life. It is about reconnecting to what it is to be human and to learn how to design a food system that deepens this authenticity. It is to experience how with plant based food menus we can activate our liveliness at each meal. It is about designing frameworks that can ease food anxiety and the general scarcity mindset around us and in us. 
+- **When:** 
+Workshop 09/06 @ 18h30 - 16/06 @15h30
+Residency : 19/06 - 02/07
+- **Where:** Life Itself Praxis Hub, Bergerac, France (near Bordeaux).
+- **Who:** cooking activists , bodhisattvas , people interested in food in conscious co-living  communities, people curious to let themselves be in-formed by food and act from its teachings.
+- **Facilitators:** Valérie Duvauchelle (see below) 
+- **Cost:** 
+One week : from €210- 250 .
+All 3 weeks : from  - (single standard room) to (single premium room) 
+Prices include the cost for  a single room + 3 meals a day . Regarding availability there might be the possibility to do only the  first week workshop. 
+Register to experience  and embodied relation to food relation and pioneer the next food culture.
+
+
 
 # Past Residencies 
 
