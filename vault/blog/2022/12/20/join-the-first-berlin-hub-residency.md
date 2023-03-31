@@ -25,9 +25,11 @@ You're invited to apply, bring your regenerative project and co-create a special
 
 Participation can be for **3 or 6 months**, with **entry points on Feb 1st and May 1st**.
 
-<h2>
-[Apply now](https://forms.gle/7TFQWJgSyXJKF5GeA) 
-</h2>
+<div className="mt-3 rounded-md shadow sm:mt-0 sm:ml-3">
+
+<a href="https://forms.gle/7TFQWJgSyXJKF5GeA" className="flex w-full items-center justify-center rounded-md border border-transparent bg-secondary px-8 py-3 text-base font-medium md:py-4 md:px-10 md:text-lg">APPLY NOW</a>
+
+</div>
 
 # The Berlin Hub
 
