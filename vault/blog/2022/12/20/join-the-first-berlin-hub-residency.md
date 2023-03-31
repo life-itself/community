@@ -25,7 +25,7 @@ You're invited to apply, bring your regenerative project and co-create a special
 
 Participation can be for **3 or 6 months**, with **entry points on Feb 1st and May 1st**.
 
-[Apply now](https://forms.gle/7TFQWJgSyXJKF5GeA)
+## [Apply now](https://forms.gle/7TFQWJgSyXJKF5GeA)
 
 # The Berlin Hub
 
