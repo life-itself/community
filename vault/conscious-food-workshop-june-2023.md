@@ -1,7 +1,7 @@
 ---
 title: "Conscious Food residency: Pioneering the next Food culture"
 created: 2023-03-31
-authors: 
+authors:
   - valerie
 ---
 ![[assets/images/food-residency-header.jpg]]
@@ -157,4 +157,4 @@ She also wrote a book about the zen practice of food "the silent taste" ( Actes 
 
 ![This image has an empty alt attribute; its file name is Bol-de-nourriture-1-1-1024x672.jpg](/assets/images/Bol-de-nourriture-1-1-1024x672.jpg)
 
-[(](https://www.youtube.com/watch?v=VC__NTMta)photo credit: Cristelle Enault)
+(photo credit: Cristelle Enault)
