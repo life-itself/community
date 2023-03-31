@@ -86,7 +86,7 @@ In any case, this is my commitment and my passion at the Praxis Hub in Bergerac.
 
 If these resonate in you like a call, then don't hesitate and come and join me in helping to pioneer the next food culture. 
 
->[[../../../../conscious-food-workshop-june-2023|Join the upcoming conscious food residency]]
+>[[../../../../sympoiesis/conscious-food-workshop-june-2023|Join the upcoming conscious food residency]]
 
 
 
