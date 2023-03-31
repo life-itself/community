@@ -26,7 +26,9 @@ You're invited to apply, bring your regenerative project and co-create a special
 Participation can be for **3 or 6 months**, with **entry points on Feb 1st and May 1st**.
 
 
+
 ## [Apply now](https://forms.gle/7TFQWJgSyXJKF5GeA) 
+
 
 
 # The Berlin Hub
@@ -215,7 +217,9 @@ Beautiful food from many cultures has been one of the beautiful parts at the hub
 
 ## **How to become a resident?**
 
+
 ## [Apply for residency](https://forms.gle/7TFQWJgSyXJKF5GeA)
+
 
 1. Fill out and submit application (link above)
     - If all places for the residency have already been filled, we'll put you on our waiting list and reach out if a place becomes available :)
