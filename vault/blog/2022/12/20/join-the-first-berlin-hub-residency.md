@@ -25,14 +25,10 @@ You're invited to apply, bring your regenerative project and co-create a special
 
 Participation can be for **3 or 6 months**, with **entry points on Feb 1st and May 1st**.
 
-
-
 ## [Apply now](https://forms.gle/7TFQWJgSyXJKF5GeA) 
 
-
-
 # The Berlin Hub
-
+## [Apply now](https://forms.gle/7TFQWJgSyXJKF5GeA) 
 The residency will take place in a beautiful "Altbau" in the heart of Kreuzberg, Berlin. With all the amenities, such as Hasenheide park (a lush, tree-filled expanse of green), Tempelhofer Feld (an airfield converted to public playground), a beautiful cemetery behind the buiding, swans on the canal, weekly markets, public transport only 2 minutes away, and much much more around the corner, this is the ideal area for anybody excited to dive into a city bustling with energy, history, and heartfelt people.
 
 - ![](/assets/images/herbst-1024x1024.jpeg)
