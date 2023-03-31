@@ -50,7 +50,9 @@ Residency : 19/06 - 02/07
 One week : from €210- 250 .
 All 3 weeks : from  - (single standard room) to (single premium room) 
 Prices include the cost for  a single room + 3 meals a day . Regarding availability there might be the possibility to do only the  first week workshop. 
+
 Register to experience  and embodied relation to food relation and pioneer the next food culture.
+[[conscious-food-workshop-june-2023 |Learn more and apply]]
 
 
 
