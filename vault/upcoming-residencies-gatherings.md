@@ -8,12 +8,6 @@ image: /assets/images/Blog-Feature-Images-11.png
 
 @[Life Itself Praxis Hub, Bergerac](https://lifeitself.org/hubs/bergerac/), South of France 
 
-## Relational Embodiment Residency, March-April 2023
-
-- **When:** March 19th - April 2nd
-- **What**: A two-week residency consisting of intensive small-group and whole-group workshops, discussions and experiential sessions. We will create as safe a container as possible to enable the emergence of relational insights and attachment resiliency. The immersion format allows for insights from structured experiential sessions to be integrated in relationships during the residency itself. There will be plenty of Open Spaces for residents to learn, practice and share skills with one another. The residency includes time and space for you to continue your daily personal work and projects (35-40h/week).
-- **How much ?** around 1400 for accommodation, food, training and practices.
-- **Learn more and apply:** [https://lifeitself.org/2-week-relational-embodiment-residency/](https://lifeitself.org/2-week-relational-embodiment-residency/)
 
 ## "Setting the World to Rights Residency", April 2023
 
@@ -45,7 +39,7 @@ Workshop 09/06 @ 18h30 - 16/06 @15h30
 Residency : 19/06 - 02/07
 - **Where:** Life Itself Praxis Hub, Bergerac, France (near Bordeaux).
 - **Who:** cooking activists , bodhisattvas , people interested in food in conscious co-living  communities, people curious to let themselves be in-formed by food and act from its teachings.
-- **Facilitators:** Valérie Duvauchelle (see below) 
+- **Facilitators:** [Valérie Duvauchelle](https://en.lacuisinedelabienveillance.org/)
 - **Cost:** 
 One week : from €210- 250 .
 All 3 weeks : from  - (single standard room) to (single premium room) 
@@ -57,6 +51,14 @@ Register to experience  and embodied relation to food relation and pioneer the n
 
 
 # Past Residencies 
+
+## Relational Embodiment Residency, March-April 2023
+
+- **When:** March 19th - April 2nd
+- **What**: A two-week residency consisting of intensive small-group and whole-group workshops, discussions and experiential sessions. We will create as safe a container as possible to enable the emergence of relational insights and attachment resiliency. The immersion format allows for insights from structured experiential sessions to be integrated in relationships during the residency itself. There will be plenty of Open Spaces for residents to learn, practice and share skills with one another. The residency includes time and space for you to continue your daily personal work and projects (35-40h/week).
+- **How much ?** around 1400 for accommodation, food, training and practices.
+- **Learn more and apply:** [https://lifeitself.org/2-week-relational-embodiment-residency/](https://lifeitself.org/2-week-relational-embodiment-residency/)
+
 
 ## Intelligence collective: Gouvernance partagée (in French), 4-5 March 2023
 
