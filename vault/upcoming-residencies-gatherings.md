@@ -45,7 +45,7 @@ Workshop  09/06 @ 18h30 - 02/07/ 2023
  From 1550 € (single standard room) to 1650 € (single premium room) food included (Early birds : 25 per cent for signing before the 25th of april )
 Prices include retreat, training, residency in an individual room and 3 meals a day. 
 
-[Learn more and apply](https://docs.google.com/forms/d/e/1FAIpQLSdiykDKyZR6DgtPKeYuNePy9sWc-qkIc4BVfKBRjkFWKvFp-g/viewform)
+[Learn more and apply](https://lifeitself.org/sympoiesis/conscious-food-workshop-june-2023)
 
 
 ## Emergent dialogue residency, July 2023
@@ -55,6 +55,9 @@ Prices include retreat, training, residency in an individual room and 3 meals a 
 Deepen and develop your capacity to catalyze synergy and emergent potential in groups through this 10-day Summer Training Intensive. This offering is for persons familiar with Emergent Dialogue or those who have significant experience in facilitating groups. Attendance is by application. This training may be used as part of the certification process to become an Emergent Dialogue Catalyst. The Intensive will be held at the Life Itself Hub in beautiful Bergerac, France. Near the luscious Bordeaux region and next to which Thich Nhat Hanh’s Buddhist enclave, Plum Village, this distinguished riverside villa creates an environment of serenity helpful for a deep dive into the mystery of emergence.
 - **Learn more and apply** Space is limited. Apply early to secure your place
 https://evolve-world.org/summer-2023/
+
+
+
 
 # Past Residencies 
 
