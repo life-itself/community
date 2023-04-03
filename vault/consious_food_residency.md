@@ -72,7 +72,7 @@ Here is the general frame of the 1st week:
 - 20h45: just sitting ( 30 mn) ( during retreat) 
 
 The workshop will be the same hours with less sitting, then residency will be co designed to match the needs of this new formed organism. We will be off.
-(APPLY NOW)[https://docs.google.com/forms/d/e/1FAIpQLSdiykDKyZR6DgtPKeYuNePy9sWc-qkIc4BVfKBRjkFWKvFp-g/viewform] please register your interest here and Valerie will quickly get back to you.
+[APPLY NOW](https://docs.google.com/forms/d/e/1FAIpQLSdiykDKyZR6DgtPKeYuNePy9sWc-qkIc4BVfKBRjkFWKvFp-g/viewform) please register your interest here and Valerie will quickly get back to you.
 
 
 ## The Bergerac hub: a  space to explore community of practices.
