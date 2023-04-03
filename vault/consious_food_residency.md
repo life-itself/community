@@ -92,3 +92,26 @@ She embodies the balance between deep commitment and spontaneous playfulness.
 Valérie is a pioneer within Life Itself and co-curator of the Bergerac Praxis Hub.
 
 Website: (La cuisine de la bienveillance.org)[https://en.lacuisinedelabienveillance.org/]
+
+
+
+## Testimonials
+#### Catherine Sengthavy , kinésithérapeute, shiatsu 
+
+The training proposed by Valerie Duvauchelle is unique and original,The strength of this teaching is to realize that questions that could be considered purely practical (how to compose a menu, what quantity, what ingredient to have) stem from a deeper personal reflection.
+The experience makes it possible to no longer distinguish the limits of what I think I am, the other, the others, the near and the far.
+
+#### Ona Maioco, vegan chef, at [super-naturelle](http://www.super-naturelle.com/)
+
+My encounter with Valérie has profoundly transformed my relationship with cooking. As a fan of "flashy" seasonings, I was able to discover another way of cooking allowing listening before any "voluntarist" intervention, erasing the ego and inviting us to a new dance. It's a priceless gift in these troubled times to put cooking back at the heart of our lives and communities, the indispensable engine of our joyful sustenance…and I am so grateful.
+
+
+#### Sandra dao , retreat Participant, facilitator and owner of [La Source](https://espacedelasource.com/)
+
+One of the first things that touched me was the fluidity and simplicity with which everything was organized in the kitchen, in a true collaboration. Valerie was able to quickly establish a trust and sharing that was precious to me, and calling upon our own creativity.. There is something life changing about this teaching. 
+
+
+#### Tiernan Banks , poet and leader of [death crash](https://www.youtube.com/watch?v=pQLbgRfLdPY)
+This experience has led me to reflect on: the seeming benefits/importance of (measured) hunger; the importance of variety; the importance of raw foods and balanced flavours. What has been most striking has not just been the physical benefits from this, but the meditative / calming aspects too. It is very rare that a lunch/dinner will inspire this level of reflection in me, and so that in itself speaks volumes!
+
+
