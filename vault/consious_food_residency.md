@@ -59,18 +59,20 @@ Our time will be rhythmic by our Praxis ecology and the 4 minimal viable practic
 ## Every day schedule
 
 Here is the general frame of the 1st week:
-7h30: posture awakening 
-8h00 (just sitting) 
-8h30: free breakfast / breakfast libre
-10h00: cooking / cuisine
-12h30: lunch in silence and cleaning / déj en silence et rangement
-16h30: just sitting  30 mn ( during retreat) 
-17h00: cooking/ cuisine
-18h30: dinner and cleaning
-19h30 3 min sharing in pairs
-20h45: just sitting ( 30 mn) ( during retreat) 
-The workshop will be the same hours with less sitting , then residency will be co designed to match the needs of this new formed organism. We will be off.
-(APPLY NOW)[https://docs.google.com/forms/d/e/1FAIpQLSdiykDKyZR6DgtPKeYuNePy9sWc-qkIc4BVfKBRjkFWKvFp-g/viewform] please register your interest here and Valerie will quickly gets back to you 
+
+- 7h30: posture awakening 
+- 8h00 (just sitting) 
+- 8h30: free breakfast / breakfast libre
+- 10h00: cooking / cuisine
+- 12h30: lunch in silence and cleaning / déj en silence et rangement
+- 16h30: just sitting  30 mn ( during retreat) 
+- 17h00: cooking/ cuisine
+- 18h30: dinner and cleaning
+- 19h30 3 min sharing in pairs
+- 20h45: just sitting ( 30 mn) ( during retreat) 
+
+The workshop will be the same hours with less sitting, then residency will be co designed to match the needs of this new formed organism. We will be off.
+(APPLY NOW)[https://docs.google.com/forms/d/e/1FAIpQLSdiykDKyZR6DgtPKeYuNePy9sWc-qkIc4BVfKBRjkFWKvFp-g/viewform] please register your interest here and Valerie will quickly get back to you.
 
 
 ## The Bergerac hub: a  space to explore community of practices.
@@ -89,4 +91,4 @@ Her dedicated practice is to cultivate a posture of "being witness” in her lif
 She embodies the balance between deep commitment and spontaneous playfulness.  
 Valérie is a pioneer within Life Itself and co-curator of the Bergerac Praxis Hub.
 
-La cuisine de la bienveillance.org
+Website: (La cuisine de la bienveillance.org)[https://en.lacuisinedelabienveillance.org/]
