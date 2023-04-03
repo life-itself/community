@@ -33,19 +33,18 @@ The seismic shifts we need to effectively respond to this meta-crisis, are syste
 
 ## Pioneering the next Food culture, June 2023  
 
-- **What:** 1 week retreat and workshop + 2 weeks residency to embody food , cook and act from this place and share it to the world. How to seed new narratives within our inner capacity to relate with the world through food? How to live food as an embodied integrative reality? This residency will craft a unique experience of how food cares deeply about us and how it supports us through life. It is about reconnecting to what it is to be human and to learn how to design a food system that deepens this authenticity. It is to experience how with plant based food menus we can activate our liveliness at each meal. It is about designing frameworks that can ease food anxiety and the general scarcity mindset around us and in us. 
+- **What:** A 3 weeks residency to empower  yourself food by learning plant based meal preparations which nourish mind, body and soul.  
+Deconstruct and redefine our relationship to food and have an impact on our collective  mental health. 
+Through a series of hands on workshop, retreat, participatory cooking, communal living you will learn to ease food anxiety and the general scarcity mindset in us and around. 
 - **When:** 
-Workshop 09/06 @ 18h30 - 16/06 @15h30
-Residency : 19/06 - 02/07
-- **Where:** Life Itself Praxis Hub, Bergerac, France (near Bordeaux).
-- **Who:** cooking activists , bodhisattvas , people interested in food in conscious co-living  communities, people curious to let themselves be in-formed by food and act from its teachings.
+Workshop  09/06 @ 18h30 - 02/07/ 2023
+- **Where:** [Life Itself Praxis Hub](https://lifeitself.org/hubs/bergerac/), Bergerac, France (near Bordeaux).
+- **Who:**  cooking activists , bodhisattvas , people interested in food in conscious co-living  communities, people curious to let themselves be in-formed by food and act from its teachings. ( 11 persons max) 
 - **Facilitators:** [Valérie Duvauchelle](https://en.lacuisinedelabienveillance.org/)
 - **Cost:** 
-One week : from €210- 250
-All 3 weeks : from  - (single standard room) to (single premium room) 
-Prices include the cost for  a single room + 3 meals a day . Regarding availability there might be the possibility to do only the  first week workshop. 
+ From 1550 € (single standard room) to 1650 € (single premium room) food included (Early birds : 25 per cent for signing before the 25th of april )
+Prices include retreat, training, residency in an individual room and 3 meals a day. 
 
-Register to experience  and embodied relation to food relation and pioneer the next food culture.
 [Learn more and apply](https://lifeitself.org/sympoiesis/conscious-food-workshop-june-2023)
 
 
