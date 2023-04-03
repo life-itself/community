@@ -53,7 +53,7 @@ Prices include retreat, training, residency in an individual room and 3 meals a 
 - **When:** July 8th - 18th 2023
 - **What**: Emergent dialogue residency follows summer training intensive with  Elizabeth Debold & Thomas Steininger. 
 Deepen and develop your capacity to catalyze synergy and emergent potential in groups through this 10-day Summer Training Intensive. This offering is for persons familiar with Emergent Dialogue or those who have significant experience in facilitating groups. Attendance is by application. This training may be used as part of the certification process to become an Emergent Dialogue Catalyst. The Intensive will be held at the Life Itself Hub in beautiful Bergerac, France. Near the luscious Bordeaux region and next to which Thich Nhat Hanh’s Buddhist enclave, Plum Village, this distinguished riverside villa creates an environment of serenity helpful for a deep dive into the mystery of emergence.
--- **Learn more and apply** Space is limited. Apply early to secure your place
+- **Learn more and apply** Space is limited. Apply early to secure your place
 https://evolve-world.org/summer-2023/
 
 # Past Residencies 
