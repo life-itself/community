@@ -46,7 +46,7 @@ Workshop  09/06 @ 18h30 - 02/07/ 2023
 From 1,200 € to 1650 €, including 3 meals a day. **Early birds: 25% off for signing before the 25th of April**.
 Prices are for 3 weeks of retreat, training, and community living. 
 
-**[Learn more and apply](consious-food-residency)**
+**[Learn more and apply](https://lifeitself.org/sympoiesis/conscious-food-workshop-june-2023)**
 
 
 ## Emergent dialogue residency, July 2023
