@@ -13,7 +13,7 @@ team:
   - catherine-tran
 size: l
 status: closed
-resolution: complete
+resolution: completed
 created: 2023-03-20
 ---
 

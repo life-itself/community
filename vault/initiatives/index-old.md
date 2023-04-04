@@ -2,7 +2,13 @@
 title: "Our Initiatives"
 decription: "Life Itself is a multi-level, multi-disciplinary organisation. This page showcases all our initiatives present and past."
 created: 2023-03-23
+data:
+  - initiatives
 ---
+
+import InitiativeCard from "components/custom/InitiativeCard.jsx"
+import InitiativesList from "components/custom/InitiativesList.jsx"
+
 How do we bring about the shifts in being, culture and systems necessary to transform our social paradigm, and steer humanity and the planet into a flourishing future?
 
 Here at Life Itself, we engage in many different initiatives. Some are experiments, others stand alone works, and others are ongoing explorations. All are designed to create a wiser, weller world. Our projects fall under two broad themes:
