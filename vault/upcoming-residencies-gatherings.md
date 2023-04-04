@@ -33,17 +33,17 @@ The seismic shifts we need to effectively respond to this meta-crisis, are syste
 
 ## Pioneering the next Food culture, June 2023  
 
-- **What:** A 3 weeks residency to empower  yourself food by learning plant based meal preparations which nourish mind, body and soul.  
-Deconstruct and redefine our relationship to food and have an impact on our collective  mental health. 
-Through a series of hands on workshop, retreat, participatory cooking, communal living you will learn to ease food anxiety and the general scarcity mindset in us and around. 
+- **What:** A 3 weeks residency to empower yourself by learning plant-based meal preparations which nourish mind, body and soul.  
+Deconstruct and redefine our relationship to food and have an impact on our collective mental health. 
+Through a series of hands-on workshop, retreat, participatory cooking, and communal living you will learn to ease food anxiety and the general scarcity mindset in us and around. 
 - **When:** 
-Workshop  09/06 @ 18h30 - 02/07/ 2023
+Workshop  09/06 @ 18h30 - 02/07/2023
 - **Where:** [Life Itself Praxis Hub](https://lifeitself.org/hubs/bergerac/), Bergerac, France (near Bordeaux).
-- **Who:**  cooking activists , bodhisattvas , people interested in food in conscious co-living  communities, people curious to let themselves be in-formed by food and act from its teachings. ( 11 persons max) 
+- **Who:**  cooking activists , bodhisattvas , people interested in food in conscious co-living  communities, people curious to let themselves be in-formed by food and act from its teachings. (11 persons max) 
 - **Facilitators:** [Valérie Duvauchelle](https://en.lacuisinedelabienveillance.org/)
 - **Cost:** 
 
-From 1,200 € to 1650 €, including 3 meals a day. **Early birds: 25% off for signing before the 25th of April**.
+From 1,200 € to 1,650 €, including 3 meals a day. **Early birds: 25% off for signing before the 25th of April**.
 Prices are for 3 weeks of retreat, training, and community living. 
 
 **[Learn more and apply](https://lifeitself.org/sympoiesis/conscious-food-workshop-june-2023)**
