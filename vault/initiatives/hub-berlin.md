@@ -22,6 +22,6 @@ The Life Itself Berlin Hub in Kreuzberg is an experiment in intentional communit
 
 ## Key Resources
 
-- [[../hubs/berlin/|The Hub Page]]
+- [[../hubs/berlin|The Hub Page]]
 
 

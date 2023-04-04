@@ -21,7 +21,7 @@ We are currently renovating the Farmhouse in order to create beautiful spaces fo
 
 ## Key Resources 
 
-- [[/hubs/farmhouse/ |The Hub Page]]
+- [[../hubs/farmhouse|The Hub Page]]
 
 
 

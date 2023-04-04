@@ -24,12 +24,12 @@ What is holding us back from creating a powerful vision for our future? What’s
 
 ## Key Resources
 
-- [[../blind-spots |Blind Spots Page]]
-- [[../blog/2019/11/04/blind-spot-1-faith-in-rationality-and-progress |Blind Spot 1: Faith In Rationality & Progress]]
-- [[../blog/2019/11/18/blind-spot-2-individualism |Blind Spot 2: Individualism]]
-- [[../blog/2019/12/01/blind-spot-3-the-equality-complex |Blind Spot 3: The Equality Complex]]
-- [[../blog/2019/02/06/blind-spots-roberto-unger-future-of-britain |Roberto Unger on the Future of Britain]]
-- [[../blog/2019/10/25/introduction-to-our-collective-blind-spots |Introduction to our Collective Blindspots]]
+- [[../blind-spots|Blind Spots Page]]
+- [[../blog/2019/11/04/blind-spot-1-faith-in-rationality-and-progress|Blind Spot 1: Faith In Rationality & Progress]]
+- [[../blog/2019/11/18/blind-spot-2-individualism|Blind Spot 2: Individualism]]
+- [[../blog/2019/12/01/blind-spot-3-the-equality-complex|Blind Spot 3: The Equality Complex]]
+- [[../blog/2019/02/06/blind-spots-roberto-unger-future-of-britain|Roberto Unger on the Future of Britain]]
+- [[../blog/2019/10/25/introduction-to-our-collective-blind-spots|Introduction to our Collective Blindspots]]
 
 
 
