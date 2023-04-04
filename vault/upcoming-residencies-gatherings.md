@@ -45,7 +45,7 @@ Workshop  09/06 @ 18h30 - 02/07/ 2023
  From 1550 € (single standard room) to 1650 € (single premium room) food included (Early birds : 25 per cent for signing before the 25th of april )
 Prices include retreat, training, residency in an individual room and 3 meals a day. 
 
-[Learn more and apply](https://lifeitself.org/sympoiesis/conscious-food-workshop-june-2023)
+**[Learn more and apply](consious-food-residency)**
 
 
 ## Emergent dialogue residency, July 2023
