@@ -42,8 +42,9 @@ Workshop  09/06 @ 18h30 - 02/07/ 2023
 - **Who:**  cooking activists , bodhisattvas , people interested in food in conscious co-living  communities, people curious to let themselves be in-formed by food and act from its teachings. ( 11 persons max) 
 - **Facilitators:** [Valérie Duvauchelle](https://en.lacuisinedelabienveillance.org/)
 - **Cost:** 
- From 1550 € (single standard room) to 1650 € (single premium room) food included (Early birds : 25 per cent for signing before the 25th of april )
-Prices include retreat, training, residency in an individual room and 3 meals a day. 
+
+From 1,200 € to 1650 €, including 3 meals a day. **Early birds: 25% off for signing before the 25th of April**.
+Prices are for 3 weeks of retreat, training, and community living. 
 
 **[Learn more and apply](consious_food_residency)**
 
