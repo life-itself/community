@@ -98,7 +98,7 @@ Her dedicated practice is to cultivate a posture of "being witness” in her lif
 She embodies the balance between deep commitment and spontaneous playfulness.  
 Valérie is a pioneer within Life Itself and co-curator of the Bergerac Praxis Hub.
 
-Website: (La cuisine de la bienveillance.org)[https://en.lacuisinedelabienveillance.org/]
+Website: [La cuisine de la bienveillance.org](https://en.lacuisinedelabienveillance.org/)
 
 ## Testimonials
 
