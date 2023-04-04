@@ -5,12 +5,6 @@ authors:
   - valerie
 ---
 ![[assets/images/food-residency-header.jpg]]
----
-title: Conscious Food Residency
-created: 2023-4-1
-authors: 
-  - valerie
----
 
 **09/06 - 02/07/ 2023** 
 
