@@ -15,7 +15,6 @@ import wikiLinkPlugin from "remark-wiki-link-plus";
 import mdxMermaid from 'mdx-mermaid';
 
 import { siteConfig } from "./config/siteConfig";
-import { formatDate } from "./lib/formatDate"
 
 const sharedFields = {
   title: { type: "string" },
@@ -148,6 +147,7 @@ const Initiative = defineDocumentType(() => ({
   filePathPattern: "initiatives/**/*.md*",
   fields: {
     ...sharedFields,
+    layout: { type: "string", default: "initiatives" },
     homepage: { type: "json" },
     start: { type: "json" },
     end: { type: "json" },
