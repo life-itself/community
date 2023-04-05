@@ -24,6 +24,6 @@ The Bergerac Hub offers opportunities to explore what it really means to live mo
 
 ## Key Resources
 
-- [[../hubs/bergerac |The Hub Page]]
+- [[../hubs/bergerac|The Hub Page]]
 
 

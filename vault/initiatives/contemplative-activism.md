@@ -21,7 +21,7 @@ Collective Activism is an initiative started by Life Itself to explore how we ca
 
 ## Key Resources
 
-- [[../institute/contemplative-activism |Contemplative Activism Page]]
-- [[../blog/2020/06/11/contemplative-activism-a-primer |A Primer to Contemplative Activism]]
+- [[../institute/contemplative-activism|Contemplative Activism Page]]
+- [[../blog/2020/06/11/contemplative-activism-a-primer|A Primer to Contemplative Activism]]
 - [Letting Go of Being Enlightened](https://artearthtech.com/2020/03/25/letting-go-of-being-enlightened/)
 

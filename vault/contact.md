@@ -1,8 +1,6 @@
 ---
 title: "Contact"
 created: 2020-03-18
-authors: 
-  - sylvieshiweibarbier
 ---
 
 ## Get in touch
