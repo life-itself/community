@@ -1,15 +1,17 @@
 ---
-title: "Conscious Food residency: Pioneering the next Food culture"
+title: "Conscious Food residency"
 created: 2023-4-1
 authors:
   - valerie
 ---
-![[assets/images/food-residency-header.jpg]]
+
+
+## **Pioneering the next food culture** 
 
 **09/06 - 02/07/2023** 
 
-## Conscious Food Residency
-### **Pioneering the next food culture** 
+![[assets/images/food-residency-header.jpg]]
+
 
 [APPLY NOW](https://docs.google.com/forms/d/e/1FAIpQLSdiykDKyZR6DgtPKeYuNePy9sWc-qkIc4BVfKBRjkFWKvFp-g/viewform)
 
