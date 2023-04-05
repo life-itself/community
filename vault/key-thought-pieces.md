@@ -58,6 +58,8 @@ Created: 2023-03-29
 [[two-year-olds-playing-with-kalashnikovs-humanity-in-the-age-of-ai |Two Year Olds Playing with Kalashnikovs - Humanity in the Age of AI]]  2019
 [[the-ills-of-capitalism-the-possibilities-of-abundance-and-the-limits-of-land |The Ills of Capitalism, the Possibilities of Abundance and the Limits of Land]]  2018
 [[taiwan-7-11-culture-feeds-hopelessness |Taiwan’s 7-11 culture feeds hopelessness]]  2017
+[[four-types-of-problem |The Four Types of Problems]]  2017
+[[blog/2017/09/18/techno-solutionism |Techno-solutionism: tech alone can solve our wicked problems]]  2017
 
 ### Book Notes
 [[reinventing-organisations-by-frederic-laloux |Reinventing Organisations by Frederic Laloux - Summary and Notes]]  2021
