@@ -11,7 +11,6 @@ team:
   - sylvieshiweibarbier
 alumni:
 size: m
-state: closed
 status: completed
 created: 2023-03-21
 ---

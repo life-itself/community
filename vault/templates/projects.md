@@ -17,7 +17,8 @@ team:
 #   - 
 size: xl | l | m | s | xs
 state: open | closed
-status: incubating | active | dormant | completed | retired | merged | cancelled
+status: incubating | active | completed | inactive
+resolution: dormant | retired | merged | cancelled
 created: "{{date}}"
 ---
 

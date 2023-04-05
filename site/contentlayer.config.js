@@ -131,11 +131,15 @@ const Podcast = defineDocumentType(() => ({
   computedFields
 }))
 
-const resolutionOptions = [
-  "incubating",
+const statusOptions = [
   "active",
+  "incubating",
+  "inactive",
+  "completed"
+]
+
+const resolutionOptions = [
   "dormant",
-  "completed",
   "retired",
   "merged",
   "cancelled"
@@ -152,9 +156,10 @@ const Initiative = defineDocumentType(() => ({
     start: { type: "json" },
     end: { type: "json" },
     team: { type: "list", of: { type: "string" }, default: [] },
+    alumni: { type: "json" },
     size: { type: "enum", options: ["xl", "l", "m", "s", "xs"] },
     state: { type: "enum", options: ["open", "closed"] },
-    status: { type: "enum", options: resolutionOptions },
+    status: { type: "enum", options: statusOptions },
     resolution: { type: "enum", options: resolutionOptions },
     created: { type: "date" },
   },
@@ -162,7 +167,10 @@ const Initiative = defineDocumentType(() => ({
     ...computedFields,
     alumni: {
       type: "list",
-      resolve: doc => doc.alumni ?? []
+      resolve: doc => {
+        if (!Array.isArray(doc.alumni)) return []
+        return doc.alumni
+      }
     }
   }
 }))

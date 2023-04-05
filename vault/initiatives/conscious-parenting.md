@@ -10,7 +10,6 @@ team:
   - esthermontmany
 alumni:
 size: xl
-state: open
 status: incubating
 created: 2023-02-24	
 ---

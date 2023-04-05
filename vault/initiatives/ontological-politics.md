@@ -9,8 +9,7 @@ team:
   - rufuspollock
 alumni:
 size: xl
-state: open
-status: active
+status: inactive
 created: 2023-03-20
 ---
 

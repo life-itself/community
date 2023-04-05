@@ -8,10 +8,10 @@ end:
 team:
   - rufuspollock
   - liamaet
-alumni:
+# alumni:
+#   -
 size: m
-state: open
-status: active
+status: inactive
 created: 2023-03-21
 ---
 
