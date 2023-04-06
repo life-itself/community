@@ -1,9 +1,14 @@
 ---
 layout: unstyled
-data:
-  - profiles
-  - topics
+# data:
+#   - profiles
+#   - topics
+isDraft: true
 ---
+
+THIS PAGE HAS BEEN MOVED TO `pages/ecosystem` AND SHOULD BE EDITED THERE
+
+{/*
 
 import Hero from "components/custom/ecosystem/Hero.jsx"
 import TernaryPlot from "components/custom/ecosystem/TernaryPlot.jsx"
@@ -103,3 +108,5 @@ This visualization maps organizations based on their primary topic. Click to zoo
 		</div>
 	</div>
 </section>
+
+*/}
