@@ -13,7 +13,7 @@ authors:
   **When:** Workshop 09/06 @ 18h30 - 02/07/2023
   **Where:** [[../hubs/bergerac|Life Itself Praxis Hub]], Bergerac, France (near Bordeaux).
   **Who:** cooking activists , bodhisattvas , people interested in food in conscious co-living communities, people curious to let themselves be in-formed by food and act from its teachings. (11 persons max)
-  **Facilitators:** [Valérie Duvauchelle](https://en.lacuisinedelabienveillance.org/)
+  **Facilitator:** [Valérie Duvauchelle](https://en.lacuisinedelabienveillance.org/)
   **Cost:** From 1,200 € to 1,650 €, including 3 meals a day. **Early birds: 25% off for signing before the 25th of April**. Prices are for 3 weeks of retreat, training, and community living.
 
 [APPLY NOW](https://docs.google.com/forms/d/e/1FAIpQLSdiykDKyZR6DgtPKeYuNePy9sWc-qkIc4BVfKBRjkFWKvFp-g/viewform)
@@ -40,9 +40,9 @@ During the retreat  you will learn and live:
 - The posture of receiving 
 - 6 tastes, colors and textures menus
 - Basic 3-bowl temple food cooking frame
-- 3 spirit of the ( cook) practitioner
+- 3 spirit of the (cook) practitioner
 - Canevas base for main dishes, desserts, cookies
-- Eating in 3 bowls ( Oryoki)  and contemplate our food 
+- Eating in 3 bowls (Oryoki) and contemplate our food 
 - Understand the meaning of the Temple food menus and rituals that can inspire us in our communities 
 - Feeling the nourishment of the inbetween 
 - Being supported by deep time and lineages.
@@ -123,20 +123,20 @@ She also wrote a book about the zen practice of food "the silent taste" (Actes S
 
 ![[../assets/images/IMG-20210803-WA0028.jpg|200]]
 
-### Ona Maioco, vegan chef, at [super-naturelle](http://www.super-naturelle.com/)
+### Ona Maioco, vegan chef
 
 >My encounter with Valérie has profoundly transformed my relationship with cooking. As a fan of "flashy" seasonings, I was able to discover another way of cooking allowing listening before any "voluntarist" intervention, erasing the ego and inviting us to a new dance. It's a priceless gift in these troubled times to put cooking back at the heart of our lives and communities, the indispensable engine of our joyful sustenance…and I am so grateful.
 
 ![[../assets/images/th.jpeg|200]]
 
-### Sandra dao , retreat Participant, facilitator and owner of [La Source](https://espacedelasource.com/)
+### Sandra dao, retreat Participant, facilitator and owner of La Source
 
 >One of the first things that touched me was the fluidity and simplicity with which everything was organized in the kitchen, in a true collaboration. Valerie was able to quickly establish a trust and sharing that was precious to me, and calling upon our own creativity.. There is something life changing about this teaching. 
 
 ![[../assets/images/th-1-1.jpeg|200]]
 
 
-### Tiernan Banks, poet and leader of [death crash](https://www.youtube.com/watch?v=pQLbgRfLdPY)
+### Tiernan Banks, poet and leader of death crash
 
 >This experience has led me to reflect on: the seeming benefits/importance of (measured) hunger; the importance of variety; the importance of raw foods and balanced flavours. What has been most striking has not just been the physical benefits from this, but the meditative / calming aspects too. It is very rare that a lunch/dinner will inspire this level of reflection in me, and so that in itself speaks volumes!
 
