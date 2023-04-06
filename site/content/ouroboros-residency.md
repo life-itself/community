@@ -1,1 +1,0 @@
-../../vault/ouroboros-residency.md

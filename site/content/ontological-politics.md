@@ -1,1 +1,0 @@
-../../vault/ontological-politics.md

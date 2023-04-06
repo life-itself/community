@@ -1,1 +1,0 @@
-../../vault/state-of-sensemaking-2020.md

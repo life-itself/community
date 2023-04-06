@@ -1,1 +1,0 @@
-../../vault/collective-wisdom.md
