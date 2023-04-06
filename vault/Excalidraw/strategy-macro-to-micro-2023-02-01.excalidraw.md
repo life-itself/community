@@ -68,6 +68,21 @@ Want to go to the stars ^8SVJtVlt
 
 Cultural Activism ^SrLkOiia
 
+We want to go to the stars 🪐 ⭐ ...
+
+and need to start with getting a pickaxe ⛏️ to dig up iron ^64nUlP1c
+
+
+We want an awakening society 🌻🌍 ...
+
+and need to start with finding interested, committed people 🧑‍🤝‍🧑 incubating conscious collectives 🏡 etc ^dB7UqJXv
+
+Example ^vXirLYRW
+
+Life Itself: its vision and "theory of change" ^4Hzjwmob
+
+Life Itself: More detailed (in progress) ^OeMnklDA
+
 Sangha of committed, interested people
 
 "Sangha"? = community with purpose and 
@@ -88,7 +103,7 @@ Approach 2: Scientific approach: curious,
 experimental, open to revision, improving, 
 structured
 Approach 3 (?): Embodied. Practical 
-application and active practice ^PUNl522b
+application and active practice ^PC00Yddb
 
 What's different from current intentional 
 communities?
@@ -111,7 +126,15 @@ vision of how inner development
 is relevant to future we are creating
 (or even to the community itself e.g. 
 waking up without cleaning up or growing 
-up) ^cgcIvcnz
+up) ^CFH4LHys
+
+How does a new kind of culture/society 
+come about?
+
+It starts by reaching some kind of critical
+mass ... 1%? then 5% ... then 10%
+
+At some point a culture "tips" ^dQ1FPZn5
 
 Wiser, weller world
 
@@ -123,30 +146,7 @@ rather than outer growth.
 
 Grounded in a belief in possibility of 
 ongoing (unlimited) inner growth and that it
-is "transpersonal" ^Orzi87eL
-
-How does a new kind of culture/society 
-come about?
-
-It starts by reaching some kind of critical
-mass ... 1%? then 5% ... then 10%
-
-At some point a culture "tips" ^VdK1toqL
-
-We want to go to the stars 🪐 ⭐ ...
-
-and need to start with getting a pickaxe ⛏️ to dig up iron ^64nUlP1c
-
-
-We want an awakening society 🌻🌍 ...
-
-and need to start with finding interested, committed people 🧑‍🤝‍🧑 incubating conscious collectives 🏡 etc ^dB7UqJXv
-
-Example ^vXirLYRW
-
-Life Itself: its vision and "theory of change" ^4Hzjwmob
-
-Life Itself: More detailed (in progress) ^OeMnklDA
+is "transpersonal" ^GPIg7eZD
 
 %%
 # Drawing
@@ -1774,270 +1774,6 @@ Life Itself: More detailed (in progress) ^OeMnklDA
 			"originalText": "Cultural Activism"
 		},
 		{
-			"type": "rectangle",
-			"version": 486,
-			"versionNonce": 544087199,
-			"isDeleted": false,
-			"id": "C0pCNbx-w9jD18duKQzQs",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -1158.6097333689418,
-			"y": 109.30107361234911,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 437,
-			"height": 535,
-			"seed": 1073616223,
-			"groupIds": [],
-			"strokeSharpness": "sharp",
-			"boundElements": [
-				{
-					"id": "PUNl522b",
-					"type": "text"
-				}
-			],
-			"updated": 1678798429150,
-			"link": null,
-			"locked": false
-		},
-		{
-			"type": "text",
-			"version": 638,
-			"versionNonce": 1762204977,
-			"isDeleted": false,
-			"id": "PUNl522b",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -1153.6097333689418,
-			"y": 114.30107361234911,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 418,
-			"height": 525,
-			"seed": 1453306897,
-			"groupIds": [],
-			"strokeSharpness": "sharp",
-			"boundElements": [],
-			"updated": 1678798791838,
-			"link": null,
-			"locked": false,
-			"fontSize": 20,
-			"fontFamily": 1,
-			"text": "Sangha of committed, interested people\n\n\"Sangha\"? = community with purpose and \npractice\n\nWhat kind exactly? \"Pragmatic Utopians\"\n\nWant: better, wiser lives and world. \nCommitted to awakening and awakening \nsociety\n\nApproach: Rigorous and embodied.\n\nApproach 1: Inner and outer change with a\npriority on inner development/cultural \nevolution\nApproach 2: Scientific approach: curious, \nexperimental, open to revision, improving, \nstructured\nApproach 3 (?): Embodied. Practical \napplication and active practice",
-			"rawText": "Sangha of committed, interested people\n\n\"Sangha\"? = community with purpose and \npractice\n\nWhat kind exactly? \"Pragmatic Utopians\"\n\nWant: better, wiser lives and world. \nCommitted to awakening and awakening \nsociety\n\nApproach: Rigorous and embodied.\n\nApproach 1: Inner and outer change with a\npriority on inner development/cultural \nevolution\nApproach 2: Scientific approach: curious, \nexperimental, open to revision, improving, \nstructured\nApproach 3 (?): Embodied. Practical \napplication and active practice",
-			"baseline": 518,
-			"textAlign": "left",
-			"verticalAlign": "middle",
-			"containerId": "C0pCNbx-w9jD18duKQzQs",
-			"originalText": "Sangha of committed, interested people\n\n\"Sangha\"? = community with purpose and \npractice\n\nWhat kind exactly? \"Pragmatic Utopians\"\n\nWant: better, wiser lives and world. \nCommitted to awakening and awakening \nsociety\n\nApproach: Rigorous and embodied.\n\nApproach 1: Inner and outer change with a\npriority on inner development/cultural \nevolution\nApproach 2: Scientific approach: curious, \nexperimental, open to revision, improving, \nstructured\nApproach 3 (?): Embodied. Practical \napplication and active practice"
-		},
-		{
-			"type": "rectangle",
-			"version": 610,
-			"versionNonce": 2055651537,
-			"isDeleted": false,
-			"id": "am0mX1hNnvQVK9weUmMdF",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -646.5240658304117,
-			"y": 102.80612244064753,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 437,
-			"height": 585,
-			"seed": 728895871,
-			"groupIds": [],
-			"strokeSharpness": "sharp",
-			"boundElements": [
-				{
-					"id": "cgcIvcnz",
-					"type": "text"
-				}
-			],
-			"updated": 1678798429150,
-			"link": null,
-			"locked": false
-		},
-		{
-			"type": "text",
-			"version": 643,
-			"versionNonce": 1569147487,
-			"isDeleted": false,
-			"id": "cgcIvcnz",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -641.5240658304117,
-			"y": 120.30612244064753,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 424,
-			"height": 550,
-			"seed": 160500209,
-			"groupIds": [],
-			"strokeSharpness": "sharp",
-			"boundElements": [],
-			"updated": 1678798791840,
-			"link": null,
-			"locked": false,
-			"fontSize": 20,
-			"fontFamily": 1,
-			"text": "What's different from current intentional \ncommunities?\n\n- learning oriented: experimentation and \nrigor in approach\n- engaged / proximate with mainstream (vs\nisolated)\n- committed to a new \"awakening\" paradigm\n  i.e. paradigm oriented to inner \ndevelopment and cultural evolution \n(ontological developmental).\nIn short: what we call \"conscious\" \ncommunities\n\nNB: even communities that are spiritual \n(e.g. monastics)\noften don't have a rigorous, coherent \nvision of how inner development\nis relevant to future we are creating\n(or even to the community itself e.g. \nwaking up without cleaning up or growing \nup)",
-			"rawText": "What's different from current intentional \ncommunities?\n\n- learning oriented: experimentation and \nrigor in approach\n- engaged / proximate with mainstream (vs\nisolated)\n- committed to a new \"awakening\" paradigm\n  i.e. paradigm oriented to inner \ndevelopment and cultural evolution \n(ontological developmental).\nIn short: what we call \"conscious\" \ncommunities\n\nNB: even communities that are spiritual \n(e.g. monastics)\noften don't have a rigorous, coherent \nvision of how inner development\nis relevant to future we are creating\n(or even to the community itself e.g. \nwaking up without cleaning up or growing \nup)",
-			"baseline": 543,
-			"textAlign": "left",
-			"verticalAlign": "middle",
-			"containerId": "am0mX1hNnvQVK9weUmMdF",
-			"originalText": "What's different from current intentional \ncommunities?\n\n- learning oriented: experimentation and \nrigor in approach\n- engaged / proximate with mainstream (vs\nisolated)\n- committed to a new \"awakening\" paradigm\n  i.e. paradigm oriented to inner \ndevelopment and cultural evolution \n(ontological developmental).\nIn short: what we call \"conscious\" \ncommunities\n\nNB: even communities that are spiritual \n(e.g. monastics)\noften don't have a rigorous, coherent \nvision of how inner development\nis relevant to future we are creating\n(or even to the community itself e.g. \nwaking up without cleaning up or growing \nup)"
-		},
-		{
-			"type": "rectangle",
-			"version": 881,
-			"versionNonce": 1725903039,
-			"isDeleted": false,
-			"id": "22GS3Elp_r4UGRfCN8qR5",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 411.8969543395699,
-			"y": 107.88651804081076,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 437,
-			"height": 285,
-			"seed": 1532070303,
-			"groupIds": [],
-			"strokeSharpness": "sharp",
-			"boundElements": [
-				{
-					"id": "Orzi87eL",
-					"type": "text"
-				}
-			],
-			"updated": 1678798429150,
-			"link": null,
-			"locked": false
-		},
-		{
-			"type": "text",
-			"version": 522,
-			"versionNonce": 422596369,
-			"isDeleted": false,
-			"id": "Orzi87eL",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 416.8969543395699,
-			"y": 112.88651804081076,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 424,
-			"height": 275,
-			"seed": 1671209937,
-			"groupIds": [],
-			"strokeSharpness": "sharp",
-			"boundElements": [],
-			"updated": 1678798791841,
-			"link": null,
-			"locked": false,
-			"fontSize": 20,
-			"fontFamily": 1,
-			"text": "Wiser, weller world\n\nPersonal flourishing\nCollective nourishing!\n\nA society oriented to inner growth\nrather than outer growth.\n\nGrounded in a belief in possibility of \nongoing (unlimited) inner growth and that it\nis \"transpersonal\"",
-			"rawText": "Wiser, weller world\n\nPersonal flourishing\nCollective nourishing!\n\nA society oriented to inner growth\nrather than outer growth.\n\nGrounded in a belief in possibility of \nongoing (unlimited) inner growth and that it\nis \"transpersonal\"",
-			"baseline": 268,
-			"textAlign": "left",
-			"verticalAlign": "middle",
-			"containerId": "22GS3Elp_r4UGRfCN8qR5",
-			"originalText": "Wiser, weller world\n\nPersonal flourishing\nCollective nourishing!\n\nA society oriented to inner growth\nrather than outer growth.\n\nGrounded in a belief in possibility of \nongoing (unlimited) inner growth and that it\nis \"transpersonal\""
-		},
-		{
-			"type": "rectangle",
-			"version": 866,
-			"versionNonce": 1584955057,
-			"isDeleted": false,
-			"id": "YEEX6XsQ7s1_DozOdlunE",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -108.74915107978563,
-			"y": 108.83532762589346,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 437,
-			"height": 285,
-			"seed": 751631807,
-			"groupIds": [],
-			"strokeSharpness": "sharp",
-			"boundElements": [
-				{
-					"id": "VdK1toqL",
-					"type": "text"
-				}
-			],
-			"updated": 1678798429150,
-			"link": null,
-			"locked": false
-		},
-		{
-			"type": "text",
-			"version": 598,
-			"versionNonce": 202155647,
-			"isDeleted": false,
-			"id": "VdK1toqL",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -103.74915107978563,
-			"y": 113.83532762589346,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 424,
-			"height": 175,
-			"seed": 282722737,
-			"groupIds": [],
-			"strokeSharpness": "sharp",
-			"boundElements": [],
-			"updated": 1678798791842,
-			"link": null,
-			"locked": false,
-			"fontSize": 20,
-			"fontFamily": 1,
-			"text": "How does a new kind of culture/society \ncome about?\n\nIt starts by reaching some kind of critical\nmass ... 1%? then 5% ... then 10%\n\nAt some point a culture \"tips\"",
-			"rawText": "How does a new kind of culture/society \ncome about?\n\nIt starts by reaching some kind of critical\nmass ... 1%? then 5% ... then 10%\n\nAt some point a culture \"tips\"",
-			"baseline": 168,
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"containerId": "YEEX6XsQ7s1_DozOdlunE",
-			"originalText": "How does a new kind of culture/society \ncome about?\n\nIt starts by reaching some kind of critical\nmass ... 1%? then 5% ... then 10%\n\nAt some point a culture \"tips\""
-		},
-		{
 			"type": "text",
 			"version": 742,
 			"versionNonce": 512211215,
@@ -2308,38 +2044,143 @@ Life Itself: More detailed (in progress) ^OeMnklDA
 		},
 		{
 			"type": "text",
-			"version": 497,
-			"versionNonce": 1790447185,
-			"isDeleted": true,
-			"id": "yOjxZrEs",
-			"fillStyle": "solid",
+			"version": 277,
+			"versionNonce": 1284988084,
+			"isDeleted": false,
+			"id": "PC00Yddb",
+			"fillStyle": "hachure",
 			"strokeWidth": 1,
-			"strokeStyle": "dashed",
+			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -651.5552670303109,
-			"y": -1878.4027614529964,
+			"x": -1160.4296875,
+			"y": 104.76632965120177,
 			"strokeColor": "#000000",
-			"backgroundColor": "#12b886",
-			"width": 937,
-			"height": 149,
-			"seed": 385733713,
+			"backgroundColor": "transparent",
+			"width": 418,
+			"height": 525,
+			"seed": 2004275508,
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1678798928998,
+			"updated": 1680747127549,
 			"link": null,
 			"locked": false,
-			"fontSize": 58.71339971047338,
+			"fontSize": 20,
 			"fontFamily": 1,
-			"text": "Backwards recursion in strategy\nMacro => Meso => Micro",
-			"rawText": "Backwards recursion in strategy\nMacro => Meso => Micro",
-			"baseline": 127,
-			"textAlign": "center",
+			"text": "Sangha of committed, interested people\n\n\"Sangha\"? = community with purpose and \npractice\n\nWhat kind exactly? \"Pragmatic Utopians\"\n\nWant: better, wiser lives and world. \nCommitted to awakening and awakening \nsociety\n\nApproach: Rigorous and embodied.\n\nApproach 1: Inner and outer change with a\npriority on inner development/cultural \nevolution\nApproach 2: Scientific approach: curious, \nexperimental, open to revision, improving, \nstructured\nApproach 3 (?): Embodied. Practical \napplication and active practice",
+			"rawText": "Sangha of committed, interested people\n\n\"Sangha\"? = community with purpose and \npractice\n\nWhat kind exactly? \"Pragmatic Utopians\"\n\nWant: better, wiser lives and world. \nCommitted to awakening and awakening \nsociety\n\nApproach: Rigorous and embodied.\n\nApproach 1: Inner and outer change with a\npriority on inner development/cultural \nevolution\nApproach 2: Scientific approach: curious, \nexperimental, open to revision, improving, \nstructured\nApproach 3 (?): Embodied. Practical \napplication and active practice",
+			"baseline": 518,
+			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "Backwards recursion in strategy\nMacro => Meso => Micro"
+			"originalText": "Sangha of committed, interested people\n\n\"Sangha\"? = community with purpose and \npractice\n\nWhat kind exactly? \"Pragmatic Utopians\"\n\nWant: better, wiser lives and world. \nCommitted to awakening and awakening \nsociety\n\nApproach: Rigorous and embodied.\n\nApproach 1: Inner and outer change with a\npriority on inner development/cultural \nevolution\nApproach 2: Scientific approach: curious, \nexperimental, open to revision, improving, \nstructured\nApproach 3 (?): Embodied. Practical \napplication and active practice"
+		},
+		{
+			"type": "text",
+			"version": 95,
+			"versionNonce": 1088719500,
+			"isDeleted": false,
+			"id": "CFH4LHys",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -640.849609375,
+			"y": 106.7008999637016,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 424,
+			"height": 550,
+			"seed": 1396484404,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"boundElements": [],
+			"updated": 1680747140744,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 1,
+			"text": "What's different from current intentional \ncommunities?\n\n- learning oriented: experimentation and \nrigor in approach\n- engaged / proximate with mainstream (vs\nisolated)\n- committed to a new \"awakening\" paradigm\n  i.e. paradigm oriented to inner \ndevelopment and cultural evolution \n(ontological developmental).\nIn short: what we call \"conscious\" \ncommunities\n\nNB: even communities that are spiritual \n(e.g. monastics)\noften don't have a rigorous, coherent \nvision of how inner development\nis relevant to future we are creating\n(or even to the community itself e.g. \nwaking up without cleaning up or growing \nup)",
+			"rawText": "What's different from current intentional \ncommunities?\n\n- learning oriented: experimentation and \nrigor in approach\n- engaged / proximate with mainstream (vs\nisolated)\n- committed to a new \"awakening\" paradigm\n  i.e. paradigm oriented to inner \ndevelopment and cultural evolution \n(ontological developmental).\nIn short: what we call \"conscious\" \ncommunities\n\nNB: even communities that are spiritual \n(e.g. monastics)\noften don't have a rigorous, coherent \nvision of how inner development\nis relevant to future we are creating\n(or even to the community itself e.g. \nwaking up without cleaning up or growing \nup)",
+			"baseline": 543,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "What's different from current intentional \ncommunities?\n\n- learning oriented: experimentation and \nrigor in approach\n- engaged / proximate with mainstream (vs\nisolated)\n- committed to a new \"awakening\" paradigm\n  i.e. paradigm oriented to inner \ndevelopment and cultural evolution \n(ontological developmental).\nIn short: what we call \"conscious\" \ncommunities\n\nNB: even communities that are spiritual \n(e.g. monastics)\noften don't have a rigorous, coherent \nvision of how inner development\nis relevant to future we are creating\n(or even to the community itself e.g. \nwaking up without cleaning up or growing \nup)"
+		},
+		{
+			"type": "text",
+			"version": 72,
+			"versionNonce": 814991796,
+			"isDeleted": false,
+			"id": "dQ1FPZn5",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -121.36718749999989,
+			"y": 107.1159390262016,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 424,
+			"height": 175,
+			"seed": 444171788,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"boundElements": [],
+			"updated": 1680747153435,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 1,
+			"text": "How does a new kind of culture/society \ncome about?\n\nIt starts by reaching some kind of critical\nmass ... 1%? then 5% ... then 10%\n\nAt some point a culture \"tips\"",
+			"rawText": "How does a new kind of culture/society \ncome about?\n\nIt starts by reaching some kind of critical\nmass ... 1%? then 5% ... then 10%\n\nAt some point a culture \"tips\"",
+			"baseline": 168,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "How does a new kind of culture/society \ncome about?\n\nIt starts by reaching some kind of critical\nmass ... 1%? then 5% ... then 10%\n\nAt some point a culture \"tips\""
+		},
+		{
+			"type": "text",
+			"version": 114,
+			"versionNonce": 1616837900,
+			"isDeleted": false,
+			"id": "GPIg7eZD",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 398.3203125000001,
+			"y": 103.5368374637016,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 424,
+			"height": 275,
+			"seed": 462698036,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"boundElements": [],
+			"updated": 1680747168184,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 1,
+			"text": "Wiser, weller world\n\nPersonal flourishing\nCollective nourishing!\n\nA society oriented to inner growth\nrather than outer growth.\n\nGrounded in a belief in possibility of \nongoing (unlimited) inner growth and that it\nis \"transpersonal\"",
+			"rawText": "Wiser, weller world\n\nPersonal flourishing\nCollective nourishing!\n\nA society oriented to inner growth\nrather than outer growth.\n\nGrounded in a belief in possibility of \nongoing (unlimited) inner growth and that it\nis \"transpersonal\"",
+			"baseline": 268,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Wiser, weller world\n\nPersonal flourishing\nCollective nourishing!\n\nA society oriented to inner growth\nrather than outer growth.\n\nGrounded in a belief in possibility of \nongoing (unlimited) inner growth and that it\nis \"transpersonal\""
 		}
 	],
 	"appState": {
