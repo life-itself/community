@@ -6,41 +6,56 @@ authors:
 image: /assets/images/20200717_072527.jpg
 ---
 
-The Bergerac Hub offers opportunities to explore what it really means to live more consciously together.
+The Bergerac Praxis Hub offers opportunities to explore what it really means to live more consciously together.
 
-The Hub is nestled near the River Dordogne and just a few minutes walk from Bergerac's beautiful town centre. A perfect location from which to enjoy both the glorious French countryside and the vibrant medieval town.
+The Praxis Hub is nestled near the River Dordogne and just a few minutes walk from Bergerac's beautiful town center. A perfect location from which to enjoy both the glorious French countryside and the vibrant medieval town.
 
-The Hub is used both as a Life Itself Praxis Hub and is available to other groups and communities to create their own retreats, workshops and residencies. If you are interested please [contact us](https://lifeitself.org/contact/).
 
 ## Overview
 
-* **What?** Exploring the liminal space of collective and personal awakening to cultivate the disposition to be at ease with whatever comes and adjust to it .
-* **How?** We believe in Community of practices, a frame which combines both a dynamic regenerative engagement for the collective and the space for you to continue your daily work – a key aspect is learning how we can integrate daily practices (sitting, cooking, cleaning, circling) as an activation rather than an obligation (a service you give to your Self). Each residency is oriented around a key theme or question. More details can be found in the Section “[Upcoming residencies](https://lifeitself.org/upcoming-residencies-gatherings)”. 
-* **Where?** The [Life Itself Praxis Hub, Bergerac, France](https://lifeitself.org/hubs/bergerac) (South West, in the Bordeaux wine region, 20 min from Plum Village)
-* **For whom?** To all who wish to engage in practices: system-thinkers, researchers, spiritual ecologists, bodhisattvas, change makers, symbiotic entrepreneurs, poets, painters, eco-dharmists, people ready to just be with what comes, good and bad. 
-* **How can I participate?** Please apply online using the registration form within the corresponding residency page.
-* **How much does it cost?** A typical stay costs between €800 (shared room) and €1,300 (premium double room) per month / per person, including food. Facilitation fees may apply for some residencies. Couples can share double bedrooms at a substantially reduced rate. 
-* **More questions?** Contact us at [praxishub@lifeitself.org](mailto:praxishub@lifeitself.org)
-
-## The Bergerac Praxis Hub
-
-The Bergerac Praxis hub is gathering groups and communities interested in radically committing, together, to be in kinship with the world as it is. We will respond to uncertainty together, with collective embodied practices that include deep attention to humble activities like breathing, creating living space, or preparing food together. 
+The Bergerac Praxis hub is gathering people  interested in radically committing, together, to be in kinship with the world as it is. We will joyfully respond to uncertainty together with collective embodied practices that include deep attention to humble activities like breathing, creating living space, or preparing food together.
 
 Beyond the seemingly paradoxical nature of contemplative activism, we carry the intention of the ungraspable concept of a metamodern monastery. Our vision is to create a space where individuals can come together to explore, practice, and embody new ways of being and relating to each other and the world.
 
-The Praxis Hub is a space devoted to the development and deepening of practices for an integrative response to our cultural situation. The Hub hosts residencies at the service of change agents. A laboratory to test and develop collective practices that can support our capacity to be together in this time of complexity, both individually and collectively.
+The Praxis Hub is a space devoted to the development and deepening of practices for an integrative response to our cultural situation. The Praxis Hub hosts residencies at the service of change agents. A laboratory to test and develop collective practices that can support our capacity to be together in this time of complexity, both individually and collectively.
 
 The Hub is an experiential place that seeks to highlight the activation process resulting from community living. A proposal that aims to bring out another way of thinking and living in the world by questioning the relationship between the intimate and the collective along the question of alterity.
 
-**We envision this space as a laboratory for systemic transformation, where we can document and study the effects of our practices on individual and collective wisdom.** 
-
-**Our ultimate goal is to create a model for a receptive way of living, where deep listening informs us towards a transformation grounded in the values of curiosity, engagement and trust.**
+We envision this space as a laboratory for systemic transformation, where we can document and study the effects of our practices on individual and collective wisdom. **Our ultimate goal is to create a model for a receptive way of living, where deep listening informs us towards a transformation grounded in the values of curiosity, engagement and trust.**
 
 ## The Praxis residencies and gatherings 
 
-We are running and hosting a series of [residencies and retreats](https://lifeitself.org/upcoming-residencies-gatherings) that are a spiritual cooking together of various ingredients: people, practices, workshops, art, community life and actual cooking. The residences open a space, a vacuum filled by people and practices too spiritual for politics, too “political” for the monasteries, where we sit with our trouble without giving into the narrowing impulse to “save the world.”
+The Bergerac Praxis Hub is a space where individuals can come together to explore, practice, and embody new ways of being and relating to each other and the world. We see this space as a place for experimentation, exploration, and learning, where people can engage in self-work, creative work, and spiritual practices within a supportive and structured framework. We believe that this framework, which combines elements of monastic and secular practices, can facilitate the development of a new paradigm of living and being, one that is more connected, embodied, and expansive.
 
-Residencies combine both an activating frame of collective practices with the space for you to continue your daily work – a key aspect is learning how we can integrate community and practice, collective and private, absolute and relative in our daily life.
+We are running and hosting a series of [residencies and retreats](https://lifeitself.org/upcoming-residencies-gatherings) that are a spiritual cooking together of various ingredients: people, practices, workshops, art, community life and actual cooking. The residences open a space, a vacuum filled by people and practices too spiritual for politics, too “political” for the monasteries, where we sit with our trouble without giving into the narrowing impulse to [“save the world”](https://lifeitself.org/setting-the-world-to-rights-residency). 
+
+Residencies combine both an activating frame of collective practices (sitting meditation, cooking, cleaning and circling) with the space for you to continue your daily work – a key aspect is learning how we can integrate community and practice, collective and private, absolute and relative in our daily life.
+
+## The Praxis food 
+
+We consider our relation to food seriously at the hub. Our mindful approach envisions a sense of nourishment that integrates silence, gratitude, contemplations as much as delicious plant-based food menus.
+
+Our food praxis is based on 3 principles:
+
+* Caring 
+* Degrowing 
+* Honoring 
+
+To match the best possible balance between the ethical, the economical, and the ecological aspects of our food system. 
+We leverage the frame of a Zen temple food system to provide a mindful setting for the integrative nourishment of the group. Our basic meal system is based on a tripartite system of:
+
+* cereals
+* beans + cooked veggies 
+* raw veggies 
+
+along with dessert or cookies. 
+
+We buy our food to the fresh market and to the organic local cooperative and use as much as we can local and endemic ingredients. 
+
+The collective meals are always plant-based ones, avoiding non-ethical industrial food. In the same spirit, if some participants want to consume animal-based products, we welcome it as an opportunity to discuss our food system and buy from local farmers at the market.
+
+Finally, we have a Monday to Friday alcohol-free policy. However, we enjoy celebrating and dancing with good wine at the Hub on week-ends. 
+
 
 ## The Praxis Lab 
 
@@ -52,19 +67,19 @@ For this purpose, the Praxis Lab will serve as a research space to collect data 
 
 Ultimately, the research conducted at the Praxis Lab at the Bergerac Hub aims to not only improve the well-being of individuals and communities, but also to contribute to the development of a more interconnected, compassionate and mindful society. Through documenting and studying the effects of our practices, we hope to inform and inspire others to create similar spaces and practices that can lead to systemic transformation.
 
-## Common Principles
+## Key info
 
-* **Engagement**  in daily collective practices: meditating, caring for the food and the house, and relating. 
-* **Punctuality** so as not to encroach on the time of others. 
-* **Benevolent food:** collective meals at the Praxis Hub are benevolent and plant-based, with the intention of fostering a different posture towards food. However, we invite each group to explore the complexity of their needs and make decisions collectively. 
-* **Self responsibility:** the hub is a laboratory for collective experimentation.  Personal needs should be honored as long as they do not disrupt the collective.
-* **Responsivity:** a relative capacity to meet the potential challenges that come with living together is valued. Support tools are available, but it should be noted that this is not a therapeutic space.
-* **Respect for inanimate beings:** we consider the praxis hub to be a living being 
-* **Concentration:** to support a mindful spirit, a non-alcohol policy is suggested during weekdays.
+* **What do we do at the Praxis hub?** We explore the liminal space of collective and personal awakening to cultivate the disposition to be at ease with whatever comes and adjust to it .
+* **How do we do it?** We believe in a Praxis ecology that provides a frame combining both a dynamic regenerative engagement for the collective and the space for you to continue your daily work. A key aspect is learning how we can integrate daily practices (sitting, cooking, cleaning, circling) as an activation rather than an obligation (a service you give to your Self). Each residency is oriented around a key theme or question. More details can be found in the Section “[Upcoming residencies](https://lifeitself.org/upcoming-residencies-gatherings)”. 
+* **Where is it?** The [Life Itself Praxis Hub](https://lifeitself.org/hubs/bergerac), Bergerac, France (South West, in the Bordeaux wine region, 20 min from Plum Village)
+* **For whom is it?** To all who wish to engage in practices: system-thinkers, researchers, spiritual ecologists, bodhisattvas, change makers, symbiotic entrepreneurs, poets, painters, eco-dharmists, people ready to just be with what comes, good and bad. 
+* **How can I participate?** Apply online to one of our residencies using the registration form within the residency page.
+* **How much does it cost?** A typical stay costs between €800 (basic room) and €1,500 (premium double room) per month / per person, including food. Facilitation fees may apply for some residencies. Couples can share double bedrooms at a reduced rate.
+* **More questions?** If you have more questions or are interested to visit us outside of the residencies and participate in our Praxis ecology please contact us at praxishub@lifeitself.org. We propose rooms for a minimum stay of 3 nights.
 
-## About the Hub
+## About the Praxis Hub
 
-The house is finely decorated with antique furniture and a rare view onto the Dordogne. It is situated just a few steps from the river itself, and a beautiful park in a quiet area. The space is one of a kind, and its atmospheric surroundings are the perfect setting for deep exploration.
+Located just a few steps from the river and a serene park, this space is a one-of-a-kind setting comprising three small buildings. An old French palazzo, where traces of the past engage us in a heteroclite manner, adds to the unique atmosphere. It is the perfect place for deep exploration amidst its atmospheric surroundings.
 
 ![](/assets/images/dordogne-view.jpg)
 
@@ -123,29 +138,8 @@ The main house has a large dining room, a spacious kitchen, a spectacular living
 
 ### Bedrooms
 
-There are three types of bedroom: basic, standard, premium. Basic are still functional but are smaller and are not ensuite.
+**There are currently 11 rooms available at the Hub, from basic to premium. More information (photos and descriptions) for the rooms is available [here](https://docs.google.com/document/d/1iHzrLAOeUsrCZIW-vqzzQpo01t51skjiz9FeLs0ER8M/edit?usp=sharing).**
 
-**There are currently 8 rooms available at the Hub: 2 basic, 3 premium and 3 standard.**
-
-7 of these rooms are capable of being shared if desired, however for the best experience we recommend booking a standard room or above if you wish to share.
-
-#### Basic
-
-Our smallest rooms are still pleasantly furnished, just without the bells and whistles. Single beds throughout.
-
-![](/assets/images/f49639c6-fab0-480d-80a8-a1b0855015ce-768x1024.jpeg)
-
-#### Standard
-
-Generously sized with double beds throughout and still impressively furnished. No ensuite bathrooms but easy bathroom access.
-
-![](/assets/images/52bef2df-b245-4e2b-aecd-716320f35edb-1024x768.jpeg)
-
-#### Premium
-
-Generally ensuite. Large. May have special features e.g. a balcony or particular view.
-
-![](/assets/images/4c59d26e-c278-4932-a9b2-4a23fe4f4acb-768x1024.jpeg)
 
 ### Amenities
 
@@ -155,21 +149,15 @@ Generally ensuite. Large. May have special features e.g. a balcony or particular
 - **Kitchen**: high spec kitchen suitable to cook for 10-20 people. Includes dishwasher, microwave, oven, induction hobs and extensive other utensils.
 - **Crockery**: a full store of all the crockery you might need, with enough plates, cutlery, glasses and cups for even the largest groups.
 
-## Book the Hub
-
-The Hub is available to other groups and communities to create their own retreats, workshops and residencies. If you are interested please [contact us](https://lifeitself.org/contact/). We can also offer our food service and design a nourishment for your community if dates match with our Tenzo (zen cook) .
-
 ## How to Reach Us
 
 ### Location
 
 The address of the Hub is 11 Place Barbacane, Bergerac, 24100, France.
 
-**🚩** Please note that google maps does NOT send you to the correct place if you just put in “Life Itself Bergerac Hub”, this will guide you to the farmhouse 20min. outside of Bergerac…
+You can view the location on the map below:
 
-You can view the correct location on the map below:
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2828.721257497998!2d0.47933471562071056!3d44.84760968239347!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12aada824e2f1507%3A0x8ad8c625e2f99200!2s11%20Pl.%20Barbacane%2C%2024100%20Bergerac%2C%20France!5e0!3m2!1sen!2suk!4v1630575848887!5m2!1sen!2suk" width="600" height="450" style={{border:0}} allowfullscreen loading="lazy"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2828.7212574979967!2d0.47933471552181267!3d44.8476096823935!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12aac101689fc7b9%3A0x323008af533a72f5!2sLife%20Itself%20Bergerac%20Praxis%20Hub!5e0!3m2!1sen!2sfr!4v1680796984435!5m2!1sen!2sfr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 #### By train 🚆
 
@@ -187,6 +175,6 @@ The Hub is a little over 1 hour 30 minutes from Bordeaux by car, around 2 hours 
 
 There is free parking right in front of the hub at Place Barbacane and alongside the riverside next to the house.
 
-🚩 If you park in Place Barbacane itself you need to move your car out of there every Thursday night (by ~11pm) until Friday afternoon because of the market that takes place on Place Barbacane.
+🚩 If you park in Place Barbacane you need to move your car on Thursday nights (by ~11pm) until Friday afternoon because of the market that takes place on Place Barbacane.
 
-Alternative free parking can be found in the riverside and the public parking lot named  “Jean Barthé” (google maps), 3 min. walk from the hub.
+Alternative free parking can be found in the riverside and the public parking lot named  “Jean Barthé” (Google Maps), 3 min. walk from the hub.
