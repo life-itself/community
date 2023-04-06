@@ -10,8 +10,7 @@ team:
   - liamaet
 alumni:
 size: l
-state: open
-status: active
+status: inactive
 created: 2023-03-21
 ---
 

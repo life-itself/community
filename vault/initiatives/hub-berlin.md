@@ -11,7 +11,6 @@ team:
   - sen-zhan
 alumni:
 size: xl
-state: open
 status: active
 created: 2023-03-19
 ---

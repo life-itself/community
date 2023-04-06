@@ -13,8 +13,8 @@ team:
 alumni:
   - eilidh-ross
 size: xl
-status: open
-resolution: active
+status: active
+# resolution: active
 created: 2023-03-20
 ---
 

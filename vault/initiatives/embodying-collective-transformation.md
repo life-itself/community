@@ -12,8 +12,8 @@ team:
   - Jocelyn Ames
   - catherine-tran
 size: l
-status: closed
-resolution: complete
+status: completed
+# resolution: completed
 created: 2023-03-20
 ---
 

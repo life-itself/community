@@ -1,11 +1,28 @@
 ---
+<<<<<<< HEAD
 title: "Our Initiatives"
 decription: "Life Itself is a multi-level, multi-disciplinary organisation. This page showcases all our initiatives present and past."
 created: 2023-03-23
+data:
+  - initiatives
 ---
+
+import InitiativeCard from "components/custom/InitiativeCard.jsx"
+import InitiativesList from "components/custom/InitiativesList.jsx"
+
 How do we bring about the shifts in being, culture and systems necessary to transform our social paradigm, and steer humanity and the planet into a flourishing future?
 
 Here at Life Itself, we engage in many different initiatives. Some are experiments, others stand alone works, and others are ongoing explorations. All are designed to create a wiser, weller world. Our projects fall under two broad themes:
+=======
+title: "Our Projects"
+decription: "Life Itself is a multi-level, multi-disciplinary organisation. This page showcases all our projects present and past."
+# created: 2023-03-23
+---
+
+How do we bring about the shifts in being, culture and systems necessary to transform our social paradigm, and steer humanity and the planet into a flourishing future?
+
+Here at Life Itself, we engage in many different projects. Some are experiments, others stand alone works, and others are ongoing explorations. All are designed to create a wiser, weller world. Our projects fall under two broad themes:
+>>>>>>> e39ef01 ([site/pages,vault,#97][s]: move initiatives index page)
 
 ### Pioneering Community Living
 
@@ -15,7 +32,11 @@ Why is community living so important? Because we need to combine inner transform
 
 This is why we dedicate ourselves to creating pathways and providing tools for people to live in intentional communities.
 
+<<<<<<< HEAD
 Examples: [[hubs|Co-living Hubs]], [[embodying-collective-transformation|Transformational Community Residencies]]
+=======
+Examples: [[hubs |Co-living Hubs]], [[embodying-collective-transformation |Transformational Community Residencies]]
+>>>>>>> e39ef01 ([site/pages,vault,#97][s]: move initiatives index page)
 
 ### Transforming the Narrative
 
@@ -23,6 +44,7 @@ We are undergoing one of the greatest paradigm shifts in history. At it’s foun
 
 Our work brings inner transformation out of the domain of the purely spiritual, and seeks to cement it as a pillar of social change that works for all. We use rigorous enquiry and sensemaking to better understand how we can make this paradigm shift a positive transformation for society.
 
+<<<<<<< HEAD
 ## Our Initiatives
 
 ### Active Initiatives
@@ -55,3 +77,34 @@ Our work brings inner transformation out of the domain of the purely spiritual, 
 
 
 
+=======
+## Our Projects
+
+### Active Projects
+
+- [[hub-bergerac |The Bergerac Praxis Hub]]
+- [[hub-berlin |The Berlin Hub]]
+- [[columinate |Columinate]]
+- [[conscious-parenting |Conscious Parenting]]
+- [[ecosystem-mapping |Ecosystem Mapping]]
+- [[exploring-web3-and-crypto |Exploring Web3 & Crypto]]
+- [[hubs |Hubs]]
+- [[labs |Labs]]
+- [[hub-petit-bois-martin |The Petit Bois Martin Hub]]
+- [[podcast |The Life Itself Podcast]]
+- [[residencies |Residencies]]
+- [[tao-of-life-itself |The Tao of Life Itself]]
+
+
+### Currently Inactive Projects
+
+- [[blind-spot-series |Blind Spots]]
+- [[collective-intelligence |Collective Intelligence]]
+- [[collective-wisdom |Collective Wisdom]]
+- [[contemplative-activism |Contemplative Activism]]
+- [[embodying-collective-transformation |Embodying Collective Transformation]]
+- [[ontological-politics |Ontological Politics]]
+- [[possibility-now |Possibility Now]]
+- [[sustainable-wellbeing |Sustainable Wellbeing]]
+- [[wisdom-colloquia |Wisdom Colloquia]]
+>>>>>>> e39ef01 ([site/pages,vault,#97][s]: move initiatives index page)
