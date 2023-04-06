@@ -43,7 +43,7 @@ const computedFields = {
 
 const Page = defineDocumentType(() => ({
   name: "Page",
-  filePathPattern: "!{ecosystem/*(topics|profiles),podcast}/**/*.md*",
+  filePathPattern: "**/*.md*",
   contentType: "mdx",
   fields: {
     ...sharedFields,
