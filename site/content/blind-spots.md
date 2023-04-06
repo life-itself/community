@@ -1,1 +1,0 @@
-../../vault/blind-spots.md
