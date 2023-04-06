@@ -11,8 +11,8 @@ team:
   - liamaet
 alumni:
 size: xl
-status: open
-resolution: active
+status: active
+# resolution: active
 created: 2023-03-20
 ---
 
@@ -26,7 +26,8 @@ Under the banner of **[Sympoiesis](https://lifeitself.org/sympoiesis#sympoiesis
 
 ## Key Resources
 
-- [[../upcoming-residencies-gatherings |Upcoming Residencies]]
-- [[../previous-residencies |Previous Residencies]]
-- [[../hubs/bergerac |The Bergerac Praxis Hub]]
+- [[../upcoming-residencies-gatherings|Upcoming Residencies]]
+- [[../previous-residencies|Previous Residencies]]
+- [[../hubs/bergerac|The Bergerac Praxis Hub]]
+- [[../hubs/berlin|The Berlin Hub]]
 

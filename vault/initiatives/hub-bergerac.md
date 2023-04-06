@@ -13,7 +13,6 @@ team:
   - marc-santolini
 alumni:
 size: xl
-state: open
 status: active
 created: 2023-03-19
 ---
@@ -24,6 +23,6 @@ The Bergerac Hub offers opportunities to explore what it really means to live mo
 
 ## Key Resources
 
-- [[../hubs/bergerac |The Hub Page]]
+- [[../hubs/bergerac|The Hub Page]]
 
 

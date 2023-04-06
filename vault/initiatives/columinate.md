@@ -10,7 +10,6 @@ team:
   - Karl Steyaert
 alumni:
 size: l
-state: open
 status: active
 created: 2023-03-20
 ---

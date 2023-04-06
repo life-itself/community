@@ -10,7 +10,6 @@ team:
   - liamaet
 alumni:
 size: l
-state: closed
 status: completed
 created: 2023-03-21
 ---
@@ -21,5 +20,5 @@ This paper clarifies the concept of Collective Intelligence ─ the ability that
 
 ## Key Resources
 
-- [[../blog/2020/08/28/collective-intelligence |Collective Intelligence]]
+- [[../blog/2020/08/28/collective-intelligence|Collective Intelligence]]
 - [Collective Intelligence Republished](https://drive.google.com/file/d/1NHBDtw3MplEuleEQN5oyPJtJ-rfQCgmX/view)

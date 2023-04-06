@@ -10,8 +10,7 @@ team:
   - liamaet
 alumni:
 size: m
-state: open
-status: active
+status: inactive
 created: 2023-03-21
 ---
 
@@ -21,5 +20,5 @@ Western society is deeply attached to ”Enlightenment” ideals of rationality,
 
 ## Key Resources
 
-- [[../collective-wisdom |Collective Wisdom Homepage]]
-- [[../blog/2020/10/24/collective-wisdom-reflections |Reflections on Collective Wisdom]]
+- [[../collective-wisdom|Collective Wisdom Homepage]]
+- [[../blog/2020/10/24/collective-wisdom-reflections|Reflections on Collective Wisdom]]

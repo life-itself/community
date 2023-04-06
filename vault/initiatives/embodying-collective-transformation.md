@@ -12,8 +12,8 @@ team:
   - Jocelyn Ames
   - catherine-tran
 size: l
-status: closed
-resolution: complete
+status: completed
+# resolution: completed
 created: 2023-03-20
 ---
 
@@ -39,5 +39,5 @@ We’re passionate about coming together with others to embody the necessary per
 
 ## Key Resources
 
-- [[../embodying-collective-transformation |Embodying Collective Transformation]]
+- [[../embodying-collective-transformation|Embodying Collective Transformation]]
 

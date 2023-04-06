@@ -14,7 +14,6 @@ team:
 alumni:
   - eilidhross
 size: xl
-state: open
 status: active
 created: 2023-03-16
 ---
@@ -30,5 +29,5 @@ In this project, we will be steel-manning the key claims made by proponents of W
 ## Key Resources
 
 - [Making Sense of Crypto & Web3 Website](https://web3.lifeitself.org/)
-- [[../blog/2022/05/21/crypto-can-these-financial-perpetual-motion-machines-work |Crypto: Can These Financial Perpetual Motion Machines Work]]
-- [[../blog/2022/03/16/making-sense-of-crypto-and-web3-launch |Initial Announcement (March, 2022)]]
+- [[../blog/2022/05/21/crypto-can-these-financial-perpetual-motion-machines-work|Crypto: Can These Financial Perpetual Motion Machines Work]]
+- [[../blog/2022/03/16/making-sense-of-crypto-and-web3-launch|Initial Announcement (March, 2022)]]

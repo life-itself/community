@@ -10,7 +10,6 @@ team:
   - esthermontmany
 alumni:
 size: xl
-state: open
 status: incubating
 created: 2023-02-24	
 ---
@@ -33,6 +32,6 @@ No Updates yet!
 
 ## Key Resources 
 
-- [[../podcast/esther-montmany-on-conscious-parenting-part-1 |Esther Montmany on Conscious Parenting: Part 1]]
-- [[../podcast/esther-montmany-on-conscious-parenting-part-2 |Esther Montmany on Conscious Parenting: Part 2]]
-- [[../podcast/esther-montmany-on-conscious-parenting-part-3 |Esther Montmany on Conscious Parenting: Part 3]]
+- [[../podcast/esther-montmany-on-conscious-parenting-part-1|Esther Montmany on Conscious Parenting: Part 1]]
+- [[../podcast/esther-montmany-on-conscious-parenting-part-2|Esther Montmany on Conscious Parenting: Part 2]]
+- [[../podcast/esther-montmany-on-conscious-parenting-part-3|Esther Montmany on Conscious Parenting: Part 3]]

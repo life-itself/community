@@ -12,6 +12,7 @@ const userConfig = {
     { href: "/about", name: "About"},
     { href: "/people", name: "People"},
     { href: "/upcoming-residencies-gatherings", name: "Residencies"},
+    { href: "/initiatives", name: "Initiatives"},
     { href: "/ecosystem", name: "Ecosystem" },
     { href: "/blog", name: "Blog"},
     { href: "/podcast", name: "Podcast" },

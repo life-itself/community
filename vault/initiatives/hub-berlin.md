@@ -11,7 +11,6 @@ team:
   - sen-zhan
 alumni:
 size: xl
-state: open
 status: active
 created: 2023-03-19
 ---
@@ -22,6 +21,6 @@ The Life Itself Berlin Hub in Kreuzberg is an experiment in intentional communit
 
 ## Key Resources
 
-- [[../hubs/berlin/|The Hub Page]]
+- [[../hubs/berlin|The Hub Page]]
 
 

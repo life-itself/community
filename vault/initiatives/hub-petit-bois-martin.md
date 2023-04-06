@@ -10,7 +10,6 @@ team:
   - sylvieshiweibarbier
 alumni:
 size: xl
-state: open
 status: active
 created: 2023-03-19
 ---
@@ -21,7 +20,7 @@ We are currently renovating the Farmhouse in order to create beautiful spaces fo
 
 ## Key Resources 
 
-- [[/hubs/farmhouse/ |The Hub Page]]
+- [[../hubs/farmhouse|The Hub Page]]
 
 
 

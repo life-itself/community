@@ -10,8 +10,8 @@ team:
   - sylvieshiweibarbier
 alumni:
 size: m
-state: closed
-status: retired
+status: inactive
+resolution: retired
 created: 2023-03-21
 ---
 
