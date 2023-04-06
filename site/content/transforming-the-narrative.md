@@ -1,1 +1,0 @@
-../../vault/transforming-the-narrative.md

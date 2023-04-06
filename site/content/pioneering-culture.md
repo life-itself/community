@@ -1,1 +1,0 @@
-../../vault/pioneering-culture.md

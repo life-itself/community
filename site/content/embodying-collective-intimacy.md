@@ -1,1 +1,0 @@
-../../vault/embodying-collective-intimacy.md
