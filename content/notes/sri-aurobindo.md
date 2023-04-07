@@ -3,7 +3,7 @@ title: Sri Aurobindo
 created: 2020-08-17
 ---
 
-Sri Aurobindo is a central, pioneering figure in the field of consciousness evolution and the development of an [[awakening society]]. His life exemplified an integration of the major development lines and leading edges of onto-social development: born in colonial India, educated at King's Cambridge, a senior civil servant in the Raj, then a leading nationalist, and finally a spiritual figure whose work pioneered an integration of east and west.
+Sri Aurobindo is a central, pioneering figure in the field of consciousness evolution and the development of an [[../awakening-society]]. His life exemplified an integration of the major development lines and leading edges of onto-social development: born in colonial India, educated at King's Cambridge, a senior civil servant in the Raj, then a leading nationalist, and finally a spiritual figure whose work pioneered an integration of east and west.
 
 Indications of this importance:
 
