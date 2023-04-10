@@ -1,13 +1,18 @@
 ---
-title: 'Research activities at Life Itself and a Labs "Research Community"'
+title: 'Research activities at Life Itself and a Research Community: A Proposal'
 created: 2023-01-14 
 ---
 
+**🚩 2023-03-23**: this is a slightly revised version of the original proposal. The main change is to have research community distinct from Labs (rather than under it).
+
 # Summary
 
-Research is a central activity at Life Itself.  Research has the broad meaning of "systematic investigation". It includes both general inquiry and the stricter, academic meaning of using standard methods and seeking original results.
+Research is a central activity at Life Itself.  Research here has the broad meaning of "systematic investigation". It includes both general inquiry and the stricter, academic meaning of using standard methods and seeking original results.
 
-Research takes place at Labs in two distinct and related spaces: a broader and informal "research community" and a narrower, more formal Labs team.
+We propose that research take place in two distinct and related spaces:
+
+- A broader and more informal "research community"
+- A narrower, more formal Labs team
 
 Research focuses on ontology and culturology i.e. the study of inner development and cultural evolution and how they can be cultivated.
 
@@ -28,12 +33,14 @@ Question: What research should we do at Life Itself and how should we organize i
 
 Research has the broad meaning of "systematic investigation". It includes both general inquiry and the stricter, academic meaning of using standard methods and seeking original results.
 
-### Research takes places at Labs
+### Research takes places in the Research Community and Labs
 
-Research takes place at Labs in two distinct connected areas:
+Research takes place in two distinct connected areas:
 
-- Labs research "community": broader, informal research community 
+- Research "community": broader, informal research community that anyone can join
 - Labs itself: a smaller, more formal team doing more formal research e.g. funded and/or academic style
+
+#todo update this diagram which refers to v1 where Labs
 
 <img src="https://user-images.githubusercontent.com/180658/212433169-9b72a932-9cc4-48b9-a34e-65e9662b7678.png" height="400" />
 
@@ -82,8 +89,6 @@ We also have certain principles & practices that inform our approach (in progres
 
 ### Implications
 
-#### Development of the Research Community (in progress)
+We should actively develop an informal "Research Community".
 
-Development of informal Labs "Research Community" has particular importance.
-
-Existing proposed activities like reading group on stage theory (#186) would take place here.
+Existing proposed activities like reading group on stage theory would take place here.

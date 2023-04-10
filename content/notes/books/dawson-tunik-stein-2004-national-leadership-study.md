@@ -1,4 +1,12 @@
-# National Leadership Study bu Dawnson-Tunik and Stein (2004)
+# National Leadership Study by Dawnson-Tunik and Stein (2004)
+
+Dawson-Tunik, Theo, and Zachary Stein. _National Leadership Study Results_. Developmental Testing Service, LLC, 2004.
+
+Full PDF in the Library: https://www.zotero.org/groups/1488090/life-itself/search/dawson/titleCreatorYear/items/IIZAGI2V/attachment/TCRUN25N/reader
+
+Fascinating. Details a rigorous assessment framework for ontological development -- mainly cognitive here, though related to perspective taking. Along with the framework has the results of the study done at the NSA with the framework.
+
+Follows the hierarchical tradition (Fischer et al) in that levels relate to the hierarchical complexity of the reasoning.
 
 # Overview
 
@@ -8,7 +16,7 @@ Appendix A has the interview structure.
 
 > During the fall of 2002 and spring of 2003, we conducted and transcribed 113 probed, semistructured, clinical interviews (averaging 2 hours in length) of a heterogeneous sample of NSA employees. We made an effort to interview individuals from all areas of the agency and all levels of management and technical expertise. The interviews consisted of 3 forms and examined reasoning in 6 content domains—epistemological reasoning, problem solving, emotional conceptions, self-understanding (self-as-leader), and conceptions of the good employee and good leader. (See Appendix A for the interview forms.) The interviews were transcribed and scored for developmental level with the LAS. These scored interviews were then submitted to a variety of concept analyses in order to examine how conceptual knowledge differs from one developmental level to the next.
 
-# Discussion and Recommendations
+## Discussion and Recommendations
 
 p.22 ff.
 

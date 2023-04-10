@@ -74,7 +74,7 @@ Ultimately, the research conducted at the Praxis Lab at the Bergerac Hub aims to
 * **Where is it?** The [Life Itself Praxis Hub](https://lifeitself.org/hubs/bergerac), Bergerac, France (South West, in the Bordeaux wine region, 20 min from Plum Village)
 * **For whom is it?** To all who wish to engage in practices: system-thinkers, researchers, spiritual ecologists, bodhisattvas, change makers, symbiotic entrepreneurs, poets, painters, eco-dharmists, people ready to just be with what comes, good and bad. 
 * **How can I participate?** Apply online to one of our residencies using the registration form within the residency page.
-* **How much does it cost?** A typical stay costs between €800 (basic room) and €1,500 (premium double room) per month / per person, including food. Facilitation fees may apply for some residencies. Couples can share double bedrooms at a reduced rate.
+* **How much does it cost?** A typical stay costs between €800 (basic room) and €1,500 (premium double room) per month / per person, including food. More information on rooms can be found [here](https://docs.google.com/document/d/1PBijDdlRAECvE19Nxo1fOEcq2foGJVeERZVxzIs6b9U/edit?usp=sharing). Facilitation fees may apply for some residencies. Couples can share double bedrooms at a reduced rate.
 * **More questions?** If you have more questions or are interested to visit us outside of the residencies and participate in our Praxis ecology please contact us at praxishub@lifeitself.org. We propose rooms for a minimum stay of 3 nights.
 
 ## About the Praxis Hub
@@ -138,7 +138,7 @@ The main house has a large dining room, a spacious kitchen, a spectacular living
 
 ### Bedrooms
 
-**There are currently 11 rooms available at the Hub, from basic to premium. More information (photos and descriptions) for the rooms is available [here](https://docs.google.com/document/d/1iHzrLAOeUsrCZIW-vqzzQpo01t51skjiz9FeLs0ER8M/edit?usp=sharing).**
+**There are currently 11 rooms available at the Hub, from basic to premium. More information (photos and descriptions) for the rooms is available [here](https://docs.google.com/document/d/1PBijDdlRAECvE19Nxo1fOEcq2foGJVeERZVxzIs6b9U/edit?usp=sharing).**
 
 
 ### Amenities
