@@ -5,12 +5,12 @@ import InitiativeCard from "@/components/custom/InitiativeCard";
 export default function Initiatives({ activeProjects, inactiveProjects }) {
   return (
     <div className="relative mx-auto lg:max-w-4xl px-4 sm:px-16 lg:px-20 mt-16 sm:mt-20 space-y-8">
-      <h1 className="text-4xl font-bold font-headings tracking-tight text-primary sm:text-5xl">Our Projects</h1>
+      <h1 className="text-4xl font-bold font-headings tracking-tight text-primary sm:text-5xl">Our Initiatives</h1>
       <div className="docs prose prose-headings:font-headings prose-a:break-words">
         <p>How do we bring about the shifts in being, culture and systems necessary to 
           transform our social paradigm, and steer humanity and the planet into a flourishing future?</p>
         
-        <p>Here at Life Itself, we engage in many different projects. Some are experiments, others stand 
+        <p>Here at Life Itself, we engage in many different initiatives. Some are experiments, others stand 
           alone works, and others are ongoing explorations. All are designed to create a wiser, weller world. 
           Our projects fall under two broad themes:</p>
 
@@ -34,7 +34,7 @@ export default function Initiatives({ activeProjects, inactiveProjects }) {
         <p>Our work brings inner transformation out of the domain of the purely spiritual, and seeks to cement it as a pillar of social change that works for all. We use rigorous enquiry and sensemaking to better understand how we can make this paradigm shift a positive transformation for society.</p>
       </div>
       <div className="py-1">
-        <h3 className="text-2xl font-bold font-headings tracking-tight text-primary">Active Projects</h3>
+        <h3 className="text-2xl font-bold font-headings tracking-tight text-primary">Active Initiatives</h3>
         <ul role="list" className="mx-auto my-6 !pl-0 grid max-w-2xl grid-cols-1 sm:grid-cols-2 gap-x-12 gap-y-14 lg:mx-0 lg:max-w-none lg:grid-cols-3">
           {activeProjects?.map(initiative => (
             <InitiativeCard key={initiative._id} initiative={initiative} />
@@ -42,7 +42,7 @@ export default function Initiatives({ activeProjects, inactiveProjects }) {
         </ul>
       </div>
       <div className="py-1">
-        <h3 className="text-2xl font-bold font-headings tracking-tight text-primary">Currently Inactive Projects</h3>
+        <h3 className="text-2xl font-bold font-headings tracking-tight text-primary">Currently Inactive Initiatives</h3>
         <ul role="list" className="mx-auto my-6 !pl-0 grid max-w-2xl grid-cols-1 sm:grid-cols-2 gap-x-12 gap-y-14 lg:mx-0 lg:max-w-none lg:grid-cols-3">
           {inactiveProjects?.map(initiative => (
             <InitiativeCard key={initiative._id} initiative={initiative} />

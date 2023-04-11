@@ -293,7 +293,7 @@ CTA - sign up form
 ---
 
 
-![[../assets/images/profile-image-zaib.jpg]]
+![[profile-image-zaib.jpg]]
 
 ## Meet The Team
 
