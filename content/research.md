@@ -34,7 +34,7 @@ We are open to all topics that have a clear connection with a wiser, weller worl
 
 [Read more below](#topics)
 
-![[Excalidraw/research-topical-map-2023-01-14.excalidraw.svg]]
+![[excalidraw/research-topical-map-2023-01-14.excalidraw.svg]]
 
 ### What principles?
 
