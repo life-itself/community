@@ -231,15 +231,15 @@ CTA - Link to Key Articles Page
 
 ## Upcoming Residencies & Courses
 
-### [[../setting-the-world-to-rights-residency |Setting The World To Rights Residency]]
+### [[setting-the-world-to-rights-residency |Setting The World To Rights Residency]]
 _April 5th - May 2nd 2023_ with Liam Kavanagh & Victoria Wilding
 This residency challenges this attitude, seeing big topic conversations as a crucial job of citizens in a democracy. It will feature emotionally aware dialogue about our societies’ greatest challenges and our part in responding to them.
 
-### [[../ouroboros-residency |Ouroboros Residency]]
+### [[ouroboros-residency |Ouroboros Residency]]
 _May 13th - May 24th_ with Valerie Duvauchelle, Victoria Wilding & Lauren Uba
 The Ouroboros residencies will be dedicated to creating the conditions to strengthen our connection to these innate capacities by bringing our attention moment by moment to our “posture” and noticing how it in-forms us. In the residencies we will consciously move beyond the transformational dynamic of being withness to create what we describe as an “in-formational” space. 
 
-CTA - [[../upcoming-residencies-gatherings |See More Opportunities]]
+CTA - [[upcoming-residencies-gatherings |See More Opportunities]]
 
 ---
 

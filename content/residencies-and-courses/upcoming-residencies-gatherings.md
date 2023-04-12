@@ -15,7 +15,7 @@ image: /assets/images/Blog-Feature-Images-11.png
 - **What:** A one month residency to focus on having exceptional big picture discussions. (The kind of discussions that draw the comment “You’re setting the world to rights!” Questions like: How do we address polarisation? How can we address global warming? How do we address the massive economic equality, racism and historical injustices that are rife across the globe? We won’t answer these questions, but we will do our utmost to have discussions that are really about *getting somewhere together* rather than scoring points. We will joyfully take up the neglected responsibility of citizens in a democracy, rather than a parlour game or indulgence
 - **How much:** Dependent on rooming (around €1100 for accommodation, food, facilitation and practices)
 - **Facilitator:** [Liam Kavanagh](https://www.liamkavanagh.me/), [Victoria Wilding](https://www.victoriawilding.com/)
-- **[Learn more and apply](setting-the-world-to-rights-residency)**
+- **[Learn more and apply](setting-the-world-to-rights-residency.md)**
 
 ## Ouroboros Residency #1, May 2023
 
@@ -29,7 +29,7 @@ The seismic shifts we need to effectively respond to this meta-crisis, are syste
 - **How many:** 12 participants max 
 - **How much:** From 750 to 1350 euros
 - **Facilitators:** [Valérie Duvauchelle](https://en.lacuisinedelabienveillance.org/),  [Victoria Wilding](https://www.victoriawilding.com/), [Lauren Uba](https://www.laurenuba.com/about)
-- **[Learn more and apply](ouroboros-residency)**
+- **[Learn more and apply](ouroboros-residency.md)**
 
 ## Pioneering the next Food culture, June 2023  
 
