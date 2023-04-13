@@ -45,6 +45,13 @@ The following principles & practices inform our approach:
 - Generous listening and steel-manning: we look for the best version of any view or approach. Participation is a chance to exchange with peers engaged in rich and varied ecologies of practices.
 - Integrity: we operate with honesty and treat our and each other's commitments with respect.
 
+## Projects
+
+- [[initiatives/exploring-web3-and-crypto|Exploring Web3 & Crypto]]: a year-long project to evaluate the transformative aspirations and claims made for web3 and crypto.
+- [Mapping an Emerging Ecosystem](/ecosystem): an ongoing multi-year project to map actors in a novel emerging ecosystem focused on integral, paradigmatic social change.
+- [[initiatives/collective-wisdom|Collective Wisdom and Shadows of the Enlightenment]]
+- [Open Database of Intentional Communities](https://github.com/orgs/life-itself/discussions/144): incubating project to create an open database of intentional communities.
+
 ## How to Participate
 
 We conduct our work primarily online and in the open and anyone can observe and contribute to discussions in the [forum][] and elsewhere. We also have bases in our [[hubs/bergerac|Bergerac Hub]] and there are in person gatherings from time to time.
@@ -126,7 +133,7 @@ Within this broad area a specific and active sub-area is **ecosystem mapping and
 
 ### What topics do you work on?
 
-See above
+See above.
 
 ### Is there funding?
 
