@@ -1,22 +1,16 @@
 ---
-title: "Conscious Food residency: Pioneering the next Food culture"
-created: 2023-03-04
-authors:
+title: "Pioneering Next Food Culture, June 2023"
+description: "A 3 weeks residency to empower yourself by learning plant-based meal preparations which nourish mind, body and soul. Deconstruct and redefine our relationship to food and have an impact on our collective mental health."
+image: "assets/images/food-residency-header.jpg"
+start: "2023-06-09"
+end: "2023-07-02"
+facilitators:
   - valerie
+location: "The Life Itself Praxis Hub, Bergerac, France"
+cost: "From 1,200 € to 1,650 €, including 3 meals a day. **Early birds: 25% off for signing before the 25th of April**. Prices are for 3 weeks of retreat, training, and community living."
+apply-button: "https://docs.google.com/forms/d/e/1FAIpQLSdiykDKyZR6DgtPKeYuNePy9sWc-qkIc4BVfKBRjkFWKvFp-g/viewform"
+created: 2023-04-13
 ---
-
-**09/06 - 02/07/2023** 
-
-![[assets/images/food-residency-header.jpg]]
-
-> **What:** A 3 weeks residency to empower yourself by learning plant-based meal preparations which nourish mind, body and soul. Deconstruct and redefine our relationship to food and have an impact on our collective mental health. Through a series of hands-on workshop, retreat, participatory cooking, and communal living you will learn to ease food anxiety and the general scarcity mindset in us and around.
-  **When:** 09/06/2023 - 02/07/2023
-  **Where:** [[bergerac|Life Itself Praxis Hub]], Bergerac, France (near Bordeaux).
-  **Who:** cooking activists , bodhisattvas , people interested in food in conscious co-living communities, people curious to let themselves be in-formed by food and act from its teachings. (11 persons max)
-  **Facilitator:** [Valérie Duvauchelle](https://en.lacuisinedelabienveillance.org/)
-  **Cost:** From 1,200 € to 1,650 €, including 3 meals a day. **Early birds: 25% off for signing before the 25th of April**. Prices are for 3 weeks of retreat, training, and community living.
-
-[APPLY NOW](https://docs.google.com/forms/d/e/1FAIpQLSdiykDKyZR6DgtPKeYuNePy9sWc-qkIc4BVfKBRjkFWKvFp-g/viewform)
 
 This Residency is both a practical and embodied experience incorporating the basics of the benevolent kitchen that Valerie 
 has actualised from the zen food temple practice and bridged it with permaculture, deep ecology, collective embodiment and 
@@ -88,18 +82,8 @@ The workshop will be the same hours with less sitting, then residency will be co
 
 [APPLY NOW](https://docs.google.com/forms/d/e/1FAIpQLSdiykDKyZR6DgtPKeYuNePy9sWc-qkIc4BVfKBRjkFWKvFp-g/viewform) please register your interest here and Valerie will quickly get back to you.
 
-
-## The Bergerac hub: a  space to explore community of practices.
-
-The Bergerac Hub is interested in the balance between collective sharing of community care and individual space. Exploring one's personal needs in light of those of the collective is finding the fluctuating middle ground between private and collective, solitary and group activities is the funambulist proposition we explore at the Praxis hub in Bergerac. For this we propose a dynamic framework of Praxis ecology with a structure based on 4 main practices ( sitting , cooking, cleaning and regulating) in which each group can evolve according to its proclivities.
-
-More about the hub: https://lifeitself.org/hubs/bergerac
-
-
-![](/assets/images/IMG_1534-1024x1024.jpeg)
-
-
 ## Facilitation 
+
 ### Valérie Duvauchelle
 
 ![[Eleonore-grignon-pour-ilots-magazine-scaled.jpg|200]]
@@ -140,3 +124,30 @@ She also wrote a book about the zen practice of food "the silent taste" (Actes S
 
 >This experience has led me to reflect on: the seeming benefits/importance of (measured) hunger; the importance of variety; the importance of raw foods and balanced flavours. What has been most striking has not just been the physical benefits from this, but the meditative / calming aspects too. It is very rare that a lunch/dinner will inspire this level of reflection in me, and so that in itself speaks volumes!
 
+
+### The Praxis Hub
+
+The Bergerac Praxis Hub is gathering groups and communities interested in radically committing, together, to be in kinship with the world as it is. We will respond to uncertainty together, with collective embodied practices that include deep attention to humble activities like breathing, creating living space, or preparing food together. 
+
+Beyond the seemingly paradoxical nature of contemplative activism, we carry the intention of the ungraspable concept of a metamodern monastery.
+
+_Our vision is to create a space where individuals can come together to explore, practice, and embody new ways of being and relating to each other and the world._
+
+See more about the Praxis Hub [here.](https://lifeitself.org/vault/hubs/bergerac)
+
+### The Praxis Lab 
+
+The  Praxis Lab is an evolutionary research space within the Praxis Hub aiming to define and document through scientific observations the ecologies of practices that foster a disposition of engaging differently in the world.
+
+In particular through collecting data and studying the interrelations between spaces, structures and practices, it aims to make visible how the interplay/relational  identity between individuals and their environment (space, structure, practices) shapes their emotional, spiritual and intellectual disposition. 
+
+The Ouroboros Residencies and Praxis Lab team will work together to identify, define and articulate how by focussing on the way we practice, i.e the collective “posture”, can catalyze an intentional state of receptivity, of being “in-formed” rather than, or as a premise of, being “trans-formed” into a collective field.
+
+### How to Apply
+
+Residency Application Process:
+
+1.  A preliminary Expression of Interest is completed by participants on the Life Itself website.
+2.  The Hosting Team contacts you to discuss your participation in the residency.
+
+ Apply: [Praxis residency pre-registration link](https://docs.google.com/forms/d/e/1FAIpQLSdiykDKyZR6DgtPKeYuNePy9sWc-qkIc4BVfKBRjkFWKvFp-g/viewform)

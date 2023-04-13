@@ -113,7 +113,7 @@ This residency challenges this attitude, seeing big topic conversations as a cru
 _May 13th - May 24th_ with Valerie Duvauchelle, Victoria Wilding & Lauren Uba
 The Ouroboros residencies will be dedicated to creating the conditions to strengthen our connection to these innate capacities by bringing our attention moment by moment to our “posture” and noticing how it in-forms us. In the residencies we will consciously move beyond the transformational dynamic of being withness to create what we describe as an “in-formational” space. 
 
-CTA - [[upcoming-residencies-gatherings |See More Opportunities]]
+CTA - [[old-upcoming-residencies-gatherings |See More Opportunities]]
 
 ---
 
