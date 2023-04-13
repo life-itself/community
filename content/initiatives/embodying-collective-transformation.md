@@ -39,5 +39,5 @@ We’re passionate about coming together with others to embody the necessary per
 
 ## Key Resources
 
-- [[content/residencies-and-courses/embodying-collective-transformation|Embodying Collective Transformation]]
+- [[content/programs/embodying-collective-transformation|Embodying Collective Transformation]]
 
