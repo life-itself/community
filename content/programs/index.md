@@ -3,6 +3,12 @@ title: "Residencies and Courses"
 created: 2023-04-11
 ---
 
+We are running and hosting a series of residencies and retreats that are a spiritual cooking together of various ingredients: people, practices, workshops, art, community life and actual cooking. The residences open a space, a vacuum filled by people and practices too spiritual for politics, too “political” for the monasteries, where we sit with our trouble without giving into the narrowing impulse to “save the world”.
+
+<div>
+  <a href="https://lifeitself.org/hubs/bergerac" class="rounded-md bg-amber-300 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-amber-300 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600">Learn More About The Hub</a>
+</div>
+
 ## Upcoming Residencies & Courses
 
 
