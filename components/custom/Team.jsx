@@ -36,10 +36,10 @@ const people = [
     imageUrl: "assets/site/team/Catherine-bio.png"
   },
   {
-    name: "Eilidh Ross",
+    name: "Zaibul Nisa",
     role: "Generalist",
-    bio: "Eilidh studied Law at the University of Oxford before moving back home to Scotland to gain an MSc in Media, Communications and International Journalism from the University of Glasgow. Prior to joining Life Itself, Eilidh has worked as a researcher with the University of Dundee, an assistant editor with Radio Clyde and a Digital Media Officer for the COP26 Coalition. Outside of work, Eilidh enjoys music – from folk, to musical theatre, to country – and can often be found exploring the Scottish countryside with her Great Dane, Selkie",
-    imageUrl: "assets/site/team/Eilidh-bio.jpeg"
+    bio: "Zaibul Nisa is a marketing professional with 5+ years working in the sustainable finance space. She is working at the intersection of climate change and Web3 where she builds communities and drives discussions around emerging technology and climate change. Currently, she is pursuing her MBA with a specialization in Marketing, Zaib wants to be a defining voice of digital marketers in the Web3 space.",
+    imageUrl: "/assets/site/team/profile-image-zaib.jpg"
   },
   {
     name: "Ilja Maiber",
@@ -96,13 +96,13 @@ const praxis = [
     name: "Liu Bauer",
     role: "Scientist",
     bio: "Liu is a mathematician, a theoretical physicist and data scientist of urban systems, with a PhD in theoretical physics. She worked before in universities of Germany, Netherlands, Spain (IFISC), Uruguay, Italy, France. She has been involved in European and international interdisciplinary projects working on implementing new frameworks for working with data. In research she is working with complex networks, studying processes on networks and applying the network theory in various urban issues. For this she has worked with Strelka Institute, Urban AI think tank, Correlaid NGO. She also developed the international scientists-schools network exploring the potential of scientific networks (NGO which she co-founded in 2017) and co-lead the data-volunteering initiative to help NGOs to preprocess their data. Recently she has been involved in several citizen science projects, which aim to bring together the ideas of democratizing decision making processes and participatory modeling. She works on the interface of physics, mathematics, urbanism and humanitarian action. Liu took part in the Starts.eu project together with Sony labs (Italy) and museums in Italy and Germany, which brought specific attention to the phenomenon of citizens' emotions in cities. Her projects are now mostly focused on finding new approaches and methodologies (participatory simulations, collective intelligence, geolocalized crowdsourcing, sharing circles) to work with citizens and cities.",
-    imageUrl: "/assets/images/liu-bauer.jpeg"
+    imageUrl: "/assets/images/liu-bauer.svg"
   },
   {
     name: "Marc Santolini",
     role: "Scientist",
     bio: "Marc Santolini is a network scientist who studies how individuals and groups innovate, collaborate and learn, with a particular focus on open and citizen science communities and the open-source movement. He holds a PhD in Statistical Physics from Ecole Normale Supérieure Paris, where he studied Complex Systems Physics and Philosophy of Science. Fascinated by the emergence of higher-order simplicity out of complex interactions, he specialized in network science applied to biological, medical and social contexts at the Barabasi Lab in Boston, before becoming a research fellow at the Learning Planet Institute (formerly Center for Research and Interdisciplinarity, CRI) of Université Paris Cité. He is also a co-founder of the Just One Giant Lab NGO that supports the development of emergent, large-scale open research communities through social and digital technologies. Passionate about music and spontaneous jamming, he explores how group rituals and facilitation mechanisms help achieve collective flow states, with a focus on multi-modal, dialogical embodied practices to experience philosophical and contemplative concepts such as emergence, inter-being, or at-onement.",
-    imageUrl: "/assets/images/marc-santolini.jpeg"
+    imageUrl: "/assets/images/marcsantolini.png"
   },
 ]
 
@@ -133,6 +133,12 @@ const alumni = [
     role: "Scientist",
     bio: "Jonathan Ekstrom co-organised the first Life Itself Gathering. He has formed The Biodiversity Consultancy to bring real-world solutions to industry’s biodiversity challenges. Jon holds a Double First in Natural Sciences from Cambridge University and a PhD in ecology.",
     imageUrl: "assets/site/team/jonathan-ekstrom.jpeg"
+  },
+  {
+    name: "Eilidh Ross",
+    role: "Generalist",
+    bio: "Eilidh studied Law at the University of Oxford before moving back home to Scotland to gain an MSc in Media, Communications and International Journalism from the University of Glasgow. Prior to joining Life Itself, Eilidh has worked as a researcher with the University of Dundee, an assistant editor with Radio Clyde and a Digital Media Officer for the COP26 Coalition. Outside of work, Eilidh enjoys music – from folk, to musical theatre, to country – and can often be found exploring the Scottish countryside with her Great Dane, Selkie",
+    imageUrl: "assets/site/team/Eilidh-bio.jpeg"
   },
   {
     name: "Ninon Godefroy",

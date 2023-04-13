@@ -1,7 +1,7 @@
 ---
 id: liu-bauer
-name: Liu Bauer
-avatar: /assets/images/liu-bauer.jpeg
+name: "Liu Bauer"
+avatar: /assets/site/team/liu-bauer.svg
 ---
 
 Liu is a mathematician, a theoretical physicist and data scientist of urban systems, with a PhD in theoretical physics. She worked before in universities of Germany, Netherlands, Spain (IFISC), Uruguay, Italy, France. She has been involved in European and international interdisciplinary projects working on implementing new frameworks for working with data.
