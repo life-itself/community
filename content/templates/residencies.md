@@ -9,6 +9,7 @@ facilitators:
 location: ""
 cost: ""
 apply-button: ""
+created: 
 ---
 
 ## Introduction
