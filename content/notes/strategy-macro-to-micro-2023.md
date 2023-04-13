@@ -7,4 +7,4 @@ authors: [rufuspollock]
 
 How a big dream turns into something concrete day to day.
   
-![[../Excalidraw/strategy-macro-to-micro-2023-02-01.excalidraw.svg]]
+![[../excalidraw/strategy-macro-to-micro-2023-02-01.excalidraw.svg]]

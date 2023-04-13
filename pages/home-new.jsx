@@ -8,48 +8,7 @@ import InitiativeCard from "components/custom/InitiativeCard"
 
 import { formatDate } from "@/lib/formatDate"
 
-const keyWritingsPaths = [
-  "blog/2022/02/01/cultivating-an-emerging-paradigm"
-]
-
-const keyInitiativesPaths = [
-  // "initiatives/blind-spot-series",
-]
-
-const keyWritingsData = [
-  {
-    id: 1,
-    title: 'Cultivating An Emerging Paradigm',
-    href: '/blog/2022/02/01/cultivating-an-emerging-paradigm',
-    description: 'Humanity and the planet are at a critical point in history similar to major breakdown/breakthrough points of the past, most recently the transition to modernity in the Enlightenment. We risk civilizational collapse and we also have the possibility of a breakthrough. How do we facilitate the latter?',
-    imageUrl: '/assets/images/Blog-Feature-Images-7.png',
-    date: 'Mar 16, 2020',
-    datetime: '2020-03-16',
-    category: { title: 'Vision', href: '#' },
-    author: {
-      name: 'Michael Foster',
-      role: 'Co-Founder / CTO',
-      href: '#',
-      imageUrl:
-        'https://images.unsplash.com/photo-1519244703995-f4e0f30006d5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80',
-    },
-  },
-  // More posts...
-]
-
-const keyInitiativesData = [
-  {
-    id: 1,
-    title: 'Cultivating An Emerging Paradigm',
-    href: '/blog/2022/02/01/cultivating-an-emerging-paradigm',
-    description: 'Humanity and the planet are at a critical point in history similar to major breakdown/breakthrough points of the past, most recently the transition to modernity in the Enlightenment. We risk civilizational collapse and we also have the possibility of a breakthrough. How do we facilitate the latter?',
-    imageUrl: '/assets/images/Blog-Feature-Images-7.png',
-  },
-  // More ...
-]
-
 export default function Home({ posts, keyWritings, keyInitiatives }) {
-  console.log(keyInitiatives)
   return (
   <>
   <section className="lg:relative">
@@ -256,9 +215,9 @@ export default function Home({ posts, keyWritings, keyInitiatives }) {
     <div className="bg-white py-24 sm:py-32">
       <div className="mx-auto max-w-7xl px-6 lg:px-8">
         <div className="mx-auto max-w-2xl text-center">
-          <h2 className="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">Key Initiatives</h2>
+          <h2 className="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">What We're Up To</h2>
           <p className="mt-2 text-lg leading-8 text-gray-600">
-            Read about of our major initiatives.
+            Read about some of our major initiatives.
           </p>
         </div>
         <ul role="list" className="mx-auto mt-16 grid max-w-2xl grid-cols-1 sm:grid-cols-2 gap-x-12 gap-y-20 lg:mx-0 lg:max-w-none lg:grid-cols-3">
@@ -269,12 +228,42 @@ export default function Home({ posts, keyWritings, keyInitiatives }) {
       </div>
     </div>
   </section>
+
+  <section>
+    <div className="bg-white py-24 sm:py-32">
+      <div className="mx-auto max-w-7xl px-6 lg:px-8">
+        <div className="mx-auto max-w-2xl text-center">
+          <h2 className="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">Upcoming Residencies and Courses</h2>
+          <p className="mt-2 text-lg leading-8 text-gray-600">
+          </p>
+
+          <h3 className="text-2xl font-bold">
+            <a href="setting-the-world-to-rights-residency">Setting The World To Rights Residency</a>
+          </h3>
+          <p><span className="italic">April 5th - May 2nd 2023</span> with Liam Kavanagh and Victoria Wilding</p>
+          <p>This residency challenges this attitude, seeing big topic conversations as a crucial job of citizens in a democracy. It will feature emotionally aware dialogue about our societies' greatest challenges and our part in responding to them.</p>
+        </div>
+      </div>
+    </div>
+  </section>
   </>
   )
 }
 
 export async function getStaticProps() {
   const posts = await getBlogs(9)
+
+  // key initiatives are these "ids" e.g. conscious-parenting
+  // then i want to look up the initiative info from the source files
+
+  const keyWritingsPaths = [
+    "blog/2022/02/01/cultivating-an-emerging-paradigm"
+  ]
+
+  const keyInitiativesPaths = [
+    // "initiatives/blind-spot-series",
+  ]
+
   const keyWritings = await getBlogs(allBlogs.length)
     .filter(post => keyWritingsPaths?.includes(post.url_path))
 

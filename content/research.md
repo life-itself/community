@@ -34,7 +34,7 @@ We are open to all topics that have a clear connection with a wiser, weller worl
 
 [Read more below](#topics)
 
-![[Excalidraw/research-topical-map-2023-01-14.excalidraw.svg]]
+![[excalidraw/research-topical-map-2023-01-14.excalidraw.svg]]
 
 ### What principles?
 
@@ -44,6 +44,13 @@ The following principles & practices inform our approach:
 - Open-mindedness: we value wisdom and contemplative self-enquiry approaches as much as knowledge produced from traditional scientific methods.
 - Generous listening and steel-manning: we look for the best version of any view or approach. Participation is a chance to exchange with peers engaged in rich and varied ecologies of practices.
 - Integrity: we operate with honesty and treat our and each other's commitments with respect.
+
+## Projects
+
+- [[initiatives/exploring-web3-and-crypto|Exploring Web3 & Crypto]]: a year-long project to evaluate the transformative aspirations and claims made for web3 and crypto.
+- [Mapping an Emerging Ecosystem](/ecosystem): an ongoing multi-year project to map actors in a novel emerging ecosystem focused on integral, paradigmatic social change.
+- [[initiatives/collective-wisdom|Collective Wisdom and Shadows of the Enlightenment]]
+- [Open Database of Intentional Communities](https://github.com/orgs/life-itself/discussions/144): incubating project to create an open database of intentional communities.
 
 ## How to Participate
 
@@ -126,7 +133,7 @@ Within this broad area a specific and active sub-area is **ecosystem mapping and
 
 ### What topics do you work on?
 
-See above
+See above.
 
 ### Is there funding?
 
