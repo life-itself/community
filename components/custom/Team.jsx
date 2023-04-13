@@ -193,8 +193,8 @@ const alumni = [
 const allTeams = [ 
   { heading: "Our Team", data: people },
   { heading: "Pioneers", data: pioneers },
-  { heading: "Berlin Hub Residents", data: residents },
   { heading: "Bergerac Praxis Hub Residents", data: praxis },
+  { heading: "Berlin Hub Residents", data: residents },
   { heading: "Contributors", data: contributors },
   { heading: "Alumni", data: alumni },
 ]
