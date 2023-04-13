@@ -38,7 +38,7 @@ Through a series of hands-on workshop, retreat, participatory cooking, and commu
 - **Who:**  cooking activists , bodhisattvas , people interested in food in conscious co-living  communities, people curious to let themselves be in-formed by food and act from its teachings. (11 persons max) 
 - **Facilitators:** [Valérie Duvauchelle](https://en.lacuisinedelabienveillance.org/)
 - **Cost:** From 1,200 € to 1,650 €, including 3 meals a day. **Early birds: 25% off for signing before the 25th of April**.
-Prices are for 3 weeks of retreat, training, and community living. 
+Prices are for 3 weeks of retreat, training, and community living. For shorter stay please contact us.
 
 **[Learn more and apply](https://lifeitself.org/sympoiesis/conscious-food-workshop-june-2023)**
 
