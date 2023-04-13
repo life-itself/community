@@ -10,7 +10,7 @@ image: /assets/images/tenzo-note-5-image.svg
 
 I often ask myself why, in most transition spaces, where there is usually a very committed philosophy and care for food, this subject remains circumscribed to managing food in the context of abundance, without integrating the need to prepare for the reduction of food in the future.
 
-During [[upcoming-residencies-gatherings|residencies at the Praxis Hub]], our capacity to feel the suffering of the earth (ecospirituality) and our way of thinking about the world (modernism) is great, but the question of food shortage has not yet been integrated.
+During [[content/programs/index|residencies at the Praxis Hub]], our capacity to feel the suffering of the earth (ecospirituality) and our way of thinking about the world (modernism) is great, but the question of food shortage has not yet been integrated.
 
 I wonder why it seems difficult to have a collective conversation about food when climate change can be regularly raised. It seems as if we are not equipped to talk collectively about something that might be the first consequence of climate change.
 
