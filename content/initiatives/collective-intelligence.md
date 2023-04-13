@@ -1,7 +1,7 @@
 ---
 title: "Collective Intelligence"
 description: "This paper clarifies the concept of Collective Intelligence ─ the ability that allows a group to learn to take useful actions over time ─ and argues for the pre-eminence of emotional factors in group intelligence."
-image: /assets/images/Blog-Feature-Images-16.jpg
+image: /assets/images/collective-intelligence-header.png
 homepage:
 start: 2018
 end: 2019
