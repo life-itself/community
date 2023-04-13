@@ -13,7 +13,7 @@ team:
 alumni:
   - eilidhross
 size: xl
-status: dormant
+status: active
 created: 2023-03-10
 ---
 
