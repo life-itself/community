@@ -24,7 +24,7 @@ Our team consists of artists, researchers, technologists and community builders.
 
 ## Our Work
 
-Here at Life Itself, we engage in many different initiatives. Some are experiments, others stand alone works, and others are ongoing explorations. All are designed to create a wiser, weller world. [[/initiatives|Learn more about our initiatives here]]
+Here at Life Itself, we engage in many different initiatives. Some are experiments, others stand alone works, and others are ongoing explorations. All are designed to create a wiser, weller world. [Learn more about our initiatives here](https://lifeitself.org/initiatives)
 
 ### Hubs
 
