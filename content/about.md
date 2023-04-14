@@ -24,25 +24,15 @@ Our team consists of artists, researchers, technologists and community builders.
 
 ## Our Work
 
+Here at Life Itself, we engage in many different initiatives. Some are experiments, others stand alone works, and others are ongoing explorations. All are designed to create a wiser, weller world. [[/initiatives|Learn more about our initiatives here]]
+
 ### Hubs
 
 Life Itself has three co-living venues: two in Bergerac and one in Berlin. These “hubs” are central to Life Itself’s mission of bringing together value-aligned people to tackle the collective action problems that threaten our future. They exist as a living, breathing representation of Life Itself’s culture, and provide a ready-made community for those eager to make a difference. Read more about [our hubs](https://lifeitself.org/hubs/).
 
-### **Research**
+### Research
 
-The Life Itself Institute exists to answer the questions of what it means to live well and live wisely. We conduct rigorous research that is guided by the insights of ancient wisdom traditions, reintegrating lessons that have otherwise been lost in the spheres of science and policymaking. Read more about the [Institute here.](https://lifeitself.org/institute/)
-
-### The Gathering
-
-Life Itself hosts a week-long annual gathering in our Bergerac [Hubs](https://lifeitself.org/hubs/). It exists to facilitate conversation on what living wisely looks like, and has a structured programme of workshops, talks, and group activities like meditation, dance classes, and late night bonfires. Read more about [the Gathering.](https://lifeitself.org/gathering/)
-
-### Calls
-
-Life Itself hosts a number of online calls that exist to bring people together so they can collaborate and share their work in an uplifting environment. Offerings include the Get Stuff Done series, which is a daily practice designed to hold you accountable to achieving your goals, and the Creative Practice calls, which bring creatives together for one hour per week to deepen their practice. See our [current range here.](https://lifeitself.org/calls/)
-
-### Contemplative Activism
-
-Life Itself is committed to [contemplative activism](https://lifeitself.org/about-contemplative-activism/). This is the activism you’re already used to, but with a contemplative mindset: in other words, with a focus on giving wholeness its proper place in our lives, in organisations, and in society.
+Life Itself Labs is a think-tank and consultancy specialising in designing economic and governance systems to support social transformation, and delivering strategic insights into complex and unorthodox topics. Read more about [Life Itself Labs](https://labs.lifeitself.org/).
 
 ### Possibility Now
 
