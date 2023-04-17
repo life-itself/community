@@ -4,7 +4,7 @@ author: Zaib Nisa
 date: 2023-04-17
 src: https://anchor.fm/s/79b39934/podcast/play/68325403/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F79b39934%2F68325403%2Fe6383ed0cc230a483b3cd7f0d5579f8e.m4a
 image: 
-https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/staging/podcast_uploaded_episode400/20318133/20318133-1681539409254-7918fb4ef621c.jpg
+href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/20318133/20318133-1646276632327-5794d762686fd.jpg
 ---
 In this episode of the Life Itself Podcast, Rufus Pollock is joined by Dr Jeffery Martin. Jeffery is a founder of the Transformative Technology space, a serial entrepreneur, and a social scientist who researches personal transformation and the states of greatest human well-being.
 
