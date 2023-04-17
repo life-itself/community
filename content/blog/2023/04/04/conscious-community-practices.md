@@ -1,8 +1,10 @@
 ---
 title: "Practices For Conscious Communities to Thrive - Community Call with Valerie Duvauchelle"
 created: 2023-04-04
-categories: commmunity-call
-authors: nathen-fitchen
+categories: 
+  - commmunity-call
+authors: 
+  - nathen-fitchen
 image: /assets/images/valerie-community-call.svg
 ---
 
