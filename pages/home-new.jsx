@@ -261,9 +261,9 @@ export async function getStaticProps() {
   // then i want to look up the initiative info from the source files
 
   const keyWritingsPaths = [
-    "blog/2022/02/01/cultivating-an-emerging-paradigm"
-    "blog/2021/10/05/deliberately-developmental-spaces-a-key-to-addressing-the-metacrisis"
-    "blog/2020/12/21/pragmatic-utopianism"
+    "blog/2022/02/01/cultivating-an-emerging-paradigm",
+    "blog/2021/10/05/deliberately-developmental-spaces-a-key-to-addressing-the-metacrisis",
+    "blog/2020/12/21/pragmatic-utopianism",
   ]
 
   const keyInitiativesPaths = [
