@@ -241,14 +241,6 @@ export default function Home({ posts, keyWritings, keyInitiatives }) {
           <h2 className="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">Upcoming Residencies and Courses</h2>
           <p className="mt-2 text-lg leading-8 text-gray-600">
           </p>
-        // Can we make a residencies card? 
-         </div>
-        <ul role="list" className="mx-auto mt-16 grid max-w-2xl grid-cols-1 sm:grid-cols-2 gap-x-12 gap-y-20 lg:mx-0 lg:max-w-none lg:grid-cols-3">
-          {Residencies?.map((residencies) => (
-            <InitiativeCard key={initiative._id} initiative={initiative} />
-          ))}
-        </ul>
-      </div>
           <h3 className="text-2xl font-bold">
             <a href="setting-the-world-to-rights-residency">Setting The World To Rights Residency</a>
           </h3>
