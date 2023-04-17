@@ -1,8 +1,7 @@
 ---
 title: "Future Dissonance - Integrating AI and Small Farm Futures - Community Call with Stephen Reid"
 created: 2023-04-15
-authors:
-  - nathen-fitchen
+categories: community-call
 image: /assets/images/blog-feature-image-future-dissonance-integrating-ai-and-small-farm-futures.jpg
 ---
 
