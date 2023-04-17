@@ -3,8 +3,6 @@ title: "Practices For Conscious Communities to Thrive - Community Call with Vale
 created: 2023-04-04
 categories:
   - community-call
-authors:
-  - nathen-fitchen
 image: /assets/images/valerie-community-call.svg
 ---
 
