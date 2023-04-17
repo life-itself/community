@@ -65,11 +65,11 @@ During the workshop you will learn experiment:
 - A different types of satiety
 - The art of recycling
 
-### Community living
+### Community Living
 During this time  you will integrate the collective food system and createspaces  that inspires new forms of  food activities and conversations. As a new formed organism you will see how the collective embodiment of food  can activate  and inspire your creativity.
 Our time will be rhythmic by our Praxis ecology and the 4 minimal viable practices  (sitting, cooking, cleaning and regulating) and take the time to celebrate the beginning of summer, swimming in the dordogne, paddling; visiting  the Dordogne caves etc… while getting the necessary time to work. 
 
-## Daily schedule
+## Daily Schedule
 
 Here is the general frame of the 1st week:
 
@@ -89,11 +89,11 @@ The workshop will be the same hours with less sitting, then residency will be co
 [APPLY NOW](https://docs.google.com/forms/d/e/1FAIpQLSdiykDKyZR6DgtPKeYuNePy9sWc-qkIc4BVfKBRjkFWKvFp-g/viewform) please register your interest here and Valerie will quickly get back to you.
 
 
-## The Bergerac hub: a  space to explore community of practices.
+## The Bergerac hub: a  space to explore community of practices
 
 The Bergerac Hub is interested in the balance between collective sharing of community care and individual space. Exploring one's personal needs in light of those of the collective is finding the fluctuating middle ground between private and collective, solitary and group activities is the funambulist proposition we explore at the Praxis hub in Bergerac. For this we propose a dynamic framework of Praxis ecology with a structure based on 4 main practices ( sitting , cooking, cleaning and regulating) in which each group can evolve according to its proclivities.
 
-More about the hub: https://lifeitself.org/hubs/bergerac
+[More about the hub]( https://lifeitself.org/hubs/bergerac)
 
 
 ![](/assets/images/IMG_1534-1024x1024.jpeg)
@@ -110,33 +110,33 @@ Valerie is a passionate advocate for activating new ways of being in the world. 
 Her specific interest is in the application of new ways of being in community and seeks to understand the invisible evolutionary impulses that occur when we do things together. She is a Tenzo cook in the Zen tradition and through her books, programs and retreats brings the universal teachings of this tradition into conscious community living. 
 Her dedicated practice is to cultivate a posture of "being witness” in her life. She embodies the balance between deep commitment and spontaneous playfulness. Valérie is a pioneer within Life Itself and co-curator of the Bergerac Praxis Hub.
 
-Website: [La cuisine de la bienveillance.org](https://en.lacuisinedelabienveillance.org/)
+Website: [La Cuisine De La Bienveillance](https://en.lacuisinedelabienveillance.org/)
 
 She also wrote a book about the zen practice of food "the silent taste" (Actes Sud).  
 [Full bio here.](https://en.lacuisinedelabienveillance.org/les-messagers)
 
 ## Testimonials
 
-### Catherine Sengthavy, kinésithérapeute, shiatsu 
+### Catherine Sengthavy, Kinésithérapeute, Shiatsu 
 
 >The training proposed by Valerie Duvauchelle is unique and original,The strength of this teaching is to realize that questions that could be considered purely practical (how to compose a menu, what quantity, what ingredient to have) stem from a deeper personal reflection. The experience makes it possible to no longer distinguish the limits of what I think I am, the other, the others, the near and the far.
 
 ![[IMG-20210803-WA0028.jpg|200]]
 
-### Ona Maioco, vegan chef
+### Ona Maioco, Vegan Chef
 
 >My encounter with Valérie has profoundly transformed my relationship with cooking. As a fan of "flashy" seasonings, I was able to discover another way of cooking allowing listening before any "voluntarist" intervention, erasing the ego and inviting us to a new dance. It's a priceless gift in these troubled times to put cooking back at the heart of our lives and communities, the indispensable engine of our joyful sustenance…and I am so grateful.
 
 ![[th.jpeg|200]]
 
-### Sandra dao, retreat Participant, facilitator and owner of La Source
+### Sandra Dao, retreat Participant, facilitator and owner of La Source
 
 >One of the first things that touched me was the fluidity and simplicity with which everything was organized in the kitchen, in a true collaboration. Valerie was able to quickly establish a trust and sharing that was precious to me, and calling upon our own creativity.. There is something life changing about this teaching. 
 
 ![[th-1-1.jpeg|200]]
 
 
-### Tiernan Banks, poet and leader of death crash
+### Tiernan Banks, poet and leader of Death Crash
 
 >This experience has led me to reflect on: the seeming benefits/importance of (measured) hunger; the importance of variety; the importance of raw foods and balanced flavours. What has been most striking has not just been the physical benefits from this, but the meditative / calming aspects too. It is very rare that a lunch/dinner will inspire this level of reflection in me, and so that in itself speaks volumes!
 
