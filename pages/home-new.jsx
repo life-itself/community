@@ -151,7 +151,7 @@ export default function Home({ posts, keyWritings, keyInitiatives }) {
     <div className="bg-white py-24 sm:py-32">
       <div className="mx-auto max-w-7xl px-6 lg:px-8">
         <div className="mx-auto max-w-2xl text-center">
-          <h2 className="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">Key Writings</h2>
+          <h2 className="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">Key Ideas</h2>
           <p className="mt-2 text-lg leading-8 text-gray-600">
             Read some of our most essential pieces.
           </p>
@@ -206,9 +206,15 @@ export default function Home({ posts, keyWritings, keyInitiatives }) {
               </div>
             </article>
           ))}
+           <div className="mt-10 flex">
+                <a href="https://chat.whatsapp.com/JNJCTZugNQn1fq89xbHtfA" className="text-sm font-semibold leading-6 text-indigo-400">
+                  Join Here <span aria-hidden="true">&rarr;</span>
+                </a>
+    </div>
         </div>
       </div>
     </div>
+   
   </section>
 
   <section>
@@ -261,7 +267,9 @@ export async function getStaticProps() {
   ]
 
   const keyInitiativesPaths = [
-    // "initiatives/blind-spot-series",
+    // "initiatives/ecosystem",
+    // "initiatives/hubs",
+    // "initiatives/exploring-web3-and-crypto",
   ]
 
   const keyWritings = await getBlogs(allBlogs.length)
