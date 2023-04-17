@@ -206,15 +206,14 @@ export default function Home({ posts, keyWritings, keyInitiatives }) {
               </div>
             </article>
           ))}
-           <div className="mt-10 flex">
-                <a href="https://chat.whatsapp.com/JNJCTZugNQn1fq89xbHtfA" className="text-sm font-semibold leading-6 text-indigo-400">
-                  Join Here <span aria-hidden="true">&rarr;</span>
-                </a>
-    </div>
         </div>
       </div>
     </div>
-   
+    <div className="mt-10 flex">
+                <a href="https://lifeitself.org/ideas" className="text-sm font-semibold leading-6 text-indigo-400">
+                  Discover More Ideas <span aria-hidden="true">&rarr;</span>
+                </a>
+    </div>
   </section>
 
   <section>
@@ -242,7 +241,14 @@ export default function Home({ posts, keyWritings, keyInitiatives }) {
           <h2 className="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">Upcoming Residencies and Courses</h2>
           <p className="mt-2 text-lg leading-8 text-gray-600">
           </p>
-
+        // Can we make a residencies card? 
+         </div>
+        <ul role="list" className="mx-auto mt-16 grid max-w-2xl grid-cols-1 sm:grid-cols-2 gap-x-12 gap-y-20 lg:mx-0 lg:max-w-none lg:grid-cols-3">
+          {Residencies?.map((residencies) => (
+            <InitiativeCard key={initiative._id} initiative={initiative} />
+          ))}
+        </ul>
+      </div>
           <h3 className="text-2xl font-bold">
             <a href="setting-the-world-to-rights-residency">Setting The World To Rights Residency</a>
           </h3>
@@ -264,12 +270,14 @@ export async function getStaticProps() {
 
   const keyWritingsPaths = [
     "blog/2022/02/01/cultivating-an-emerging-paradigm"
+    "blog/2021/10/05/deliberately-developmental-spaces-a-key-to-addressing-the-metacrisis"
+    "blog/2020/12/21/pragmatic-utopianism"
   ]
 
   const keyInitiativesPaths = [
-    // "initiatives/ecosystem",
-    // "initiatives/hubs",
-    // "initiatives/exploring-web3-and-crypto",
+     "initiatives/ecosystem-mapping",
+     "initiatives/hubs",
+     "initiatives/exploring-web3-and-crypto",
   ]
 
   const keyWritings = await getBlogs(allBlogs.length)
