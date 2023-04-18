@@ -1,5 +1,5 @@
 ---
-title: "Conscious Food residency: Pioneering the next Food culture"
+title: "Praxis Food residency: Pioneering the next Food culture"
 created: 2023-03-04
 authors:
   - valerie
