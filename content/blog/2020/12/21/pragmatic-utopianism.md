@@ -9,16 +9,17 @@ tags:
   - pragmatic-utopianism
 authors: 
   - theo-cox
+  - rufuspollock
 image: /assets/images/Blog-Feature-Images-9.jpg
 ---
 
 Life Itself's approach to social change is [labelled](https://lifeitself.org/2017/10/20/pragmatic-utopians/) ‘Pragmatic Utopianism’. It differs from most other organisations seeking to improve society. Here, we outline the core commitments of this approach and in future pieces we will refine and flesh it out in greater detail. Whilst still at an early stage, we hope this provides a solid enough foundation for discussion and critique. 
 
-##### The Primacy of Being
+## The Primacy of Being
 
-“Being” here is shorthand for ways of being. Individual “being” is our psychological and cognitive habits and processes, and, more than that, our way of “being in the world”, the way we see the world, the way it “occurs” to us.
+"Being" here is shorthand for ways of being. Individual "being" is our psychological and cognitive habits and processes, and, more than that, our way of "being in the world", the way we see the world, the way it "occurs" to us.
 
-Collective being is “culture”: the habits of individual and collective thought in the group, the stated and unstated beliefs and values, the rituals and practices. These two forms of being of course inter-depend.
+Collective being is "culture": the habits of individual and collective thought in the group, the stated and unstated beliefs and values, the rituals and practices. These two forms of being of course inter-depend.
 
 A commitment to the primacy of being implies that being has priority over structure or technology. We, of course, acknowledge the importance of technology and institutions. However, in a context of material abundance it is a transformation of being -- at the macro cultural level as well as at the personal micro-level -- that will really make the difference: that will take us beyond the ceilings intrinsic to these other forms of collective development and into the realms of a truly utopian society (one that is radically weller and wiser than today). 
 
@@ -32,7 +33,7 @@ First, one might argue that if we had only devoted a proportion of the resource 
 
 The second claim is that, without a focus on being at their centre, any solutions to such collective action problems will not be as effective as they could, or in fact need to be. It is not that different methods (focus on being vs technology and/or structure) are differently efficient at reaching the same threshold of response adequacy, but that this threshold is in fact different. Such a claim also differs from the first argument for the primacy of being in the following manner: while the first argument holds that, even if we did manage a maximally effective technical or structuralist response to such problems, we would fall short of a utopian society as the human flourishing this entails is a matter of being, and cannot be technically or structurally secured. This argument by contrast holds that, irrespective of considerations of flourishing, without a focus on being our responses to these problems will fall short. How would this be so? The answer is that climate change and other such collective action problems have a common root, and that root is in our being. We could imagine that a flurry of investment makes viable carbon capture and storage technology readily available within the next few years, averting the worst of the climate crisis. Nonetheless this solution, while solving the problem at the superficial level, leaves us little better equipped as a collective to deal with future existential risks and collective action problems. We are then resigned to a high-stakes game of whack-a-mole, scrambling to address each such threat as it arises. To draw on a medical analogy without addressing being our responses will continue to simply address symptoms, without curing the disease. In this sense, they will never be as effective as they could be. 
 
-##### Political Ontology
+## Political Ontology
 
 The commitment to political ontology amounts at its most basic to the claim that ‘being’ and politics and fundamentally intertwined.  There are three interrelated, yet distinct senses in which we view this as being the case.
 
@@ -52,7 +53,7 @@ Yet more striking is the growing understanding of the ways in which our surround
 
 The final sense in which we view politics and ontology as interrelated is somewhat more nuanced. Being is political also in the sense that the essence of the good life is political. Remember we are using politics in the broadest possible sense here, simply as the organisation of collectives. This position of course has echoes of Rousseau and his conception of ‘civil freedom’ as democtratic self-governance, but deals explicitly with the good life and human flourishing holistically. Utopia and flourishing, on the understanding used here, are definitionally impossible without politics. Each of us having all our needs and preferences satisfied on an individual basis does not amount to a utopia. Instead, and in line with the section below on interdependence, flourishing and utopia rest on our successful interbeing with others. The pursuit of a good life is a shared, not an individual enterprise. Given this intrinsically collective component of flourishing, we cannot detach our understanding of being from how we organise ourselves together.
 
-##### Wisdom and The Suprarational
+## Wisdom and The Suprarational
 
 The Enlightenment’s privileging of rationalism as a mode of engaging with the world brought with it much welcome progress across all areas of humanity. In doing so, however, it left a legacy that has seen us throw out the proverbial baby with the bathwater when it comes to spirituality, and all modes of cognition that are beyond what rationality can tell us about the world. Whether this is interpreted in line with McGilchrist’s thesis of the left hemisphere cannibalising the right, the interior view of the Wilberian Upper-Left quadrant being rubbished by the advances of modernity and postmodernity or simply humanity losing touch with the more mystical facets of our existence, the conclusion remains the same.
 
@@ -62,13 +63,13 @@ Teachings of wisdom traditions play three interrelated roles in our thinking. Th
 
 The second is that, when attempting to make sense of the world around us, and act on this sensemaking to make decisions, we must supplement our methodological toolkit with approaches extending beyond rationality. It has long been acknowledged that humans are boundedly rational and that, given the vast and ever increasing complexity of our world, the rational processing of many economic and game theoretic models breaks down. The solution to this is not to try and keep improving our rationalistic abilities, but to also draw on processes that are not rational in nature. Examples might include using embodied approaches to engage with information, or adopting epistemologies in our models of the world which do not assume detached rationalism. 
 
-##### Interdependence and Collectivism 
+### Interdependence and Collectivism 
 
 The third major insight from wisdom traditions which lies at the core of our approach is that of interdependence and collectivism. There is a sense of ‘one-ness’ that sits at the overlap between spiritual and psychedelic experiences, and experiences of ‘the sublime’ in nature. Similarly, understandings of causation in both philosophy and physics gesture to the reality that there is little in the universe that is causally independent of anything, and therefore everything, else. Working to shed the illusion of individualist separatism is at the individual level vitally important not only for improving wellbeing, but also to facilitate effective action around collective action problems.
 
 The other consequence of this commitment is a radically different approach to tackling social problems and understanding human behaviour. In the former domain we overlap with many in the field of complexity theory by arguing that the fact of interdependence means that vertical, segmented responses to issues as discrete phenomena are hampered by their inability to take a holistic view. Again, the overlap here with the work of McGilchrist is clear to see. From medicine to the social sciences, we focus on parts rather than the whole. In doing so we neglect that the former is often more than the sum of the latter, and that we must tailor our solutions accordingly. Similarly, human behaviour and moreover human beings in their totality cannot be considered in a manner that detaches them from their social, cultural and embodied surroundings. Understanding phenomena such as knowledge and cognition require us to acknowledge the reality of our interdependence with the world around us, and to accordingly take an embedded view of human functioning. The abstractions characterising many more traditional models found in the social sciences are at best inadequate and at worst harmful to our pursuits of improving society.
 
-##### \[Radical\] Possibility \[aka Utopianism\]
+## (Radical) Possibility (aka Utopianism)
 
 As the name suggests, Pragmatic Utopianism is by nature unashamedly utopian. We hold a strong belief that a radically transformed world is possible, and that this world is capable of meeting some plausible threshold of utopia in the flourishing it affords every one of its inhabitants. To pursue true utopia need not, on this view, manifest unrealistic idealism or a toxic, dominating hegemonism. 
 
@@ -76,10 +77,10 @@ We lay claim, then, ‘utopianism’ both because of a belief that society is dr
 
 We sit apart from many others committed to ‘radical’ systemic change as the changes, and therefore world, we would hope to bring about are almost beyond the reaches of our present, socially conditioned imaginations. While ‘Fully Automated Luxury Communism’, for example, would result in a society radically different from the one we have now, it still falls within the bounds of the imaginative Overton window that exists today; we can still very much picture what a world would be like, and how it would resemble our current one. A world of transformed being, on the other hand, is far harder to conceive of. It is for this reason that we view the construction of this narrative, and the invitation of people to explore the possibility it creates, as such important work unto itself.
 
-* * *
+---
 
-https://lifeitself.org/2015/11/01/manifesto/
+## See Also
 
-https://lifeitself.org/2017/04/20/logic-of-our-purpose-and-reason-for-our-existence-scqh/
-
-https://lifeitself.org/2017/05/23/nine-theses/
+- https://lifeitself.org/2015/11/01/manifesto/
+- https://lifeitself.org/2017/04/20/logic-of-our-purpose-and-reason-for-our-existence-scqh/
+- https://lifeitself.org/2017/05/23/nine-theses/
