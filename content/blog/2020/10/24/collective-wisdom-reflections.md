@@ -1,5 +1,5 @@
 ---
-title: "Collective Wisdom - Reflections"
+title: "Collective Wisdom vs Collective Intelligence - Some Reflections"
 created: 2020-10-24
 categories: 
   - collective-wisdom
@@ -12,11 +12,11 @@ image: /assets/images/Blog-Feature-Images-7.jpg
 
 Collective wisdom is distinct from collective intelligence. Both are valuable and each can benefit the other; nevertheless they are different.
 
-**What is collective intelligence?**
+### What is collective intelligence?
 
 Collective intelligence here refers to the fact that sourcing expertise, opinions and ideas from multiple people can lead to better conclusions than would otherwise be reached. The value of collective intelligence was demonstrated by the 19th century statistician Francis Galton, who discovered that when everyone in a crowd estimated the weight of an ox, the average of those estimates was almost exactly correct. Collective intelligence was also utilised by the mining company Gold Corp when, struggling to find gold deposits in an underperforming mine, they released their geological data online and offered rewards to any analyst able to locate the deposits. Collective intelligence is being utilised when we problem-solve using more than one mind.
 
-**What then is collective wisdom?**
+### What then is collective wisdom?
 
 Collective wisdom is not yet well defined. Speculatively I would say some core, generalizable qualities that wisdom includes are: non-attachment to views, the desire and ability to listen, the ability to take feedback, self-discipline, self-knowledge and equanimity. It also involves compassion, and maybe even humour — an ability to not take yourself too seriously.
 
@@ -44,9 +44,10 @@ Finally, there are collective action problems. Here I know climate change is hap
 
 **It seems to me that the word intelligence usually refers to the ability to solve problems of science. And then wisdom would relate to our ability to deal with the latter three problems: problems of self-knowledge, self-control and collective action.**
 
-(We could expand the meaning of intelligence to encompass the ability to solve all four kinds of problems, but it’s not how we generally define intelligence and would trivialise the meaning of it).
+> [!aside]
+> We could expand the meaning of intelligence to encompass the ability to solve all four kinds of problems, but it’s not how we generally define intelligence and would trivialise the meaning of it.
 
-Our understanding of problems of self-knowledge, self-control and collective action is increasingly informed by profound neuroscientific discoveries, which echo very old ontological claims in Buddhism. For example the metaphor of the rider and the elephant is now well known in cognitive science, but it’s fairly recent in Western thought. In classic Buddhist philosophy, however, it’s long been obvious that you don’t know what you want very clearly and that you don’t necessarily do what you ‘want’ to do.
+Our understanding of problems of self-knowledge, self-control and collective action is increasingly informed by profound neuroscientific discoveries, which echo very old ontological claims in Buddhism. For example the metaphor of the rider and the elephant is now well known in cognitive science, but it’s fairly recent in Western thought. In classic Buddhist philosophy, however, it’s long been obvious that a) you don't know what you want very clearly and that b) you don’t necessarily do what you ‘want’ to do (this latter is the rider and the elephant point).
 
 Even the ‘you’ in that sentence is problematic. According to Western theory, it’s historically been obvious that there's a ‘you’, and that ‘you’ choose to do what you really want to do and that we can therefore understand what you want from observing your behaviour. But this idea of a continual, coherent self is actually very problematic.  If we introspect carefully enough we can see that this self doesn’t actually exist. At the moment, I’m trying to acknowledge this in my own life by increasingly avoiding talking about myself as an ‘I’; instead of saying “I want to watch TV”, I say “‘it’ wants to watch TV”. Creating that distance from desires — having awareness of them without identification — often leads to more freedom. Let’s say the baby kept me up last night and I was stung by a bee this morning and I’m really grumpy (a real life example!). I can just go for a walk and let my ‘it’ go a bit crazy and get over it quickly because I haven’t identified with that feeling, or I can really identify with it and start to strengthen it by complaining – “I shouldn’t have to look after the baby every night, I can’t believe that bee stung me” etc. Part of developing wisdom is seeing the mind clearly and realising that maybe there isn’t an ‘I’ at all.
 
@@ -60,9 +61,13 @@ One of the arguments I find compelling from the Buddhist tradition is that while
 
 To return to why now is a time when it is possible to establish a research program for wisdom and get it funded; we have increasing scientific evidence — for example from fMRI scans — that we can identify the neural correlates of qualities such as self-regulation, self-awareness and compassion — and that we can cultivate them.
 
-It’s only quite recently that we have had extraordinary evidence of the extent to which very small details of our realities are constructed by our minds and that fundamental aspects of our being are influenced by culture. Joseph Henrich shows in his paper ‘The Weirdest People in the World?’ that if you repeat psychological experiments with groups other than the standard WEIRD group (Western, educated participants from industrialized, rich, democratic countries) then you get very different results. It varies how much money people will offer to others in ultimatum games depending on their cultural background, for example, but there are even more extraordinary variations. Studies conducted with Western participants have observed a tendency to under-emphasise situational explanations for the behaviour of others while over-emphasising dispositional explanations, making what is known as the ‘fundamental attribution error’.  However, comparative studies with non-Western subjects demonstrate that this tendency is not universal across cultures; for example, East Asians tend to infer that behaviour is more strongly determined by situational factors and less indicative of dispositional traits than Americans do. 
+It’s only quite recently that we have had extraordinary evidence of the extent to which very small details of our realities are constructed by our minds and that fundamental aspects of our being are influenced by culture. Joseph Henrich shows in his paper ‘The Weirdest People in the World?’ that if you repeat psychological experiments with groups other than the standard WEIRD group (Western, educated participants from industrialized, rich, democratic countries) then you get very different results.
 
-There’s even evidence of cultural differences at the basic level of perception. For example, there’s a famous illusion called the Müller-Lyer illusion, which consists of arrows that are actually the same length, but appear longer or shorter to European and American observers depending on whether the ‘fins’ on the arrows point inward or outward. That result doesn’t happen in every culture. For example, the San foragers of the Kalahari desert are unaffected — to them there isn’t an illusion. There’s some debate about what causes the effect, but one theory is that it’s affected by whether someone lives in an environment with a lot of straight lines and street corners or whether they don’t encounter that architecture very much. What’s so fascinating about these studies is that they tell us that everything from fundamental things like how we relate to our interdependence to really fine-grained things about how we literally see the world are shaped by our culture.
+For example, how much money people will offer to others in ultimatum games varies substantially with their cultural background. And there are even more extraordinary variations. Studies conducted with Western participants have observed a tendency to under-emphasise situational explanations for the behaviour of others while over-emphasising dispositional explanations, making what is known as the ‘fundamental attribution error’.  However, comparative studies with non-Western subjects demonstrate that this tendency is not universal across cultures; for example, East Asians tend to infer that behaviour is more strongly determined by situational factors and less indicative of dispositional traits than Americans do. 
+
+There’s even evidence of cultural differences at the basic level of perception. For example, there’s a famous illusion called the Müller-Lyer illusion, which consists of arrows that are actually the same length, but appear longer or shorter to European and American observers depending on whether the ‘fins’ on the arrows point inward or outward. That result doesn’t happen in every culture.
+
+For example, the San foragers of the Kalahari desert are unaffected — to them there isn’t an illusion. There’s some debate about what causes the effect, but one theory is that it’s affected by whether someone lives in an environment with a lot of straight lines and street corners or whether they don’t encounter that architecture very much. What’s so fascinating about these studies is that they tell us that everything from fundamental things like how we relate to our interdependence to really fine-grained things about how we literally see the world are shaped by our culture.
 
 It’s only quite recently, in the last 30 years, that a significant body of research has emerged supporting the claim that there are different individual and collective ways of being that emerge in different contexts. Kolhberg was doing work on moral development and conceptions of self and interrelatedness in the 50s and Kegan built on his work a couple of decades later. Wilber was one of the first people to put this knowledge together systematically in the 80s, but no one really read Wilber in the 80s. Heinrich’s cultural work began in the 90s and the WEIRD paper was published in 2010. The European Values Survey has been running since the mid 80s and the European Social Survey is even more recent. But there still hasn’t been much research on _how_ these ways of being can be nurtured. Building on all this knowledge and developing greater understanding of how we can cultivate wisdom is necessary if we are to start solving urgent collective action problems such as climate change.
 
@@ -72,8 +77,6 @@ One example of a geographical area having distinct social characteristics can be
 
 In conclusion, it could be extremely valuable to study the variations in the wisdom of different societies, and to develop a greater understanding of how wisdom can be cultivated. We are living in a time of great possibility and great risk. Our wisdom does not yet appear sufficient to deal with collective action problems such as the climate crisis, and generally to guide our rapidly advancing technological capabilities such that they enhance, rather than threaten, our collective well-being. Studying how we can identify and cultivate greater wisdom personally and collectively is therefore both an important task and an urgent one. 
 
-* * *
+## See Also
 
-https://lifeitself.org/2020/10/24/collective-wisdom-reflections/
-
-https://lifeitself.org/2020/06/11/contemplative-activism-a-primer/
+- [[../../06/11/contemplative-activism-a-primer|Contemplative Activism a Primer]]
