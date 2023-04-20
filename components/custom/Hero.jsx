@@ -13,7 +13,7 @@ export default function Hero() {
               <a href="/about/" className="flex w-full items-center justify-center rounded-md border border-transparent bg-secondary px-8 py-3 text-base font-medium md:py-4 md:px-10 md:text-lg">LEARN MORE</a>
             </div>
             <div className="mt-3 rounded-md shadow sm:mt-0 sm:ml-3">
-              <a href="/upcoming-residencies-gatherings/" className="flex w-full items-center justify-center rounded-md border border-transparent bg-secondary px-8 py-3 text-base font-medium md:py-4 md:px-10 md:text-lg">JOIN A RESIDENCY</a>
+              <a href="/programs/" className="flex w-full items-center justify-center rounded-md border border-transparent bg-secondary px-8 py-3 text-base font-medium md:py-4 md:px-10 md:text-lg">JOIN A RESIDENCY</a>
             </div>
           </div>
         </div>
