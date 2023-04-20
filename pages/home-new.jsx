@@ -151,7 +151,7 @@ export default function Home({ posts, keyWritings, keyInitiatives }) {
     <div className="bg-white py-24 sm:py-32">
       <div className="mx-auto max-w-7xl px-6 lg:px-8">
         <div className="mx-auto max-w-2xl text-center">
-          <h2 className="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">Key Writings</h2>
+          <h2 className="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">Key Ideas</h2>
           <p className="mt-2 text-lg leading-8 text-gray-600">
             Read some of our most essential pieces.
           </p>
@@ -209,6 +209,11 @@ export default function Home({ posts, keyWritings, keyInitiatives }) {
         </div>
       </div>
     </div>
+    <div className="mt-10 flex">
+                <a href="https://lifeitself.org/ideas" className="text-sm font-semibold leading-6 text-indigo-400">
+                  Discover More Ideas <span aria-hidden="true">&rarr;</span>
+                </a>
+    </div>
   </section>
 
   <section>
@@ -236,7 +241,6 @@ export default function Home({ posts, keyWritings, keyInitiatives }) {
           <h2 className="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">Upcoming Residencies and Courses</h2>
           <p className="mt-2 text-lg leading-8 text-gray-600">
           </p>
-
           <h3 className="text-2xl font-bold">
             <a href="setting-the-world-to-rights-residency">Setting The World To Rights Residency</a>
           </h3>
@@ -257,11 +261,15 @@ export async function getStaticProps() {
   // then i want to look up the initiative info from the source files
 
   const keyWritingsPaths = [
-    "blog/2022/02/01/cultivating-an-emerging-paradigm"
+    "blog/2022/02/01/cultivating-an-emerging-paradigm",
+    "blog/2021/10/05/deliberately-developmental-spaces-a-key-to-addressing-the-metacrisis",
+    "blog/2020/12/21/pragmatic-utopianism",
   ]
 
   const keyInitiativesPaths = [
-    // "initiatives/blind-spot-series",
+     "initiatives/ecosystem-mapping",
+     "initiatives/hubs",
+     "initiatives/exploring-web3-and-crypto",
   ]
 
   const keyWritings = await getBlogs(allBlogs.length)
