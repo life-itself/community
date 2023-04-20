@@ -14,7 +14,7 @@ authors:
   **Where:** [[bergerac|Life Itself Praxis Hub]], Bergerac, France (near Bordeaux).
   **Who:** cooking activists , bodhisattvas , people interested in food in conscious co-living communities, people curious to let themselves be in-formed by food and act from its teachings. (11 persons max)
   **Facilitator:** [Valérie Duvauchelle](https://en.lacuisinedelabienveillance.org/)
-  **Cost:** From 1,200 € to 1,650 €, including 3 meals a day. **Early birds: 25% off for signing before the 25th of April**. Prices are for 3 weeks of retreat, training, and community living.
+  **Cost:** From 1,200 € to 1,650 €, including 3 meals a day. **Early birds: 25% off for signing before the 9th of may **. Prices are for 3 weeks of retreat, training, and consious community living.
 
 [APPLY NOW](https://docs.google.com/forms/d/e/1FAIpQLSdiykDKyZR6DgtPKeYuNePy9sWc-qkIc4BVfKBRjkFWKvFp-g/viewform)
 
