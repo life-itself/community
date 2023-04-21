@@ -29,7 +29,6 @@ The  Praxis Lab is an evolutionary research space within the Praxis Hub aimin
 
 In particular through collecting data and studying the interrelations between spaces, structures and practices, it aims to make visible how the interplay/relational  identity between individuals and their environment (space, structure, practices) shapes their emotional, spiritual and intellectual disposition. 
 
-The Ouroboros Residencies and Praxis Lab team will work together to identify, define and articulate how by focussing on the way we practice, i.e the collective “posture”, can catalyze an intentional state of receptivity, of being “in-formed” rather than, or as a premise of, being “trans-formed” into a collective field.
 
 ### How to Apply
 
