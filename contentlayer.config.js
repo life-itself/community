@@ -13,7 +13,6 @@ import smartypants from "remark-smartypants";
 import remarkToc from "remark-toc";
 import wikiLinkPlugin from "remark-wiki-link-plus";
 import mdxMermaid from 'mdx-mermaid';
-
 import { siteConfig } from "./config/siteConfig";
 
 const sharedFields = {
@@ -175,6 +174,25 @@ const Initiative = defineDocumentType(() => ({
   }
 }))
 
+const Residency = defineDocumentType(() => ({
+  name: "Residency",
+  contentType: "mdx",
+  // only includes year folders within programs
+  filePathPattern: "programs/20[2-3][0-9]/**/*.md*",
+  fields: {
+    ...sharedFields,
+    layout: { type: "string", default: "residencies" },
+    start: { type: "json" },
+    end: { type: "json" },
+    facilitators: { type: "json" },
+    location: { type: "string" },
+    cost: { type: "string" },
+    "apply-button": { type: "string" },
+    created: { type: "date" }
+  },
+  computedFields
+}))
+
 /* Ecosystem document types */
 
 const NestedUrl = defineNestedType(() => ({
@@ -276,7 +294,7 @@ export default makeSource({
     ...siteConfig.contentExclude,
   ]),
   contentDirInclude: siteConfig.contentInclude,
-  documentTypes: [Blog, Person, Podcast, Profile, Topic, Initiative, Page],
+  documentTypes: [Blog, Person, Podcast, Profile, Topic, Initiative, Residency, Page],
   mdx: {
     cwd: process.cwd(),
     remarkPlugins: [
