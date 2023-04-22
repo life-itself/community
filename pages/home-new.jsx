@@ -56,8 +56,6 @@ export default function Home({ posts, keyWritings, keyInitiatives }) {
 
   <Collaborators />
 
-  <BlogSlider posts={posts} />
-
   <section>
     <div className="bg-white px-6 py-24 sm:py-32 lg:px-8">
       <div className="mx-auto max-w-2xl text-center">
@@ -92,6 +90,7 @@ export default function Home({ posts, keyWritings, keyInitiatives }) {
   </section>
 
   <section>
+{/* Is it also possible to include the QR code somewhere in this section for people to access the whatsapp group. ![[../assets/images/whatsapp-general-chat-qr-code.png]] */}
     <div className="bg-gray-900 py-24 sm:py-32">
       <div className="relative isolate">
         <div className="mx-auto max-w-7xl sm:px-6 lg:px-8">
@@ -104,6 +103,7 @@ export default function Home({ posts, keyWritings, keyInitiatives }) {
             <div className="w-full flex-auto">
               <h2 className="text-3xl font-bold tracking-tight text-white sm:text-4xl">Join The Community</h2>
               <p className="mt-6 text-lg leading-8 text-gray-300">
+{/*Formatting here is a bit off. The bullet points and spacing does not show on the page*/}
                 Our community chat is bustling, come in and say hey! 
 
                 This is a space for you if:
@@ -114,6 +114,7 @@ export default function Home({ posts, keyWritings, keyInitiatives }) {
                 We meet online on a bi-monthly basis for deep discussions and communal gathering.
               </p>
               <div className="mt-10 flex">
+ {/* Can we make this button the same format as all others? */}
                 <a href="https://chat.whatsapp.com/JNJCTZugNQn1fq89xbHtfA" className="text-sm font-semibold leading-6 text-indigo-400">
                   Join Here <span aria-hidden="true">&rarr;</span>
                 </a>
@@ -156,6 +157,7 @@ export default function Home({ posts, keyWritings, keyInitiatives }) {
             Read some of our most essential pieces.
           </p>
         </div>
+{/* There are some formatting issues here with title leaking over the container. Also the description text contains markdown. For now this section could just be static and rather than pulling we can just insert the correct information. I would like to make new descriptions here. */}
         <div className="mx-auto mt-16 grid max-w-2xl grid-cols-1 gap-x-8 gap-y-20 lg:mx-0 lg:max-w-none lg:grid-cols-3">
           {keyWritings?.map((post) => (
             <article key={post._id} className="flex flex-col items-start justify-between">
@@ -215,6 +217,7 @@ export default function Home({ posts, keyWritings, keyInitiatives }) {
                 </a>
     </div>
   </section>
+ 
 
   <section>
     <div className="bg-white py-24 sm:py-32">
@@ -231,28 +234,41 @@ export default function Home({ posts, keyWritings, keyInitiatives }) {
           ))}
         </ul>
       </div>
+       <div className="mt-10 flex">
+                <a href="https://lifeitself.org/initiatives" className="text-sm font-semibold leading-6 text-indigo-400">
+                  See More Initiatives<span aria-hidden="true">&rarr;</span>
+                </a>
+    </div>
     </div>
   </section>
 
-  <section>
-    <div className="bg-white py-24 sm:py-32">
-      <div className="mx-auto max-w-7xl px-6 lg:px-8">
-        <div className="mx-auto max-w-2xl text-center">
-          <h2 className="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">Upcoming Residencies and Courses</h2>
-          <p className="mt-2 text-lg leading-8 text-gray-600">
-          </p>
-          <h3 className="text-2xl font-bold">
-            <a href="setting-the-world-to-rights-residency">Setting The World To Rights Residency</a>
-          </h3>
-          <p><span className="italic">April 5th - May 2nd 2023</span> with Liam Kavanagh and Victoria Wilding</p>
-          <p>This residency challenges this attitude, seeing big topic conversations as a crucial job of citizens in a democracy. It will feature emotionally aware dialogue about our societies' greatest challenges and our part in responding to them.</p>
-        </div>
-      </div>
-    </div>
-  </section>
-  </>
-  )
-}
+<BlogSlider posts={posts} />
+
+<section>
+<h2 className="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">Upcoming Residencies and Courses</h2>
+       
+{/* Use https://tailwindui.com/components/marketing/sections/blog-sections Single-column with images*/} 
+{/* Can we make it automatically add here by start date? If start date is later than current date show it, if start date is todays date remove it? */}
+
+<a href="https://lifeitself.org/programs">See all programs</a>
+
+</section>
+
+<section>
+<h2 className="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">Latests Podcasts</h2>
+
+{/* this can be the same as blog sliders, just include title, image and date created*/}
+
+<a href="https://lifeitself.org/podcast">More Episodes</a>
+</section>
+
+<section>
+<h2 className="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">Learn about a specific topic </h2>
+{/* Use https://tailwindui.com/components/marketing/sections/blog-sections Three-column with background images */}
+{/* This section should include Ecosystem, Web3, Fundamental Wellbeing for now. Make them static until this is more developed */}
+{/* Just include title and remove date and author */}
+</section>
+
 
 export async function getStaticProps() {
   const posts = await getBlogs(9)
