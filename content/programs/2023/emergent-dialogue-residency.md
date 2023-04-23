@@ -1,7 +1,7 @@
 ---
 title: "Emergent dialogue residency, July 2023"
 description: "Emergent dialogue residency follows summer training intensive with  Elizabeth Debold & Thomas Steininger. Deepen and develop your capacity to catalyze synergy and emergent potential in groups through this 10-day Summer Training Intensive. This offering is for persons familiar with Emergent Dialogue or those who have significant experience in facilitating groups. "
-image: "emergent-dialogue-header.png"
+image: "/assets/images/emergent-dialogue-header.png"
 start: "2023-07-08"
 end: "2023-07-18"
 facilitators:

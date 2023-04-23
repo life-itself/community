@@ -3,6 +3,7 @@ title: "Praxis Food residency: Pioneering the next Food culture"
 created: 2023-03-04
 authors:
   - valerie
+type: Page
 ---
 
 **09/06 - 02/07/2023** 
