@@ -10,12 +10,12 @@ type: Page
 
 ![[assets/images/food-residency-header.jpg]]
 
-> **What:** A 3 weeks residency to empower yourself by learning plant-based meal preparations which nourish mind, body and soul. Deconstruct and redefine our relationship to food and have an impact on our collective mental health. Through a series of hands-on workshop, retreat, participatory cooking, and communal living you will learn to ease food anxiety and the general scarcity mindset in us and around.
+> **What:** A 3 weeks residency to empower yourself and others  by learning conscious food practices and plant-based meal preparations which nourish mind, body and soul. This will redefine your relationship to food and have an impact on our collective mental health. Through a series of hands-on workshop, retreat, participatory cooking, and communal living you will experience how to bring peace within and around. 
   **When:** 09/06/2023 - 02/07/2023
   **Where:** [[bergerac|Life Itself Praxis Hub]], Bergerac, France (near Bordeaux).
   **Who:** cooking activists , bodhisattvas , people interested in food in conscious co-living communities, people curious to let themselves be in-formed by food and act from its teachings. (11 persons max)
   **Facilitator:** [Valérie Duvauchelle](https://en.lacuisinedelabienveillance.org/)
-  **Cost:** From 1,200 € to 1,650 €, including 3 meals a day. **Early birds: 25% off for signing before the 9th of may **. Prices are for 3 weeks of retreat, training, and consious community living.
+  **Cost:** From 1,200 € to 1,650 €, including 3 meals a day. **Early birds: 25% off for signing before the 9th of may **. Prices are for 3 weeks of retreat, training, and conscious community living.
 
 [APPLY NOW](https://docs.google.com/forms/d/e/1FAIpQLSdiykDKyZR6DgtPKeYuNePy9sWc-qkIc4BVfKBRjkFWKvFp-g/viewform)
 
@@ -87,7 +87,7 @@ Here is the general frame of the 1st week:
 
 The workshop will be the same hours with less sitting, then residency will be co designed to match the needs of this new formed organism. We will be off.
 
-[APPLY NOW](https://docs.google.com/forms/d/e/1FAIpQLSdiykDKyZR6DgtPKeYuNePy9sWc-qkIc4BVfKBRjkFWKvFp-g/viewform) please register your interest here and Valerie will quickly get back to you.
+[APPLY NOW](https://docs.google.com/forms/d/e/1FAIpQLSdiykDKyZR6DgtPKeYuNePy9sWc-qkIc4BVfKBRjkFWKvFp-g/viewform) please register your interest here and Valerie will quickly get back to you.Please mention if you want to come for a shorter stay,  we will adjust regarding availibility. 
 
 
 ## The Bergerac hub: a  space to explore community of practices
