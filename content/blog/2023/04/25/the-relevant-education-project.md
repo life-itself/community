@@ -5,7 +5,7 @@ categories:
   - "community-call"
 authors: 
   - zaibul-nisa
-image: /assets/images/posing-questions-with-alex-goodall.jpg
+image: /assets/images/posing-questions-with-alex-goodall.png
 ---
 
 >This video is part of a series of discussions carried out within the Life Itself community. To get involved please join the Life Itself [Whatsapp Chat](https://chat.whatsapp.com/JNJCTZugNQn)
