@@ -1,6 +1,7 @@
 /* eslint import/no-unresolved: off */
 import { defineDocumentType, defineNestedType, makeSource } from "contentlayer/source-files";
 import { h } from "hastscript";
+import { remark } from "remark";
 import rehypeAutolinkHeadings from "rehype-autolink-headings";
 import rehypeMathjax from "rehype-mathjax";
 import rehypePrismPlus from "rehype-prism-plus";
@@ -13,7 +14,10 @@ import smartypants from "remark-smartypants";
 import remarkToc from "remark-toc";
 import wikiLinkPlugin from "remark-wiki-link-plus";
 import mdxMermaid from 'mdx-mermaid';
+import stripMarkdown from "strip-markdown";
+
 import { siteConfig } from "./config/siteConfig";
+import { filterMarkdown } from "./lib/filterMarkdown";
 
 const sharedFields = {
   title: { type: "string" },
@@ -28,6 +32,28 @@ const sharedFields = {
 };
 
 const computedFields = {
+  description: {
+    type: "string",
+    /* eslint no-underscore-dangle: off */
+    resolve: async (doc) => {
+      // use frontmatter description if exists
+      if (doc.description) return doc.description;
+
+      const content = filterMarkdown(doc.body.raw)
+
+      // remove markdown formatting
+      const stripped = await remark()
+        .use(stripMarkdown, {
+          remove: ["heading", "blockquote", "list", "image", "html", "code"],
+        })
+        .process(content);
+
+      if (stripped.value) {
+        const description = stripped.value.toString().slice(0, 200);
+        return description + "...";
+      }
+    },
+  },
   url_path: {
     type: "string",
     /* eslint no-underscore-dangle: off */
