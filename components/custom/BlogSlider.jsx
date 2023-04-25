@@ -2,17 +2,16 @@ import { Splide, SplideSlide, SplideTrack } from "@splidejs/react-splide";
 import { formatDate } from "@/lib/formatDate.js";
 
 export default function BlogSlider ({ posts }) {
-  const slicedPosts = posts
   return (
-    <div className="relative px-6 pt-16 pb-20 lg:px-8 lg:pt-24">
-      <div className="relative mx-auto max-w-7xl space-y-4 lg:space-y-0">
+    <section className="relative px-6 pt-16 pb-20 lg:px-8 lg:py-20">
+      <div className="relative mx-auto max-w-7xl space-y-4 lg:space-y-6">
         <div className="text-center">
           <h2 className="text-3xl font-bold font-headings tracking-tight text-primary sm:text-4xl">From the blog</h2>
         </div>
         <div className="mx-auto lg:max-w-7xl lg:px-8">
           <Splide
             aria-label="From the blog"
-            tag="section"
+            tag="div"
             hasTrack={ false }
             options={{
               perPage: 1,
@@ -35,7 +34,7 @@ export default function BlogSlider ({ posts }) {
                   <path stroke-linecap="round" stroke-linejoin="round" d="M6.75 15.75L3 12m0 0l3.75-3.75M3 12h18" />
                 </svg>
               </button>
-              <a href="/blog" className="text-lg font-bold font-headings tracking-tight text-primary underline">View all posts</a>
+              {/* <a href="/blog" className="text-lg font-bold font-headings tracking-tight text-primary underline">View all posts</a> */}
               <button className="splide__arrow splide__arrow--next">
                 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="lg:w-40 h-10 lg:h-12">
                   <path stroke-linecap="round" stroke-linejoin="round" d="M17.25 8.25L21 12m0 0l-3.75 3.75M21 12H3" />
@@ -43,7 +42,7 @@ export default function BlogSlider ({ posts }) {
               </button>
             </div>
             <SplideTrack >
-              {slicedPosts?.map((post) => (
+              {posts?.map((post) => (
                 <SplideSlide key={post._id} className="p-1">
                   <div className="flex flex-col overflow-hidden rounded-lg shadow-lg">
                     <div className="flex-shrink-0">
@@ -85,6 +84,11 @@ export default function BlogSlider ({ posts }) {
           </Splide>
         </div>
       </div>
-    </div>
+      <div className="mt-16 flex justify-center">
+        <a href="/ideas" className="bg-secondary rounded py-2 px-4 text-sm font-medium text-primary">
+          View all posts&nbsp;<span aria-hidden="true">&rarr;</span>
+        </a>
+      </div>
+    </section>
   )
 }

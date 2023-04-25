@@ -5,7 +5,7 @@ categories:
   - conscious-food
 authors:
   - valerie
-image: /assets/images/tenzo-note-5-image.svg
+image: /assets/images/tenzo-note-5-image.jpeg
 ---
 
 I often ask myself why, in most transition spaces, where there is usually a very committed philosophy and care for food, this subject remains circumscribed to managing food in the context of abundance, without integrating the need to prepare for the reduction of food in the future.
