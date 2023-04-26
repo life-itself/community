@@ -10,6 +10,7 @@ export default function getResidencies() {
   }
 
   const residencies = allResidencies
+    .filter(residency => !residency.isDraft)
     .map(residency => ({
       ...residency,
       facilitators: residency.facilitators?.map(item => {
