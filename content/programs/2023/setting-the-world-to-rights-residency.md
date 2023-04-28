@@ -3,7 +3,6 @@ title: "Saving the World (Together with Everybody Else)"
 created: 2023-01-25
 authors: 
   - eilidhross
-type: Page
 ---
 
 ## *Saving the World (Together with Everybody Else)*

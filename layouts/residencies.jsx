@@ -17,6 +17,7 @@ export default function ResidencyLayout({ children, frontMatter }) {
     return name ? name : item;
   });
 
+  const frontmatterInfoExists = Object.values({ start, end, location, cost, facilitators }).some(el => el)
   const isUpcomingResidency = new Date(start) > new Date()
   
   return (
@@ -28,11 +29,11 @@ export default function ResidencyLayout({ children, frontMatter }) {
             {description}
           </div>
         </div>
-        <div className="lg:row-start-2 lg:col-start-2 sm:max-w-sm">
+        {image && <div className="lg:row-start-2 lg:col-start-2 sm:max-w-sm">
           <img alt={title} src={image} width="800" height="800" className="shadow-md rounded-2xl border" loading="lazy" />
-        </div>
-        <div className="lg:row-start-2 lg:col-start-1">
-          <div className="max-w-xs sm:max-w-none">
+        </div>}
+        {frontmatterInfoExists && <div className="lg:row-start-2 lg:col-start-1">
+          {(start || end || location || cost) && <div className="max-w-xs sm:max-w-none">
             <h2 className="text-2xl font-bold font-headings text-primary">Information</h2>
             <dl className="mt-2 px-1 divide-y divide-gray-200 border-b border-t border-gray-200">
               {start && <div className="flex justify-between py-3 text-sm font-medium">
@@ -56,8 +57,8 @@ export default function ResidencyLayout({ children, frontMatter }) {
                 </dd>
               </div>}
             </dl>
-          </div>
-          <div className="max-w-xs lg:max-w-none mt-10">
+          </div>}
+          {facilitatorsArray && <div className="max-w-xs lg:max-w-none mt-10">
             <h3 className="font-bold font-headings text-2xl text-primary">Facilitators</h3>
             <ul className="mt-2 divide-y divide-gray-200 border-b border-t border-gray-200 list-[square] list-inside">
               {facilitatorsArray?.map((person) => (
@@ -66,8 +67,8 @@ export default function ResidencyLayout({ children, frontMatter }) {
                 </li>
               ))}
             </ul>
-          </div>
-        </div>
+          </div>}
+        </div>}
         {applyButton && isUpcomingResidency && <a href={applyButton} className="text-sm font-medium bg-secondary w-fit px-4 py-2 rounded">Apply now</a>}
         <div className="docs prose prose-headings:font-headings prose-headings:w-fit prose-a:break-words lg:col-span-2">
           {children}

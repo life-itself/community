@@ -10,12 +10,13 @@ export default function getResidencies() {
   }
 
   const residencies = allResidencies
+    .filter(residency => !residency.isDraft)
     .map(residency => ({
       ...residency,
       facilitators: residency.facilitators?.map(item => {
         const name = idToNameMap[item];
         return name ? name : item;
-      })
+      }) ?? []
     }))
     .sort((a,b) => new Date(a.start) - new Date(b.start))
 

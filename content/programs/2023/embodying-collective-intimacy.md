@@ -3,7 +3,6 @@ title: "Embodying collective intimacy"
 created: 2022-09-13
 authors: 
   - valerie
-type: Page
 ---
 
 ## **10 th to 30 th April 202**3
