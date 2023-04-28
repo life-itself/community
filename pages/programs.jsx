@@ -23,20 +23,20 @@ export default function Residencies({ upcomingResidencies }) {
       </div>
       <div className="py-1">
         <h3 className="mt-8 text-2xl font-bold font-headings tracking-tight text-primary">Upcoming Residencies & Courses</h3>
-        <div className="mx-auto my-6 !pl-0 grid max-w-2xl grid-cols-1 sm:grid-cols-2 gap-x-12 gap-y-14 lg:mx-0 lg:max-w-none">
-          {upcomingResidencies.map((residency) => (
-            <article key={residency._id} className="relative isolate flex flex-col gap-8 lg:flex-col lg:justify-between">
+        <div className="my-8 space-y-20 lg:my-8 lg:space-y-16 text-primary max-w-3xl mx-auto">
+          {upcomingResidencies?.map((residency) => (
+            <article key={residency._id} className="relative isolate flex flex-col gap-8 lg:flex-row lg:items-center">
               <div className="relative sm:aspect-square lg:w-64 lg:shrink-0">
-              <img
-                src={residency.image}
-                alt={residency.title}
-                className="lg:w-64 lg:shrink-0 m-0 rounded-2xl borderabsolute inset-0 h-full w-full rounded-2xl border bg-gray-50 object-cover object-left-top"
-              />
+                <img
+                  src={residency.image}
+                  alt={residency.title}
+                  className="lg:w-64 lg:shrink-0 m-0 rounded-2xl border absolute inset-0 h-full w-full rounded-2xl border bg-gray-50 object-cover"
+                />
               </div>
               <div>
-                <div className="text-xs">
+                {residency.start && <div className="text-xs">
                   <time dateTime={residency.start}>{formatDate(residency.start)}</time>
-                </div>
+                </div>}
                 <div className="group relative max-w-xl">
                   <h3 className="mt-3 text-xl font-semibold font-headings group-hover:text-primary/80 min-h-full">
                     <Link href={residency.url_path}>
@@ -46,19 +46,21 @@ export default function Residencies({ upcomingResidencies }) {
                   </h3>
                   <p className="mt-3 text-sm line-clamp-3">{residency.description}</p>
                 </div>
-                <div className="text-sm flex flex-col my-4 pb-4 border-b gap-y-4">
-                  <div className="relative flex flex-col gap-y-2">
+                {residency.facilitators && <div className="text-sm flex flex-col gap-y-4 mt-3">
+                  <div className="relative flex items-center gap-x-2">
                     <h3 className="font-medium underline underline-offset-2 decoration-2 decoration-secondary">Facilitators:</h3>
                     <div className="flex items-center">
-                      {residency.facilitators?.map((facilitator,i) => (
+                      {residency.facilitators.map((facilitator,i) => (
                         <p key={i} className="group leading-4">
                           {facilitator}<span className="group-last:hidden">,&nbsp;</span>
                         </p>
                       ))}
                     </div>
                   </div>
-                  <Link href={residency.url_path} className="underline underline-offset-2 decoration-2 decoration-secondary">Learn more and apply&nbsp;<span aria-hidden="true">&rarr;</span></Link>
-                </div>
+                  <Link href={residency.url_path} className="underline underline-offset-2 decoration-2 decoration-secondary">
+                    Learn more and apply&nbsp;<span aria-hidden="true">&rarr;</span>
+                  </Link>
+                </div>}
               </div>
             </article>
           ))}
