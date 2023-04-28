@@ -203,8 +203,7 @@ const Initiative = defineDocumentType(() => ({
 const Residency = defineDocumentType(() => ({
   name: "Residency",
   contentType: "mdx",
-  // only includes year folders within programs
-  filePathPattern: "programs/20[2-3][0-9]/**/*.md*",
+  filePathPattern: "programs/**/*.md*",
   fields: {
     ...sharedFields,
     layout: { type: "string", default: "residencies" },

@@ -16,7 +16,7 @@ export default function getResidencies() {
       facilitators: residency.facilitators?.map(item => {
         const name = idToNameMap[item];
         return name ? name : item;
-      })
+      }) ?? []
     }))
     .sort((a,b) => new Date(a.start) - new Date(b.start))
 

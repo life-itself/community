@@ -3,7 +3,6 @@ title: "2-week Relational Embodiment Residency"
 created: 2022-09-18
 authors: 
   - liamaet
-type: Page
 ---
 
 **_From co-regulation to collective action_**
