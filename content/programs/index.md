@@ -1,6 +1,9 @@
 ---
 title: "Residencies and Courses"
+isDraft: true
 ---
+
+{/* THIS PAGE HAS BEEN MOVED TO `pages/programs` */}
 
 We are running and hosting a series of residencies and retreats that are a spiritual cooking together of various ingredients: people, practices, workshops, art, community life and actual cooking. The residences open a space, a vacuum filled by people and practices too spiritual for politics, too “political” for the monasteries, where we sit with our trouble without giving into the narrowing impulse to “save the world”.
 
