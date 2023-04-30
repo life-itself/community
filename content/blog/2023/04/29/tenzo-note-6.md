@@ -5,7 +5,7 @@ categories:
   - conscious-food
 authors: 
   - valerie
-image: /assets/images/tenzo-note-6.jpeg
+image: /assets/images/tenzo-note-6.png
 ---
 ## The Transformative Effect of Cooking Together 
 
