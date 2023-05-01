@@ -1,15 +1,24 @@
 ---
 title: "Emergent dialogue residency, July 2023"
-description: "Emergent dialogue residency follows summer training intensive with  Elizabeth Debold & Thomas Steininger. Deepen and develop your capacity to catalyze synergy and emergent potential in groups through this 10-day Summer Training Intensive. This offering is for persons familiar with Emergent Dialogue or those who have significant experience in facilitating groups. "
+description: "Emergent dialogue residency
+- 10 days intensive training course  with  Elizabeth Debold & Thomas Steininger.  Elizabeth Debold & Thomas Steininger. Deepen and develop your capacity to catalyze synergy and emergent potential in groups through this 10-day Summer Training Intensive. This offering is for persons familiar with Emergent Dialogue or those who have significant experience in facilitating groups. Attendance is by application. This training may be used as part of the certification process to become an Emergent Dialogue Catalyst.
+- 1 week praxis residency for people outside of the intensive.
+A conscious communal living  to enjoy and experience  an ecology of practices where you will be able to deepen your practice of Emergent Dialogue among the general collective practices of sitting and collective care ( cooking , cleaning , gardening)  of the Praxis hub. During this time you will be able to do personal work around 6 hours per day and discover the wonderful gifts of Bergerac ! 
+Participants from the intensive training can choose how long they want to stay after the training. 
+. "
 image: "/assets/images/emergent-dialogue-header.png"
 start: "2023-07-08"
-end: "2023-07-18"
+end: "2023-07-28"
 facilitators:
-  - "Elizabeth Debold"
-  - "Thomas Steininger"
+- "Intensive course will be guided by  Elisabeth Debold and Thomas Steininger 
+- Residency Emergent Dialogue will be hosted by  Praxis hub guardians + circles will be organized  by  an experienced Emergent Dialogue facilitator ( not yet decided)"
 location: "The Life Itself Praxis Hub, Bergerac, France"
-cost: "€ or $2,150.00 - Early bird registration until May 15: € or $ 1750.00"
-apply-button: "https://evolve-world.org/summer-2023/"
+cost: 
+- "Intensive ( 08/07 - 18/07: from 2.150 training (early bird around 20 % discount by 15th of may ) +  456 to 713 for beddings and food regarding room category) 
+- Residency ( 20/07-28/07) : from 524 to 731  euros per week including practices on boarding and food" 
+apply-button: 
+- "[Intensive course] (https://evolve-world.org/summer-2023/)
+- [Praxis residency pre-registration link](https://docs.google.com/forms/d/e/1FAIpQLSdiykDKyZR6DgtPKeYuNePy9sWc-qkIc4BVfKBRjkFWKvFp-g/viewform)"
 created: 2023-04-13
 ---
 
@@ -29,12 +38,6 @@ The  Praxis Lab is an evolutionary research space within the Praxis Hub aimin
 
 In particular through collecting data and studying the interrelations between spaces, structures and practices, it aims to make visible how the interplay/relational  identity between individuals and their environment (space, structure, practices) shapes their emotional, spiritual and intellectual disposition. 
 
-
-### How to Apply
-
-Residency Application Process:
-
-1.  A preliminary Expression of Interest is completed by participants on the Life Itself website.
-2.  The Hosting Team contacts you to discuss your participation in the residency.
-
- Apply: [Praxis residency pre-registration link](https://docs.google.com/forms/d/e/1FAIpQLSdiykDKyZR6DgtPKeYuNePy9sWc-qkIc4BVfKBRjkFWKvFp-g/viewform)
+#### How to aply 
+- "[Intensive course] (https://evolve-world.org/summer-2023/)
+- [Praxis residency pre-registration link](https://docs.google.com/forms/d/e/1FAIpQLSdiykDKyZR6DgtPKeYuNePy9sWc-qkIc4BVfKBRjkFWKvFp-g/viewform)"
