@@ -52,7 +52,7 @@ const people = [
 const pioneers = [
   {
     name: "Valerie Duvauchelle",
-    role: "Tenzo",
+    role: "Conscious Food Designer",
     bio: "Alongside being a culinary adventurer, a food activist and a tenzo (a zen cook in the Soto Zen tradition), Valerie is the Guardian of Life Itself's daily practices. She enjoys sitting in the uncertainty and is passionate about helping communities to awaken their enthusiastic collective heart through shared practice. She lives life according to her mantra: together, together, all together!",
     imageUrl: "assets/site/team/Valerie-profile.jpeg"
   },
@@ -79,7 +79,7 @@ const praxis = [
   },
   {
     name: "Valerie Duvauchelle",
-    role: "Tenzo",
+    role: "Conscious Food Designer",
     bio: "Valerie is a passionate advocate for activating new ways of being in the world. She believes that to live fully we need to allow for a radically different relationship to the world and to ourselves. Her specific interest is in the application of new ways of being in community and seeks to understand the invisible evolutionary impulses that occur when we do things together. She is a Tenzo cook in the Zen tradition and through her books, programs and retreats brings the universal teachings of this tradition into community living. She is most well known for the design and development of the Onboarding Process which bridges 20 years of learning in Zen temples with conscious community experience. Her dedicated practice is to cultivate a posture of 'being witness' in her life.  She embodies the balance between deep commitment and spontaneous playfulness.",
     imageUrl: "assets/site/team/Valerie-profile.jpeg"
   },
@@ -193,7 +193,7 @@ const alumni = [
 const allTeams = [ 
   { heading: "Our Team", data: people },
   { heading: "Pioneers", data: pioneers },
-  { heading: "Bergerac Praxis Hub Residents", data: praxis },
+  { heading: "Bergerac Praxis Hub Guardians", data: praxis },
   { heading: "Berlin Hub Residents", data: residents },
   { heading: "Contributors", data: contributors },
   { heading: "Alumni", data: alumni },

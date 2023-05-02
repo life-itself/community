@@ -31,12 +31,6 @@ The  Praxis Lab is an evolutionary research space within the Praxis Hub aimin
 
 In particular through collecting data and studying the interrelations between spaces, structures and practices, it aims to make visible how the interplay/relational  identity between individuals and their environment (space, structure, practices) shapes their emotional, spiritual and intellectual disposition. 
 
-
-### How to Apply
-
-Residency Application Process:
-
-1.  A preliminary Expression of Interest is completed by participants on the Life Itself website.
-2.  The Hosting Team contacts you to discuss your participation in the residency.
-
- Apply: [Praxis residency pre-registration link](https://docs.google.com/forms/d/e/1FAIpQLSdiykDKyZR6DgtPKeYuNePy9sWc-qkIc4BVfKBRjkFWKvFp-g/viewform)
+#### How to aply 
+- [Intensive course] (https://evolve-world.org/summer-2023/)
+- [Praxis residency pre-registration link](https://docs.google.com/forms/d/e/1FAIpQLSdiykDKyZR6DgtPKeYuNePy9sWc-qkIc4BVfKBRjkFWKvFp-g/viewform)
