@@ -12,6 +12,7 @@ location: "The Life Itself Praxis Hub, Bergerac, France"
 cost: "750 to 1350 Euros"
 apply-button: "https://docs.google.com/forms/d/e/1FAIpQLSdiykDKyZR6DgtPKeYuNePy9sWc-qkIc4BVfKBRjkFWKvFp-g/viewform"
 created: 2023-04-13
+indraft: true
 ---
 
 Our lives reflect the systems in which we are embedded. 

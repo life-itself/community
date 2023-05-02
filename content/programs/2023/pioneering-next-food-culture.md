@@ -1,7 +1,7 @@
 ---
 title: "Pioneering Next Food Culture, June 2023"
 description: "A 3 weeks residency to empower yourself by learning plant-based meal preparations which nourish mind, body and soul. Deconstruct and redefine our relationship to food and have an impact on our collective mental health."
-image: "/assets/images/food-residency-header.jpg"
+image: "/assets/images/IMG_1534-1024x1024.jpeg"
 start: "2023-06-09"
 end: "2023-07-02"
 facilitators:
