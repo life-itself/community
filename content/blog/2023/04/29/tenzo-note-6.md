@@ -71,6 +71,3 @@ And if there is a jewel it is because these three aspects cannot be dissociated.
 The community is here a systemic accelerator of what is already true individually: when we cook in consciousness when we clean in the presence or contemplate our food, it is possible to overcome the illusion of separation and to find a space allowing us to react more adequately. 
 But in a group, the effect is exponential, synergetic and naturally produces the emergence of appropriate action.  Community allows us to move out of paralyzing consideration into active compassion. We begin to receive sensitive information.
 We become human again. 
-
-
-Valerie Duvauchelle
