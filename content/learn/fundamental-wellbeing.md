@@ -45,8 +45,8 @@ Part 2: Dr Jeffery Martin on A Scientific Approach to Awakening and Fundamental 
 Part 3: Dr Jeffery Martin on A Scientific Approach to Awakening and Fundamental Wellbeing 
 
 [Lifeitself Podcast]()
-[YouTube]()
-[Spotify]()
+[YouTube](https://youtu.be/vDuh7vDgGIg)
+[Spotify](https://podcasters.spotify.com/pod/dashboard/episode/e22vp6s)
 
 ## Key readings and resources
 
