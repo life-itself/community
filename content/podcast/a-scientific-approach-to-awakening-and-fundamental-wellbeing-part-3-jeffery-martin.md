@@ -1,7 +1,7 @@
 ---
 title: "Dr Jeffery Martin on A Scientific Approach to Awakening and Fundamental Wellbeing Part 3"
 author: Rufus Pollock
-date: 2023-03-04
+date: 2023-05-04
 src: https://anchor.fm/s/79b39934/podcast/play/68325403/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F79b39934%2F68325403%2Fe6383ed0cc230a483b3cd7f0d5579f8e.m4a
 image: https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/staging/podcast_uploaded_episode400/20318133/20318133-1682684067428-83176c0339fe6.jpg
 ---
