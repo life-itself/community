@@ -7,7 +7,7 @@ authors:
   - valerie
 image: /assets/images/tenzo-note-6.jpeg
 ---
-![[tenzo-note-6.jpeg]]
+
 Living in a collective, with common activities as practised in monasteries or intentional  communities, made me understand the miracle of my human nature. The spaciousness of no longer paying attention to who I thought I was, but of reinventing myself at every moment. The miracle of feeling an inner movement that gets me up every morning. 
 
 For years that was not the case as I always believed I had to do it all by myself! 
