@@ -5,7 +5,7 @@ categories:
   - commmunity-call
 authors: 
   - nathen-fitchen
-image: /assets/images/valerie-community-call.svg
+image: /assets/images/valerie-community-call.jpeg
 ---
 
 >This video is part of a series of discussions carried out within the Life Itself community. To get involved please join the Life Itself [Whatsapp Chat](https://chat.whatsapp.com/JNJCTZugNQn)

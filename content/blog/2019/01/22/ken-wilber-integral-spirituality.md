@@ -8,12 +8,10 @@ tags:
   - ken-wilber
 authors: 
   - rufuspollock
-image: /assets/images/Blog-Feature-Images-15.png
+image: /assets/images/ken-wilber-quote.jpg
 ---
 
 Just read Integral Spirituality which is excellent. I suspect the casual writing, poor editing and poor branding (name and cover) get in the way of Wilber’s monumental achievement. It is overbrimming with insight, rich in depth and packed with structural insights into the nature of knowing and being that kept having me repeatedly going “oh yes, now that makes sense.” Once you’ve got it you never go back. Below I summarize some of the main points.
-
-![](/assets/images/ken-wilber-quote.jpg)
 
 ## Summary and Excerpts
 

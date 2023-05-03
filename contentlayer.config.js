@@ -1,6 +1,7 @@
 /* eslint import/no-unresolved: off */
 import { defineDocumentType, defineNestedType, makeSource } from "contentlayer/source-files";
 import { h } from "hastscript";
+import { remark } from "remark";
 import rehypeAutolinkHeadings from "rehype-autolink-headings";
 import rehypeMathjax from "rehype-mathjax";
 import rehypePrismPlus from "rehype-prism-plus";
@@ -13,8 +14,10 @@ import smartypants from "remark-smartypants";
 import remarkToc from "remark-toc";
 import wikiLinkPlugin from "remark-wiki-link-plus";
 import mdxMermaid from 'mdx-mermaid';
+import stripMarkdown from "strip-markdown";
 
 import { siteConfig } from "./config/siteConfig";
+import { filterMarkdown } from "./lib/filterMarkdown";
 
 const sharedFields = {
   title: { type: "string" },
@@ -29,6 +32,28 @@ const sharedFields = {
 };
 
 const computedFields = {
+  description: {
+    type: "string",
+    /* eslint no-underscore-dangle: off */
+    resolve: async (doc) => {
+      // use frontmatter description if exists
+      if (doc.description) return doc.description;
+
+      const content = filterMarkdown(doc.body.raw)
+
+      // remove markdown formatting
+      const stripped = await remark()
+        .use(stripMarkdown, {
+          remove: ["heading", "blockquote", "list", "image", "html", "code"],
+        })
+        .process(content);
+
+      if (stripped.value) {
+        const description = stripped.value.toString().slice(0, 200);
+        return description + "...";
+      }
+    },
+  },
   url_path: {
     type: "string",
     /* eslint no-underscore-dangle: off */
@@ -175,6 +200,24 @@ const Initiative = defineDocumentType(() => ({
   }
 }))
 
+const Residency = defineDocumentType(() => ({
+  name: "Residency",
+  contentType: "mdx",
+  filePathPattern: "programs/**/*.md*",
+  fields: {
+    ...sharedFields,
+    layout: { type: "string", default: "residencies" },
+    start: { type: "json" },
+    end: { type: "json" },
+    facilitators: { type: "json" },
+    location: { type: "string" },
+    cost: { type: "string" },
+    "apply-button": { type: "string" },
+    created: { type: "date" }
+  },
+  computedFields
+}))
+
 /* Ecosystem document types */
 
 const NestedUrl = defineNestedType(() => ({
@@ -276,7 +319,7 @@ export default makeSource({
     ...siteConfig.contentExclude,
   ]),
   contentDirInclude: siteConfig.contentInclude,
-  documentTypes: [Blog, Person, Podcast, Profile, Topic, Initiative, Page],
+  documentTypes: [Blog, Person, Podcast, Profile, Topic, Initiative, Residency, Page],
   mdx: {
     cwd: process.cwd(),
     remarkPlugins: [
