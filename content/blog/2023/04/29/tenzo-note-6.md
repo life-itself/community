@@ -5,10 +5,8 @@ categories:
   - conscious-food
 authors: 
   - valerie
-image: /assets/images/tenzo-note-6.jpeg
+image: /assets/images/tenzo-note-6 2.jpeg
 ---
-## The Transformative Effect of Cooking Together 
-
 
 Living in a collective, with common activities as practised in monasteries or intentional  communities, made me understand the miracle of my human nature. The spaciousness of no longer paying attention to who I thought I was, but of reinventing myself at every moment. The miracle of feeling an inner movement that gets me up every morning. 
 
@@ -73,6 +71,3 @@ And if there is a jewel it is because these three aspects cannot be dissociated.
 The community is here a systemic accelerator of what is already true individually: when we cook in consciousness when we clean in the presence or contemplate our food, it is possible to overcome the illusion of separation and to find a space allowing us to react more adequately. 
 But in a group, the effect is exponential, synergetic and naturally produces the emergence of appropriate action.  Community allows us to move out of paralyzing consideration into active compassion. We begin to receive sensitive information.
 We become human again. 
-
-
-Valerie Duvauchelle

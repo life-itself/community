@@ -1,13 +1,13 @@
 ---
 title: "Pioneering Next Food Culture, June 2023"
 description: "A 3 weeks residency to empower yourself by learning plant-based meal preparations which nourish mind, body and soul. Deconstruct and redefine our relationship to food and have an impact on our collective mental health."
-image: "/assets/images/food-residency-header.jpg"
+image: "/assets/images/IMG_1534-1024x1024.jpeg"
 start: "2023-06-09"
 end: "2023-07-02"
 facilitators:
   - valerie
 location: "The Life Itself Praxis Hub, Bergerac, France"
-cost: "From 1,200 € to 1,650 €, including 3 meals a day. **Early birds: 25% off for signing before the 25th of April**. Prices are for 3 weeks of retreat, training, and community living."
+cost: "From 1,200 € to 1,650 €, including 3 meals a day. **Early birds: 25% off for signing before the 9th of may **. Prices are for 3 weeks of retreat, training, and community living."
 apply-button: "https://docs.google.com/forms/d/e/1FAIpQLSdiykDKyZR6DgtPKeYuNePy9sWc-qkIc4BVfKBRjkFWKvFp-g/viewform"
 created: 2023-04-13
 ---

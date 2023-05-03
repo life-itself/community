@@ -1,17 +1,18 @@
 ---
 title: "Emergent dialogue residency, July 2023"
-description: "Emergent dialogue residency follows summer training intensive with  Elizabeth Debold & Thomas Steininger. Deepen and develop your capacity to catalyze synergy and emergent potential in groups through this 10-day Summer Training Intensive. This offering is for persons familiar with Emergent Dialogue or those who have significant experience in facilitating groups. "
+description: "Emergent dialogue residency follows summer training intensive.A conscious communal living to enjoy and experience an ecology of practices where you will be able to deepen your practice of Emergent Dialogue among the general collective practices of sitting and collective care (cooking, cleaning, gardening) of the Praxis hub. During this time you will be able to do personal work around 6 hours per day and discover the wonderful gifts of Bergerac!"
 image: "/assets/images/emergent-dialogue-header.png"
-start: "2023-07-08"
-end: "2023-07-18"
+start: "2023-07-20"
+end: "2023-07-28"
 facilitators:
-  - "Elizabeth Debold"
-  - "Thomas Steininger"
+  - senior emergent dialogfue faclitator 
 location: "The Life Itself Praxis Hub, Bergerac, France"
-cost: "€ or $2,150.00 - Early bird registration until May 15: € or $ 1750.00"
-apply-button: "https://evolve-world.org/summer-2023/"
-created: 2023-04-13
+cost: "From 530 to 735 euros per week practices and food included"
+apply-button: "https://docs.google.com/forms/d/e/1FAIpQLSdiykDKyZR6DgtPKeYuNePy9sWc-qkIc4BVfKBRjkFWKvFp-g/viewform"
+created: 2023-05-02
 ---
+
+**To apply for the Emergent Dialogue Intensive visit the [[emergent-dialogue-intensive| Emergent Dialogue Intensive page]]**
 
 ### The Praxis Hub
 
@@ -29,12 +30,6 @@ The  Praxis Lab is an evolutionary research space within the Praxis Hub aimin
 
 In particular through collecting data and studying the interrelations between spaces, structures and practices, it aims to make visible how the interplay/relational  identity between individuals and their environment (space, structure, practices) shapes their emotional, spiritual and intellectual disposition. 
 
-
-### How to Apply
-
-Residency Application Process:
-
-1.  A preliminary Expression of Interest is completed by participants on the Life Itself website.
-2.  The Hosting Team contacts you to discuss your participation in the residency.
-
- Apply: [Praxis residency pre-registration link](https://docs.google.com/forms/d/e/1FAIpQLSdiykDKyZR6DgtPKeYuNePy9sWc-qkIc4BVfKBRjkFWKvFp-g/viewform)
+#### How to aply 
+- [Intensive course] (https://evolve-world.org/summer-2023/)
+- [Praxis residency pre-registration link](https://docs.google.com/forms/d/e/1FAIpQLSdiykDKyZR6DgtPKeYuNePy9sWc-qkIc4BVfKBRjkFWKvFp-g/viewform)
