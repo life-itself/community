@@ -7,7 +7,9 @@ authors:
 
 Notes for a short talk I gave to introduce the [[../research|Life Itself research community]] at the first monthly forum. It covers the what and why of the research community via the metaphor of an expedition to climb distant mountains. And then provides a brief sketches for what a research program for a wiser world and an awakening society (in my view!).
 
-TODO: https://app.excalidraw.com/s/9u8crB2ZmUo/5PzEDvoP6vL
+## Visual Overview
+
+![[../excalidraw/research-community-intro-diagram-2023-04-10.excalidraw.svg]]
 
 ## Part I: we want to climb this mountain
 
