@@ -7,7 +7,7 @@ end: "2023-07-02"
 facilitators:
   - valerie
 location: "The Life Itself Praxis Hub, Bergerac, France"
-cost: "From 1,200 € to 1,650 €, including 3 meals a day. **Early birds: 25% off for signing before the 9th of may **. Prices are for 3 weeks of retreat, training, and community living."
+cost: "From 1,200 € to 1,650 €, including 3 meals a day."
 apply-button: "https://docs.google.com/forms/d/e/1FAIpQLSdiykDKyZR6DgtPKeYuNePy9sWc-qkIc4BVfKBRjkFWKvFp-g/viewform"
 created: 2023-04-13
 ---
@@ -15,6 +15,7 @@ created: 2023-04-13
 This Residency is both a practical and embodied experience incorporating the basics of the benevolent kitchen that Valerie 
 has actualised from the zen food temple practice and bridged it with permaculture, deep ecology, collective embodiment and 
 food community organization to answer accordingly the questions of our time. 
+ **Early birds: 25% off for signing before the 9th of may **. Prices are for 3 weeks of retreat, training, and community living.Shorter stay for training week only interste please contact us 
 
 ## Context
 
