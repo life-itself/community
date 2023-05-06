@@ -15,7 +15,7 @@ created: 2023-04-13
 This Residency is both a practical and embodied experience incorporating the basics of the benevolent kitchen that Valerie 
 has actualised from the zen food temple practice and bridged it with permaculture, deep ecology, collective embodiment and 
 food community organization to answer accordingly the questions of our time. 
- **Early birds: 25% off for signing before the 9th of may **. Prices are for 3 weeks of retreat, training, and community living.Shorter stay for training week only interste please contact us 
+ **Early birds: 25% off for signing before the 9th of may **. Prices are for 3 weeks of retreat, training, and community living.Shorter stay for training week only interest please contact us 
 
 ## Context
 
@@ -36,8 +36,8 @@ During the retreat  you will learn and live:
 - 6 tastes, colors and textures menus
 - Basic 3-bowl temple food cooking frame
 - 3 spirit of the (cook) practitioner
-- Canevas base for main dishes, desserts, cookies
-- Eating in 3 bowls (Oryoki) and contemplate our food 
+- neutral food 
+- Eating in Oryoki bowls and contemplate our food 
 - Understand the meaning of the Temple food menus and rituals that can inspire us in our communities 
 - Feeling the nourishment of the inbetween 
 - Being supported by deep time and lineages.
@@ -47,10 +47,7 @@ During this time you will  explore  an integrative food system  that can brings 
 During the workshop you will learn experiment: 
 - Analyze our intimate relationship to food
 - Explore the notion of personal need
-- An integrative approach to food
-- A food system meta-model awareness
 - Roles and organization in the spirited kitchen
-- An internalized scarcity syndrome
 - The cross-disciplinary exploration of the relationship to food today
 - A benevolent community cooking methodology
 - Peace of mind in the kitchen 
