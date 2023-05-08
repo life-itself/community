@@ -9,7 +9,13 @@ In this episode of the Life Itself Podcast, Rufus Pollock is joined by Dr Jeffer
 
 In this episode, Jeffery discusses Persistent Non-Symbolic Experience, more commonly referred to as Fundamental well-being. He discusses his research and key findings, and the protocols he has developed and tested to help people obtain "fundamental well-being" in a rapid, secular, and safe way. 
 
-## About Dr Jeffery Martin 
+[YouTube](https://youtu.be/0l_jrk0HTVY)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0l_jrk0HTVY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+[Spotify](https://spotifyanchor-web.app.link/e/c34gB9Bb8yb)
+
+# About Dr Jeffery Martin 
 
 For over 15 years Jeffery has conducted the largest international study on persistent non-symbolic experience (PNSE), which includes the types of consciousness commonly known as enlightenment, nonduality, the peace that passeth understanding, unitive experience, and hundreds of other terms. This resulted in the first reliable, cross-cultural and pan-tradition classification system for these types of experiences. It also led to the fundamental discovery that these were psychological states that had been identified and adopted for thousands of years by many cultures and belief systems. They were not inherently spiritual or religious, or limited to any given culture or population, and could be moulded in many ways to shape the experience. More recently, he has used this research to make systems available to help people obtain profound psychological benefits in a rapid, secular, reliable, and safe way. 
 
@@ -17,7 +23,7 @@ To learn more from Dr. Jeffery Martin, please visit:
 
 https://drjefferymartin.com/
 
-## Podcast Transcript
+# Podcast Transcript
 
 Rufus Pollock  00:05
 
