@@ -4,14 +4,12 @@ created: 2023-05-04
 categories:
   - commmunity-call
 authors:
-  - lifexitself
+  - rufuspollock
 ---
 
 This is the first in a series of monthly open meetings hosted by the [[research|Life Itself research community]]. These purpose of these calls is to provide an opportunity for newcomers to learn about the community and engage in discussions, and for community members to share updates about ongoing work and coordinate across interest groups.
 
-In this opening call, Rufus proposes an initial framework for a research agenda aligned with Life Itself’s wider purpose of paradigmatic transition. This approach is informed by the [[primacy-of-being|primacy of being]] thesis and is primarily focused on the topics of inner development and cultural evolution, with a secondary focus on systems transformation and the politics of paradigmatic change.
-
-![[excalidraw/research-topical-map-2023-01-14.excalidraw.svg]]
+In this opening call, we introduce the research community and it's "what and why" via the metaphor of an expedition to climb distant mountains. It then provides a brief sketches for what a research program for a wiser world and an awakening society would look like -- this is necessarily from a personal point of view and we emphasize that this question is an ongoing open question in the community.
 
 > You can find more detailed information about the research community—including our approach, focus topics and ongoing projects—on our [[research|overview page]].
 
@@ -24,6 +22,14 @@ These calls are open for anyone to join. If you’re interested in participating
 # Video
 
 https://www.youtube.com/watch?v=VKKUBK4J6Ho
+
+# Notes
+
+These are the notes for the short talk at the start of the monthly forum.
+
+![[../excalidraw/research-community-intro-diagram-2023-04-10.excalidraw.svg]]
+
+
 
 ## Part I: we want to climb this mountain
 
@@ -57,6 +63,8 @@ Here's one specific example that already shape our view on what paths we think a
 - Hence focus on, inner development and cultural evolution and how they relate to wisdom, wellbeing and the emergent collective
 
 ## Part II: Sketches of a research program for a wiser world and an awakening society
+
+![[../excalidraw/research-topical-map-2023-01-14.excalidraw.svg]]
 
 ### Foundations
 
