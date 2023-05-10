@@ -1,7 +1,6 @@
 ---
 title: "Calling All USA Intentional Communities: USA Road Trip in Progess"
 created: 2023-04-30
-categories: 
 authors: 
   - nathen-fitchen
 image: /assets/images/usa-road-trip.jpg
