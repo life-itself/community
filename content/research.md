@@ -58,7 +58,7 @@ We conduct our work primarily online and in the open and anyone can observe and 
 
 [forum]: https://github.com/orgs/life-itself/discussions/categories/research
 
-### Monthly Open Meeting
+### Monthly Forum
 
 We organize a monthly open meeting that anyone can join:
 
@@ -70,6 +70,8 @@ The meeting is a chance to:
 - Learn about the community and connect with others
 - Get updates on ongoing work and hear brown bag talks
 - Coordinate across interest groups and activities
+
+<iframe width="540" height="305" src="https://1ebb0834.sibforms.com/serve/MUIEANzkZYS3QyTOczcufc_LSp5XuGnHtdjBHyn66HxjFdB8aeonz_hnL8SXBdHU-XQR2Xg8YAfMoar1ic1a5zYChpetHsLMlfccRmSMbWxP8Luy-6lSn7zqqoDnR8bO6kWn5FBZMcjUt8OuvNGQedMj7361dswSjPuSMmn1apo7euOhLcx2IuUdTynUq73skdavAwCZLmyzYcna" frameborder="0" scrolling="auto" allowfullscreen style="display: block;margin-left: auto;margin-right: auto;max-width: 100%;"></iframe>
 
 ### Participation Levels
 
