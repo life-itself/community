@@ -4,11 +4,11 @@ created: 2023-04-06
 showToc: true
 ---
 
-We are a collective researching paths to an awakening society[^1]. We produce reports, papers, methods and tools.
+👋 We're researching paths to a radically wiser, weller world -- an "awakening society"[^1]. We produce reports, papers, methods and tools. We welcome participation.
 
-[^1]: An awakening society is a society oriented to awakening: personal and collective development towards greater peace, freedom, insight and wisdom. Put crudely, it prioritises **inner** growth as opposed to **outer** growth. See [[awakening-society|awakening society page]] for more.
+[^1]: An awakening society is a society oriented to awakening: personal and collective development towards greater peace, freedom, insight and wisdom. Put crudely, it prioritises **inner** growth as opposed to **outer** growth. See the [[awakening-society|awakening society page]] for more.
 
-<div className="mt-10 flex items-center justify-center gap-x-6 not-prose">
+<div className="mt-10 flex gap-x-6 not-prose">
   <a
     href="#how-to-participate"
     className="rounded-md bg-secondary px-4 py-3 font-medium text-primary shadow focus:outline-none focus:ring-2 focus:ring-primary "
@@ -22,15 +22,15 @@ We are a collective researching paths to an awakening society[^1]. We produce re
 
 ## About the Community
 
-For us, research has a broad meaning. It includes both general, systematic inquiry and sensemaking as well as more formal academic-style work.
+For us, research has a broad meaning. It includes systematic inquiry as well as more formal academic-style work.
 
 ### What topics?
 
-We are open to all topics that have a clear connection with a wiser, weller world society. However, we currently have three focus areas. These are, in order of priority:
+Any topic with a clear connection with a wiser, weller world society is welcome. At the same time, we do have the following focal areas in order of priority:
 
-- **Ontology and culturology**, i.e. the study ("science") of personal and collective development -- inner development and cultural evolution. For example, a rich literature documents the dramatic shifts in childrens' cognition, emotions and worldview as they mature, but what about the rest of our lives: are we stuck where we are or can we continue to develop and in what ways?
+- **Inner development and cultural evolution (Ontology and culturology)**: the rigorous study ("science") of personal and collective development -- inner development and cultural evolution. We are particularly interested in development through the lifespan and across cultures over time. For example, whilst a rich literature documents the growth in cognition, emotions and worldview of children, much less known about what is possible for us as adults -- can we continue to develop and in what ways?
 - **The politics of paradigmatic change**: collective action and movement building for a foundational shift in our onto-socio-economic systems. For example, how have large scale paradigmatic changes occurred in the past, for example the transition from pre-modern medieval societies to modern ones?
-- **Systems transformation**: that is, paradigmatic shifts in socio-economic (eco)systems For example, a move from a proprietary digital economy to an open one, from a carbon-based energy system to a post-carbon one, or, more generally, from capitalism to post-capitalism.
+- **Systems transformation**: major shifts in socio-economic (eco)systems. For example, the move from a proprietary digital economy to an open one, or from a carbon-based energy economy to a post-carbon one, or, from capitalism to post-capitalism.
 
 [Read more below](#topics)
 
