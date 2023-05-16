@@ -14,7 +14,7 @@ Over the past few months we have been sharing episodes centered around the theme
 
 We will be continuing our exploration of this emerging ecosystem of radical change makers in the near future, so make sure to [sign up to our mailing list](https://lifeitself.org/contact/) to be kept up to date with new episodes, event announcements and more.
 
-## [](https://lifeitself.org/blog/2022/09/29/exploring-social-transformation-series-wrap-up#exploring-social-transformation-a-series)Exploring Social Transformation: A Series
+# Exploring Social Transformation: A Series
 
 Ep. 1: [Exploring Social Transformation with Theo Cox and Eilidh Ross](https://lifeitself.org/2022/06/09/exploring-social-transformation/)
 

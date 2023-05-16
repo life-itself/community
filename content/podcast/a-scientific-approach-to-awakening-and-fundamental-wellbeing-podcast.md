@@ -6,19 +6,19 @@ src: https://anchor.fm/s/79b39934/podcast/play/63561936/https://d3ctxlq1ktw2nl.c
 image: https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/staging/podcast_uploaded_episode400/20318133/20318133-1681539409254-7918fb4ef621c.jpg
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EmsLdIH8nzU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 In this episode of the Life Itself Podcast, Rufus Pollock is joined by [Dr Jeffery Martin](https://drjefferymartin.com/). Jeffery is a founder of the Transformative Technology space, a serial entrepreneur, and a social scientist who researches personal transformation and the states of greatest human well-being.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EmsLdIH8nzU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 In this episode, Jeffery discusses Persistent Non-Symbolic Experience, more commonly referred to as Fundamental Wellbeing. He discusses his research and key findings, and the protocols he has developed and tested to help people obtain "fundamental wellbeing" in a rapid, secular, and safe way.
 
-## [](https://lifeitself.org/blog/2023/01/19/a-scientific-approach-to-awakening-and-fundamental-wellbeing#further-reading)Further Reading
+# Further Reading
 
 Free ebook summarising 45 Days to Awakening research findings: [https://smileu.finderscourse.com/How-To-Ebook?seg_id=01FKBGQRGPA66DHV1MJKVQXRQT.3464.1635695452696](https://smileu.finderscourse.com/How-To-Ebook?seg_id=01FKBGQRGPA66DHV1MJKVQXRQT.3464.1635695452696)
 
 Martin, Jeffery A. The Finders. Integration Press, 2019. [https://www.amazon.com/dp/B07MZVB816](https://www.amazon.com/dp/B07MZVB816)
 
-## [](https://lifeitself.org/blog/2023/01/19/a-scientific-approach-to-awakening-and-fundamental-wellbeing#transcript)Transcript
+# Transcript
 
 **SUMMARY KEYWORDS**
 

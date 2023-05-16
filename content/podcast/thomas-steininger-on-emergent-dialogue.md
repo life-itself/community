@@ -6,22 +6,20 @@ src: https://anchor.fm/s/79b39934/podcast/play/61870677/https%3A%2F%2Fd3ctxlq1kt
 image: https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/20318133/20318133-1670514547239-e2bc1836eb567.jpg
 ---
 
+In this episode of the Life Itself Podcast, Rufus Pollock sits down with philosopher, practitioner, and spiritual mentor, Dr. Thomas Steininger. Dr Steininger offers insights and reflections from over 30 years of spiritual practice and cultivation of emergent, co-conscious "We" spaces and practices. Rufus and Thomas explore emergent dialogue, the victories and shadow sides of individuation, and the integral and metamodern movements.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/T2MFJC6oahg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
-In this episode of the Life Itself Podcast, Rufus Pollock sits down with philosopher, practitioner, and spiritual mentor, Dr. Thomas Steininger. Dr Steininger offers insights and reflections from over 30 years of spiritual practice and cultivation of emergent, co-conscious "We" spaces and practices. Rufus and Thomas explore emergent dialogue, the victories and shadow sides of individuation, and the integral and metamodern movements.
-
-## [](https://lifeitself.org/blog/2022/12/08/thomas-steininger-on-emergent-dialogue-and-transcending-individualism#about-dr-thomas-steininger)About Dr Thomas Steininger
+# About Dr Thomas Steininger
 
 Dr. Thomas Steininger has been cultivating transformative “We Space” practices for nearly 30 years. He is a philosopher, practitioner, and spiritual mentor and has dived deeply into the practice of meditation and into an exploration of the evolution of human consciousness, particularly the current transition from a hyperindividual “I” culture to a co-conscious “We.”
 
 As an authority on cultural evolution and the different spiritual and religious currents that have formed our postmodern world, he brings this perspective into his work as publisher of [Evolve Magazin](https://www.evolve-magazin.de/), the leading German magazine on consciousness and culture and as faculty at Meridian U. in California. He also co-founded and developed a process of emergent dialogue, an advanced practice in conscious communication.
 
-## [](https://lifeitself.org/blog/2022/12/08/thomas-steininger-on-emergent-dialogue-and-transcending-individualism#about-rufus-pollock)About Rufus Pollock
+# About Rufus Pollock
 
 Rufus Pollock is an entrepreneur, activist and author as well as a long-term zen practitioner. He is passionate about finding wiser, weller ways to live together. He has founded several for-profit and nonprofit initiatives including Life Itself, Open Knowledge Foundation, and Datopian. His book Open Revolution is about making a radically freer and fairer information age. Previously he has been the Mead Fellow in Economics at the University of Cambridge as well as a Shuttleworth and Ashoka Fellow. A recognized global expert on the information society, he has worked with G7 governments, IGOs like the UN, Fortune 500s as well as many civil society organizations. He holds a PhD in Economics and a double first in Mathematics from the University of Cambridge. Find out more about his work on his website: rufuspollock.com.
 
-## [](https://lifeitself.org/blog/2022/12/08/thomas-steininger-on-emergent-dialogue-and-transcending-individualism#transcript)Transcript
+# Transcript
 
 **SUMMARY KEYWORDS**
 

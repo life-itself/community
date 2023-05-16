@@ -27,7 +27,6 @@ https://drjefferymartin.com/
 # Podcast Transcript
 
 SPEAKERS
-
 Rufus Pollock, Jeffery Martin
 
 

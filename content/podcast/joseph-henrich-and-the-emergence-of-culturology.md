@@ -11,15 +11,15 @@ image: https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode
 
 In this episode of the Life Itself Podcast, Rufus Pollock sits down with Professor Joseph Henrich to discuss the study of cultural evolution. Joe gives an insight into how the discipline has emerged and the interdisciplinary nature of the field. He discusses some examples of areas of interest within the field, such as understanding innovation and institutional evolution. Rufus and Joe finish with a brief consideration of where on the "cultural evolutionary tree" we are today, laying the ground for a potential future follow up.
 
-## [](https://lifeitself.org/blog/2022/11/25/joseph-henrich-and-the-emergence-of-a-rigorous-culturology#about-joseph-henrich)About Joseph Henrich
+# About Joseph Henrich
 
 Joe Henrich is a Professor of Human Evolutionary Biology at Harvard University. He is author of several books, most recently 'The Weirdest People in the World' and 'The Secret of Our Success'. His research focuses on evolutionary approaches to psychology, decision-making and culture, and includes topics related to cultural learning, cultural evolution, culture-gene coevolution, human sociality, prestige, leadership, large-scale cooperation, religion and the emergence of complex human institutions.
 
-## [](https://lifeitself.org/blog/2022/11/25/joseph-henrich-and-the-emergence-of-a-rigorous-culturology#about-rufus-pollock)About Rufus Pollock
+# About Rufus Pollock
 
 Rufus Pollock is an entrepreneur, activist and author. He has founded several for-profit and nonprofit initiatives including Life Itself, Open Knowledge Foundation, and Datopian. His book Open Revolution is about making a radically freer and fairer information age. Previously he has been the Mead Fellow in Economics at the University of Cambridge as well as a Shuttleworth and Ashoka Fellow. A recognized global expert on the information society, he has worked with G7 governments, IGOs like the UN, Fortune 500s as well as many civil society organizations. He holds a PhD in Economics and a double first in Mathematics from the University of Cambridge. Find out more about his work on his website: [rufuspollock.com](https://rufuspollock.com/).
 
-## [](https://lifeitself.org/blog/2022/11/25/joseph-henrich-and-the-emergence-of-a-rigorous-culturology#transcript)Transcript
+# Transcript
 
 **SUMMARY KEYWORDS**
 
