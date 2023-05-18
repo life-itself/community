@@ -7,6 +7,7 @@ image: https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode
 ---
 
 In this episode of the Life Itself Podcast, Rufus Pollock sits down with philosopher, practitioner, and spiritual mentor, Dr. Thomas Steininger. Dr Steininger offers insights and reflections from over 30 years of spiritual practice and cultivation of emergent, co-conscious "We" spaces and practices. Rufus and Thomas explore emergent dialogue, the victories and shadow sides of individuation, and the integral and metamodern movements.
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/T2MFJC6oahg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # About Dr Thomas Steininger
