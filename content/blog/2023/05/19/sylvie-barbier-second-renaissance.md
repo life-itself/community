@@ -1,6 +1,6 @@
 ---
 title: "Upcoming Community Call: Second Renaissance with Sylvie Barbier"
-created: 2023-04-30
+created: 2023-05-19
 authors: 
   - nathen-fitchen
 image: /assets/images/sylvie-community-call.jpg
