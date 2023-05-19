@@ -1,5 +1,6 @@
 ---
 title: "Announcing the first Life Itself Research Hackathon"
+image: /excalidraw/research-topical-map-2023-01-14.excalidraw.svg
 created: 2023-05-17
 categories: 
   - research-community
