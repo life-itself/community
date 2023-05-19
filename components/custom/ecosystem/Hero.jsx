@@ -1,7 +1,28 @@
-// import Link from 'next/link';
-// import { siteConfig as config } from '../../config/siteConfig';
+import { useEffect, useRef } from "react";
+import Typed from "typed.js";
 
 export default function Hero() {
+  const el = useRef(null)
+
+  useEffect(() => {
+    const typed = new Typed(el.current, {
+      strings: [
+        "Mapping an<br class='sm:hidden'/> Emerging Ecosystem",
+        "Metamodern<br class='sm:hidden'/> Ecosystem"
+      ],
+      typeSpeed: 45,
+      backDelay: 1500,
+      showCursor: false,
+      fadeOut: true,
+      fadeOutDelay: 350,
+      loop: true,
+      bindInputFocusEvents: true,
+    });
+    return () => {
+      typed.destroy();
+    };
+  },[])
+  
 	return (
 		<div className="relative bg-gray-50 overflow-hidden">
 			<div
@@ -78,9 +99,8 @@ export default function Hero() {
 			<div className="relative pt-6 pb-16 sm:pb-24">
 				<main className="mt-16 mx-auto max-w-7xl px-4 sm:mt-24">
 					<div className="text-center">
-						<h1 className="text-4xl tracking-tight font-extrabold text-gray-900 sm:text-5xl md:text-6xl">
-							{/* <span className="block xl:inline">{config.title}</span> */}
-							<span className="block xl:inline">Mapping an Emerging Ecosystem</span>
+						<h1 className="h-28 lg:h-14 text-4xl tracking-tight font-extrabold text-gray-900 sm:text-5xl md:text-6xl">
+							<span ref={el} className="mx-auto w-fit min-[375px]:min-w-max sm:w-auto flex sm:inline" />
 						</h1>
 						<h2 className="mt-3 max-w-md mx-auto text-base text-gray-500 sm:text-lg md:mt-5 md:text-xl md:max-w-3xl">
 							{/* {config.tagline} */}
