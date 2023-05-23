@@ -1,7 +1,7 @@
 ---
 title: "Emergent dialogue residency, July 2023"
-description: "Emergent dialogue residency follows summer training intensive.A conscious communal living to enjoy and experience an ecology of practices where you will be able to deepen your practice of Emergent Dialogue among the general collective practices of sitting and collective care (cooking, cleaning, gardening) of the Praxis hub. During this time you will be able to do personal work around 6 hours per day and discover the wonderful gifts of Bergerac!"
-image: "/assets/images/emergent-dialogue-header.png"
+description: "Emergent dialogue Praxis residency follows summer training intensive.A conscious communal living to enjoy and experience an ecology of practices where you will be able to deepen your practice of Emergent Dialogue among the general collective practices of sitting and collective care (sitting. cooking, cleaning, gardening together ) of the Praxis hub. During this time you will be able to do personal work around 6 hours per day and discover the wonderful gifts of Bergerac!"
+image: "/"
 start: "2023-07-20"
 end: "2023-07-28"
 facilitators:
@@ -32,4 +32,4 @@ In particular through collecting data and studying the interrelations between sp
 
 #### How to aply 
 - [Intensive course] (https://evolve-world.org/summer-2023/)
-- [Praxis residency pre-registration link](https://docs.google.com/forms/d/e/1FAIpQLSdiykDKyZR6DgtPKeYuNePy9sWc-qkIc4BVfKBRjkFWKvFp-g/viewform)
+- [Emergent dialogue Praxis residency pre-registration link](https://docs.google.com/forms/d/e/1FAIpQLSdiykDKyZR6DgtPKeYuNePy9sWc-qkIc4BVfKBRjkFWKvFp-g/viewform)
