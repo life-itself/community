@@ -1,0 +1,25 @@
+---
+title: "Theo's Farewell"
+created: 2023-04-27
+categories: 
+  - team
+authors: 
+  - theo-cox
+image: /assets/images/theos-farewell-feature-image.jpg
+---
+
+Saying goodbye is rarely easy. And the more meaning and more memories carried by what you leave behind, the harder it gets. Given that, I imagine I’ll struggle to do justice to my time at Life Itself in just this blog, but I’ll do my best.
+
+As a brief summary of the headline, I’ll soon be departing to join Demos Helsinki–close friends of ours here at Life Itself for many years–as a Senior Expert on their Emancipatory Economy team. This is an announcement that carries decidedly mixed feelings for me. The choice to go wasn’t an easy one by any stretch; at this young stage of my life it simply came down to an opportunity and an adventure–not least a move to Helsinki itself–that felt too important to let pass me by. 
+  
+Despite my excitement for this next chapter I’m also heavy hearted. I know it’s the done thing when you move on from a workplace to say nice things about what you’ve gained, pay your former colleagues the requisite compliments and offer them [thanks for all the fish](https://www.youtube.com/watch?v=2v2CNGiK7sQ), but I can honestly say that my time at Life Itself has changed my life to the extent that I’m confident that I’ll look back on this as one of those milestones that divides things into a “before” and an “after”. If that sounds so overly gushing and effusive as to be implausible then I can only apologize, but it’s the truth. 
+
+What other job gives you the opportunity to go and live in an intentional community for 6 months when you start? Or to spend an entire month in a transformational residency learning a whole range of therapeutic and communicative techniques? Life Itself has given me more than a job, it’s given me the space to grow as a human being and explore the depths of who I am and how I process the world. My time here has provided me with some of the most profound developmental experiences of my life. I’d bet good money that there aren’t many people who can say that in their goodbyes and really mean it.
+
+I’d also be remiss if I didn’t mention the incredible people I’ve had the privilege of meeting during my time here. A former Life Itself colleague once commented that they had never met so many people who were genuinely up to something. That definitely rings true. I’ve met some incredible people during my time here, from countries all over the world and with perspectives and capacities and expertise which have time and again challenged my thinking and beliefs in truly enriching ways.
+
+It’s funny to think that when I first set foot in the Bergerac Hub I was a hardcore effective altruist with an ethics based almost entirely around a calculating consequentialism. Suffice to say a lot has changed since then, and I give all the credit to the mind expanding exchanges I’ve had over the last two and a half years, around everything from Buddhism to complexity to imagination and compassion. There are too many names to count so instead I’ll offer my wholehearted thanks to anyone and everyone I’ve met and spoken to during my time here, each and everyone one of you has touched my life in ways you’ll probably never know. 
+
+In all this diversity, though, the thing that has stood out to me the most has been a single, unifying characteristic. Whatever their perspective or the specific ways they spent their days, everyone I’ve met has lived their lives in accordance with a deep seated commitment to making positive change in the world. All of them. Devoting yourself to making a difference can be lonely sometimes. It’s a path that’s based fundamentally on not seeing things in the same way as most people, and a willingness to make sacrifices due to that difference in perspective. Some days, stepping out into a society structured so antithetically to your beliefs can make you think that maybe you’re the one that’s gone mad. Perhaps the thing I’m most grateful for from my time in Life Itself, is that every day I’ve been surrounded by amazing people who all share the same basic commitment as me: that a meaningful life is one of service. We might sometimes disagree on the details, but the profundity of that connection alone has been worth more than I can put into words. I really don’t know where I’d be without it.
+
+Despite all my emotion this isn’t totally the end. I’ll remain an associate and advisor to Life Itself Labs, not to mention remaining, I’m sure, in Life Itself’s general orbit from the strength of the friendships I’ve made here alone. But in this time of transition I can’t help but reflect fondly on the magic of the time I’ve had here. It might sound corny but it’s been so much more than a job. You might even say that it’s touched the core of my life itself.

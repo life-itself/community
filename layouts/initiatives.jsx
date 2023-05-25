@@ -4,7 +4,7 @@ import allPersons from "../.contentlayer/generated/Person/_index.json";
 import { formatDate } from "@/lib/formatDate.js";
 
 export default function InitiativeLayout({ children, frontMatter }) {
-  const { title, image, description, homepage, status, team, alumni, created } = frontMatter;
+  const { title, image, description, homepage, status, team, alumni, start, end } = frontMatter;
   
   const homepageUrl = homepage?.startsWith("http") ? homepage : `https://lifeitself.org/initiatives${homepage}`
   const contributors = allPersons.filter(person => team.concat(alumni).includes(person.id))
@@ -31,9 +31,13 @@ export default function InitiativeLayout({ children, frontMatter }) {
                   <a href={homepageUrl} className="underline hover:text-indigo-600">{homepageUrl}</a>
                 </dd>
               </div>}
-              {created && <div className="flex justify-between py-3 text-sm font-medium">
-                <dt className="text-gray-500">Created on</dt>
-                <dd className="whitespace-nowrap text-primary">{formatDate(created)}</dd>
+              {start && <div className="flex justify-between py-3 text-sm font-medium">
+                <dt className="text-gray-500">Start date</dt>
+                <dd className="whitespace-nowrap text-primary">{formatDate(start)}</dd>
+              </div>}
+              {end && <div className="flex justify-between py-3 text-sm font-medium">
+                <dt className="text-gray-500">End Date</dt>
+                <dd className="whitespace-nowrap text-primary">{formatDate(end)}</dd>
               </div>}
               {status && <div className="flex items-center justify-between py-3 text-sm font-medium">
                 <dt className="text-gray-500">Status</dt>
