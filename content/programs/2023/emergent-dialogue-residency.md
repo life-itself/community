@@ -1,11 +1,11 @@
 ---
 title: "Emergent Dialogue Residency, July 2023"
 description: "Emergent Dialogue Praxis residency follows summer training intensive. A conscious communal living to enjoy and experience an ecology of practices where you will be able to deepen your practice of Emergent Dialogue among the general collective practices of sitting and collective care (sitting. cooking, cleaning, gardening together ) of the Praxis hub. During this time you will be able to do personal work around 6 hours per day and discover the wonderful gifts of Bergerac!"
-image: "/asset/images/emergent-dialogue-residency.jpeg"
+image: "/assets/images/emergent-dialogue-residency.jpeg"
 start: "2023-07-20"
 end: "2023-07-28"
 facilitators:
-  - Senior Emergent Dialogue Facilitator 
+  - Senior Emergent Dialogue Facilitator 
 location: "The Life Itself Praxis Hub, Bergerac, France"
 cost: "From 530 to 735 euros per week practices and food included"
 apply-button: "https://docs.google.com/forms/d/e/1FAIpQLSdiykDKyZR6DgtPKeYuNePy9sWc-qkIc4BVfKBRjkFWKvFp-g/viewform"
