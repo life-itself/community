@@ -7,7 +7,7 @@ end: "2023-07-28"
 facilitator:
   - Praxis guardians 
 location: "The Life Itself Praxis Hub, Bergerac, France"
-cost: "From 530 to 735 euros per week practices and food included" (3 days stay min- arrival time 6.30pm)
+cost: "From 530 to 735 euros per week practices and food included (3 days stay min- arrival time 6.30pm)"
 apply-button: "https://docs.google.com/forms/d/e/1FAIpQLSdiykDKyZR6DgtPKeYuNePy9sWc-qkIc4BVfKBRjkFWKvFp-g/viewform"
 created: 2023-05-02
 ---
