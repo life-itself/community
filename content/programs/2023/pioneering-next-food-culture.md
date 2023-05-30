@@ -1,6 +1,6 @@
 ---
 title: "Pioneering Next Food Culture, June 2023"
-description: "A 3 weeks residency to empower yourself by learning plant-based meal preparations which nourish mind, body and soul. Deconstruct and redefine our relationship to food and have an impact on our collective mental health."
+description: "A 3 weeks residency to empower yourself by learning plant-based meal preparations which nourish mind, body and soul. Deconstruct and redefine our relationship to food and have an impact on our collective mental health and global food system."
 image: "/assets/images/IMG_1534-1024x1024.jpeg"
 start: "2023-06-09"
 end: "2023-07-02"
@@ -14,8 +14,8 @@ created: 2023-04-13
 
 This Residency is both a practical and embodied experience incorporating the basics of the benevolent kitchen that Valerie 
 has actualised from the zen food temple practice and bridged it with permaculture, deep ecology, collective embodiment and 
-food community organization to answer accordingly the questions of our time. 
- **Early birds: 25% off for signing before the 9th of may **. Prices are for 3 weeks of retreat, training, and community living.Shorter stay for training week only interest please contact us 
+food community organization to answer accordingly the challenges  of our time. 
+Prices are for 3 weeks of retreat, training, and community living. Shorter stay for training week only is possible . If  interest but in  financial strech  please contact us. 
 
 ## Context
 
@@ -30,30 +30,25 @@ During this residency you will experience a broader food territory and develop y
 
 ### Retreat
 Starting with 3 days of deep time grounding to explore how we can cook our life to better nourish the world.
-During the retreat  you will learn and live: 
+During the retreat  you will experience ancient zen food practice: 
 
 - The posture of receiving 
 - 6 tastes, colors and textures menus
-- Basic 3-bowl temple food cooking frame
-- 3 spirit of the (cook) practitioner
-- neutral food 
-- Eating in Oryoki bowls and contemplate our food 
-- Understand the meaning of the Temple food menus and rituals that can inspire us in our communities 
+- Basic 3-bowl temple food cooking frame 
 - Feeling the nourishment of the inbetween 
-- Being supported by deep time and lineages.
+- 5 contemplations 
+- shared silence with O ryoki ( 3 bowls) 
 
 ### Workshop
-During this time you will  explore  an integrative food system  that can brings  a deep sense of body mind nourishment from plant based menus to your community.
+During this time you will  explore how to bridge this ancient tradition to consious food practuce in  an integrative food system  that can brings  a deep sense of body mind nourishment from plant based menus for yourself and your community.
 During the workshop you will learn experiment: 
 - Analyze our intimate relationship to food
-- Explore the notion of personal need
 - Roles and organization in the spirited kitchen
 - The cross-disciplinary exploration of the relationship to food today
 - A benevolent community cooking methodology
 - Peace of mind in the kitchen 
 - Practice of the situation
-- A way to compose balanced, gourmet vegan menus
-- An inclusive self-perception
+- A way to compose balanced, gourmet plant based  menus
 - A different types of satiety
 - The art of recycling
 
@@ -64,19 +59,23 @@ Our time will be rhythmic by our Praxis ecology and the 4 minimal viable practic
 ## Daily schedule
 
 Here is the general frame of the 1st week:
-
-- 7h30: posture awakening 
-- 8h00: just sitting meditation 
-- 8h30: free breakfast
+- 7h00:   posture awakening ( during retreat) 
+- 7h30: just sitting meditation 
+- 8h10: free breakfast
 - 10h00: cooking
-- 12h30: lunch in silence and cleaning
+- 12h30: silent lunch and cleaning
+- 14h00: integrative space where questions will be contemplate 
 - 16h30: just sitting 30 mn (during retreat) 
 - 17h00: cooking
 - 18h30: dinner and cleaning
 - 19h30: 3 min sharings in pairs
 - 20h45: just sitting meditation (30 mn) (only during retreat) 
 
-The workshop will be the same hours with less sitting, then residency will be co designed to match the needs of this new formed organism. We will be off.
+The workshop will be the same hours with only 1 morning  sitting. 
+Residential time will be regular Praxis frame with cooking at 11h30 and 17h30 including Food Lab process ( deshydratation, lacto fermentation and maybe koji) . 
+Residencial time will  leaves 5 hours for your own work per day . 
+Evenings will be  emergent propositions. 
+WE will be off with the possibility to go to Plum village. 
 
 [APPLY NOW](https://docs.google.com/forms/d/e/1FAIpQLSdiykDKyZR6DgtPKeYuNePy9sWc-qkIc4BVfKBRjkFWKvFp-g/viewform) please register your interest here and Valerie will quickly get back to you.
 
