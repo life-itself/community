@@ -4,8 +4,8 @@ description: "A conscious communal living to enjoy and experience an ecology of 
 image: "/assets/images/emergent-dialogue-residency.jpeg"
 start: "2023-07-20"
 end: "2023-07-28"
-Praxis guardians:
-  - Valerie Duvauchelle - Marc Santolini - Liuba Tupikina
+facilitators:
+  - Praxis guardians 
 location: "The Life Itself Praxis Hub, Bergerac, France"
 cost: "From 530 to 735 euros per week practices and food included" (3 days stay min- arrival time 6.30pm)
 apply-button: "https://docs.google.com/forms/d/e/1FAIpQLSdiykDKyZR6DgtPKeYuNePy9sWc-qkIc4BVfKBRjkFWKvFp-g/viewform"
