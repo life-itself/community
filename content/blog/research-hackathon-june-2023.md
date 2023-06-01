@@ -9,11 +9,11 @@ authors:
 description: The first Life Itself Research Hackathon takes on on Saturday 3rd June 2023. It's is a chance to come together to work on projects and ideas connected with making a radically wiser, weller world.
 ---
 
-We are excited to announce the first **Life Itself Research Hackathon**. It will take place on Saturday 3rd June 2023 ([what's a hackathon?](#what-is-a-hackathon)). This is a chance to come together to work on projects and ideas connected with the [[../../../../research|Life Itself Research Community]].
+We are excited to announce the first **Life Itself Research Hackathon**, a chance to come together to work on projects and ideas connected with the [[../../../../research|Life Itself Research Community]]. It will take place on Saturday 3rd June 2023 ([what's a hackathon?](#what-is-a-hackathon)).
 
-Our focus for the hackathon is prototyping introductory reading lists, curricula and knowledge maps for the key ideas and concepts related to bringing forth a radically wiser, weller world 🌍 -- [read more below 👇](#theme-for-the-hackathon).
+Our focus will be **prototyping introductory reading lists, curricula and knowledge maps** for the key ideas and concepts related to bringing forth a radically wiser, weller world 🌍 -- [read more below 👇](#theme-for-the-hackathon).
 
-This is a free event open to all and you can join online -- or in person if you want to come to our [[../../../../hubs/bergerac|Bergerac Hub]]. If you're interested to participate, fill out the registration form linked below and we'll reach out with more details.
+This is a free event open to all and you can join online -- or in person if you want to come to our [[../../../../hubs/bergerac|Bergerac Hub]]. If you're interested, fill out the registration form:
 
 <div className="mt-10 flex gap-x-6 not-prose">
   <a
@@ -28,21 +28,23 @@ This is a free event open to all and you can join online -- or in person if you 
 
 - **What**: Have fun creating together around theme of research for a radically wiser, weller world. Note: you can work on any project you like including your own personal one.
 - **When**: Saturday 3rd June 2023
-- **Where**: Online (zoom) and at the [Bergerac Hub](https://lifeitself.org/hubs/bergerac)
+- **Where**: Online on [zoom][] and at the [Bergerac Hub](https://lifeitself.org/hubs/bergerac)
 - **Who**: All welcome!
 - **Register**: [register here with google forms](https://forms.gle/2CxPj5xg7daoshRm6)
 - **Schedule**: 0930-1800 CET. Full schedule below. Note you can drop in for only a part of the day.
 - **More questions?** See [FAQs](#faqs) below
 
+[zoom]: https://us02web.zoom.us/j/87632550558?pwd=a3NSR1JFNHkxNkdmK2xyUVVaQ0ZtQT09
+
 ### Theme for the hackathon
 
-Our focus for the hackathon is prototyping introductory reading lists, curricula and knowledge maps for the key ideas and concepts related to making a radically wiser, weller world 🌍.
+This hackathon focuses on prototyping introductory reading lists, curricula and knowledge maps for the key ideas and concepts related to making a radically wiser, weller world 🌍.
 
-You are welcome to join and help out with these or you can bring your own ideas for projects that are connected with any of the broader [Life Itself Research Community topics](https://lifeitself.org/research#topics).
+You are also welcome to bring your own ideas and projects connected with our broader [research community topics](https://lifeitself.org/research#topics).
 
 ### Reading lists and curricula
 
-One particular idea is creating [[../../../../notes/reading-lists-hackathon-project|reading-lists-hackathon-project|simple reading lists for key ideas and background]] in our emerging field.
+We want to create [[../../../../notes/reading-lists-hackathon-project|reading-lists-hackathon-project|simple reading lists for key ideas and background]] in our emerging field.
 
 The goal is to help direct people towards high quality learning resources around particular topic areas. e.g. answering questions such as "How can I learn about topic X as a newcomer?" and "What are the canonical texts for topic X?".
 
