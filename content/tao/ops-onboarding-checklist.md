@@ -81,13 +81,10 @@ Next, scroll down for more detail on completing the steps.
 * [ ] Contract signed
 * [ ] PDF created and sent to Onboardee
 * [ ] GSuite email created
-* [ ] ~~Add to all-team@lifeitself.us and other email groups as appropriate~~ (Automatic)
 * [ ] Email sent to welcome onboardee
 * [ ] Invite sent to welcome call
-* [ ] Invite to daily standup on Google calendar
-* [ ] Add to appropriate GChat channels
+* [ ] Add to appropriate WhatsApp channels
 * [ ] Invite to Xero and add bank details
-* [ ] Invite to Wordpress
 * [ ] Add to Life Itself on Github once the Onboardee has created a GitHub account
 * [ ] Welcome/Onboarding call complete
 * [ ] Welcomed to the team on standup
