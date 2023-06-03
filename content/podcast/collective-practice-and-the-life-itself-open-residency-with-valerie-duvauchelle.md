@@ -1,5 +1,5 @@
 ---
-title: Collective Practice and the Life Itself Open Residency with Valérie Duvauchelle
+title: "Collective Practice and the Life Itself Open Residency with Valérie Duvauchelle"
 author: Rufus Pollock
 date: 2022-06-14
 src: https://anchor.fm/s/79b39934/podcast/play/53485695/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F79b39934%2F53485695%2F24da0f373195fbf338804a952df0d851.m4a
@@ -7,5 +7,9 @@ image: https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode
 ---
 
 In the third episode of our Exploring Social Transformation series, Eilidh Ross sits down with Life Itself Pioneer, Valérie Duvauchelle. Valérie discusses the value collective practice brings to a community and tells us what we can expect from the upcoming Open Residency at the Life Itself Bergerac hub. Valérie also offers some insight into individual activation and its central position in social transformation.
+
+## The Conversation
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o1ROvFNrX0k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 To learn more about the upcoming Open Residency and to apply head over to https://lifeitself.us/open-residency/

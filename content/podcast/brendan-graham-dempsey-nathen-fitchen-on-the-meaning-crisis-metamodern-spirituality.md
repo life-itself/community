@@ -1,6 +1,6 @@
 ---
-title: Brendan Graham Dempsey & Nathen Fitchen on The Meaning Crisis &
-  Metamodern Spirituality
+title: "Brendan Graham Dempsey & Nathen Fitchen on The Meaning Crisis &
+  Metamodern Spirituality"
 author: Rufus Pollock
 date: 2022-06-21
 src: https://anchor.fm/s/79b39934/podcast/play/53631989/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F79b39934%2F53631989%2F7f91bf84cad85fb9ee22225ecd8593c9.m4a
@@ -9,7 +9,9 @@ image: https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode
 
 In the fourth episode of our Exploring Social Transformation series, [Nathen Fitchen](http://www.nathenfitchen.com) and [Brendan Graham Dempsey](https://www.brendangrahamdempsey.com/) discuss the rise of the meaning crisis, how it has perpetuated throughout the world and its symbiotic nature to the environmental crisis and other crises we face today.
 
-https://www.youtube.com/watch?v=5LXSPZe9SbY
+## The Conversation 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5LXSPZe9SbY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Nathen and Brendan unpack a potential antidote to the meaning crisis, metamodern spirituality. Through identifying the core characteristics of metamodern thinking and how one might engage in metamodern spirituality, this conversation is a perfect place to orient oneself with the metamodern ideology and to be inspired to find greater meaning individually and as a collective.
 
