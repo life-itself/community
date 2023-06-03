@@ -1,5 +1,5 @@
 ---
-title: Geoff Mulgan on Reigniting Social and Political Imagination
+title: "Geoff Mulgan on Reigniting Social and Political Imagination"
 author: Rufus Pollock
 date: 2022-07-26
 src: https://anchor.fm/s/79b39934/podcast/play/55297463/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F79b39934%2F55297463%2F0633c3de4a6d29144bc3883468e22da5.m4a
@@ -7,6 +7,10 @@ image: https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode
 ---
 
 In episode 6 of our Exploring Social Transformation series, Theo Cox is joined by author, professor, former director of the Prime Minister’s Strategy Unit and former Head of Policy at Downing Street, Geoff Mulgan. 
+
+## The Conversation
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LpQ9DWHNjdY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 In this episode Geoff and Theo explore why social and political imagination is important, why there is a deficit in social imagination in today's society, and what we can do about this.
 
