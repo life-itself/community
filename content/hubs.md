@@ -42,4 +42,4 @@ Our society may have forgotten the importance of community, but we haven’t. Sh
 
 If this way of living sounds like something you'd be interested in, then click the buttons above to read more about each of our Hubs. 
 
-For further enquiries please [contact us](/contact/) and we will get back to you as soon as possible. You can also read more about the [terms and conditions of residency](https://tao.lifeitself.org/hubs/agreement/) in our hubs.
+For further enquiries please [contact us](/contact/) and we will get back to you as soon as possible.
