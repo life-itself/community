@@ -40,6 +40,6 @@ Our society may have forgotten the importance of community, but we haven’t. Sh
 
 ## Want to give it a try?
 
-If this way of living sounds like something you'd be interested in, then click the buttons above to read more about each of our Hubs. **We are about to launch our first Praxis Lab in the Bergerac Hub, so head on over to the page to find out more!**
+If this way of living sounds like something you'd be interested in, then click the buttons above to read more about each of our Hubs. 
 
 For further enquiries please [contact us](/contact/) and we will get back to you as soon as possible. You can also read more about the [terms and conditions of residency](https://tao.lifeitself.org/hubs/agreement/) in our hubs.
