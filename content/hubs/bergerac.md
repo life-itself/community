@@ -41,19 +41,21 @@ Our food praxis is based on 3 principles:
 * Degrowing 
 * Honoring 
 
-To match the best possible balance between the ethical, the economical, and the ecological aspects of our food system. 
+to match the best possible balance between the ethical, the fiancial , and the ecological aspects of our food system.  
 Our Praxis food menus are  inspired by Zen temple tradition to provide a mindful setting for the nourishment of the group. 
 Our basic meal system is based on a tripartite system of:
 
-* cereals
-* beans + cooked veggies 
-* raw veggies 
-
-along with dessert or cookies. 
+* cereals ( 100 g per person per day) 
+* beans + cooked veggies ( 100 g per pers per day + 360 g per person per day) 
+* raw veggies ( 220 per person par day ) 
+Along with dessert or cookies and cereals and seeds for breakfast. ( 200 g per pers per day ) 
 
 We buy our food to the fresh market and to the organic local cooperative and use as much as we can local and endemic ingredients. 
 
-The collective meals are always plant-based ones, avoiding non-ethical industrial food. In the same spirit, if some participants want to consume animal-based products, we welcome it as an opportunity to discuss our food system and buy from local farmers at the market.
+The collective meals are always plant-based ones, avoiding non-ethical industrial food. 
+We beleive this food provides enough proteins per day , however please check regarding your personnal needs and adjust.  We have 2 extra  fridges that can be used for personal convenience. 
+We know that plant baseed food does not match the daily needs for B12 so we ask people to complement themselves if they stay more than 2 weeks. 
+To reduce suffering complicity , we ask that any supplements ( B 12 or proteines if there is a need)  which involves animal products comes exclusively from local ethical providers presents at the market.
 
 Finally, we have a Monday to Friday alcohol-free policy. However, we enjoy celebrating and dancing with good wine at the Hub on week-ends. 
 
