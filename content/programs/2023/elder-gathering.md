@@ -12,19 +12,20 @@ apply-button: "https://rspnd.network/retreat-applications/"
 created: 2023-06-05
 ---
 
-This August, the Praxis Hub of Life Itself, Bergerac, France, will serve as the exciting stage for a multi-week event steeped in wisdom, connectivity, and practice.
+This August, the Praxis Hub of Life Itself, Bergerac, France, will serve as the exciting stage for a **multi-week event steeped in wisdom, connectivity, and practice.
+**
 
-We commence our journey from August 7th to 12th with the Respond Practitioner Retreat. For a fee of €2,000, you'll engage in online training, housing, meals, and hands-on training sessions. We're committed to making this transformative experience accessible to all, offering support resources for those who may need help with funding.
+We commence our journey from August 7th to 12th with the **Respond Practitioner Retreat**. For a fee of €2,000, you'll engage in online training, housing, meals, and hands-on training sessions. We're committed to making this transformative experience accessible to all, offering support resources for those who may need help with funding.
 
 In the Respond Practitioner Retreat, you'll delve into Respond's theories and methods, apply 'A Theory of Wisdom' to your own practices, and learn to construct an Ecology of Practices with the help of the DIME method for wisdom training.
 
-Following this initial retreat, we'll transition into a remarkable gathering featuring renowned figures such as Nora Bateson, Iain McGilchrist and John Vervaeke. This will be an opportunity to connect, learn, and share experiences with thought-leaders in various fields.
+Following this initial retreat, we'll transition into a remarkable **gathering featuring renowned figures such as Nora Bateson, Iain McGilchrist and John Vervaeke**. This will be an opportunity to connect, learn, and share experiences with thought-leaders in various fields.
 
-The event culminates with two weeks of retreat, where attendees will have the opportunity to consolidate their learning, deepen their practice, and foster connections within the network.
+The event culminates with **two weeks of retreat**, where attendees will have the opportunity to consolidate their learning, deepen their practice, and foster connections within the network.
 
 Join us for this exhilarating blend of wisdom, practice, and community-building at the Praxis Hub. Let's grow together!
 
-**Interested? Apply [here](https://docs.google.com/forms/d/e/1FAIpQLSdiykDKyZR6DgtPKeYuNePy9sWc-qkIc4BVfKBRjkFWKvFp-g/viewform)!**
+👉 **Interested? Apply [here](https://docs.google.com/forms/d/e/1FAIpQLSdiykDKyZR6DgtPKeYuNePy9sWc-qkIc4BVfKBRjkFWKvFp-g/viewform)!**
 
 
 ### The Praxis Hub
