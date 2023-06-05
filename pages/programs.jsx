@@ -221,6 +221,11 @@ export async function getStaticProps() {
     .filter(r => new Date(r.start) > new Date())
 
   return {
-    props: { upcomingResidencies }
+    props: {
+      upcomingResidencies,
+      title: "Residencies",
+      description: "We are running and hosting a series of residencies and retreats.",
+      url_path: "/programs",
+    }
   }
 }
