@@ -24,7 +24,7 @@ The event culminates with **two weeks of retreat**, where attendees will have th
 
 Join us for this exhilarating blend of wisdom, practice, and community-building at the Praxis Hub. Let's grow together!
 
-👉 **Interested? Apply [here](https://docs.google.com/forms/d/e/1FAIpQLSdiykDKyZR6DgtPKeYuNePy9sWc-qkIc4BVfKBRjkFWKvFp-g/viewform)!**
+👉 **Interested? Apply [here](https://docs.google.com/forms/d/e/1FAIpQLSdiykDKyZR6DgtPKeYuNePy9sWc-qkIc4BVfKBRjkFWKvFp-g/viewform)!** 👈
 
 
 ### The Praxis Hub
