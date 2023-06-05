@@ -10,6 +10,7 @@ The Bergerac Praxis Hub offers opportunities to explore what it really means to 
 
 The Praxis Hub is nestled near the River Dordogne and just a few minutes walk from Bergerac's beautiful town center. A perfect location from which to enjoy both the glorious French countryside and the vibrant medieval town.
 
+We host [residencies](https://lifeitself.org/programs) and offer mindful co-living opportunities for mid- to long-term stays. If you are interested, please let us know by using [this form](https://docs.google.com/forms/d/e/1FAIpQLSdiykDKyZR6DgtPKeYuNePy9sWc-qkIc4BVfKBRjkFWKvFp-g/viewform).
 
 ## Overview
 
@@ -17,7 +18,7 @@ The Bergerac Praxis hub is gathering people  interested in radically committing,
 
 Beyond the seemingly paradoxical nature of contemplative activism, we carry the intention of the ungraspable concept of a metamodern monastery. Our vision is to create a space where individuals can come together to explore, practice, and embody new ways of being and relating to each other and the world.
 
-The Praxis Hub is a space devoted to the development and deepening of practices for an integrative response to our cultural situation. The Praxis Hub hosts residencies at the service of change agents. A laboratory to test and develop collective practices that can support our capacity to be together in this time of complexity, both individually and collectively.
+The Praxis Hub is a space devoted to the development and deepening of practices for an integrative response to our cultural situation. The Praxis Hub hosts residencies at the service of change agents, and offers mindful co-living opportunities for mid- to long-term residents. It is a laboratory to test and develop collective practices that can support our capacity to be together in this time of complexity, both individually and collectively.
 
 The Hub is an experiential place that seeks to highlight the activation process resulting from community living. A proposal that aims to bring out another way of thinking and living in the world by questioning the relationship between the intimate and the collective along the question of alterity.
 
@@ -33,51 +34,50 @@ Residencies combine both an activating frame of collective practices (sitting me
 
 ## The Praxis food 
 
-We consider our relation to food seriously at the hub. Our mindful approach envisions a sense of nourishment that integrates silence, gratitude, contemplations as much as delicious plant-based food menus.
+At the hub, we take great pride in our thoughtful relationship with food. This isn't simply about what we eat, but how we engage with our meals, creating a nourishing atmosphere that combines quiet reflection, gratitude, and careful consideration alongside our delectable plant-based fare.
 
-Our food praxis is based on 3 principles:
+Our food practices are firmly grounded in three fundamental principles:
 
-* Caring 
-* Degrowing 
-* Honoring 
+* Compassionate Care
+* Mindful Downsizing
+* Deep Respect
 
-to match the best possible balance between the ethical, the fiancial , and the ecological aspects of our food system.  
-Our Praxis food menus are  inspired by Zen temple tradition to provide a mindful setting for the nourishment of the group. 
-Our basic meal system is based on a tripartite system of:
+These principles allow us to strike an optimal balance between the ethical, financial, and ecological facets of our food system. The menus we curate, inspired by the Zen temple tradition, establish a mindful ambiance for the group's sustenance.
 
-* cereals ( 100 g per person per day) 
-* beans + cooked veggies ( 100 g per pers per day + 360 g per person per day) 
-* raw veggies ( 220 per person par day ) 
-Along with dessert or cookies and cereals and seeds for breakfast. ( 200 g per pers per day ) 
+Our essential meal system is founded on a tripartite scheme, comprising:
 
-We buy our food to the fresh market and to the organic local cooperative and use as much as we can local and endemic ingredients. 
+* Cereals (100g per person, per day)
+* Beans + Cooked Veggies (100g + 360g per person, per day)
+* Raw Veggies (220g per person, per day)
+* We also provide desserts or cookies, along with cereals and seeds for breakfast (200g per person, per day).
 
-The collective meals are always plant-based ones, avoiding non-ethical industrial food. 
-We beleive this food provides enough proteins per day , however please check regarding your personnal needs and adjust.  We have 2 extra  fridges that can be used for personal convenience. 
-We know that plant baseed food does not match the daily needs for B12 so we ask people to complement themselves if they stay more than 2 weeks. 
-To reduce suffering complicity , we ask that any supplements ( B 12 or proteines if there is a need)  which involves animal products comes exclusively from local ethical providers presents at the market.
+Our food purchases are made at the fresh market and the local organic cooperative, and we make a dedicated effort to use local and endemic ingredients as much as possible.
 
-Finally, we have a Monday to Friday alcohol-free policy. However, we enjoy celebrating and dancing with good wine at the Hub on week-ends. 
+Collective meals are always plant-based, and we conscientiously avoid non-ethical, industrially produced food. We believe this diet provides sufficient protein for daily needs, but we encourage you to assess and cater to your personal nutritional requirements. For your convenience, we provide two additional refrigerators for personal use.
+
+We acknowledge that plant-based food may not meet the daily B12 requirements, so for those staying longer than two weeks, we encourage supplementing this nutrient. In our endeavor to minimize our role in animal suffering, we encourage the use of any supplements involving animal products (such as B12 or protein) to be sourced solely from ethical local providers who are present at the market.
+
+Finally, to promote a healthy lifestyle, we maintain an alcohol-free environment from Monday to Friday. That being said, we cherish the joy of celebration and dance, and so, good wine is welcomed at the Hub on weekends. 
 
 
 ## The Praxis Lab 
 
-The Bergerac Hub is a space where individuals can come together to explore, practice, and embody new ways of being and relating to each other and the world. We see this space as a place for **experimentation, exploration, and learning,** where people can engage in self-work, creative work, and spiritual practices within a supportive and structured framework. We believe that this framework, which combines elements of monastic and secular practices, can facilitate the development of a new paradigm of living and being, one that is more connected, embodied, and expansive. 
+The Bergerac Hub is a unique junction for people to explore innovative ways of relating to one another and the world. It's an experimental ground for self-growth, creativity, and spiritual endeavors within a nurturing structure, blending monastic and secular elements. This structure assists in cultivating a more connected and expansive lifestyle, establishing a fresh paradigm of existence.
 
-We envision this space as a laboratory for systemic transformation, where we can document and study the effects of our practices on individual and collective well-being, and explore the potential of these practices to shape the future of society. Our ultimate goal is to create a model for a metamodern, evolutionary way of living that is grounded in the values of interdependence, mindfulness, and compassion, and that has the potential to awaken and activate the full potential of individuals and communities.
+The Hub, envisioned as a laboratory for systemic transformation, is an incubator for metamodern living—based on interdependence, mindfulness, and compassion. It's a setting where we **analyze the impact of our practices on individual and communal well-being** and investigate their potential for societal transformation. Practices already hosted include meditation, contemplative walks, Nordic singing, resonance singing, jam labs, forums, deep democracy, sharing circles, world cafes, enlightenment intensive, multiplayer metta meditation, zen food retreat, philosophical fellowship, and emergent dialogues.
 
-For this purpose, the Praxis Lab will serve as a research space to collect data on the relations between spaces, structures, food and practices, and make visible their emotional, spiritual, intellectual effects and what actions emrge from that.  The Praxis Lab team will conduct scientific observations during residencies to document and define the inter-relational human technology that fosters a new way of engaging with the world. The focus is on documenting practices from a "how" perspective, studying how human technology can animate forgotten skills of creativity and adjustment. The team will investigate questions such as: what is required to act from a space beyond thinking, what inner movement does this activate, and what are the effects of this posture? They will also explore the concept of a space as a place of practice ( dojo)  and how to document self-research in a reproducible way. 
+The Praxis Lab within the Hub plays a pivotal role in data collection and research, exploring the relationships between spaces, structures, food, and practices. Its purpose is to decipher the emotional, spiritual, and intellectual effects of these elements and the actions they inspire. Our research aims to understand and define the inter-relational human technology that fuels a new way of interacting with the world. Our focus is to document these practices, exploring questions such as: what triggers action beyond thinking, what internal shifts are activated by this, and what are the impacts of this approach? An additional aspect of exploration is the concept of a space as a practice place (dojo) and how to reproducibly document self-research.
 
-Ultimately, the research conducted at the Praxis Lab at the Bergerac Hub aims to not only improve the well-being of individuals and communities, but also to contribute to the development of a more interconnected, compassionate and mindful mettamodern society. Through documenting and studying the effects of our practices, we hope to inform and inspire others to create similar spaces and practices that can lead to systemic transformation.
+The overarching goal of the Praxis Lab at the Bergerac Hub is to enhance the well-being of individuals and communities, while contributing to the evolution of a more interconnected, compassionate, and mindful mettamodern society. By documenting and researching our practices, we aim to inspire others to establish similar spaces and practices, ultimately paving the way for systemic transformation.
 
 ## Key info
 
-* **What do we do at the Praxis hub?** We explore the liminal space of collective and personal awakening to cultivate the disposition to be at ease with whatever comes and adjust to it .
+* **What do we do at the Praxis hub?** We explore the liminal space of collective and personal awakening to cultivate the disposition to be at ease with whatever comes and adjust to it.
 * **How do we do it?** We believe in a Praxis ecology that provides a frame combining both a dynamic regenerative engagement for the collective and the space for you to continue your daily work. A key aspect is learning how we can integrate daily practices (sitting, cooking, cleaning, connecting) as an activation rather than an obligation (a service you give to your Self). Each residency is oriented around a key theme or question. More details can be found in the Section “[Upcoming residencies](https://lifeitself.org/upcoming-residencies-gatherings)”. 
 * **Where is it?** The [Life Itself Praxis Hub](https://lifeitself.org/hubs/bergerac), Bergerac, France (South West, in the Bordeaux wine region, 20 min from Plum Village)
 * **For whom is it?** To all who wish to engage in practices: system-thinkers, researchers, spiritual ecologists, bodhisattvas, change makers, symbiotic entrepreneurs, poets, painters, eco-dharmists, people ready to just be with what comes, good and bad. 
 * **How can I participate?** Apply online to one of our residencies using the registration form within the residency page.
-* **How much does it cost?** A typical stay costs between €800 (basic room) and €1,500 (premium double room) per month / per person, including food. More information on rooms can be found [here](https://docs.google.com/document/d/1PBijDdlRAECvE19Nxo1fOEcq2foGJVeERZVxzIs6b9U/edit?usp=sharing). Facilitation fees may apply for some residencies. Couples can share double bedrooms at a reduced rate.
+* **How much does it cost?** A typical room costs between €650 (basic room) and €1,050 (premium double room) per month / per person. In addition, the daily food costs are 18 euros per person, with a unique Zen food experience prepared by our in-house Tenzo (head cook). More information on rooms can be found [here](https://docs.google.com/document/d/1PBijDdlRAECvE19Nxo1fOEcq2foGJVeERZVxzIs6b9U/edit?usp=sharing). Facilitation fees may apply for the residencies. Some rooms can be shared at a reduced rate.
 * **More questions?** If you have more questions or are interested to visit us outside of the residencies and participate in our Praxis ecology please contact us at praxishub@lifeitself.org. We propose rooms for a minimum stay of 3 nights.
 
 ## About the Praxis Hub
