@@ -61,7 +61,9 @@ function MyApp({ Component, pageProps }) {
 
   // Seo config
   const url = siteConfig.authorUrl.replace(/\/+$/, "");
-  const seoImage = pageProps?.image && pageProps.image.startsWith("http") 
+  const frontMatterImage =
+    typeof pageProps?.image === "string" && pageProps.image;
+  const seoImageURL = frontMatterImage && frontMatterImage.startsWith("http") 
     ? pageProps.image 
     : url + pageProps.image
   
@@ -73,7 +75,7 @@ function MyApp({ Component, pageProps }) {
       url: pageProps.url_path ? `${url}/${pageProps?.url_path}` : url,
       images: pageProps?.image ? [
         {
-          url: seoImage,
+          url: seoImageURL,
           width: 1200,
           height: 627,
           alt: pageProps?.title,

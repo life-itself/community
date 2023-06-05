@@ -1,6 +1,5 @@
 import Head from "next/head";
 
-import { siteConfig } from "../config/siteConfig";
 import { CustomLink } from "./Link";
 import { Pre } from "./Pre";
 import { Mermaid } from "./Mermaid";
@@ -18,18 +17,6 @@ const components = {
 
 export function MdxPage({ mdxComponent, frontMatter, ...rest }) {
   const Component = mdxComponent;
-
-  const { title, description } = frontMatter
-
-  // Handle SEO Image urls in frontmatter
-  const websiteUrl = siteConfig.authorUrl.replace(/\/+$/, "");
-  const frontMatterImage =
-    typeof frontMatter?.image === "string" && frontMatter.image;
-  const seoImageUrl =
-    frontMatterImage && frontMatterImage.startsWith("http")
-      ? frontMatterImage
-      : websiteUrl + frontMatterImage;
-
   return (
     <Component
       layout={frontMatter.layout}
