@@ -79,14 +79,11 @@ export default function Home({ posts, keyWritings, keyInitiatives, upcomingResid
               <p>
                 Inspired by integral theory, zen buddhism and other key concepts, we cultivate these ideas and apply them to life itself, through deliberately developmental programs and community building.
               </p>
-              <p>
-
               <div className="mt-16 flex justify-center">
                 <Link href="/about" className="bg-secondary rounded py-2 px-4 text-sm font-medium text-primary">
                   Learn More&nbsp;<span aria-hidden="true">&rarr;</span>
                 </Link>
               </div>
-              </p>
             </div>
           </div>
         </div>
@@ -301,7 +298,7 @@ export default function Home({ posts, keyWritings, keyInitiatives, upcomingResid
                         <h3 className="text-sm font-medium underline underline-offset-2 decoration-2 decoration-secondary">Facilitators:</h3>
                         <div className="text-xs">
                           {residency.facilitators?.map(facilitator => (
-                            <p className="leading-4">
+                            <p key={facilitator} className="leading-4">
                               <span className="absolute inset-0" />
                               {facilitator}
                             </p>
@@ -349,13 +346,13 @@ export default function Home({ posts, keyWritings, keyInitiatives, upcomingResid
               }}>
               <div className="splide__arrows flex w-full justify-between items-center">
                 <button className="splide__arrow splide__arrow--prev">
-                  <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="lg:w-40 h-10 lg:h-12">
-                    <path stroke-linecap="round" stroke-linejoin="round" d="M6.75 15.75L3 12m0 0l3.75-3.75M3 12h18" />
+                  <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth="1.5" stroke="currentColor" className="lg:w-40 h-10 lg:h-12">
+                    <path strokeLinecap="round" strokeLinejoin="round" d="M6.75 15.75L3 12m0 0l3.75-3.75M3 12h18" />
                   </svg>
                 </button>
                 <button className="splide__arrow splide__arrow--next">
-                  <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="lg:w-40 h-10 lg:h-12">
-                    <path stroke-linecap="round" stroke-linejoin="round" d="M17.25 8.25L21 12m0 0l-3.75 3.75M21 12H3" />
+                  <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth="1.5" stroke="currentColor" className="lg:w-40 h-10 lg:h-12">
+                    <path strokeLinecap="round" strokeLinejoin="round" d="M17.25 8.25L21 12m0 0l-3.75 3.75M21 12H3" />
                   </svg>
                 </button>
               </div>
