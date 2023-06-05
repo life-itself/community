@@ -1,6 +1,8 @@
 @import "remark-callouts/styles.css";
 @import '@splidejs/react-splide/css/core';
 
+@import url("https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap");
+
 /* Fonts */
 @font-face {
   font-family: "Restora";
