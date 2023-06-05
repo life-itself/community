@@ -1,7 +1,7 @@
 const userConfig = {
   title: "Life Itself",
-  description: "We’re committed to practical action for a radically wiser, weller world. We create hubs, start businesses, do research and engage in activism to pioneer a wiser culture.",
   author: "Life Itself",
+  authorUrl: "https://lifeitself.org",
   // Google analytics key e.g. G-XXXX
   analytics: "G-5YH3R887BV",
   navbarTitle: {
@@ -26,6 +26,26 @@ const userConfig = {
   theme: { default: "" },
   search: {
     provider: "kbar"
+  },
+  nextSeo: {
+    title: "Life Itself",
+    description: "We’re committed to practical action for a radically wiser, weller world. We create hubs, start businesses, do research and engage in activism to pioneer a wiser culture.",
+    openGraph: {
+      images: [
+        {
+          url: "https://lifeitself.org/assets/site/homepage-social-preview.jpg",
+          alt: "Life Itself",
+          width: 1200,
+          height: 675,
+          type: "image/jpg",
+        },
+      ],
+    },
+    twitter: {
+      handle: "@forlifeitself",
+      site: "lifeitself.org",
+      cardType: "summary_large_image",
+    },
   },
 };
 

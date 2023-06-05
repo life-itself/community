@@ -1,5 +1,5 @@
 /* eslint import/no-default-export: off */
-import { DefaultSeo } from "next-seo";
+import { DefaultSeo, NextSeo } from "next-seo";
 import { ThemeProvider } from "next-themes";
 import { useRouter } from "next/router";
 import Script from "next/script";
@@ -59,6 +59,30 @@ function MyApp({ Component, pageProps }) {
     setTableOfContents(toc ?? []);
   }, [router.asPath]); // update table of contents on route change with next/link
 
+  // Seo config
+  const url = siteConfig.authorUrl.replace(/\/+$/, "");
+  const seoImage = pageProps?.image && pageProps.image.startsWith("http") 
+    ? pageProps.image 
+    : url + pageProps.image
+  
+  const seo = {
+    title: pageProps?.title,
+    description: pageProps?.description?.replace(/(\r\n|\n|\r)/gm, ""), // remove whitespaces
+    canonical: pageProps.url_path ? `${url}/${pageProps?.url_path}` : url,
+    openGraph: {
+      url: pageProps.url_path ? `${url}/${pageProps?.url_path}` : url,
+      images: pageProps?.image ? [
+        {
+          url: seoImage,
+          width: 1200,
+          height: 627,
+          alt: pageProps?.title,
+          type: "image/png"
+        },
+      ] : []
+    }
+  }
+  
   return (
     <ThemeProvider
       disableTransitionOnChange
@@ -67,6 +91,7 @@ function MyApp({ Component, pageProps }) {
       forcedTheme={siteConfig.theme.default ? null : "light"}
     >
       <DefaultSeo defaultTitle={siteConfig.title} {...siteConfig.nextSeo} />
+      <NextSeo {...seo} />
       {/* Global Site Tag (gtag.js) - Google Analytics */}
       {siteConfig.analytics && (
         <Script
