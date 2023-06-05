@@ -12,8 +12,7 @@ apply-button: "https://rspnd.network/retreat-applications/"
 created: 2023-06-05
 ---
 
-This August, the Praxis Hub of Life Itself, Bergerac, France, will serve as the exciting stage for a **multi-week event steeped in wisdom, connectivity, and practice.
-**
+This August, the Praxis Hub of Life Itself, Bergerac, France, will serve as the exciting stage for a **multi-week event steeped in wisdom, connectivity, and practice.**
 
 We commence our journey from August 7th to 12th with the **Respond Practitioner Retreat**. For a fee of €2,000, you'll engage in online training, housing, meals, and hands-on training sessions. We're committed to making this transformative experience accessible to all, offering support resources for those who may need help with funding.
 
