@@ -38,9 +38,9 @@ At the hub, we take great pride in our thoughtful relationship with food. This i
 
 Our food practices are firmly grounded in three fundamental principles:
 
-* Compassionate Care
-* Mindful Downsizing
-* Deep Respect
+* Caring - for all beings and ecosystems
+* Degrowing - energy, money and time
+* Honoring - human dignity
 
 These principles allow us to strike an optimal balance between the ethical, financial, and ecological facets of our food system. The menus we curate, inspired by the Zen temple tradition, establish a mindful ambiance for the group's sustenance.
 
