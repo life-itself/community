@@ -57,7 +57,9 @@ Collective meals are always plant-based, and we conscientiously avoid non-ethica
 
 We acknowledge that plant-based food may not meet the daily B12 requirements, so for those staying longer than two weeks, we encourage supplementing this nutrient. In our endeavor to minimize our role in animal suffering, we encourage the use of any supplements involving animal products (such as B12 or protein) to be sourced solely from ethical local providers who are present at the market.
 
-Finally, to promote a healthy lifestyle, we maintain an alcohol-free environment from Monday to Friday. That being said, we cherish the joy of celebration and dance, and so, good wine is welcomed at the Hub on weekends. 
+Furthermore, to promote a healthy lifestyle, we maintain an alcohol-free environment from Monday to Friday. That being said, we cherish the joy of celebration and dance, and so, good wine is welcomed at the Hub on weekends.
+
+**Finally, we warmly welcome individuals who are interested in embracing the role of a tenzo, a reactualized version of the Zen temple cook for modern times, to join us at the residence.** It is an opportunity to engage in the art of cooking, harmonizing traditional wisdom with contemporary practices, as we prepare plant-based meals together. Come and immerse yourself in this transformative experience that combines the essence of Zen teachings with the joys of culinary exploration. **If interested, please contact our [Tenzo Valerie Duvauchelle](valerie@lifeitself.org).**
 
 
 ## The Praxis Lab 
