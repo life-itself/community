@@ -20,6 +20,7 @@ module.exports = {
         serif: ["ui-serif", ...defaultTheme.fontFamily.serif],
         mono: ["ui-monospace", ...defaultTheme.fontFamily.mono],
         headings: ["Restora", ...defaultTheme.fontFamily.sans],
+        research: ["EB Garamond", ...defaultTheme.fontFamily.serif],
       },
       colors: {
         background: {
