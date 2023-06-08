@@ -18,7 +18,7 @@ We commence our journey from August 7th to 12th with the **Respond Practitioner 
 
 In the Respond Practitioner Retreat, you'll delve into Respond's theories and methods, apply 'A Theory of Wisdom' to your own practices, and learn to construct an Ecology of Practices with the help of the DIME method for wisdom training.
 
-Following this initial retreat, we'll transition into a remarkable **gathering featuring renowned figures such as Nora Bateson, Iain McGilchrist and John Vervaeke**. This will be an opportunity to connect, learn, and share experiences with thought-leaders in various fields.
+Following this initial retreat, we'll transition into a remarkable **gathering featuring renowned figures such as Nora Bateson and John Vervaeke**. This will be an opportunity to connect, learn, and share experiences with thought-leaders in various fields.
 
 The event culminates with **two weeks of retreat**, where attendees will have the opportunity to consolidate their learning, deepen their practice, and foster connections within the network.
 
