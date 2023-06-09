@@ -1,7 +1,7 @@
 ---
 title: "Elder Gathering, August 2023"
 description: "This August, join us at the Praxis Hub in Bergerac, France, for an event blending learning, practice, and community. Our schedule begins with the Respond Practitioner Retreat, progresses into a gathering with renowned figures such as Nora Bateson and John Vervaeke, and concludes with two weeks of deepening retreat. Don't miss this opportunity to immerse yourself in wisdom and connectivity!"
-image: ""
+image: "/assets/images/august-2023-residency-bergerac.jpg"
 start: "2023-08-07"
 end: "2023-09-03"
 facilitators:
