@@ -147,6 +147,12 @@ export async function getStaticProps() {
   const topics = await allTopics
 
   return {
-    props: { profiles, topics }
+    props: {
+      profiles,
+      topics,
+      title: "Ecosystem",
+      description: "Mapping the space",
+      url_path: "/ecosystem",
+    }
   }
 }

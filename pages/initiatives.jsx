@@ -71,7 +71,10 @@ export async function getStaticProps() {
   return {
     props: {
       activeProjects,
-      inactiveProjects
+      inactiveProjects,
+      title: "Initiatives",
+      description: "Here at Life Itself, we engage in many different initiatives.",
+      url_path: "/initiatives",
     }
   }
 }
