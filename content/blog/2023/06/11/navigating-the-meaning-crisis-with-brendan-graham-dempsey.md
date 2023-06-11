@@ -11,7 +11,7 @@ image: /assets/images/brendan-graham-dempsey.jpg
 
 **Our next community call is on Wednesday the 14th June, 7:30pm CET**
 
-<font size=”5”>[REGISTER HERE](https://us02web.zoom.us/meeting/register/tZwufu6grjIjG90coI94j-nlbNw4boNoROsJ)</font> 
+[REGISTER HERE](https://us02web.zoom.us/meeting/register/tZwufu6grjIjG90coI94j-nlbNw4boNoROsJ)
 
 We are delighted to invite Brendan Graham Dempsey to join us for our next community call.
 
