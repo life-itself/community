@@ -14,7 +14,7 @@ export default function Ecosystem({ profiles, topics }) {
         <h1 className="mt-16 mb-8 text-4xl text-center">Mapping the Space</h1>
         <TernaryPlot profiles={profiles} />
       </div>
-      <div className="prose max-w-4xl mx-auto">
+      <div className="docs prose text-primary dark:text-primary-dark dark:prose-invert prose-headings:font-headings prose-a:break-words mx-auto p-6">
 
       <p>This visualization maps organizations based on their approach to social change. There are three broad categories of approach: inner, 
         cultural and systems oriented. <a href="/ecosystem/vis">Read more about the visualization.</a></p>

@@ -17,7 +17,7 @@ export default function TernaryPlot({ profiles }) {
       />
       <div
         id="legend-container"
-        className="grid gap-4 pt-8 pb-0 lg:pb-4 text-xs font-bold mx-auto max-w-2xl sm:px-6 lg:px-0">
+        className="grid gap-4 pt-8 pb-0 lg:pb-4 text-xs font-bold mx-auto max-w-2xl px-6 lg:px-0">
         <div className="grid gap-2 lg:grid-flow-col lg:auto-cols-max">
           <span className="min-w-[100px]">Labels:</span>
           <label className="flex items-center text-[12px]">

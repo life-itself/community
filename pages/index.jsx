@@ -319,8 +319,8 @@ export default function Home({ posts, keyWritings, keyInitiatives, upcomingResid
         </div>
       </section>
 
-      <section>
-        <div className="relative isolate py-20 space-y-4 lg:space-y-6">
+      <section className="px-6 pt-16 pb-20 lg:px-8 lg:py-20">
+        <div className="relative isolate space-y-4 lg:space-y-6">
           <div className="mx-auto max-w-2xl text-center">
             <h2 className="text-3xl font-headings font-bold tracking-tight text-primary sm:text-4xl">Latest Podcasts</h2>
           </div>
