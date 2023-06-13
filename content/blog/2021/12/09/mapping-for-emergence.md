@@ -7,6 +7,7 @@ categories:
 tags: 
   - ecosystem-mapping
 authors: 
+  - rufuspollock
   - theo-cox
 image: /assets/images/Social_Change_Ecosystem.png
 ---

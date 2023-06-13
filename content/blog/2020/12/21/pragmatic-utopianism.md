@@ -8,8 +8,8 @@ tags:
   - philosophy
   - pragmatic-utopianism
 authors: 
-  - theo-cox
   - rufuspollock
+  - theo-cox
 image: /assets/images/Blog-Feature-Images-9.jpg
 ---
 

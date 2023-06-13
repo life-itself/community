@@ -8,7 +8,7 @@ categories:
 tags: 
   - imaginary-society
 authors: 
-  - theo-cox
+  - rufuspollock
 ---
 
 We are excited to welcome acclaimed author Jeremy Lent to the next online Imaginary Society Forum on 9th September 2021.

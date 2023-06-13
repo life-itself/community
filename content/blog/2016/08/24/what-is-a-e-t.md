@@ -6,7 +6,8 @@ categories:
 tags: 
   - art-earth-tech
 authors: 
-  - theo-cox
+  - rufuspollock
+  - sylvieshiweibarbier
 ---
 
 Slide deck from 2016:

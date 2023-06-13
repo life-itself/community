@@ -8,6 +8,7 @@ categories:
   - ontology
   - our-philosophy
 authors: 
+  - rufuspollock
   - theo-cox
 image: /assets/images/dsc_9971_sarah_hickson.jpg
 ---

@@ -5,6 +5,7 @@ categories:
   - life-itself-labs
 authors: 
   - theo-cox
+  - rufuspollock
 image: /assets/images/Screenshot-2022-06-09-at-14.51.41.png
 ---
 

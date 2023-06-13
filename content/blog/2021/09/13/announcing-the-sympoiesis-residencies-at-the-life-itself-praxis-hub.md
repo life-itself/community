@@ -13,7 +13,9 @@ tags:
   - intentional-communities
   - praxis
 authors: 
-  - theo-cox
+  - valerie
+  - rufuspollock
+  - liamaet
 image: /assets/images/Untitled.jpg
 ---
 

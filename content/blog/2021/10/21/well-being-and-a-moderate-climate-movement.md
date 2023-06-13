@@ -10,7 +10,9 @@ tags:
   - sustainable-well-being
   - wiser-policy-forum
 authors: 
+  - liamaet
   - theo-cox
+  - rufuspollock
 image: /assets/images/Blog-Feature-Images-24.jpg
 ---
 
