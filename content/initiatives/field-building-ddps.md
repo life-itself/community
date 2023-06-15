@@ -7,7 +7,6 @@ start: 2023
 end:
 team:
   - rufuspollock
-  - Boaz Feldman
   - catherine-tran
 status: active
 created: 2023-06-15
