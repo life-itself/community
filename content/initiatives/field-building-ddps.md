@@ -1,3 +1,4 @@
+
 ---
 title: "Building the Field for Developmental Spaces"
 description: "Coalescing a field of "deliberately developmental"/"transformative" programs, especially those focused on youth and young adults by Life Itself, the Fetzer Institute, Commonweal and Ekskaret."
