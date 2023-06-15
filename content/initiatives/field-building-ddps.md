@@ -16,7 +16,7 @@ created: 2023-06-15
 
 ## Description
 
-This project is a collaboration with  Michelle Scheidt at the Fetzer Institute, Oren Slozberg at Commonweal and Tomas Bjorkman at Ekskaret. We seek to help catalyze change across an emerging ecosystem of youth and young adult activity with "deliberately developmental"/"transformative" approaches. As a first step, we will focus on mapping key stakeholders to build relationships and awareness in the field.
+This project is a collaboration with  Michelle Scheidt at the Fetzer Institute, Oren Slozberg at Commonweal and Tomas Bjorkman at Ekskaret. We seek to help catalyze change across an emerging ecosystem of youth and young adult activity with "deliberately developmental"/"transformative" approaches. As a first step, we will focus on mapping and having conversations with key stakeholders to build relationships and awareness in the field.
 
 
 ## Key Resources
