@@ -1,7 +1,7 @@
 ---
 title: "Building the Field for Developmental Spaces"
 description: "Coalescing a field of "deliberately developmental"/"transformative" programs, especially those focused on youth and young adults by Life Itself, the Fetzer Institute, Commonweal and Ekskaret."
-image: /assets/images/ecosystem-project-image.png
+image: 
 homepage: /ecosystem
 start: 2023
 end:
@@ -13,15 +13,15 @@ status: active
 created: 2023-06-15
 ---
 
-**Charting an emerging ecosystem by Life Itself, Emerge and collaborators**
-
 ## Description
 
-This project maps an emerging ecosystem centred on a radical, alternative approach to social change – one that is simultaneously paradigmatic, integrated and engaged. Discover key features and ideas of this growing space. Explore associated organizations, individuals and initiatives. See how it relates to other established and emerging movements.
+This project is a collaboration with  Michelle Scheidt at the Fetzer Institute, Oren Slozberg at Commonweal and Tomas Bjorkman at Ekskaret. We seek to help catalyze change across an emerging ecosystem of youth and young adult activity with "deliberately developmental"/"transformative" approaches. As a first step, we will focus on mapping key stakeholders to build relationships and awareness in the field.
+
 
 ## Key Resources
 
-- [[../ecosystem|Ecosystem Landing Page]]
+- Coming soon: a Manifesto in Progress: Developmental Spaces for a Time of Transition
+- Coming soon: Blog post announcing the project 
 
 
 
