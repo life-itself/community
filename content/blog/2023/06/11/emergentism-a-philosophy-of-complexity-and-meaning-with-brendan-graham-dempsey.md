@@ -1,6 +1,6 @@
 ---
 title: "Emergentism: A Philosophy of Complexity and Meaning with Brendan Graham Dempsey"
-created: 2023-11-06
+created: 2023-06-14
 authors: 
   - nathen-fitchen
 categories: 
