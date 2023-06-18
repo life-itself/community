@@ -8,7 +8,7 @@ categories:
 ---
 
 >This blog post is part of discussions carried out within the Life Itself Research. 
-To get involved please join the Life Itself Research monthly meetings
+To get follow our activities, please join the Life Itself Research monthly meetings or follow discussions on [github discussions forum](https://github.com/orgs/life-itself/discussions).
 
 # Why research on place making?
 
