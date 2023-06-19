@@ -22,7 +22,7 @@ Beyond the seemingly paradoxical nature of contemplative activism, we carry the 
 
 _Our vision is to create a space where individuals can come together to explore, practice, and embody new ways of being and relating to each other and the world._
 
-See more about the Praxis Hub [here.](https://lifeitself.org/vault/hubs/bergerac)
+See more about the Praxis Hub [here.](https://lifeitself.org/hubs/bergerac)
 
 ### The Praxis Lab 
 
