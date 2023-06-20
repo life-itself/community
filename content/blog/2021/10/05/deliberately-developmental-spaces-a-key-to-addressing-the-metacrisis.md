@@ -23,11 +23,17 @@ In this time of metacrisis, development in individual and collective “being”
 
 ## A note on terminology
 
-In this piece we will regularly talk about “being” both individual and collective. At the individual, personalWe actually prefer the term personal to individual as individual brings with it misleading ideas of the atomic individual. However, for the simple contrast to collective we have tended to use individual here. level “being” covers the whole spectrum of our “being in the world” including our cognitive, emotional and spiritual dimensions. It is synonymous with what other authors term consciousness or ego (e.g. Wilber, Graves, Loevinger etc).E.g. Wilber tends to talk about consciousness cf Integral Spirituality where he talks of States of consciousness and stages of Consciousness etc. Thus, when we say “development in being” or “growth in being” one can read “development in consciousness” or “growth in consciousness” or “ego development”.
+In this piece we will regularly talk about “being” both individual and collective. At the individual, personal[^1] level “being” covers the whole spectrum of our “being in the world” including our cognitive, emotional and spiritual dimensions. It is synonymous with what other authors term consciousness or ego (e.g. Wilber, Graves, Loevinger etc).[^2] Thus, when we say “development in being” or “growth in being” one can read “development in consciousness” or “growth in consciousness” or “ego development”.
+
+[^1]: We actually prefer the term personal to individual as individual brings with it misleading ideas of the atomic individual. However, for the simple contrast to collective we have tended to use individual here. 
+
+[^2]: E.g. Wilber tends to talk about consciousness cf Integral Spirituality where he talks of States of consciousness and stages of Consciousness etc.
 
 We use ontology and ontological in the sense of being concerned with the nature and development of being. Ontogenesis (the “genesis” of being) when used is to specifically denote the study or process of _how_ being develops, i.e. the factors supporting or blocking it.
 
-Collective being is the “being” of a group of individuals – its “body, mind and spirit”. This is a little vague and it is simplest to see collective being as roughly synonymous with what we term “culture”: the common network of conversations, practices, artifacts and behaviours of a coherent group. There is much, much more we could say here – the exact definition of culture is still something of a contested issue in the anthropological community. However, for the purposes of this article this rough definition is enough. For the study of culture and its evolution we use culturology and culturogenesis.
+Collective being is the “being” of a group of individuals – its “body, mind and spirit”. This is a little vague and it is simplest to see collective being as roughly synonymous with what we term “culture”: the common network of conversations, practices, artifacts and behaviours of a coherent group.[^3] For the study of culture and its evolution we use the terms culturology and culturogenesis.
+
+[^3]: There is much, much more we could say here – the exact definition of culture is still something of a contested issue in the anthropological community. However, for the purposes of this article this rough definition is enough.
 
 ![](/assets/images/1909newsletter-gathering-meal-2019-1024x576-1.jpg)
 
@@ -41,11 +47,25 @@ Whilst work will happen in all areas, we believe there is a priority to work on 
 
 If ontological development is so important it would be good to know how it happens and what we can do to support and nurture it.
 
-We first need to acknowledge how little we know and how much there is to learn about the nature of ontological development. For example, at the individual level there is still much debate (and limited empirical evidence) on the dimensions and stages of development beyond childhood.On the individual side, Wilber and the Integral movement present an impressive synthesis of a variety of existing developmental work e.g. Kegan, Kohlberg, Graves, Gebser, Cook-Greuter that provides compelling evidence for the existence of a variety of dimensions for development. However, the empirical base on which this rests remains slender – the best documented in the cognitive domain (e.g. Commons et al). And on the question of _how_ that development happens (ontogenesis) our research remains at an early stage.On the spiritual side there is obviously material to draw on: the many traditions which over millennia have cultivated a variety of practices for “waking up” (state development). However, we have had until very recently very limited rigorous sense of what works and what doesn’t – for example, it is really only in the last couple of decades that we have got solid evidence and insight around meditation and yoga.  At the collective level, i.e. culture, it is even more rudimentary: simply defining and “measuring” culture is still in its infancy and our empirical knowledge of _how_ culture develops is barely existent.
+We first need to acknowledge how little we know and how much there is to learn about the nature of ontological development. For example, at the individual level there is still much debate (and limited empirical evidence) on the dimensions and stages of development beyond childhood.[^4]  And on the question of _how_ that development happens (ontogenesis) our research remains at an early stage.[^5]
+
+At the collective level, i.e. culture, it is even more rudimentary: simply defining and “measuring” culture is still in its infancy and our empirical knowledge of _how_ culture develops is barely existent. Nevertheless, significant [progress is starting to be made](https://coevolution.fas.harvard.edu).
+
+[^4]: On the individual side, Wilber and the Integral movement present an impressive synthesis of a variety of existing developmental work e.g. Kegan, Kohlberg, Graves, Gebser, Cook-Greuter that provides compelling evidence for the existence of a variety of dimensions for development. However, the empirical base on which this rests remains slender – the best documented in the cognitive domain (e.g. Commons et al).
+
+[^5]: On the spiritual side there is obviously material to draw on: the many traditions which over millennia have cultivated a variety of practices for “waking up” (state development). However, we have had until very recently very limited rigorous sense of what works and what doesn’t – for example, it is really only in the last couple of decades that we have got solid evidence and insight around meditation and yoga.
 
 ## Deliberately developmental spaces are one major, viable approach
 
-All that said, we can make some good guesses on what could work based on existing researchTo give one example that speaks to the group and physical colocation aspect. Development in being will involve (at a minimum) a) sustained engagement with developmental practices b) shifts in worldview. In addressing these we can draw on two basic psychological insights that have robust empirical support: a) even when we have a practice that we know will benefit us we tend to find it hard to do on our own but easier to do in a group (think of meditating or going running in the morning); b) we “believe together”, that is we tend to learn from and share the beliefs of those around us (or, conversely find it harder to think differently from those around us). and the examples and experience over the millenia. Examples include monasteries, Bildung schools in the 19th-century Nordic countriesSee the Nordic Secret by Lene Andersen and Tomas Bjorkman (2017). or intentional communities in more recent times. There is also our own recent direct experience at Life Itself and we know there are other similarly focused groups in existence, for example the Monastic Academy (which has locations in Vermont, California and Canada) and K9 intentional co-living in Stockholm. We also see relevance for other communities who have interest in new forms of social organisation, for example ProtoB communities and those interested in the idea of a “metamodern monastery”.
+All that said, we can make some good guesses on what could work based on existing research[^6] and the examples and experience over the millenia. Examples include monasteries, Bildung schools in the 19th-century Nordic countries[^7] or intentional communities in more recent times.
+
+There is also our own recent direct experience at Life Itself and we know there are other similarly focused groups in existence, for example the [Monastic Academy](https://www.monasticacademy.com) (which has locations in Vermont, California and Canada) and K9 intentional co-living in Stockholm. We also see relevance for other communities who have interest in new forms of social organisation, for example ProtoB communities and those interested in the idea of a "metamodern monastery".
+
+[^6]: To give one example that speaks to the group and physical colocation aspect. Development in being will involve (at a minimum) a) sustained engagement with developmental practices b) shifts in worldview. In addressing these we can draw on two basic psychological insights that have robust empirical support: a) even when we have a practice that we know will benefit us we tend to find it hard to do on our own but easier to do in a group (think of meditating or going running in the morning); b) we “believe together”, that is we tend to learn from and share the beliefs of those around us (or, conversely find it harder to think differently from those around us).
+
+[^7]: See the Nordic Secret by Lene Andersen and Tomas Bjorkman (2017).
+
+## Three key characteristics of deliberately developmental spaces
 
 Drawing on these, we can hypothesize three key characteristics for environments that would consciously support “development of being”:
 
@@ -69,7 +89,7 @@ First, the experience should last months rather than weeks. The kind of sustaine
 
 ### Collective
 
-Second, the spaces will be significantly collective or communal in nature (though not necessarily entirely so). Our relationship to the collective, and what this brings up in us as individuals, is both a significant challenge and one of the greatest stimulants to our inner growth. This is particularly true for the “interbeing” pillar, which we view as vital for any new social paradigm.
+Second, the spaces will be significantly collective or communal in nature , though not necessarily entirely so. Our relationship to the collective, and what this brings up in us as individuals, is both a significant challenge and one of the greatest stimulants to our inner growth. This is particularly true for the “interbeing” pillar, which we view as vital for any new social paradigm.
 
 This collectivism also engages with the deeply social element of human nature, which causes our experience of the world to be bound up in the web of relationships and interactions we exist in. The more embedded in a given social context we are, the more likely this context is to impact our ways of being. This thread runs all the way from the cognitive science of human mimicry to the contagion of views and values outlined in some strands of social psychology. The implication of this is that, if we are to shift our ways of being, we must engage at the group, rather than the individual level.
 
@@ -101,7 +121,7 @@ This principle also implies that the practices, language and broader norms of th
 
 The spaces should create “sangha” amongst participants that sustains them both within the space and, even more importantly, outside and after it. Specifically, whilst the space itself is necessarily physically demarcated it should be embedded in a broader network of support ranging from practice centers to job boards that enable participants to sustain and deepen their growth beyond their time in the space.
 
-![](/assets/images/Group-528.png)
+![](../../../../assets/images/Group-528.png)
 
 ## The time seems ripe for this 
 
@@ -115,13 +135,24 @@ We also sense that this is a moment ripe for these ideas and models. Social and 
 
 ## Further questions and looking forward
 
-In closing, we are aware that this article only scratches the surface of the issues and avenues for exploration around intentional developmental spaces. Of particular importance as we move forward from higher level discussions around principles such as this one, are questions of implementation. Of particular interest are what physical form these spaces should take to maximise their developmental potential, how they might be funded to ensure they’re scaleable without collapsing simply into ‘luxury’ experiences for the privileged, how we should design experiments and evaluation frameworks which can both rigorously establish the impact of the spaces while being practical for real world use, and how we might marshall the learnings from other spaces and communities and apply them to new contexts. These are all questions we hope to address in our further work.
+In closing, we are aware that this article only scratches the surface of the issues and avenues for exploration around intentional developmental spaces.
 
-We really do know so little that there is immense value in research to learn what works and for whom (and when). We would be delighted to hear from any others engaged in similar enquiries, or who might have relevant knowledge, expertise or even simply interest. Until then, we would like to leave a provocation for all those who view inner transformation as a vital lynchpin to the transition: what **_do_** we do about it?
+Of particular importance as we move forward from higher level discussions around principles such as this one, are questions of implementation. Of particular interest are:
+
+- What physical form these spaces should take to maximise their developmental potential
+- How they might be funded to ensure they're scaleable without collapsing simply into 'luxury' experiences for the privileged
+- How we should design experiments and evaluation frameworks which can both rigorously establish the impact of the spaces while being practical for real world use
+- How we might marshall the learnings from other spaces and communities and apply them to new contexts
+
+These are all questions we hope to address in our further work.
+
+Finally, we emphasize that we really know so little that there is immense value in research to learn what works and for whom (and when). We would be delighted to hear from any others engaged in similar enquiries, or who might have relevant knowledge, expertise or even simply interest.
+
+Until then, we would like to leave a provocation for all those who view inner transformation as a vital lynchpin to the transition: what **_do_** we do about it?
 
 ## Colophon
 
-_This article was originally published by as an [Emerge Insight Piece](http://whatisemerging.com/opinions/deliberately-developmental-spaces-a-key-to-addressing-the-metacrisis) in the lead up to the 2021 Emerge Gathering. This version has some slight additions, primarily footnotes and formatting that weren't compatible with Emerge's system._
+*This article was cross published as an [Emerge Insight Piece](http://whatisemerging.com/opinions/deliberately-developmental-spaces-a-key-to-addressing-the-metacrisis) in the lead up to the 2021 Emerge Gathering. This version has some slight additions, primarily footnotes and formatting that weren't compatible with Emerge's system.*
 
 * * *
 
