@@ -10,11 +10,13 @@ image: /assets/images/brendan-graham-dempsey.jpg
 
 >This video is part of a series of discussions carried out within the Life Itself community. To get involved please join the Life Itself [Whatsapp Chat](https://chat.whatsapp.com/JNJCTZugNQn)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PfRFOJWZ5j0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 This discussion, lead by author and thought leader Brendan Graham Dempsey, is about the meaning crisis and two ways of thinking about it: reductionism and relativism. 
 
 Brendan describes the meaning crisis as a collective existential crisis related to the issue of purpose and meaning. The prevalence of nihilism and the reactionary fundamentalism that follows are seen as part of this crisis. Reductionism is the belief that everything can be broken down into its parts, with the fundamental understanding that everything is made up of matter in space. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PfRFOJWZ5j0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 Reductionism has influenced the way people make sense of their experiences and reality, particularly in the context of mechanistic science and industrialization. 
 
