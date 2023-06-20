@@ -1,5 +1,5 @@
 ---
-title: "Upcoming community call: participatory wisdom with Marco Santolini"
+title: "Upcoming community call: participatory wisdom with Marc Santolini"
 created: 2023-06-20
 authors: 
   - nathen-fitchen
