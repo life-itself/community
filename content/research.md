@@ -74,6 +74,14 @@ ourwork:
       left: 675
       top: 730
 
+  - name: "Building the Field for Developmental Spaces"
+    type: mapping
+    year: 2023
+    link: https://lifeitself.org/blog/building-field-for-developmental-spaces
+    map:
+      left: 75
+      top: 450
+
 ---
 
 import { ResearchTopicMap, ProjectsList } from './components/custom/Research';
