@@ -9,7 +9,7 @@ image: /assets/images/research-forum-3.jpg
 ---
 >This video forms part of our series of [[/research|research community]] monthly fora.
 
-https://youtu.be/uka-m35-_gA
+https://www.youtube.com/watch?v=uka-m35-_gA
 
 In the third of the Life Itself Research calls Jonathan Reams covers personal development, understanding growth across domains, intelligence testing, skill correlation, self-mastery, learning, emotions, and the challenges and practical applications of developmental theories. 
 
