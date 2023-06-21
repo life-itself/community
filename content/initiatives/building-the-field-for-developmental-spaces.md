@@ -1,7 +1,7 @@
 
 ---
-title: "Building the Field for Developmental Spaces"
-description: "Coalescing a field of 'deliberately developmental' programs, especially those focused on youth and young adults, in collaboration with the Fetzer Institute, Commonweal and Ekskaret."
+title: Building the Field for Developmental Spaces
+description: Coalescing a field of 'deliberately developmental' programs, especially those focused on youth and young adults, in collaboration with the Fetzer Institute, Commonweal and Ekskaret.
 image: 
 homepage: 
 start: 2023
