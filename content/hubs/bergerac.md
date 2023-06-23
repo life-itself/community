@@ -39,6 +39,14 @@ The gorgeous view of the Dordogne from just outside the house.
 The view of the Hub from the garden.
 
 
+### The Praxis Lab 
+
+The Bergerac Hub is a unique junction for people to explore innovative ways of relating to one another and the world. It's an experimental ground for self-growth, creativity, and spiritual endeavors within a nurturing structure, blending monastic and secular elements. This structure assists in cultivating a more connected and expansive lifestyle, establishing a fresh paradigm of existence.
+
+The Hub, envisioned as a laboratory for systemic transformation, is an incubator for metamodern living—based on interdependence, mindfulness, and compassion. It's a setting where we analyze the impact of our practices on individual and communal well-being and investigate their potential for societal transformation. Practices already hosted include meditation, contemplative walks, Nordic singing, resonance singing, jam labs, forums, deep democracy, sharing circles, world cafes, enlightenment intensive, multiplayer metta meditation, zen food retreat, philosophical fellowship, and emergent dialogues.
+
+The Praxis Lab within the Hub plays a pivotal role in data collection and research, exploring the relationships between spaces, structures, food, and practices. Its purpose is to decipher the emotional, spiritual, and intellectual effects of these elements and the actions they inspire. Our research aims to understand and define the inter-relational human technology that fuels a new way of interacting with the world. Our focus is to document these practices, exploring questions such as: what triggers action beyond thinking, what internal shifts are activated by this, and what are the impacts of this approach? An additional aspect of exploration is the concept of a space as a practice place (dojo) and how to reproducibly document self-research.
+
 ### The Praxis food 
 
 At the hub, we take great pride in our thoughtful relationship with food. This isn't simply about what we eat, but how we engage with our meals, creating a nourishing atmosphere that combines quiet reflection, gratitude, and careful consideration alongside our delectable plant-based fare.
@@ -67,15 +75,6 @@ We acknowledge that plant-based food may not meet the daily B12 requirements, so
 Furthermore, to promote a healthy lifestyle, we maintain an alcohol-free environment from Monday to Friday. That being said, we cherish the joy of celebration and dance, and so, good wine is welcomed at the Hub on weekends.
 
 **Finally, we warmly welcome individuals who are interested in embracing the role of a tenzo, a reactualized version of the Zen temple cook for modern times, to join us at the residence.** It is an opportunity to engage in the art of cooking, harmonizing traditional wisdom with contemporary practices, as we prepare plant-based meals together. Come and immerse yourself in this transformative experience that combines the essence of Zen teachings with the joys of culinary exploration. **If interested, please contact our [Tenzo Valerie Duvauchelle](valerie@lifeitself.org).**
-
-
-### The Praxis Lab 
-
-The Bergerac Hub is a unique junction for people to explore innovative ways of relating to one another and the world. It's an experimental ground for self-growth, creativity, and spiritual endeavors within a nurturing structure, blending monastic and secular elements. This structure assists in cultivating a more connected and expansive lifestyle, establishing a fresh paradigm of existence.
-
-The Hub, envisioned as a laboratory for systemic transformation, is an incubator for metamodern living—based on interdependence, mindfulness, and compassion. It's a setting where we analyze the impact of our practices on individual and communal well-being and investigate their potential for societal transformation. Practices already hosted include meditation, contemplative walks, Nordic singing, resonance singing, jam labs, forums, deep democracy, sharing circles, world cafes, enlightenment intensive, multiplayer metta meditation, zen food retreat, philosophical fellowship, and emergent dialogues.
-
-The Praxis Lab within the Hub plays a pivotal role in data collection and research, exploring the relationships between spaces, structures, food, and practices. Its purpose is to decipher the emotional, spiritual, and intellectual effects of these elements and the actions they inspire. Our research aims to understand and define the inter-relational human technology that fuels a new way of interacting with the world. Our focus is to document these practices, exploring questions such as: what triggers action beyond thinking, what internal shifts are activated by this, and what are the impacts of this approach? An additional aspect of exploration is the concept of a space as a practice place (dojo) and how to reproducibly document self-research.
 
 
 ### Common Spaces
