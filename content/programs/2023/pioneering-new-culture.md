@@ -33,14 +33,15 @@ eco-spirituality, interbeing, collective intelligence, and relational embodiment
 practices are designed to inspire a compassionate lifestyle, ecological balance, and a shift from individual 
 isolation to a sense of supportive community.
 
-Regarding food, our house tenzo, Valerie, will guide them through daily cooking practices rooted in the Zen 
+Regarding food, our house Tenzo, Valerie, will guide them through daily cooking practices rooted in the Zen 
 tradition. With a century-long legacy of conscious food practice, Valerie will share her expertise and adapt 
 these timeless wisdom to our modern times. This presence brings an additional layer of knowledge transmission, 
 particularly in relation to the mindful preparation of our shared organic, plant-based meals.
 
-For a monthly cost of  average 650 €, which covers water and electricity, plus a €390 monthly contribution towards food, 
-residents are expected to contribute to daily collective practices and weekly circle sessions. They will also have the 
-opportunity to partake in a training program aimed at embodying collective transformation.
+For a monthly cost ranging 650-1050€ for bedding including utilities, plus a €450 monthly contribution towards food, 
+residents will be able to contribute to daily collective practices 
+and weekly circle sessions. They will also have the opportunity to partake in a training program aimed 
+at embodying collective transformation.
 
 Ideal candidates are those who resonate with these principles and practices and are ready to explore their impact on a 
 personal and communal level. Interested individuals are encouraged to apply by July 30th, 2023, to join this groundbreaking 
