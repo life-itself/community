@@ -4,16 +4,16 @@ Welcome to Life Itself! 👣 🌱
 
 This guide provides you with a simple step-by-step process to get set up at Life Itself so that you are ready to go. We have designed it to be largely self-service so you can do it on your own, at your own pace.
 
-:::tip Feedback 📣
-We value feedback 😄 You can make this handbook better by making amendments directly using the edit link at the bottom of each page (please check in with your Onboarder first). Or you can leave comments using Hypothesis (see below).
-:::
+> [!tip] Feedback 📣
+> 
+> We value feedback 😄 You can make this handbook better by making amendments directly using the edit link at the bottom of each page (please check in with your Onboarder first). Or you can leave comments using Hypothesis (see below).
 
 ## Onboardee Journey Overview
 
 Your onboarding journey will consist of the following steps in order. Each stage will be covered in more depth further on in the guide.
 
 1. [Prerequisites](#prerequisites)
-2. Welcome Call - this will be set up by person onboarding you :smile:
+2. Welcome Call - this will be set up by person onboarding you 😄
 3. [First Steps](#first-steps)
 4. [How we Communicate](#how-we-communicate)
 5. [[further-reading|Further Reading]]
@@ -30,8 +30,7 @@ If you get stuck you will be able to ask your Onboarder questions during your on
 1. **Life Itself email**: Login in to your Life Itself email account and check it. You should have received an invitation to your personal email with details of how to sign in to your Life Itself email account and set your password. Sign in and check your account for any email you may have already received.
 2. **Key systems**: Setup your accounts on [the key systems we use](#key-systems). **Do this before the next step!**
 4. **Phonebook**: Add your details to our [Phonebook using this form][phonebook]. Note: you will need to be logged in to your Life Itself email. Then, **notify the Onboarder that you have added accounts in team phonebook** so that they can add you to relevant systems.
-5. **Laptop setup**: Setup your [laptop as per these Datopian instructions][laptop]. Some of these instructions may not seem obviously applicable to your role, but you are likely to find all of these programmes useful.
-6. **Background on working with us:** Read about [[working-with-us|Working with Us]]
+5. **Background on working with us:** Read about [[working-with-us|Working with Us]]
 
 [phonebook]: https://docs.google.com/forms/d/e/1FAIpQLSfgK-NrAkplGwO5OIPKfO3Gjyh0332aJaL0zwobk2qc4-lCLA/viewform?usp=sf_link
 [laptop]: https://playbook.datopian.com/laptop-setup/
@@ -40,7 +39,7 @@ If you get stuck you will be able to ask your Onboarder questions during your on
 
 When you set up systems, try to pick usernames that will be easy for others to remember. Using your first and last name is ideal.
 
-* Bitwarden -- https://bitwarden.com (password manager). Use Bitwarden to store your passwords as you work through the onboarding process.
+* Bitwarden -- https://bitwarden.com (password manager). This will give you access to shared team passwords. And you can also use Bitwarden to store your passwords as you work through the onboarding process.
 * Gravatar -- https://gravatar.com. **You need to do this before any of the steps below so your Gravatar is used on the other accounts you create.** 
 	* To be able to create a Gravatar, you have to create a WordPress account first. 
 	* You can then create a Gravatar so that your profile picture will show up automatically on your profile on other systems. 
@@ -185,9 +184,9 @@ We use Google Chat and Whatsapp for quick messages of which there is no need to 
 
 Our default tools for video are Google Hangouts and Zoom. We add a video call link to every meeting set up in Google calendar.
 
-:::tip
-Face to face communication is a big deal for humans. Facial cues are very important. Always prefer video over voice for synchronous.
-:::
+> [!tip]
+> 
+> Face to face communication is a big deal for humans. Facial cues are very important. Always prefer video over voice for synchronous.
 
 #### Email
 
