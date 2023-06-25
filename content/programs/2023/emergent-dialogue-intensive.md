@@ -1,14 +1,14 @@
 ---
 title: "Emergent Dialogue Intensive, July 2023"
-description: "EThis 10-day intensive training in _emergent dialogue_ focuses on how to catalyze emergence in groups. Developed both for those familiar with _emergent dialogue_ and for experienced facilitators, the training gives you the in-depth practice, feedback, and understanding to be able to work with the mystery of emergence in groups."
+description: "This 10-day intensive training in emergent dialogue focuses on how to catalyze emergence in groups. Developed both for those familiar with emergent dialogue and for experienced facilitators, the training gives you the in-depth practice, feedback, and understanding to be able to work with the mystery of emergence in groups."
 image: "/assets/images/emergent-dialogue-header.png"
 start: "2023-07-08"
 end: "2023-07-18"
 facilitators:
   - "Elizabeth Debold"
   - "Thomas Steininger"
-location: "The Life Itself Praxis Hub, Bergerac, France"
-cost: "€ or $2,150.00 - Early bird registration until May 15: € or $ 1750.00"
+location: "Life Itself Praxis Hub, Bergerac, France"
+cost: "$/€2,150 (Early bird registration until May 15 €1750)"
 apply-button: "https://evolve-world.org/summer-2023/"
 created: 2023-04-13
 ---
