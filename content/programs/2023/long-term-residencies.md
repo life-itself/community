@@ -1,6 +1,6 @@
 ---
 title: "Long-term residencies, October 2023"
-description: "In this residency we will inquire into how an extreme citizen science of contemplation can be built, bringing together the wisdom of ancient contemplative practices and the rigor of modern scientific methodologies."
+description: "This October 2023, the Bergerac Praxis Hub is initiating a long-term residency program that fuses the contemplative atmosphere of a monastery with the intellectual curiosity of a university. Designed for those drawn to a metamodern path, the 3 to 6-month program encourages conscious co-living and engagement in an ecology of practices like shared cooking and mindful sitting. Our goal is to forge a platform for the cultivation and investigation of both personal and collective practices."
 image: "/assets/images/august-2023-residency-bergerac.jpg"
 start: "2023-10-01"
 end: "2023-12-31"
@@ -9,7 +9,7 @@ facilitators:
   - "Valerie Duveauchelle"
   - "Liu Bauer"
 location: "The Life Itself Praxis Hub, Bergerac, France"
-cost: "Average of €650 per month, plus a €390 monthly contribution towards food"
+cost: "Monthly cost ranging 650-1050€ per room and €450 for food"
 apply-button: "https://docs.google.com/forms/d/e/1FAIpQLSdiykDKyZR6DgtPKeYuNePy9sWc-qkIc4BVfKBRjkFWKvFp-g/viewform"
 created: 2023-06-23
 ---
