@@ -34,11 +34,6 @@ Located just a few steps from the river and a serene park, this space is a one-o
 
 The gorgeous view of the Dordogne from just outside the house.
 
-![](/assets/images/20200717_072527-800x1024.jpg)
-
-The view of the Hub from the garden.
-
-
 ### The Praxis Lab 
 
 The Bergerac Hub is a unique junction for people to explore innovative ways of relating to one another and the world. It's an experimental ground for self-growth, creativity, and spiritual endeavors within a nurturing structure, blending monastic and secular elements. This structure assists in cultivating a more connected and expansive lifestyle, establishing a fresh paradigm of existence.
