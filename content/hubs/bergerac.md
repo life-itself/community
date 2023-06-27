@@ -24,8 +24,6 @@ Residencies combine both an activating frame of collective practices (sitting me
 * **How much does it cost?** A typical room costs between €650 (basic room) and €1,050 (premium double room) per month / per person. In addition, the daily food costs are 18 euros per person, with a unique Zen food experience prepared by our in-house Tenzo (head cook). More information on rooms can be found [here](https://docs.google.com/document/d/1PBijDdlRAECvE19Nxo1fOEcq2foGJVeERZVxzIs6b9U/edit?usp=sharing). Facilitation fees may apply for the residencies. Some rooms can be shared at a reduced rate.
 * **More questions?** If you have more questions or are interested to visit us outside of the residencies and participate in our Praxis ecology please contact us at praxishub@lifeitself.org. We propose rooms for a minimum stay of 3 nights.
 
-
-
 ## About the Praxis Hub
 
 Located just a few steps from the river and a serene park, this space is a one-of-a-kind setting comprising three small buildings. An old French palazzo, where traces of the past engage us in a heteroclite manner, adds to the unique atmosphere. It is the perfect place for deep exploration amidst its atmospheric surroundings.
