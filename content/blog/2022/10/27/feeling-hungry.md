@@ -1,5 +1,5 @@
 ---
-title: "Tenzo note #1: hunger in community"
+title: "Tenzo Note #1: Feeling Hungry"
 created: 2022-10-27
 categories: 
   - community
