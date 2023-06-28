@@ -1,5 +1,5 @@
 ---
-title: "The Transformative Effect of Cooking Together"
+title: "Tenzo Note 6: The Transformative Effect of Cooking Together"
 created: 2023-04-29
 categories: 
   - conscious-food
