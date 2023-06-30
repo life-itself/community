@@ -1,11 +1,11 @@
 ---
-title: "Food, Touch & Care - Community Call with Madelaine Ley"
+title: "Regain Your Touch: Tech, Food & Care with Madelaine Ley"
 created: 2023-03-17
 categories: 
   - "community call"
 authors:
   - nathen-fitchen
-image: /assets/images/blog-image-food-touch-and-care.jpg
+image: /assets/images/regain-your-touch-tech-food-care-madelaine-ley.jpg
 ---
 
 The talk I gave to the Life Itself community group came to me whole and in full sentences. My job was simply to write it down and share it. Below you’ll find what came to me, which you can also watch in the video. 
