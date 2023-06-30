@@ -16,7 +16,7 @@ We are delighted to invite Fabienne Vailes to join us for our next community cal
 
 In this discussion we will explore the future of education. The current education system failed us, so what are we gonna do about it? Fabienne brings a grounded and pragmatic approach to modern education with her Flourishing Student Model. 
 
-Fabienne Vailes is a prominent UK expert in emotional and mental well-being within the education sector. With over 20 years of experience, she is dedicated to integrating well-being into the curriculum and creating environments where students and staff flourish. Fabienne is an author, speaker, and researcher, known for her groundbreaking Flourishing Student Model. She has extensive teaching experience across various educational levels and is an advocate for innovative scholarship. Additionally, Fabienne has advised on mental well-being in healthcare and holds qualifications in NLP, coaching, mindfulness, and hypnosis.
+Fabienne is first of all a mother of two teenage boys aged 15 and 13. She is also an Author, Educator, Podcaster and Researcher (PhD Candidate) exploring how individuals, communities and the planet ALL flourish; one imperfectly perfect conversation at a time. Additionally, she is co-founder of Streams Learning Hub for teenagers in Bristol, bringing a whole range of local in-person and global online opportunities.
 
 You can learn about Fabienne on her website: https://flourishingeducation.co.uk/ 
 
