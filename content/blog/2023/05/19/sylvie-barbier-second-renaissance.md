@@ -1,11 +1,11 @@
 ---
-title: "Community Call: Second Renaissance with Sylvie Barbier"
+title: "Are We Experiecing The Second Renaissance? with Sylvie Barbier"
 created: 2023-06-02
 authors: 
   - sylvieshiweibarbier
 categories: 
   - community-call
-image: /assets/images/sylvie-community-call.jpg
+image: /assets/images/the-second-renaissance-sylvie-barbier.png
 ---
 
 >This video is part of a series of discussions carried out within the Life Itself community. To get involved please join the Life Itself [Whatsapp Chat](https://chat.whatsapp.com/JNJCTZugNQn)

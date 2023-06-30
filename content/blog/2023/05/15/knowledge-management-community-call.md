@@ -1,15 +1,14 @@
 ---
-title: "Enhancing Personal Well-being through Knowledge Management - Community Call with Dion Shattuck"
+title: "Enhancing Personal Well-being through Knowledge Management with Dion Shattuck"
 created: 2023-05-15
 categories: 
   - "community-call"
 authors: 
   - zaibul-nisa
-image: /assets/images/posing-questions-with-dion.jpg
+image: /assets/images/enhancing-personal-wellbeing-with-knowledge-management-dion-shattuck.jpg
 ---
 
 >This video is part of a series of discussions carried out within the Life Itself community. To get involved please join the Life Itself [Whatsapp Chat](https://chat.whatsapp.com/JNJCTZugNQn)
-
 
 In today's fast-paced world, we are constantly bombarded with information and decisions to make. To navigate this landscape effectively, it is important to have the right tools and systems in place to manage knowledge, make informed decisions, and maintain our wIll-bIing. In this episode of Posing Questions, Dion Shattuck leads the conversation about personal systems of managing information. 
 
