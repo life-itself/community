@@ -1,7 +1,7 @@
 ---
 title: "Long-term residencies, October 2023"
 description: "This October 2023, the Bergerac Praxis Hub is initiating a long-term residency program that fuses the contemplative atmosphere of a monastery with the intellectual curiosity of a university. Designed for those drawn to a metamodern path, the 3 to 6-month program encourages conscious co-living and engagement in an ecology of practices like shared cooking and mindful sitting. Our goal is to forge a platform for the cultivation and investigation of both personal and collective practices."
-	image: "/assets/images/long-term-residency (1).jpg"
+image: "/assets/images/long-term-residency (1).jpg"
 start: "2023-10-01"
 end: "2023-12-31"
 facilitators:
