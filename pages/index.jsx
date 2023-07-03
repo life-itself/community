@@ -65,7 +65,7 @@ export default function Home({ posts, keyWritings, keyInitiatives, upcomingResid
                         <div>
                           <div className="mt-3 sm:ml-3 sm:mt-0">
                             <button
-                              className="block flex w-full rounded-md bg-secondary px-4 py-3 font-medium text-primary shadow focus:outline-none focus:ring-2 focus:ring-primary"
+                              className="block flex justify-center w-full rounded-md bg-secondary px-4 py-3 font-medium text-primary shadow focus:outline-none focus:ring-2 focus:ring-primary"
                               form="sib-form"
                               type="submit"
                             >
