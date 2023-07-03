@@ -29,60 +29,64 @@ export default function Home({ posts, keyWritings, keyInitiatives, upcomingResid
             <div className="mt-10 sm:mt-12">
 
               <link rel="stylesheet" href="https://sibforms.com/forms/end-form/build/sib-styles.css" />
-              <div className="sib-form sm:!w-full sm:!max-w-md !mt-12 lg:!mt-0 lg:!ml-16 !p-0 lg:flex-1">
-                <div id="sib-form-container" className="sib-form-container !font-sans">
-                  <div id="sib-container" className="sib-container--large sib-container--vertical !p-0 !bg-transparent">
+              <div className="!p-0 sib-form">
+                <div
+                  id="sib-form-container"
+                  className="sm:mx-auto sm:max-w-xl lg:mx-0"
+                >
+                  <div id="sib-container" className="!p-0 !mb-3">
                     <form
                       id="sib-form"
                       method="POST"
                       action="https://1ebb0834.sibforms.com/serve/MUIEAHv8u1djsSIFAN7v4df8mi9xwfEWx_Lb1IsVhMTHmyWKns1oCWFTrJDN_8hj5kudlUMKTIbltfsV_UlYPq9FlNqAc0jVlyZCzmfHwI7ZrgYp2zVD4WcsCS1C76szNm16870ol677kE0fuRYr4L-v6bdsC7JvdpPMVRjMyfxYy93APXfDhXwqrXCVg_CTiCG6zQZTgK2om-L6"
                       data-type="subscription"
                     >
-                      <div>
-                        <div className="sib-input sib-form-block !p-0">
-                          <div className="form__entry entry_block">
-                            <div className="form__label-row ">
-                              <div className="entry__field !rounded-md">
-                                <input
-                                  className="input w-full !rounded-md !border-white !px-5 !py-1 !placeholder-gray-500 !focus:outline-none !focus:ring-2 focus:!ring-white focus:!ring-offset-2 focus:!ring-offset-secondary"
-                                  type="text"
-                                  id="EMAIL"
-                                  name="EMAIL"
-                                  autoComplete="off"
-                                  placeholder="Enter your email"
-                                  data-required="true"
-                                  required=""
-                                />
+                      <div className="sm:flex items-center">
+                        <div className="min-w-0 flex-1">
+                          <div className="sib-input sib-form-block !p-0">
+                            <div className="form__entry entry_block">
+                              <div className="form__label-row ">
+                                <div className="entry__field !rounded-md">
+                                  <input
+                                    className="input w-full !rounded-md !border-white !px-5 !py-1 !placeholder-gray-500 !focus:outline-none !focus:ring-2 focus:!ring-white focus:!ring-offset-2 focus:!ring-offset-secondary"
+                                    type="text"
+                                    id="EMAIL"
+                                    name="EMAIL"
+                                    placeholder="Enter your email"
+                                    data-required="true"
+                                    required=""
+                                  />
+                                </div>
                               </div>
+                              <label className="!hidden entry__error entry__error--primary font-sm text-left text-[#661d1d]"></label>
                             </div>
-                            <label className="entry__error entry__error--primary font-sm text-left text-[#661d1d]"></label>
                           </div>
                         </div>
-                      </div>
-                      <div>
-                        <div className="sib-form-block !p-0 lg:!px-8">
-                          <button
-                            className="sib-form-block__button sib-form-block__button-with-loader !flex w-full items-center justify-center !rounded-md border border-transparent bg-primary disabled:bg-primary/80 !px-5 !py-3 !text-base !font-medium !text-white focus:!outline-none focus:!ring-2 focus:!ring-white focus:!ring-offset-2 focus:!ring-offset-primary !my-2 lg:!my-8"
-                            form="sib-form"
-                            type="submit"
-                          >
-                            <svg
-                              className="icon clickable__icon progress-indicator__icon sib-hide-loader-icon"
-                              viewBox="0 0 512 512"
+                        <div>
+                          <div className="mt-3 sm:ml-3 sm:mt-0">
+                            <button
+                              className="block flex w-full rounded-md bg-secondary px-4 py-3 font-medium text-primary shadow focus:outline-none focus:ring-2 focus:ring-primary"
+                              form="sib-form"
+                              type="submit"
                             >
-                              <path d="M460.116 373.846l-20.823-12.022c-5.541-3.199-7.54-10.159-4.663-15.874 30.137-59.886 28.343-131.652-5.386-189.946-33.641-58.394-94.896-95.833-161.827-99.676C261.028 55.961 256 50.751 256 44.352V20.309c0-6.904 5.808-12.337 12.703-11.982 83.556 4.306 160.163 50.864 202.11 123.677 42.063 72.696 44.079 162.316 6.031 236.832-3.14 6.148-10.75 8.461-16.728 5.01z" />
-                            </svg>
-                            Subscribe
-                          </button>
+                              <svg
+                                className="hidden icon clickable__icon progress-indicator__icon sib-hide-loader-icon"
+                                viewBox="0 0 512 512"
+                              >
+                                <path d="M460.116 373.846l-20.823-12.022c-5.541-3.199-7.54-10.159-4.663-15.874 30.137-59.886 28.343-131.652-5.386-189.946-33.641-58.394-94.896-95.833-161.827-99.676C261.028 55.961 256 50.751 256 44.352V20.309c0-6.904 5.808-12.337 12.703-11.982 83.556 4.306 160.163 50.864 202.11 123.677 42.063 72.696 44.079 162.316 6.031 236.832-3.14 6.148-10.75 8.461-16.728 5.01z" />
+                              </svg>
+                              Sign up
+                            </button>
+                          </div>
                         </div>
+                        <input
+                          type="text"
+                          name="email_address_check"
+                          defaultValue=""
+                          className="input--hidden"
+                        />
+                        <input type="hidden" name="locale" defaultValue="en" />
                       </div>
-                      <input
-                        type="text"
-                        name="email_address_check"
-                        defaultValue=""
-                        className="input--hidden"
-                      />
-                      <input type="hidden" name="locale" defaultValue="en" />
                     </form>
                   </div>
                   <div
@@ -141,37 +145,13 @@ export default function Home({ posts, keyWritings, keyInitiatives, upcomingResid
               }} />
               <Script src="https://sibforms.com/forms/end-form/build/main.js" />
 
-              {/* <form action="#" className="sm:mx-auto sm:max-w-xl lg:mx-0"> */}
-              {/*   <div className="sm:flex"> */}
-              {/*     <div className="min-w-0 flex-1"> */}
-              {/*       <label htmlFor="email" className="sr-only"> */}
-              {/*         Email address */}
-              {/*       </label> */}
-              {/*       <input */}
-              {/*         id="email" */}
-              {/*         type="email" */}
-              {/*         placeholder="Enter your email" */}
-              {/*         className="block w-full rounded-md border-0 px-4 py-3 text-base text-primary placeholder-gray-500 ring-1 ring-primary focus:outline-none focus:ring-2 focus:ring-primary" */}
-              {/*       /> */}
-              {/*     </div> */}
-              {/*     <div className="mt-3 sm:ml-3 sm:mt-0"> */}
-              {/*       <button */}
-              {/*         type="submit" */}
-              {/*         className="block w-full rounded-md bg-secondary px-4 py-3 font-medium text-primary shadow focus:outline-none focus:ring-2 focus:ring-primary" */}
-              {/*       > */}
-              {/*         Sign Up */}
-              {/*       </button> */}
-              {/*     </div> */}
-              {/*   </div> */}
-              {/* </form> */}
-
             </div>
           </div>
         </div>
         <div className="relative h-64 w-full sm:h-72 md:h-96 lg:absolute lg:inset-y-0 lg:right-0 lg:w-1/2 lg:h-full">
           <img className="absolute inset-0 mx-auto h-full object-fit" src="/assets/lifeitself-landingpage.webp" alt="" />
         </div>
-      </section>
+      </section >
 
       <Collaborators />
 
