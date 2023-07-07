@@ -47,6 +47,6 @@ I am quiet and still surfing the waves of experience. These beings, who have bec
 
 I keep on taking it all in — the lamps still glowing overhead, the hum of the traffic outside, the snippets of conversation threading their way from the hallway. I suppose this is no stranger than waking up in your own biological family — people you also never chose, but who are nevertheless with you through all of it.
 
-![](/assets/images/1*3gwJwhGGMcwCk7Qbn4JRnA.png)
+![](/assets/images/13gwJwhGGMcwCk7Qbn4JRnA.png)
 
 _To learn more about Life Itself, The Berlin Hub, and our micro-culture projects to spark societal transformation towards a radically wiser world, visit [lifeitself.org/hubs/berlin.](https://lifeitself.org/hubs/berlin/)_
