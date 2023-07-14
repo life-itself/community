@@ -47,6 +47,18 @@ const people = [
     bio: "As Hub manager Ilja makes sure the residents of the Berlin Hub have everything they need to be a living example of a wiser, weller world (and enjoy themselves while they’re at it). He combines knowledge in areas such as sustainability and facilitation with a generous curiosity for life.",
     imageUrl: "assets/site/team/Ilja-profile.jpeg"
   },
+  {
+    name: "Boaz B. Feldman",
+    role: "Deliberately Developmental Space Researcher",
+    bio: "Boaz is a practical visionary, a clinical psychologist and trainer, a Dharma teacher and transdisciplinary researcher acting for personal and political empowerment. He has worked with numerous international organisations (UNOCHA, WHO, Doctors Without Borders) in a variety of humanitarian contexts and conflict-affected regions. Boaz first ordained as a Buddhist Monk in Thailand in 2004, studied MBCT/MBSR at University of Oxford/Bangor, has over 7 years of compounded retreat experience and graduated from the Bodhi College Teacher Training program and now leads meditation retreats across Europe. He assisted Somatic Experiencing trainings and taught as the main faculty in Europe for Organic Intelligence, and founded NeuroSystemics, a Swiss-based NGO providing somatically-centred multi-level capacity building around the world. He is an Associate at Life Itself Research.",
+    imageUrl: "assets/site/team/profile-pic-boaz.jpg"
+  },
+  {
+    name: "Matthew McCarthy",
+    role: "Research Assistant",
+    bio: "Matthew is a transdisciplinary researcher at Life Itself. He also works closely with CLEA, where he helps to coordinate the systemic modelling group and explores how to model complex processes. He studied urban studies at Vrije Universiteit Brussel, and is primarily focused on both developing and strengthening the knowledge networks to help transition to a more open, stable, and meaningful world.",
+    imageUrl: "assets/site/team/profile-pic-mathew.jpg"
+  },
 ]
 
 const pioneers = [
