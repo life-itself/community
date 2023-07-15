@@ -27,7 +27,7 @@ These calls are open for anyone to join. If you’re interested in participating
 
 These are the notes for the short talk at the start of the monthly forum.
 
-![[../excalidraw/research-community-intro-diagram-2023-04-10.excalidraw.svg]]
+![[research-community-intro-diagram-2023-04-10.excalidraw.svg]]
 
 
 
@@ -64,7 +64,7 @@ Here's one specific example that already shape our view on what paths we think a
 
 ## Part II: Sketches of a research program for a wiser world and an awakening society
 
-![[../excalidraw/research-topical-map-2023-01-14.excalidraw.svg]]
+![[research-topical-map-2023-01-14.excalidraw.svg]]
 
 ### Foundations
 
