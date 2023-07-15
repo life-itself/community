@@ -6,7 +6,7 @@ export default function getBlogs(slicedPosts = 30) {
   const blogs = allBlogs.filter(post => !post.isDraft)
     .map(post => ({
       ...post,
-      authors: authors.filter(author => post.authors.includes(author['id'])) ?? [siteConfig.author]
+      authors: authors.filter(author => post.authors?.includes(author['id'])) ?? [siteConfig.author]
     }))
     .sort((a, b) => new Date(b.created) - new Date(a.created))
 
