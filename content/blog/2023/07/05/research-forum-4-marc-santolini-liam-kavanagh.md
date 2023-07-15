@@ -1,5 +1,5 @@
 ---
-title: "Upcoming research forum with Marc Santolini and Liam Kananagh: Collaborative Citizen Science"
+title: "Upcoming research forum with Marc Santolini and Liam Kavanagh: Collaborative Citizen Science"
 created: 2023-07-05
 authors: 
   - nathen-fitchen
