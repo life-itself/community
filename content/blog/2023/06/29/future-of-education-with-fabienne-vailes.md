@@ -1,6 +1,6 @@
 ---
-title: "Upcoming community call: the future of education with Fabienne Vailes"
-created: 2023-06-29
+title: "Flourishing Education: The Future of Education with Fabienne Vailes"
+created: 2023-07-15
 authors: 
   - nathen-fitchen
 categories: 
@@ -8,16 +8,26 @@ categories:
 image: /assets/images/fabienne-vailes-community-calll.jpg
 ---
 
-**Our next community call is on Wednesday 12th July at 7:30pm CET.**
+In this discussion we explore the future of education. The current education system failed us, so what are we gonna do about it? Fabienne brings a grounded and pragmatic approach to modern education with her Flourishing Student Model. 
 
-[REGISTER HERE](https://us02web.zoom.us/meeting/register/tZEldOqurTooH9aXImvNmoG2cRwtSCUix6zn)
+## The Conversation
 
-We are delighted to invite Fabienne Vailes to join us for our next community call.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ch7IfxvA9Tk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-In this discussion we will explore the future of education. The current education system failed us, so what are we gonna do about it? Fabienne brings a grounded and pragmatic approach to modern education with her Flourishing Student Model. 
+Participants engaged in a discussion and mutually explored the urgent need for change in education systems worldwide. They emphasised the importance of empowering individuals to navigate their educational and career paths based on their values and aspirations. The discussion highlighted the limitations of the traditional approach, which often leads to dissatisfaction and a lack of fulfilment later in life. Instead, participants advocated for cultivating self-awareness and values as a foundation for decision-making.
 
-Fabienne is first of all a mother of two teenage boys aged 15 and 13. She is also an Author, Educator, Podcaster and Researcher (PhD Candidate) exploring how individuals, communities and the planet ALL flourish; one imperfectly perfect conversation at a time. Additionally, she is co-founder of Streams Learning Hub for teenagers in Bristol, bringing a whole range of local in-person and global online opportunities.
+The dialogue sheds light on the evolving landscape of education, emphasising the growing mismatch between traditional schooling and the skills required for the future job market. The consensus among the participants was that a paradigm shift is necessary, which should focus on fostering curiosity, creativity, and lifelong learning. Neuroscience emerges as a valuable field of study, empowering students to optimize their learning experiences and develop a deeper understanding of themselves.  
 
-You can learn about Fabienne on her website: https://flourishingeducation.co.uk/ 
+The participants expressed the need to involve young people in shaping the education system, recognising their unique needs and aspirations. they proposed a culture of collaboration, connection, and curiosity, valuing the input of young individuals. A blended approach combining online connections and localised, in-person interactions are crucial in building flourishing communities and supporting holistic development.
+
+The conversation extends to creating supportive environments that celebrate diverse individual journeys. The participants highlight the importance of curated resources and authentic connections, emphasising the power of relationships and encounters in shaping one's path. They envision a collective space that connects innovators and disruptors in education, facilitating collaboration and the exchange of ideas.
+
+In conclusion, the podcast conversation underscores the need for transformation in education systems. By empowering individuals to navigate their unique patterns, fostering self-awareness, and embracing lifelong learning, a transformative landscape of education can be created. The participants emphasise the significance of authentic connections, localised engagements, and collective efforts in nurturing flourishing communities. By embracing change and valuing individuality, education can become a catalyst for personal growth and contribute to a more compassionate and holistic world.
+
+## About Fabienne Vailes
+
+>Fabienne is first of all a mother of two teenage boys aged 15 and 13. She is also an Author, Educator, Podcaster and Researcher (PhD Candidate) exploring how individuals, communities and the planet ALL flourish; one imperfectly perfect conversation at a time. Additionally, she is co-founder of Streams Learning Hub for teenagers in Bristol, bringing a whole range of local in-person and global online opportunities.
+
+>You can learn about Fabienne on her website: https://flourishingeducation.co.uk/ 
 
 
