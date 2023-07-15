@@ -10,7 +10,7 @@ description: The first Life Itself Research Hackathon takes on on Saturday 3rd J
 showToc: true
 ---
 
-We are excited to announce the first **Life Itself Research Hackathon**, a chance to come together to work on projects and ideas connected with the [[../../../../research|Life Itself Research Community]]. It will take place on Saturday 3rd June 2023 ([what's a hackathon?](#what-is-a-hackathon)).
+We are excited to announce the first **Life Itself Research Hackathon**, a chance to come together to work on projects and ideas connected with the [[content/research|Life Itself Research Community]]. It will take place on Saturday 3rd June 2023 ([what's a hackathon?](#what-is-a-hackathon)).
 
 Our focus will be **prototyping introductory reading lists, curricula and knowledge maps** for the key ideas and concepts related to bringing forth a radically wiser, weller world 🌍 -- [read more below 👇](#theme-for-the-hackathon).
 

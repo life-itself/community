@@ -4,7 +4,8 @@ description: "Coalescing a field of 'deliberately developmental' programs, espec
 start: 2023-05
 team: 
  - rufuspollock
- - Boaz Feldman
+ - boaz-feldman
+ - matthew-mccarthy
  - catherine-tran
 status: active
 created: 2023-06-15
