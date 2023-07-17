@@ -17,8 +17,6 @@ image: /assets/images/conscious-coliving-101-header.jpg
 
 [Sign up to get the 6 day course here](https://1ebb0834.sibforms.com/serve/MUIFAEMNLI7kXyNKD5KccUjcoyWejikMsK__uqdgAYC1YQpABFgJ8LDvU01YLMKddnA2CXM5XjjHpR_5Beg96j8Xl5jd5COsgJWLYKxE-2WKCOcafCgQeuS3J-RksmJXbhh94kHiYTaWDvGQZ2OXctLjvg9Fk-sSM5e4nsFdlyqDxT2ZulDDgfQtgdGxuRfQD38rHOiq5NNNIUcm)
 
-<a href="https://1ebb0834.sibforms.com/serve/MUIFAEMNLI7kXyNKD5KccUjcoyWejikMsK__uqdgAYC1YQpABFgJ8LDvU01YLMKddnA2CXM5XjjHpR_5Beg96j8Xl5jd5COsgJWLYKxE-2WKCOcafCgQeuS3J-RksmJXbhh94kHiYTaWDvGQZ2OXctLjvg9Fk-sSM5e4nsFdlyqDxT2ZulDDgfQtgdGxuRfQD38rHOiq5NNNIUcm"> <button style="background-color: #fbde58; color: black; font-size: 24px; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">Sign up to get the free 6 day course here</button> </a> 
-
 ## Still want more information? Here is a brief overview of what is included in each day:
 **Day #1:** Out with the old and in with the new - our way of life is changing<br>
 **Day #2:** Conscious coliving as a modern method of living and 8 coliving myths busted<br>
