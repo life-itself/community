@@ -1,8 +1,8 @@
 ---
 title: "Conscious Coliving 101 - Learn How to Live a More Connected Life"
 description: "Our fantastic free course guides you to a fresh and alternative way of living, one that can fulfill your deepest needs and desires."
-image: /assets/images/conscious-coliving-101-header.jpg
 ---
+![[conscious-coliving-101-header.jpg]]
 
 ## Our fantastic free course guides you to a fresh and alternative way of living, one that can fulfil your deepest needs and desires.
 
