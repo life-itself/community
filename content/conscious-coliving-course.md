@@ -26,8 +26,6 @@ description: "Our fantastic free course guides you to a fresh and alternative wa
 🔥 Gain new insights into the benefits and challenges of consciously coliving<br/>
 🔥 Know the next steps and how to find conscious coliving situations suited to you
 
-[Sign up to get the 6 day course here](https://1ebb0834.sibforms.com/serve/MUIFAEMNLI7kXyNKD5KccUjcoyWejikMsK__uqdgAYC1YQpABFgJ8LDvU01YLMKddnA2CXM5XjjHpR_5Beg96j8Xl5jd5COsgJWLYKxE-2WKCOcafCgQeuS3J-RksmJXbhh94kHiYTaWDvGQZ2OXctLjvg9Fk-sSM5e4nsFdlyqDxT2ZulDDgfQtgdGxuRfQD38rHOiq5NNNIUcm)
-
 ## Still want more information? Here is a brief overview of what is included in each day:
 **Day #1:** Out with the old and in with the new - our way of life is changing<br/>
 **Day #2:** Conscious coliving as a modern method of living and 8 coliving myths busted<br/>
@@ -36,5 +34,4 @@ description: "Our fantastic free course guides you to a fresh and alternative wa
 **Day #5:** The 10 commandments for conscious coliving<br/>
 **Day #6:** What to do next
 
-[Sign up to get the 6 day course here](https://1ebb0834.sibforms.com/serve/MUIFAEMNLI7kXyNKD5KccUjcoyWejikMsK__uqdgAYC1YQpABFgJ8LDvU01YLMKddnA2CXM5XjjHpR_5Beg96j8Xl5jd5COsgJWLYKxE-2WKCOcafCgQeuS3J-RksmJXbhh94kHiYTaWDvGQZ2OXctLjvg9Fk-sSM5e4nsFdlyqDxT2ZulDDgfQtgdGxuRfQD38rHOiq5NNNIUcm)
-  
+<iframe width="100%" height="450" src="https://1ebb0834.sibforms.com/serve/MUIFAOso-SX7OifkoXx43i3VzdDNFwIR8Gke86CrqXpUcRHphjtkPHtG6K-euDz2g_JamcDkQ_xLNyMBExHWE5VDUe6TfohLpz9br9yh6E8Zk4B85wuBIpI2mnhsnqf3-BXzuDOGOYS_InrUkSx7AP7rgUcwKhAAo1iWI2wQn1tSJTgJzIxiOKaPOxoB4llboNoF8xn8hEb6IVQa" frameBorder="0" scrolling="auto" allowFullScreen style={{display: "block",marginLeft: "auto",marginRight: "auto",maxWidth: "100%"}}></iframe>
