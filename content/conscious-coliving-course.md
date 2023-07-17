@@ -26,7 +26,7 @@ description: "Our fantastic free course guides you to a fresh and alternative wa
 🔥 Gain new insights into the benefits and challenges of consciously coliving<br/>
 🔥 Know the next steps and how to find conscious coliving situations suited to you
 
-## Still want more information? Here is a brief overview of what is included in each day:
+## Here is a brief overview of what is included in each day:
 **Day #1:** Out with the old and in with the new - our way of life is changing<br/>
 **Day #2:** Conscious coliving as a modern method of living and 8 coliving myths busted<br/>
 **Day #3:** 9 benefits of conscious coliving and 4 challenges to overcome (and why overcoming them might be benefit #10)<br/>
