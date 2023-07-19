@@ -4,7 +4,7 @@ created: 2022-12-15
 categories: 
   - residency
 authors: 
-  - eilidhross
+  - catherine-tran
 image: /assets/images/Blog-Feature-Images-36.jpg
 ---
 
@@ -50,6 +50,6 @@ We are grateful to everyone who contributed resources – time, money, energy, e
 
 #### _More from Life Itself_
 
-https://lifeitself.org/2022/09/29/update-from-the-bergerac-hub-embodying-collective-transformation/
+https://lifeitself.org/blog/2022/09/29/update-from-the-bergerac-hub-embodying-collective-transformation/
 
-https://lifeitself.org/2022/11/11/embodying-collective-transformation-transform-what/
+https://lifeitself.org/blog/2022/11/11/embodying-collective-transformation-transform-what/

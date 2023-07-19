@@ -4,7 +4,7 @@ created: 2022-09-29
 categories: 
   - residency
 authors: 
-  - eilidhross
+  - catherine-tran
 image: /assets/images/Blog-Feature-Images-31.jpg
 ---
 
@@ -80,6 +80,6 @@ Here are a few reflections from our Open Space Harvest Board, where members of t
 
 #### _More from Life Itself_
 
-https://lifeitself.org/2022/09/15/vipassana-meditation-a-sensational-detachment/
+https://lifeitself.org/blog/2022/09/15/vipassana-meditation-a-sensational-detachment/
 
-https://lifeitself.org/2022/08/09/jeremy-lent-on-interconnection-shifting-worldviews/
+https://lifeitself.org/blog/2022/08/09/jeremy-lent-on-interconnection-shifting-worldviews/

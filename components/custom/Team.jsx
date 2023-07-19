@@ -18,12 +18,6 @@ const people = [
     imageUrl: "assets/site/team/liam-Cropped.jpeg"
   },
   {
-    name: "Theo Cox",
-    role: "Head of Labs",
-    bio: "Theo read Politics, Philosophy and Economics at the University of Oxford, and holds an MSc in Development Studies from the London School of Economics. His single greatest drive is to do the most good he can in the world, resulting in his spending probably a bit too much time ruminating on what it means to live a good life. When he’s not philosophising Theo is an avid martial artist, having competed in both western boxing and muay Thai and also regularly training in Brazilian jiujitsu. Despite his love of fighting he remains a committed pacifist in his day to day life, and is just as confused by this seeming contradiction as everyone else.",
-    imageUrl: "assets/site/team/Theo-bio.jpeg"
-  },
-  {
     name: "Nathen Fitchen",
     role: "Communications",
     bio: "Nathen Fitchen is a digital marketing expert who works specifically with social enterprises and non-profits creating a better future. He is the co-founder of Wildfeet Productions, a digital media group and is a full-time digital nomad. On his travels he has lived in many communities, co-living spaces and other alternative living situations. He is a trained permaculture designer and has a degree in Earth Sciences from University College London. He loves outdoor adventure sports, cooking, and caring for animals.",
@@ -57,7 +51,7 @@ const people = [
     name: "Matthew McCarthy",
     role: "Research Assistant",
     bio: "Matthew is a transdisciplinary researcher at Life Itself. He also works closely with CLEA, where he helps to coordinate the systemic modelling group and explores how to model complex processes. He studied urban studies at Vrije Universiteit Brussel, and is primarily focused on both developing and strengthening the knowledge networks to help transition to a more open, stable, and meaningful world.",
-    imageUrl: "assets/site/team/profile-pic-mathew.jpg"
+    imageUrl: "assets/site/team/profile-pic-matthew.jpg"
   },
 ]
 
@@ -140,6 +134,12 @@ const contributors = [
 ]
 
 const alumni = [
+    {
+    name: "Theo Cox",
+    role: "Head of Labs",
+    bio: "Theo read Politics, Philosophy and Economics at the University of Oxford, and holds an MSc in Development Studies from the London School of Economics. His single greatest drive is to do the most good he can in the world, resulting in his spending probably a bit too much time ruminating on what it means to live a good life. When he’s not philosophising Theo is an avid martial artist, having competed in both western boxing and muay Thai and also regularly training in Brazilian jiujitsu. Despite his love of fighting he remains a committed pacifist in his day to day life, and is just as confused by this seeming contradiction as everyone else.",
+    imageUrl: "assets/site/team/Theo-bio.jpeg"
+  },
   {
     name: "Jonathan Ekstrom",
     role: "Scientist",
