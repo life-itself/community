@@ -1,5 +1,5 @@
 ---
-title: "The Bergerac Hub"
+title: "The Bergerac Praxis Hub"
 created: 2020-09-28
 authors: 
   - artearthtech
