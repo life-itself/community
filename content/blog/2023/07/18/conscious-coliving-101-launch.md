@@ -14,7 +14,7 @@ Community also create a space for innovation, a possibility for people to come t
 
 With that in mind we have spent the last month creating a free introductory course about conscious coliving. This 6-day email mini-course is for people who are considering or have just begun to live in community and are ready to dive deeper into consciously coliving. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9FE9queHUEw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8zAggUvGjDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Course Curriculum 
 
