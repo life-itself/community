@@ -2,7 +2,9 @@
 title: "Conscious Coliving 101 - Learn How to Live a More Connected Life"
 description: "Our fantastic free course guides you to a fresh and alternative way of living, one that can fulfill your deepest needs and desires."
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9FE9queHUEw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8zAggUvGjDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 ## Our fantastic free course guides you to a fresh and alternative way of living, one that can fulfil your deepest needs and desires.
 
