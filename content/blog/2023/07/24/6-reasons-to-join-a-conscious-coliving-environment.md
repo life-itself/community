@@ -2,7 +2,7 @@
 title: "6 Reasons to Join a Conscious Coliving Environment"
 created: 2023-07-24
 authors: 
-  - nathen-fitchen
+  - lauren-wigmore
 categories: 
   - conscious-coliving
 image: /assets/images/conscious-coliving-intentional-community-benefits.jpg
