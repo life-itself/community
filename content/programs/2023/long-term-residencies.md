@@ -44,5 +44,5 @@ and weekly circle sessions. They will also have the opportunity to partake in a 
 at embodying collective transformation.
 
 Ideal candidates are those who resonate with these principles and practices and are ready to explore their impact on a 
-personal and communal level. Interested individuals are encouraged to apply by september 15th, 2023, to join this groundbreaking 
+personal and communal level. Interested individuals are encouraged to apply by september 30th, 2023, to join this groundbreaking 
 venture that emphasizes compassionate living and the engagement in collective practices.
