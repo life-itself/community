@@ -4,7 +4,8 @@ description: "This October 2023, the Bergerac Praxis Hub is initiating a long-te
 image: "/assets/images/long-term-residency (1).jpg"
 start: "2023-10-15"
 end: "2024-1-15"
-facilitators:"Praxis guardians" 
+facilitators:
+- "Praxis guardians" 
 
 location: "The Life Itself Praxis Hub, Bergerac, France"
 cost: "Monthly cost ranging 650-1050€ per room and €450 for food"
