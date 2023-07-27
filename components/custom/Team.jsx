@@ -28,6 +28,12 @@ const people = [
     role: "Generalist",
     bio: "Catherine studied English at the University of Cambridge (UK) before completing a joint M.A. in Cultural Narratives at the University of Guelph (Canada), University of Santiago de Compostela (Spain), and University of Perpignan (France) as an Erasmus Mundus scholar. During her master’s she explored the role that art and literature might play in cultivating ecological responsibility, and she’s interested in what it means to be a responsible human being in a web of interspecies interdependence.",
     imageUrl: "assets/site/team/Catherine-bio.png"
+  }, 
+  {
+    name: "Lauren Wigmore",
+    role: "Communications",
+    bio: "Lauren is a writer and well-being practitioner. She has previous experience managing well-being and educational initiatives. She holds a Masters in Psychological Sciences. Prior to this she was an actress in London. She is a sunshine and inspiration seeking individual, who enjoys learning and connecting with new people and experiences. Plant medicine has a special place in her heart. She loves to laugh and she can often be found on the beach, dancing or doing yoga.",
+    imageUrl: "/assets/site/team/lauren-wigmore-profile-image.jpg"
   },
   {
     name: "Zaibul Nisa",
