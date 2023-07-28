@@ -5,7 +5,7 @@ categories:
   - conscious-food
 authors: 
   - valerie
-images: /assets/images/tenzo-note-9
+images:![[assets/images/tenzo note 9.jpg]]
 ---
 
 Discover the captivating world of the Tenzo, the revered cook in Zen tradition. Valerie Duvauchelle shares the magic of food activism and its power to shape our unique narrative of self. 
@@ -25,8 +25,9 @@ The practice of being a Tenzo is not limited to a particular role or time. It en
 
 The term "Tenzo" comprises two kanji characters that mean "ordering the seats," which refers to giving each thing its proper place. The Tenzo's primary role is to help everyone find their place, which is harmonizing and organically adjusting to what is, being in accord with all phenomena as they arise. It is the place of the interconnected self, even within separate bodies. The Tenzo's contribution is to create porosity in our environment, allowing us to feel deeply touched by everything we encounter. In the act of cooking, the Tenzo reflects what is happening, using seasonally appropriate ingredients as well as incorporating emotions, joys, and tiredness to balance and nourish, in the true sense of the word. This nourishment contributes to a state of readiness for each individual to taste life as it is at that precise moment. The practice entails not favoring one flavor or color over another and caring for all flavors with varying intensities according to the situation (e.g., red and bitter in summer, green and acidic in spring, orange/brown and salty in autumn). Different cooking techniques (raw, cooked, boiled) reflect the diverse offerings, while preserving a calm neutrality amid the assembled polarities. By avoiding binary eating (e.g., salty or sweet), we prevent our minds from becoming binary (liking or disliking) and experiencing frustration. Through the various flavors, textures, and colors, we touch the center space, the silent taste that mysteriously soothes us. However, it's essential to remember that this cuisine can also be as simple as a bowl of rice with a few salted sesame seeds. It is primarily about the practice of being present in each situation and not a culinary dogma. While certain ingredients may be omitted during periods of introspection, such as retreats or funerary ceremonies, in our daily lives, we simply maintain an open conversation with what is present.
 
-![[tenzo 9 2.jpg]]
-_In a buffet style where meals are served on plates, the Tenzo keeps the 3 element base with the variety of colors, texture and savors that each season offers.__
+
+_![[assets/images/tenzo 9 2.jpg]]
+In a buffet style where meals are served on plates, the Tenzo keeps the 3 element base with the variety of colors, texture and savors that each season offers.__
 
 **Is it easy to become and be a female tenzo? Are there any gender-related challenges?**
 
