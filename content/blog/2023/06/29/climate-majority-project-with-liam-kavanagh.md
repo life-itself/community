@@ -1,5 +1,5 @@
 ---
-title: "Upcoming community call: the Climate Majority Project with Liam Kavanagh"
+title: "The Climate Majority Project: Mobilising the Silent Majority with Liam Kavanagh"
 created: 2023-08-01
 authors: 
   - nathen-fitchen
