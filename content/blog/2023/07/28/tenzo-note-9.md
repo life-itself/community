@@ -5,14 +5,13 @@ categories:
   - conscious-food
 authors: 
   - valerie
-images: assets/images/tenzo-note-9.jpg
+images: /assets/images/tenzo-note-9.jpg
 ---
 
 Discover the captivating world of the Tenzo, the revered cook in Zen tradition. Valerie Duvauchelle shares the magic of food activism and its power to shape our unique narrative of self. 
 
 In this post Mark Watson from the Dark Mountain project asks 8 intriguing questions, exploring the Zen origins of this culinary practice and its relevance in our modern reality. Embark on an inspiring journey of self-discovery and culinary wisdom! 🍲🌿🧘‍♀️
 
-**
 **Could you please share a bit about your approach to food and the world as a Tenzo? What kind of space does it occupy, for example?**
 
 The essence of this question carries its answer, as it revolves around the concept of space, an openness that intertwines with the ever-advancing movement of life within us, toward us, and through us. This approach is inseparable from the practice precisely because it is rooted in movement. It is a wholehearted engagement of body and heart in every aspect of life, be it in the kitchen or in our mundane activities. It is about cultivating a relationship that stems from fully committing ourselves to everything we do. As a Tenzo, one practices the art of being present with the situation as it is. While cooking, for instance, the Tenzo simply cooks, immersing themselves in complete openness to whatever unfolds. Throughout the activity, the Tenzo cultivates the presence of "Beingwith": the space, others, ingredients, smells, and sounds. Ultimately, the Tenzo becomes realized, activated, and manifested through all of this, bearing witness to every phenomenon encountered. This space is akin to the dynamic stillness of contemplation, an active absorption where, in the receptive posture of an upright but tension-free sitting, we allow ourselves to be breathed, to be seated, to be lived by everything that arises, including emotions, sensations, and our inner turmoil. Everything is invited without judgment or rejection, and thus, everything is embraced, realized, and attested.
