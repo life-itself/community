@@ -20,13 +20,13 @@ a team of dedicated residents for a 3 to 6-month term. It is open to all who wis
 system-thinkers, researchers, spiritual ecologists, bodhisattvas, change makers, symbiotic entrepreneurs, poets, 
 painters, eco-dharmists, people ready to just be with what comes, good and bad.
 
-In this unique program, residents will engage in a variety of Minimum Viable Practices (MVPs) such as shared cooking, 
-mindful sitting, house care, circling, and gardening. These activities serve as a living laboratory to explore the 
+In this unique proposition, residents will engage in a variety of Minimum Viable Practices (MVPs) such as shared cooking, 
+silent sitting, house care, circling, and gardening. These activities serve as a living laboratory to explore the 
 intersection of individuality and community, challenging traditional perspectives, and cultivating a compassionate, 
 cooperative ethos.
 
 Beyond providing an unconventional living arrangement, the Bergerac Praxis Hub immerses residents 
-in a vibrant community committed to the research and development of innovative practices. 
+in a vibrant community committed to the research and development of innovative practices that our research team documents all year long.  
 Building upon a previous season of sympoesis residencies, where themes like contemplative activism, 
 eco-spirituality, interbeing, collective intelligence, and relational embodiment were explored, these 
 practices are designed to inspire a compassionate lifestyle, ecological balance, and a shift from individual 
@@ -38,7 +38,7 @@ these timeless wisdom to our modern times. This presence brings an additional la
 particularly in relation to the mindful preparation of our shared organic, plant-based meals.
 
 For a monthly cost ranging 650-1050€ for bedding including utilities, plus a €450 monthly contribution for food, consummable and guardianship, 
-residents will be able to contribute to daily collective practices and weekly circle sessions. Participants  are also welcome to share their unique skills, knowledge and other resources with the rest of the community. This autumn, for example, our new resident Emil Ejner Friis will host a weekly talk on metamodernism.
+residents will be able to experience an inspiring  way of living together.Participants  are also welcome to share their unique skills, knowledge and other resources with the rest of the community. This autumn, for example, our new resident Emil Ejner Friis will host a weekly talk on metamodernism.
 
 Ideal candidates are those who resonate with these principles and practices and are ready to explore their impact on a 
 personal and communal level. Interested individuals are encouraged to apply by september 30th, 2023, to join this groundbreaking 
