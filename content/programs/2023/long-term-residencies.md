@@ -30,18 +30,15 @@ in a vibrant community committed to the research and development of innovative p
 Building upon a previous season of sympoesis residencies, where themes like contemplative activism, 
 eco-spirituality, interbeing, collective intelligence, and relational embodiment were explored, these 
 practices are designed to inspire a compassionate lifestyle, ecological balance, and a shift from individual 
-isolation to a sense of supportive community.
-During this long term residency each of the 12 participants will be welcomed to share knowledge  with other residents as Emil Ejner Friis who has already proposed to host once a week talks around mettamodernism. 
+isolation to a sense of supportive community. 
 
 Regarding food, our house Tenzo, Valerie, will guide them through daily cooking practices rooted in the Zen 
 tradition. With a century-long legacy of conscious food practice, Valerie will share her expertise and adapt 
 these timeless wisdom to our modern times. This presence brings an additional layer of knowledge transmission, 
 particularly in relation to the mindful preparation of our shared organic, plant-based meals.
 
-For a monthly cost ranging 650-1050€ for bedding including utilities, plus a €450 monthly contribution towards food, 
-residents will be able to contribute to daily collective practices 
-and weekly circle sessions. They will also have the opportunity to partake in a training program aimed 
-at embodying collective transformation.
+For a monthly cost ranging 650-1050€ for bedding including utilities, plus a €450 monthly contribution for food, consummable and guardianship, 
+residents will be able to contribute to daily collective practices and weekly circle sessions. Participants  are also welcome to share their unique skills, knowledge and other resources with the rest of the community. This autumn, for example, our new resident Emil Ejner Friis will host a weekly talk on metamodernism.
 
 Ideal candidates are those who resonate with these principles and practices and are ready to explore their impact on a 
 personal and communal level. Interested individuals are encouraged to apply by september 30th, 2023, to join this groundbreaking 
