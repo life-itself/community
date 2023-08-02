@@ -10,9 +10,9 @@ image: /assets/images/research-forum-marc-santolini-liam-kavanagh-collaborative-
 
 >This video forms part of our series of [[/research|research community]] monthly fora.
 
-In this call, Marc and Liam lead a discussion on how an extreme citizen science of contemplation can be built, bringing together the wisdom of ancient contemplative practices and the rigor of modern scientific methodologies.
+In this call, Marc and Liam discuss  how an extreme citizen science of contemplation can be built, bringing together the wisdom of ancient contemplative practices and the rigor of modern scientific methodologies.
 
-As Liam points out in the talk, 'Relative truths are the kinds of truths that we can grasp with the intellect, and ultimate truths are the kinds of things that you only see if you let go of intellectual understanding, and a large part of what a lot of what contemplatives puzzle over are these ultimate truths'. Given this distinction, how can contemplatives help guide science? Additionally, how can this be done in a collaborative and meaningful way?
+As Liam points out in the talk, 'Relative truths are the kinds of truths that we can grasp with the intellect, and ultimate truths are the kinds of things that you only see if you let go of intellectual understanding, and a large part of what a lot of contemplatives puzzle over are these ultimate truths'. Given this distinction, how can contemplatives help guide science? Additionally, how can this be done in a collaborative and meaningful way?
 
 More information on the Collaborative Citizen Science Residency can be found here:[Contemplative Citizen Science, September 2023 (lifeitself.org)](https://lifeitself.org/programs/2023/contemplative-citizen-science) 
 
