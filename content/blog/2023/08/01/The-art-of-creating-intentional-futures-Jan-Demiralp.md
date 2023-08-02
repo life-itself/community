@@ -17,4 +17,4 @@ In today's fast-paced world, many of us grapple with stress and information para
 Jan is the founder of Inner Compass, an online community that helps people connect more deeply with themselves, with others, and with their authentic life path. The seed of Inner Compass was planted when Jan was navigating a particularly stormy period of his life; the foundations on which his life rested had crumbled, and he was forced to put into question many of his existing beliefs. There were times he felt alone, confused, and directionless as he tried to make sense of the future he was moving towards. With Inner Compass, it is his mission to empower people to navigate change from a place of alignment and integrity. 
 
 
-You can learn about Inner Compass [here](https://www.theinnercompass.org/).
+You can learn about [Inner Compass here](https://www.theinnercompass.org/).
