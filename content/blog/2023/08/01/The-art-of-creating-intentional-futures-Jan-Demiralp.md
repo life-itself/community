@@ -8,7 +8,7 @@ categories:
 image: /assets/images/jan-demiralp-creating-intentional-futures.jpg
 ---
 
-** This call will take place on August 10th at 7:30pm CET.**
+**This call will take place on August 10th at 7:30pm CET.**
 
 [REGISTER HERE](**https://us02web.zoom.us/meeting/register/tZApfu-urTsrEtW1RAky-Vflasr1c2G3skDh#/registration)
 
