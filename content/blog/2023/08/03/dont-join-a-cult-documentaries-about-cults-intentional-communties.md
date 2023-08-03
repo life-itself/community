@@ -14,7 +14,7 @@ We are conditioned by movies and pop culture to think that intentional communiti
 
 Cults do exist though and there have historically been a lot of crazy stories about intentional communities gone wrong. Most of the time these cults start with good intentions and as they grow things take a turn for the worse. 
 
-In hindsight, the red flags are there from the beginning and we cover these red flags in the [[conscious-coliving-course|course]]. 
+In hindsight, the red flags are there from the beginning and we cover these red flags in our [[conscious-coliving-course|course]]. 
 
 The problem is when you join a cult, you mostly don’t realise it until it's too late! The red flags are there, but the ideals of a utopian society far outweigh that niggling sense that something is not quite right and you carry on.  
   
