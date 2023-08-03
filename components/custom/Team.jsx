@@ -52,13 +52,13 @@ const people = [
 const research = [
     {
     name: "Liu Bauer",
-    role: "Scientist",
+    role: "Life Itself Research Co-Director",
     bio: "Liu is a mathematician, a theoretical physicist and data scientist of urban systems, with a PhD in theoretical physics. She worked before in universities of Germany, Netherlands, Spain (IFISC), Uruguay, Italy, France. She has been involved in European and international interdisciplinary projects working on implementing new frameworks for working with data. In research she is working with complex networks, studying processes on networks and applying the network theory in various urban issues. For this she has worked with Strelka Institute, Urban AI think tank, Correlaid NGO. She also developed the international scientists-schools network exploring the potential of scientific networks (NGO which she co-founded in 2017) and co-lead the data-volunteering initiative to help NGOs to preprocess their data. Recently she has been involved in several citizen science projects, which aim to bring together the ideas of democratizing decision making processes and participatory modeling. She works on the interface of physics, mathematics, urbanism and humanitarian action. Liu took part in the Starts.eu project together with Sony labs (Italy) and museums in Italy and Germany, which brought specific attention to the phenomenon of citizens' emotions in cities. Her projects are now mostly focused on finding new approaches and methodologies (participatory simulations, collective intelligence, geolocalized crowdsourcing, sharing circles) to work with citizens and cities.",
     imageUrl: "assets/site/team/liu-bauer.svg"
   },
   {
     name: "Marc Santolini",
-    role: "Practitioner-Researcher",
+    role: "Life Itself Research Co-Director",
     bio: "Marc Santolini, PhD in Statistical Physics from Ecole Normale Supérieure Paris, is a network scientist focused on innovation, collaboration, and learning within open and citizen science communities. With expertise in network science applied to various domains, including biology, medicine, and society, Marc explores the emergence of simplicity from complex interactions. As a research fellow at the Learning Planet Institute, he contributes to the development of large-scale open research communities. Marc is also a co-founder of the Just One Giant Lab NGO, promoting social and digital technologies for community-driven research. Additionally, he has a passion for music and explores how group rituals foster collective flow states, connecting philosophical and contemplative concepts like emergence and inter-being.",
     imageUrl: "assets/site/team/marcsantolini.png"
   },
