@@ -47,7 +47,22 @@ const people = [
     bio: "As Hub manager Ilja makes sure the residents of the Berlin Hub have everything they need to be a living example of a wiser, weller world (and enjoy themselves while they’re at it). He combines knowledge in areas such as sustainability and facilitation with a generous curiosity for life.",
     imageUrl: "assets/site/team/Ilja-profile.jpeg"
   },
+]
+
+const research = [
+    {
+    name: "Liu Bauer",
+    role: "Scientist",
+    bio: "Liu is a mathematician, a theoretical physicist and data scientist of urban systems, with a PhD in theoretical physics. She worked before in universities of Germany, Netherlands, Spain (IFISC), Uruguay, Italy, France. She has been involved in European and international interdisciplinary projects working on implementing new frameworks for working with data. In research she is working with complex networks, studying processes on networks and applying the network theory in various urban issues. For this she has worked with Strelka Institute, Urban AI think tank, Correlaid NGO. She also developed the international scientists-schools network exploring the potential of scientific networks (NGO which she co-founded in 2017) and co-lead the data-volunteering initiative to help NGOs to preprocess their data. Recently she has been involved in several citizen science projects, which aim to bring together the ideas of democratizing decision making processes and participatory modeling. She works on the interface of physics, mathematics, urbanism and humanitarian action. Liu took part in the Starts.eu project together with Sony labs (Italy) and museums in Italy and Germany, which brought specific attention to the phenomenon of citizens' emotions in cities. Her projects are now mostly focused on finding new approaches and methodologies (participatory simulations, collective intelligence, geolocalized crowdsourcing, sharing circles) to work with citizens and cities.",
+    imageUrl: "assets/site/team/liu-bauer.svg"
+  },
   {
+    name: "Marc Santolini",
+    role: "Practitioner-Researcher",
+    bio: "Marc Santolini, PhD in Statistical Physics from Ecole Normale Supérieure Paris, is a network scientist focused on innovation, collaboration, and learning within open and citizen science communities. With expertise in network science applied to various domains, including biology, medicine, and society, Marc explores the emergence of simplicity from complex interactions. As a research fellow at the Learning Planet Institute, he contributes to the development of large-scale open research communities. Marc is also a co-founder of the Just One Giant Lab NGO, promoting social and digital technologies for community-driven research. Additionally, he has a passion for music and explores how group rituals foster collective flow states, connecting philosophical and contemplative concepts like emergence and inter-being.",
+    imageUrl: "assets/site/team/marcsantolini.png"
+  },
+   {
     name: "Boaz B. Feldman",
     role: "Deliberately Developmental Space Researcher",
     bio: "Boaz is a practical visionary, a clinical psychologist and trainer, a Dharma teacher and transdisciplinary researcher acting for personal and political empowerment. He has worked with numerous international organisations (UNOCHA, WHO, Doctors Without Borders) in a variety of humanitarian contexts and conflict-affected regions. Boaz first ordained as a Buddhist Monk in Thailand in 2004, studied MBCT/MBSR at University of Oxford/Bangor, has over 7 years of compounded retreat experience and graduated from the Bodhi College Teacher Training program and now leads meditation retreats across Europe. He assisted Somatic Experiencing trainings and taught as the main faculty in Europe for Organic Intelligence, and founded NeuroSystemics, a Swiss-based NGO providing somatically-centred multi-level capacity building around the world. He is an Associate at Life Itself Research.",
@@ -59,7 +74,7 @@ const people = [
     bio: "Matthew is a transdisciplinary researcher at Life Itself. He also works closely with CLEA, where he helps to coordinate the systemic modelling group and explores how to model complex processes. He studied urban studies at Vrije Universiteit Brussel, and is primarily focused on both developing and strengthening the knowledge networks to help transition to a more open, stable, and meaningful world.",
     imageUrl: "assets/site/team/profile-pic-matthew.jpg"
   },
-]
+  ]
 
 const pioneers = [
   {
@@ -142,7 +157,7 @@ const contributors = [
 const alumni = [
     {
     name: "Theo Cox",
-    role: "Head of Labs",
+    role: "Head of Life Itself Labs",
     bio: "Theo read Politics, Philosophy and Economics at the University of Oxford, and holds an MSc in Development Studies from the London School of Economics. His single greatest drive is to do the most good he can in the world, resulting in his spending probably a bit too much time ruminating on what it means to live a good life. When he’s not philosophising Theo is an avid martial artist, having competed in both western boxing and muay Thai and also regularly training in Brazilian jiujitsu. Despite his love of fighting he remains a committed pacifist in his day to day life, and is just as confused by this seeming contradiction as everyone else.",
     imageUrl: "assets/site/team/Theo-bio.jpeg"
   },
@@ -210,6 +225,7 @@ const alumni = [
 
 const allTeams = [ 
   { heading: "Our Team", data: people },
+  { heading: "Research", data: research },
   { heading: "Pioneers", data: pioneers },
   { heading: "Bergerac Praxis Hub Guardians", data: praxis },
   { heading: "Berlin Hub Residents", data: residents },
