@@ -69,6 +69,12 @@ const research = [
     imageUrl: "assets/site/team/profile-pic-boaz.jpg"
   },
   {
+    name: "Catherine Tran",
+    role: "Researcher",
+    bio: "Catherine studied English at the University of Cambridge (UK) before completing a joint M.A. in Cultural Narratives at the University of Guelph (Canada), University of Santiago de Compostela (Spain), and University of Perpignan (France) as an Erasmus Mundus scholar. During her master’s she explored the role that art and literature might play in cultivating ecological responsibility, and she’s interested in what it means to be a responsible human being in a web of interspecies interdependence.",
+    imageUrl: "assets/site/team/Catherine-bio.png"
+  }, 
+  {
     name: "Matthew McCarthy",
     role: "Research Assistant",
     bio: "Matthew is a transdisciplinary researcher at Life Itself. He also works closely with CLEA, where he helps to coordinate the systemic modelling group and explores how to model complex processes. He studied urban studies at Vrije Universiteit Brussel, and is primarily focused on both developing and strengthening the knowledge networks to help transition to a more open, stable, and meaningful world.",
@@ -92,6 +98,12 @@ const pioneers = [
 ]
 
 const praxis = [
+   {
+    name: "Valerie Duvauchelle",
+    role: "Conscious Food Designer",
+    bio: "Valerie is a passionate advocate for activating new ways of being in the world. She believes that to live fully we need to allow for a radically different relationship to the world and to ourselves. Her specific interest is in the application of new ways of being in community and seeks to understand the invisible evolutionary impulses that occur when we do things together. She is a Tenzo cook in the Zen tradition and through her books, programs and retreats brings the universal teachings of this tradition into community living. She is most well known for the design and development of the Onboarding Process which bridges 20 years of learning in Zen temples with conscious community experience. Her dedicated practice is to cultivate a posture of 'being witness' in her life.  She embodies the balance between deep commitment and spontaneous playfulness.",
+    imageUrl: "assets/site/team/Valerie-profile.jpeg"
+  },
   {
     name: "Liu Bauer",
     role: "Scientist",
@@ -103,33 +115,6 @@ const praxis = [
     role: "Practitioner-Researcher",
     bio: "Marc Santolini, PhD in Statistical Physics from Ecole Normale Supérieure Paris, is a network scientist focused on innovation, collaboration, and learning within open and citizen science communities. With expertise in network science applied to various domains, including biology, medicine, and society, Marc explores the emergence of simplicity from complex interactions. As a research fellow at the Learning Planet Institute, he contributes to the development of large-scale open research communities. Marc is also a co-founder of the Just One Giant Lab NGO, promoting social and digital technologies for community-driven research. Additionally, he has a passion for music and explores how group rituals foster collective flow states, connecting philosophical and contemplative concepts like emergence and inter-being.",
     imageUrl: "assets/site/team/marcsantolini.png"
-  },
-  {
-    name: "Valerie Duvauchelle",
-    role: "Conscious Food Designer",
-    bio: "Valerie is a passionate advocate for activating new ways of being in the world. She believes that to live fully we need to allow for a radically different relationship to the world and to ourselves. Her specific interest is in the application of new ways of being in community and seeks to understand the invisible evolutionary impulses that occur when we do things together. She is a Tenzo cook in the Zen tradition and through her books, programs and retreats brings the universal teachings of this tradition into community living. She is most well known for the design and development of the Onboarding Process which bridges 20 years of learning in Zen temples with conscious community experience. Her dedicated practice is to cultivate a posture of 'being witness' in her life.  She embodies the balance between deep commitment and spontaneous playfulness.",
-    imageUrl: "assets/site/team/Valerie-profile.jpeg"
-  },
-]
-
-const residents = [
-  {
-    name: "Lauren Uba",
-    role: "Project Manager and Sustainability Educator",
-    bio: "Lauren is the hub’s resident Bioeconomy Geek. She is urbanist, futurist, and optimist with interests in climate justice, grassroots organizing, and social infrastructure development. She is a graduate of The Bartlett School of Planning at UCL, where she received her MSc in Sustainable Urbanism. Her thesis examined opportunities to implement a city-scale circular bioeconomy from food waste and she aims to make urban symbiosis ‘a thing.’ In 2020, Lauren founded Climate Action Community, an organization that advocates for and supports community-led climate action initiatives. You can get in on the action at @climateaction.berlin.",
-    imageUrl: "assets/site/team/Lauren.png"
-  },
-  {
-    name: "Sen Zhan",
-    role: "Podcast Host and Producer",
-    bio: "Sen is the Hub Spaceship’s Science Officer, unintentional Clown, and occasional General Senghis Zhan. She is committed to lifelong learning, making stuff, and amplifying under-represented voices through podcasting. Sen’s background is in Occupational Therapy, and she brings her transcultural perspective from having lived in China, Canada, and Germany. Sen is the host and producer of the Beyond Asian Podcast (www.beyondasian.com), a series of biographical stories of Third Culture Asian lifelines. Her vision of the future is pillared by conscious co-living, self-examination, and openness to being changed by the currents of Life.",
-    imageUrl: "assets/site/team/Sen-scaled.jpeg"
-  },
-  {
-    name: "Inna Chilik",
-    role: "Systems Innovator",
-    bio: "In real life, Inna is a systems innovator and just transformation facilitator with over a decade of experience in strategic management consulting and a dual Master’s in Finance and Strategic Leadership towards Sustainability. At the Hub, she is a maverick weaver, blending the polarities into a magic carpet of care, co-creation and self-development, catalysing innovation and transformation on both individual and collective levels.",
-    imageUrl: "assets/site/team/Inna.jpeg"
   },
 ]
 
@@ -186,6 +171,24 @@ const alumni = [
     imageUrl: "assets/site/team/joseph-cropped.jpeg"
   },
   {
+    name: "Lauren Uba",
+    role: "Project Manager and Sustainability Educator",
+    bio: "Lauren is the hub’s resident Bioeconomy Geek. She is urbanist, futurist, and optimist with interests in climate justice, grassroots organizing, and social infrastructure development. She is a graduate of The Bartlett School of Planning at UCL, where she received her MSc in Sustainable Urbanism. Her thesis examined opportunities to implement a city-scale circular bioeconomy from food waste and she aims to make urban symbiosis ‘a thing.’ In 2020, Lauren founded Climate Action Community, an organization that advocates for and supports community-led climate action initiatives. You can get in on the action at @climateaction.berlin.",
+    imageUrl: "assets/site/team/Lauren.png"
+  },
+  {
+    name: "Sen Zhan",
+    role: "Podcast Host and Producer",
+    bio: "Sen is the Hub Spaceship’s Science Officer, unintentional Clown, and occasional General Senghis Zhan. She is committed to lifelong learning, making stuff, and amplifying under-represented voices through podcasting. Sen’s background is in Occupational Therapy, and she brings her transcultural perspective from having lived in China, Canada, and Germany. Sen is the host and producer of the Beyond Asian Podcast (www.beyondasian.com), a series of biographical stories of Third Culture Asian lifelines. Her vision of the future is pillared by conscious co-living, self-examination, and openness to being changed by the currents of Life.",
+    imageUrl: "assets/site/team/Sen-scaled.jpeg"
+  },
+  {
+    name: "Inna Chilik",
+    role: "Systems Innovator",
+    bio: "In real life, Inna is a systems innovator and just transformation facilitator with over a decade of experience in strategic management consulting and a dual Master’s in Finance and Strategic Leadership towards Sustainability. At the Hub, she is a maverick weaver, blending the polarities into a magic carpet of care, co-creation and self-development, catalysing innovation and transformation on both individual and collective levels.",
+    imageUrl: "assets/site/team/Inna.jpeg"
+  },
+  {
     name: "Patrick Nadler",
     role: "Artist",
     bio: "Pat is an artist and passionate actor. This picture was taken while lamenting the gods for his lousy movie career; it is his daily practice. He used to run the Hub and is proud of his role in building a loving Community family that people want to be part of.",
@@ -228,7 +231,6 @@ const allTeams = [
   { heading: "Research", data: research },
   { heading: "Pioneers", data: pioneers },
   { heading: "Bergerac Praxis Hub Guardians", data: praxis },
-  { heading: "Berlin Hub Residents", data: residents },
   { heading: "Contributors", data: contributors },
   { heading: "Alumni", data: alumni },
 ]
