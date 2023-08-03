@@ -5,7 +5,7 @@ authors:
   - matthew-mccarthy
 categories: 
   - community-call
-image: /assets/images/matthew-mccarthy-comm-call.jpg
+image: /assets/images/matthew-mccarthy-embracing-uncertainty.jpg
 ---
 
 ** This call will take place on Thursday August 24th at 7:00pm CET.**

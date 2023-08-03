@@ -2,10 +2,10 @@
 title: "Upcoming Communtiy Call: The Art of Creating Intentional Futures with Jan Demiralp"
 created: 2023-08-01
 authors: 
-  - Mathew-McCarthy
+  - matthew-mccarthy
 categories: 
   - community-call
-image: /assets/images/![[Community-Call-Jan-Demiralp.jpg]]
+image: /assets/images/jan-demiralp-creating-intentional-futures.jpg
 ---
 
 ** This call will take place on August 10th at 7:30pm CET.**
