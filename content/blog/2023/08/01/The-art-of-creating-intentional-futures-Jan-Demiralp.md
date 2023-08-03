@@ -10,7 +10,7 @@ image: /assets/images/jan-demiralp-creating-intentional-futures.jpg
 
 **This call will take place on August 10th at 7:30pm CET.**
 
-[REGISTER HERE](**https://us02web.zoom.us/meeting/register/tZApfu-urTsrEtW1RAky-Vflasr1c2G3skDh#/registration)
+[REGISTER HERE](https://us02web.zoom.us/meeting/register/tZApfu-urTsrEtW1RAky-Vflasr1c2G3skDh#/registration)
 
 In today's fast-paced world, many of us grapple with stress and information paralysis. In a world where the outside noise threatens to overwhelm us, reconnecting with what matters most and acting from a place of alignment matters more than ever. Join Jan, the founder of Inner Compass Academy, as he walks you through the origins of his life design approach and how it can be used to enact systemic change at both an individual and collective level.
 

@@ -10,7 +10,7 @@ image: /assets/images/matthew-mccarthy-embracing-uncertainty.jpg
 
 **This call will take place on Thursday August 24th at 7:00pm CET.**
 
-[REGISTER HERE]([https://us02web.zoom.us/meeting/register/tZcudeCvpj8qGNG1rkTSdFzwREEs2v-XgCet])
+[REGISTER HERE](https://us02web.zoom.us/meeting/register/tZcudeCvpj8qGNG1rkTSdFzwREEs2v-XgCet) 
 
 We are delighted to invite Matthew McCarthy to join us for this community call.
 
