@@ -57,7 +57,7 @@ Although not entirely centered around an “intentional” community, Heaven Gat
 *Where to watch*: [On youtube]([https://www.youtube.com/watch?v=traRRAQQfbg](https://www.youtube.com/watch?v=traRRAQQfbg)) 
 *Year released*: 2006 
 
-Culminating in the largest mass suicide in history the Peoples Temple “intentional” community, Jonestown, in Guyana met it’s sorry end in 1978. Named after the cult leader Jim Jones (a huge red flag) the communist community became home for almost 1000 people. This documentary explores communities can take a turn for the worse. 
+Culminating in the largest mass suicide in history the Peoples Temple “intentional” community, Jonestown, in Guyana met it’s sorry end in 1978. Named after the cult leader Jim Jones (a huge red flag) the communist community became home for almost 1000 people. This documentary explores how communities can take a turn for the worse. 
 
 ## 5. Holy Hell
 
@@ -66,7 +66,7 @@ Culminating in the largest mass suicide in history the Peoples Temple “intenti
 *Where to watch*: Amazon 
 *Year released*: 2016
 
-Director Will Allen, spent 22 years as the videographer for Jaime Gomez, spiritual teacher and leader of the Buddhafield cult - not to be confused with the U.K. based Buddhist organization included in our ecosystem map. Jaimes alluring utopian vision enabled him to grow his following - don’t get caught out by the same. Ironically, he also called it an anti-cult. An anti-cult utopian community, where do we sign up? 
+Director Will Allen, spent 22 years as the videographer for Jaime Gomez, spiritual teacher and leader of the Buddhafield cult - not to be confused with the U.K. based Buddhist organization included in our ecosystem map. Jaime's alluring utopian vision enabled him to grow his following - don’t get caught out by the same. Ironically, he also called it an anti-cult. An anti-cult utopian community, where do we sign up? 
 
 ## Don't join a cult 
 
