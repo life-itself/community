@@ -1,0 +1,9 @@
+.obsidian/
+.next/
+out/
+dist/
+excalidraw/
+content/
+meta/
+.github/
+pnpm-lock.yaml
