@@ -38,7 +38,7 @@ these timeless wisdom to our modern times. This presence brings an additional la
 particularly in relation to the mindful preparation of our shared organic, plant-based meals.
 
 For a monthly cost ranging 650-1050€ for bedding including utilities, plus a €450 monthly contribution for food, consummable and guardianship, 
-residents will be able to experience an inspiring  way of living together.Participants  are also welcome to share their unique skills, knowledge and other resources with the rest of the community. This autumn, for example, our new resident Emil Ejner Friis will host a weekly talk on metamodernism.
+residents will be able to experience an inspiring  way of living together.Participants  are also welcome to share their unique skills, knowledge and other resources with the rest of the community. 
 
 Ideal candidates are those who resonate with these principles and practices and are ready to explore their impact on a 
 personal and communal level. Interested individuals are encouraged to apply by september 30th, 2023, to join this groundbreaking 
