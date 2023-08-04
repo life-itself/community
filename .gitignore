@@ -35,9 +35,8 @@ yarn-error.log*
 # vercel
 .vercel
 
-
-# Contentlayer
-.contentlayer
-
+# editor
 .obsidian
-sandbox
+
+# markdowndb
+markdown.db
