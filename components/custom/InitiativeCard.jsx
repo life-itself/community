@@ -5,7 +5,7 @@ export default function InitiativeCard({ initiative }) {
     <li className="group relative flex flex-col items-start m-0 p-0">
       <div role="heading" className="text-base font-semibold text-primary">
         <div className="absolute -inset-x-4 -inset-y-6 z-0 scale-95 bg-zinc-100 opacity-0 transition group-hover:scale-100 group-hover:opacity-100 sm:-inset-x-6 sm:rounded-2xl"></div>
-        <Link href={initiative.url_path} className="flex flex-col transition font-medium text-primary group-hover:text-secondary">
+        <Link href={initiative.urlPath} className="flex flex-col transition font-medium text-primary group-hover:text-secondary">
           <span className="absolute -inset-x-4 -inset-y-6 z-20 sm:-inset-x-6 sm:rounded-2xl" />
           {initiative.image && <img src={initiative.image} className="z-10 w-full aspect-video object-cover object-left m-0 rounded-lg shadow-sm" />}
           <span className="relative z-10 mt-4">
