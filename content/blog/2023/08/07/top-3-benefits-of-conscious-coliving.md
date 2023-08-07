@@ -1,5 +1,5 @@
 ---
-title: "top-3-benefits-of-conscious-coliving"
+title: "Top 3 Benefits of Conscious Coliving"
 created: 2023-08-07
 authors: 
   - lauren-wigmore
@@ -14,7 +14,7 @@ Let’s dive straight in and explore the top 3 benefits of conscious coliving.
 
 Choosing to live in a wider community, organized in pre-agreed ways means that connection to one and another is an integral part that facilitates the flourishing of a community. This connection can provide a stronger support system to navigate life's ups and downs, including connecting to others on a deeper level and providing emotional and psychological support. 
 
-Intentional communities can also be great for parenting, and raising the future generation, because as the Ancient African proverb says _It takes a village to raise a child_. Traditional communities have known for eons that raising a child takes a village of support, not just one or two parental figures. 
+Intentional communities can also be great for parenting, and raising the future generation, because as the Ancient African proverb says _it takes a village to raise a child_. Traditional communities have known for eons that raising a child takes a village of support, not just one or two parental figures. 
 
 Unfortunately, today the (extended) family unit and societal structures don’t seem to be providing the support needed to raise children, or help parents navigate this role. Everyone is busier, with conflicting priorities, that despite the best intentions means parenting can often feel like a hugely challenging experience. Having a ready made village can at least help to offset that. 
 
@@ -40,6 +40,6 @@ If the above has whet your appetite, we’d love to share more with you about th
 
 _Finally, just in case you aren’t sure what conscious coliving is here is a little overview_ 😉
 
-To be conscious you need to have an awareness of an internal and external existence. To have both knowledge and be able to respond (instead of react) to your surroundings. We consider this to include an aspect of inner development and an awareness of one's impact on their surroundings and world. A coliver is quite simply someone who lives with others and this can be in a variety of ways.
+> To be conscious you need to have an awareness of an internal and external existence. To have both knowledge and be able to respond (instead of react) to your surroundings. We consider this to include an aspect of inner development and an awareness of one's impact on their surroundings and world. A coliver is quite simply someone who lives with others and this can be in a variety of ways.
 
 If you want to know more about this you can read our blog [What is Conscious Coliving](https://lifeitself.org/blog/2021/07/14/what-is-conscious-coliving).
