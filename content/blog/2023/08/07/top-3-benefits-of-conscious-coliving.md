@@ -10,7 +10,7 @@ image: /assets/images/3-benefits-of-cc.jpg
 
 Let’s dive straight in and explore the top 3 benefits of conscious coliving.
 
-## Benefit #1 More People = More Support + Deeper Connections
+## Benefit #1 More people = more support + deeper connections
 
 Choosing to live in a wider community, organized in pre-agreed ways means that connection to one and another is an integral part that facilitates the flourishing of a community. This connection can provide a stronger support system to navigate life's ups and downs, including connecting to others on a deeper level and providing emotional and psychological support. 
 
