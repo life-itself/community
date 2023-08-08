@@ -24,29 +24,17 @@ const people = [
     imageUrl: "assets/site/team/Nathen-bio.png"
   },
   {
-    name: "Catherine Tran",
-    role: "Generalist",
-    bio: "Catherine studied English at the University of Cambridge (UK) before completing a joint M.A. in Cultural Narratives at the University of Guelph (Canada), University of Santiago de Compostela (Spain), and University of Perpignan (France) as an Erasmus Mundus scholar. During her master’s she explored the role that art and literature might play in cultivating ecological responsibility, and she’s interested in what it means to be a responsible human being in a web of interspecies interdependence.",
-    imageUrl: "assets/site/team/Catherine-bio.png"
-  }, 
-  {
     name: "Lauren Wigmore",
     role: "Communications",
     bio: "Lauren is a writer and well-being practitioner. She has previous experience managing well-being and educational initiatives. She holds a Masters in Psychological Sciences. Prior to this she was an actress in London. She is a sunshine and inspiration seeking individual, who enjoys learning and connecting with new people and experiences. Plant medicine has a special place in her heart. She loves to laugh and she can often be found on the beach, dancing or doing yoga.",
     imageUrl: "/assets/site/team/lauren-wigmore-profile-image.jpg"
   },
   {
-    name: "Zaibul Nisa",
+    name: "Catherine Tran",
     role: "Generalist",
-    bio: "Zaibul Nisa is a marketing professional with 5+ years working in the sustainable finance space. She is working at the intersection of climate change and Web3 where she builds communities and drives discussions around emerging technology and climate change. Currently, she is pursuing her MBA with a specialization in Marketing, Zaib wants to be a defining voice of digital marketers in the Web3 space.",
-    imageUrl: "/assets/site/team/profile-image-zaib.jpg"
-  },
-  {
-    name: "Ilja Maiber",
-    role: "Berlin Hub Manager",
-    bio: "As Hub manager Ilja makes sure the residents of the Berlin Hub have everything they need to be a living example of a wiser, weller world (and enjoy themselves while they’re at it). He combines knowledge in areas such as sustainability and facilitation with a generous curiosity for life.",
-    imageUrl: "assets/site/team/Ilja-profile.jpeg"
-  },
+    bio: "Catherine studied English at the University of Cambridge (UK) before completing a joint M.A. in Cultural Narratives at the University of Guelph (Canada), University of Santiago de Compostela (Spain), and University of Perpignan (France) as an Erasmus Mundus scholar. During her master’s she explored the role that art and literature might play in cultivating ecological responsibility, and she’s interested in what it means to be a responsible human being in a web of interspecies interdependence.",
+    imageUrl: "assets/site/team/Catherine-bio.png"
+  }, 
 ]
 
 const research = [
@@ -145,6 +133,18 @@ const alumni = [
     role: "Head of Life Itself Labs",
     bio: "Theo read Politics, Philosophy and Economics at the University of Oxford, and holds an MSc in Development Studies from the London School of Economics. His single greatest drive is to do the most good he can in the world, resulting in his spending probably a bit too much time ruminating on what it means to live a good life. When he’s not philosophising Theo is an avid martial artist, having competed in both western boxing and muay Thai and also regularly training in Brazilian jiujitsu. Despite his love of fighting he remains a committed pacifist in his day to day life, and is just as confused by this seeming contradiction as everyone else.",
     imageUrl: "assets/site/team/Theo-bio.jpeg"
+  },
+  {
+    name: "Zaibul Nisa",
+    role: "Generalist",
+    bio: "Zaibul Nisa is a marketing professional with 5+ years working in the sustainable finance space. She is working at the intersection of climate change and Web3 where she builds communities and drives discussions around emerging technology and climate change. Currently, she is pursuing her MBA with a specialization in Marketing, Zaib wants to be a defining voice of digital marketers in the Web3 space.",
+    imageUrl: "/assets/site/team/profile-image-zaib.jpg"
+  },
+  {
+    name: "Ilja Maiber",
+    role: "Berlin Hub Manager",
+    bio: "As Hub manager Ilja makes sure the residents of the Berlin Hub have everything they need to be a living example of a wiser, weller world (and enjoy themselves while they’re at it). He combines knowledge in areas such as sustainability and facilitation with a generous curiosity for life.",
+    imageUrl: "assets/site/team/Ilja-profile.jpeg"
   },
   {
     name: "Jonathan Ekstrom",
