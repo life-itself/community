@@ -1,5 +1,5 @@
 ---
-title: "Upcoming Communtiy Call: The Art of Creating Intentional Futures with Jan Demiralp"
+title: "Upcoming Community Call: The Art of Creating Intentional Futures with Jan Demiralp"
 created: 2023-08-01
 authors: 
   - matthew-mccarthy
