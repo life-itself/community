@@ -289,13 +289,19 @@ export default function Home({ posts, keyWritings, keyInitiatives, upcomingResid
                       </time>
                       <div className="flex flex-wrap space-x-4 my-1">
                         {post.categories?.map((category, index) => (
-                          <a
+                          /* <a */
+                          /*   key={`${category}-${index}`} */
+                          /*   href={`/categories/${category}`} */
+                          /*   className="relative z-10 text-xs text-primary hover:text-gray-500 underline underline-offset-2 decoration-secondary decoration-2" */
+                          /* > */
+                          /*   {category} */
+                          /* </a> */
+                          <span
                             key={`${category}-${index}`}
-                            href={`/categories/${category}`}
-                            className="relative z-10 text-xs text-primary hover:text-gray-500 underline underline-offset-2 decoration-secondary decoration-2"
+                            className="relative z-10 text-xs text-primary underline underline-offset-2 decoration-secondary decoration-2"
                           >
                             {category}
-                          </a>
+                          </span>
                         ))}
                       </div>
                     </div>
