@@ -17,9 +17,12 @@ export default function BlogLayout({ children, frontMatter }) {
       <article className="docs prose prose-headings:font-headings dark:prose-invert prose-a:break-words mx-auto max-w-2xl px-6 pt-6">
         <header className="w-full mx-auto space-y-4 text-center">
           <div className="flex space-x-4 justify-center border-b border-t border-secondary">
-            {categories ? categories.map((category,i) => (
-              <a key={i} className="py-4 text-xs font-semibold tracking-wider uppercase no-underline hover:underline">#{category}</a>
-            )): <a className="py-4 text-xs font-semibold tracking-wider uppercase no-underline hover:underline">#uncategorized</a>}
+            {/* {categories ? categories.map((category,i) => ( */}
+            {/*   <a key={i} className="py-4 text-xs font-semibold tracking-wider uppercase no-underline hover:underline">#{category}</a> */}
+            {/* )): <a className="py-4 text-xs font-semibold tracking-wider uppercase no-underline hover:underline">#uncategorized</a>} */}
+            {categories ? categories.map((category, i) => (
+              <p key={i} className="py-4 text-xs font-semibold tracking-wider uppercase no-underline ">#{category}</p>
+            )) : <p className="py-4 text-xs font-semibold tracking-wider uppercase no-underline">#uncategorized</p>}
           </div>
           <div className="mb-4 flex-col items-center">
             {title && <h1 className="mb-0 text-4xl font-bold leading-tight md:text-5xl">{title}</h1>}
@@ -48,7 +51,7 @@ export default function BlogLayout({ children, frontMatter }) {
         <div className="flex flex w-full flex-wrap items-center space-x-4 py-6 border-b border-theme-yellow text-sm capitalize">{tags &&
           <>
             tags:&nbsp;&nbsp;
-            {tags.map((tag,i) => (
+            {tags.map((tag, i) => (
               <a key={i} className="no-underline hover:underline italic">#{tag}</a>
             ))}
           </>}
