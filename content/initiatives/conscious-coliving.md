@@ -1,6 +1,6 @@
 ---
 title: "Conscious Coliving"
-description: "More than ever there is a deep need to community and connection. Our Conscious Coliving project aims to bring knowledge about living consciously in community to everyone"
+description: "More than ever there is a deep need for community and connection. Our Conscious Coliving project aims to bring knowledge about living consciously in community to everyone"
 image: /assets/images/don't-join-a-cult-5-cult-documentaries.jpg
 homepage: /conscious-coliving-course
 start: 2022-05
