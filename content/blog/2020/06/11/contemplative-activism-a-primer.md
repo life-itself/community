@@ -10,16 +10,17 @@ image: /assets/images/Blog-Feature-Images-4.jpg
 
 We are proposing that contemplative awareness, skills and practices can inform our responses to our collective cultural process of deep and lasting change.
 
-  
 We set out some of our initial ideas in our first paper. Here we are exploring in more depth that some of the proposals might mean.
 
-There are some ways in which contemplatives have engaged with the world that can inform our ability to live in difficult times, to frame and shift how we hold and engage with our collective processes. For instance, the ability to be with suffering, and embracing our suffering as a part of life rather something that we feel we must avoid or prevent. Realising that it is often our resistance to our suffering that is so painful, and that sufferings embrace is the first step toward transforming that suffering into something else. This is a key insight from contemplative traditions, such as Buddhism, that provides a real reason for that suffering, a pathway out of that suffering, and makes the possibility of a transcendent realignment of the self as a result of sitting with and allowing that suffering to be. Imagine a society where this was a common and accepted practice. Imagine collective rituals of embracing suffering. Imagine the possibility for collective action springing out of that ritual space.
+There are some ways in which contemplatives have engaged with the world that can inform our ability to live in difficult times, to frame and shift how we hold and engage with our collective processes. For instance, the ability to be with suffering, and embracing our suffering as a part of life rather something that we feel we must avoid or prevent. Realising that it is often our resistance to our suffering that is so painful, and that sufferings embrace is the first step toward transforming that suffering into something else. 
+
+This is a key insight from contemplative traditions, such as Buddhism, that provides a real reason for that suffering, a pathway out of that suffering, and makes the possibility of a transcendent realignment of the self as a result of sitting with and allowing that suffering to be. Imagine a society where this was a common and accepted practice. Imagine collective rituals of embracing suffering. Imagine the possibility for collective action springing out of that ritual space.
 
 It is also clear that there are many individual ways to hold and be with ourselves that the contemplative life enables. One such way is nothing more that being with ‘what is’, rather than seeking to find ways to avoid or hide from ‘what is’. This being with rather than hiding from or avoiding is almost certainly the first step in any contemplative life. It is probably the fundamental way as from this first step, a whole life’s worth of insights and competencies arise. It is the gateway to the mystery which we are both afraid of and so attracted to.
 
 What does it mean: ‘Holding our current situation within contemplative awareness so as to accept where we are with enough depth and solidity to see how to respond?’
 
-What is contemplative awareness?
+## What is contemplative awareness?
 
 As Thich Nhat Hanh writes in the opening lines of Being Peace, “Life is filled with suffering, but it is also filled with many wonders, like the blue sky, the sunshine, and the eyes of a baby… life is both dreadful and wonderful. To practice meditation is to be in touch with both aspects.”
 
@@ -45,7 +46,6 @@ This type of leadership which involves mentoring and holding people in their emo
 
 The first part is to come to terms with the loss we personally feel, our personal experiences. If we can’t put our oxygen mask on first, we can’t help others with theirs.
 
-  
 In our Deep Dive into Deep Adaptation, it became clear that one of the first steps was to accept and acknowledge our privilege. For myself, I have lived in an enormously privileged position in life and in the society I have lived in.
 
 The main message of the Transition movement was that deep changes were needed, almost unthinkable changes, like a completely different economic system, and big, big personal lifestyle changes. And then, if we created an orderly energy descent (in ‘Western lifestyles’) we just might be able to retain some of our Western lifestyle. What was said, but unspoken, was that those of us living Western middle class lifestyles might if we were lucky retain at least some of the privileges we enjoy. This will be a controversial assessment to many, please forgive me. But, many have wondered why Transition was a middle class movement… At any rate this invitation was refused.
@@ -61,11 +61,10 @@ But imagine it we must and at a mass scale. Our civilisation is dead. There are 
 
 So the first step it seems is to come to terms with death; our own and that of our civilisation. It is to practice radical non attachment. The giving up and letting go. The release of everything we can possibly let go of. Typically that relinquishment was a preparation or a step in a phase of a journey to enlightenment. The giving up of everything that is not the true self or the self. All that which masquerades as the self but is not might be termed the personality structures. These are pieces of ‘false self’ or ego structures which are nothing more that beliefs and thought constructions which are not us. The gaze of the self reveals them to be in fact non existent or not real (although in the paradox of humanness, in so far as we act as if they are real, they are. When in fact they are not). So in the process of relinquishment of the false self or our personality structures which when identified with become the apparent self, we lose nothing and gain everything.
 
-“For whoever wants to save his life will lose it, but whoever loses his life for My sake will find it.”  
+>“For whoever wants to save his life will lose it, but whoever loses his life for My sake will find it.”  
 Matthew 16:25 attributed to Jesus of Nazareth.
 
 If we take this as one aspect of a personal practice in a journey towards self realisation or attainment of oneness, how can we frame relinquishment in societal wide terms?
-
   
 There has been narrative that what we can make if we put our minds to it could be infinitely better than what we have now for most people (except perhaps the 1%). If we create an economic system for instance that is aligned around providing fulfilment, or happiness, or wellbeing rather that profit maximisation, then we can do lots better. The framework of Manford Max Neef is a compelling proposition that might go some way to towards meeting this kind of society. There is also Kate Raworth’s Donut economics, and the solidarity economy. There are many possibilities for change and reform which do not demand relinquishment, except for the clearly dysfunctional current system.
 
@@ -83,16 +82,15 @@ There is a long debate amongst collapsologists over this question of what if any
 
 What has been missing is the input of mystics into this space. What is the relationship of relative to absolute truth? What can we learn from this exploration? Or are they so far apart in terms of the areas of life they are describing that they don’t touch? It is reminiscent (or maybe it is the exact same debate?) of the debates about in the face of scientific knowledge whether God is dead.
 
-A brief exploration of contemplative practices and their relevance to Activism
-
+## A brief exploration of contemplative practices and their relevance to Activism
 ### Buddhism
 
 Meditation, mindfulness, and other forms of authentically being with yourself.
 
 This hardly goes without saying. The demands of being an activist make authentic being with yourself essential. This is because:  
-Being an activist is demanding particularly emotionally. Being able to be with rather than avoid or fix uncomfortable emotions makes activism much more powerful. What we try to avoid or fix within ourselves, will also be our approach to outward problems or situations. Authentic action is more likely by being with rather than avoiding or fixing.  
-Burnout is often a problem. Under resourced and facing overwhelming problems day after day is not easy to be with. Mindfulness makes this easier or more possible.  
-Meditators are much more able to be in difficult group situations and develop the internal distance that is necessary to find ways to act with others.
+- Being an activist is demanding particularly emotionally. Being able to be with rather than avoid or fix uncomfortable emotions makes activism much more powerful. What we try to avoid or fix within ourselves, will also be our approach to outward problems or situations. Authentic action is more likely by being with rather than avoiding or fixing.  
+- Burnout is often a problem. Under resourced and facing overwhelming problems day after day is not easy to be with. Mindfulness makes this easier or more possible.  
+- Meditators are much more able to be in difficult group situations and develop the internal distance that is necessary to find ways to act with others.
 
 ### Non attachment
 
@@ -131,13 +129,14 @@ Buddhist practices based on gratitude, meditations on the interconnectivity and 
 
 Contemplative leaders would hold this almost unholdable awareness of the nature of reality, life without stories, and the nature and scope of the climate and ecological emergency, along with the other aspects of non-duality and guide others to at least establish themselves in this awareness even if they do not always live in it. This is of course the sort of leadership contemplatives have always provided, but it can only work in a community in which the power of contemplation acknowledged. But for this we need not just contemplatives willing to lead but technical and political experts willing to be led.
 
-Shift in consciousness
+## Shift in consciousness
 
 “Nowhere to go, nothing to do”  
 This simple sentence crops up every once in a while in Plum village. It encapsulates the awareness that there is a doing culture that demands action and a sense of there always being somewhere to go and something to do. It calls us into our essential self, and makes the awareness that this is actually the most important relationship we have with ourselves.
 
 * * *
 
-https://lifeitself.org/2019/11/29/the-case-for-contemplative-activism-why-why-now-and-what-are-we-offering/
+## Next Reads
 
-https://lifeitself.org/2019/11/04/blind-spot-1-faith-in-rationality-and-progress/
+[[the-case-for-contemplative-activism-why-why-now-and-what-are-we-offering|The Case for Contemplative Activism: Why, Why Now and What Are We Offering]]
+[[cultivating-an-emerging-paradigm|Cultivating an Emerging Paradigm]]

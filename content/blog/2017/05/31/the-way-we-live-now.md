@@ -3,25 +3,11 @@ title: "The Way We Live Now"
 created: 2017-05-31
 categories: 
   - our-philosophy
-tags: 
-  - living
-  - philosophy
-  - rufus-pollock
 authors: 
   - rufuspollock
+  - liamaet
 image: /assets/images/Blog-Feature-Images-4.png
 ---
-
-_Leading up to The Gathering at the end of July we are sharing weekly blogposts written by [Art Earth Tech Institute](https://artearthtech.com/institute/) members Rufus Pollock and Liam Kavanagh. This week’s post is titled ‘The Way We Live Now’ and is a reflection on the world’s current situation and its shortcomings._
-
-![](/assets/images/way_we_live_adj.jpg)
-
-_Photograph by [Sarah Hickson](https://sarahhickson.shootproof.com/)_
-
-## The Way We Live Now
-
-_by Rufus Pollock and Liam Kavanagh_
-
 ### The Situation
 
 Today 7.5 billion people live on this planet and the total is projected to be 10 billion within our lifetime. This extraordinary growth is testament to an incredible material and technical progress, progress which has enabled major improvements in healthcare, education and general material well-being despite the vast increase in population.
@@ -33,6 +19,9 @@ During the last two centuries market-based consumerist capitalism has flourished
 In the last thirty years, the triumph of the liberal market state, itself a creation of the enlightenment, has become partially tarnished. Awareness has grown of its imperfections, most notably its susceptibility to the influence of concentrated power and wealth especially in the form of multinational corporations. This influence has been perceived to be at odds with the popular interest, but efforts to replace market democracies with more “rational” alternatives have instead produced tyranny, and more recent attempts at reform have produced political disillusionment and ineffective disunity. As a result those most disaffected with “the mainstream” have been relegated to creating private “bohemian” niches within the larger economic system rather than true alternatives.
 
 Though explicit criticism is muted, there has spread, especially in the last thirty years, a widespread feeling that something is wrong, perhaps seriously so. At the same time, there is little consensus as to what exactly it is that is wrong — or what to do about it.
+
+![](/assets/images/way_we_live_adj.jpg)
+_Photograph by [Sarah Hickson](https://sarahhickson.shootproof.com/)_
 
 ### What’s Not Working
 
@@ -56,10 +45,11 @@ Science which is one of the most successful of modernity’s projects has seen i
 
 Almost paradoxically, at the same time driven by enlightenment ideals of equality, the scope of empathy is broadening, encompassing women & reaching across ethnicities. This has been seen as a necessity to make democracy and meritocratic international capitalism work, and may give opportunity for broad cooperation across nations.
 
-Image by Davide Ragusa unsplash
-
 _Edited by Brigitte Arndt_
 
-[Examining ‘The Way We Live Now’: What do we really want?](https://lifeitself.org/2017/06/06/examining-what-do-we-want/)
+***
 
-[Nine Theses](https://lifeitself.org/2017/05/23/nine-theses/)
+## Next Reads
+
+[[examining-what-do-we-want|Examining ‘The Way We Live Now’: What do we really want?]]
+[[nine-theses|Nine Theses]]

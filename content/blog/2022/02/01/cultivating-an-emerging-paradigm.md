@@ -4,8 +4,6 @@ created: 2022-02-01
 categories: 
   - life-itself
   - our-philosophy
-tags: 
-  - insight
 authors: 
   - rufuspollock
 image: /assets/images/Blog-Feature-Images-27.jpg
