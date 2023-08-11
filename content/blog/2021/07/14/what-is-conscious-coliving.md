@@ -11,7 +11,7 @@ image: /assets/images/Blog-Feature-Images-19.jpg
 
 There’s not really an established term yet for the kind of way of living that we imagine and seek to pioneer. We've come to call it **"conscious coliving"** reflecting the fusion of two related practices: **conscious living** and **coliving**.
 
-Here we want to say a bit more about what we mean by conscious co-living as well as frame within it within the broader space of co-living and intentional communities.
+Here we want to say a bit more about what we mean by conscious co-living as well as frame within it within the broader space of coliving and intentional communities.
 
 ## **Conscious living**
 
@@ -48,6 +48,10 @@ Third, coliving is a way for us to live more lightly on the planet thus economis
 
 ## Related Ideas and Work
 
+>UPDATE 2023: We have now created a free introductory email course to conscious coliving. Want to join? Visit - [[conscious-coliving-course|Conscious Coliving 101: Learn How to Live a More Connected Life]]
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8zAggUvGjDM" title="Conscious Coliving 101 (Free Course)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ### Intentional Communities
 
 An intentional community is "a group of people who have chosen to live together with a common purpose, working cooperatively to create a lifestyle that reflects their shared core values." \[From _[Creating a Life Together](https://lifeitself.org/2021/05/14/notes-on-creating-a-life-together-by-diana-leafe-christian/)_\]
@@ -58,4 +62,3 @@ It is essential to reference the [Conscious Coliving](https://www.consciouscoliv
 
 * * *
 
-https://lifeitself.org/2022/06/09/embodying-collective-transformation-with-karl-steyaert/
