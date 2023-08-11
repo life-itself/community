@@ -192,7 +192,7 @@ export default function Home({ posts, keyWritings, keyInitiatives, upcomingResid
               <div className="mx-auto flex max-w-2xl flex-col gap-16 bg-gray-900 px-6 py-16 ring-1 ring-white/10 sm:rounded-3xl sm:p-8 lg:mx-0 lg:max-w-none lg:flex-row lg:items-center lg:py-20 xl:gap-x-20 xl:px-20">
                 <img
                   className="h-96 w-full flex-none rounded-2xl object-cover shadow-xl lg:aspect-square lg:h-auto lg:max-w-sm"
-                  src="assets/images/00062-000000-12.jpeg"
+                  src="assets/images/1909newsletter-gathering-meal-2019.jpg"
                   alt=""
                 />
                 <div className="w-full flex-auto text-sm text-gray-300 space-y-4">
