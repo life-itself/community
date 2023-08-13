@@ -10,7 +10,7 @@ image: /assets/images/liam-kavanagh-climate-majority-project-life-itself-communi
 
 >This conversation is part of a series of bi-monthly community calls hosted in the Life Itself online community if you would like to join future calls join us in our [Whatsapp Community](https://chat.whatsapp.com/JNJCTZugNQn1fq89xbHtfA).
 
-In this discussion Liam Kavanagh presents the Climate Majority Project, a UK-based organisation focused on mobilising the majority of people concerned about climate change in response to the ecological emergency. 
+In this conversation Liam Kavanagh presents the Climate Majority Project, a UK-based organisation focused on mobilising the majority of people concerned about climate change in response to the ecological emergency. 
 
 ## The Conversation
 

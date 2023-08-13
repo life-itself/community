@@ -10,8 +10,9 @@ image: /assets/images/marc-santolini-community call.jpg
 
 >This video is part of a series of discussions carried out within the Life Itself community. To get involved please join the Life Itself [Whatsapp Chat](https://chat.whatsapp.com/JNJCTZugNQn)
 
-
 In this discussion, lead by systems scientist and Life Itself Praxis Hub co-founder, Marc Santolini, we explore the intersection between contemplative practices and scientific research, specifically in the context of impact-driven initiatives and citizen science projects. 
+
+## The Conversation
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VEh5L9tkJkw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -21,9 +22,11 @@ Marc describes his work at the Life Itself hub, where the praxis research team i
 
 >[The slide presentation is available to view here.](https://docs.google.com/presentation/d/1zad_qs_sX1Je22atzRm0Kk4HY_QKxOOPax-irgweY5g/edit#slide=id.gacf0de1f5d_0_115) 
 
-Marc Santolini is a research fellow at the Learning Planet Institute (Université Paris Cité) and co-founder of the Life Itself Praxis Hub. With a background in network science and epistemology, his work focuses on innovation, collaboration, and learning within open and citizen science communities. As a core resident of the Praxis Hub, Marc investigates how collective practices impact relational well-being and foster group self-regulatory processes. 
+## About Marc 
 
-To learn more about Marc and his work you can visit his website: https://marcsantolini.com/
+>Marc Santolini is a research fellow at the Learning Planet Institute (Université Paris Cité) and co-founder of the Life Itself Praxis Hub. With a background in network science and epistemology, his work focuses on innovation, collaboration, and learning within open and citizen science communities. As a core resident of the Praxis Hub, Marc investigates how collective practices impact relational well-being and foster group self-regulatory processes. 
+>
+>To learn more about Marc and his work you can visit his website: https://marcsantolini.com/
 
 
 
