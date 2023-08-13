@@ -7,8 +7,9 @@ categories:
   - community-call
 image: /assets/images/fabienne-vailes-community-calll.jpg
 ---
+>This conversation is part of a series of bi-monthly community calls hosted in the Life Itself online community if you would like to join future calls join us in our [Whatsapp Community](https://chat.whatsapp.com/JNJCTZugNQn1fq89xbHtfA).
 
-In this discussion we explore the future of education. The current education system failed us, so what are we gonna do about it? Fabienne brings a grounded and pragmatic approach to modern education with her Flourishing Student Model. 
+In this conversation we explore the future of education. The current education system failed us, so what are we gonna do about it? Fabienne brings a grounded and pragmatic approach to modern education with her Flourishing Student Model. 
 
 ## The Conversation
 
@@ -27,7 +28,7 @@ In conclusion, the podcast conversation underscores the need for transformation 
 ## About Fabienne Vailes
 
 >Fabienne is first of all a mother of two teenage boys aged 15 and 13. She is also an Author, Educator, Podcaster and Researcher (PhD Candidate) exploring how individuals, communities and the planet ALL flourish; one imperfectly perfect conversation at a time. Additionally, she is co-founder of Streams Learning Hub for teenagers in Bristol, bringing a whole range of local in-person and global online opportunities.
-
+>
 >You can learn about Fabienne on her website: https://flourishingeducation.co.uk/ 
 
 

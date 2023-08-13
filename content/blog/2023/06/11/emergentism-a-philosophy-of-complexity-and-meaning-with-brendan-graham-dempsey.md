@@ -15,6 +15,8 @@ This discussion, lead by author and thought leader Brendan Graham Dempsey, is ab
 
 Brendan describes the meaning crisis as a collective existential crisis related to the issue of purpose and meaning. The prevalence of nihilism and the reactionary fundamentalism that follows are seen as part of this crisis. Reductionism is the belief that everything can be broken down into its parts, with the fundamental understanding that everything is made up of matter in space. 
 
+## The Conversation
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PfRFOJWZ5j0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
@@ -30,8 +32,7 @@ Relationality emphasizes the reality of relationships between entities and their
 
 Brendan suggests that understanding the drive towards complexity and the unfolding directionality of increasing complexity allows for the reconstruction of a new grand narrative or framing of existence. This new perspective can contextualize various forms of knowledge within a larger picture and help address the meaning crisis. 
 
-## Watch the conversation
-
+## About Brendan
 
 
 >Brendan Graham Dempsey is a writer who delves into topics such as the meaning crisis and the essence of spirituality within the context of metamodernity. 
