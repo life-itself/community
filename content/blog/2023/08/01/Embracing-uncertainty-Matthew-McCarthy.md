@@ -1,5 +1,5 @@
 ---
-title: "Upcoming Communtiy Call: Embracing Uncertainty with Matthew McCarthy"
+title: "Upcoming Community Call: Embracing Uncertainty with Matthew McCarthy"
 created: 2023-08-01
 authors: 
   - matthew-mccarthy
