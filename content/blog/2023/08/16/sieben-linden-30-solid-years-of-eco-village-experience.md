@@ -1,5 +1,5 @@
 ---
-title: "Sieben Linden: 30 solid years of ecovillage experience."
+title: "Sieben Linden: 30 solid years of ecovillage experience"
 created: 2023-08-16
 authors: 
   - boaz-feldman
