@@ -10,7 +10,7 @@ image: /assets/images/debunking-myths-utopia.png
 
 There are many myths regarding what conscious coliving environments or communities look like, here we bust the top 3.
 
-## Myth #1: Utopian Paradise Awaits You 
+## Myth #1: Utopian Paradise Awaits You 
 
 Intentional communities are often seen as idyllic utopias where harmony and happiness prevail. However, it's important to recognize that intentional communities, like any group of individuals, are not immune to conflict. Differing opinions, personalities, and priorities can lead to disagreements and challenges. Achieving harmony in a community requires constant effort, effective communication, and the willingness to compromise.
 
