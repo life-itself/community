@@ -7,7 +7,7 @@ categories:
   - community-call
 image: /assets/images/communitycall-bella-roberts.jpg
 ---
-**This call will take place on Wednesday 6th September 2023 at 730pm CET
+This call will take place on Wednesday 6th September 2023 at 730pm CET
 
 [Register here for the call](https://us02web.zoom.us/meeting/register/tZ0sf-yhrzkrEta-tRdIVoWcAvBYycp7kkXw)
 
