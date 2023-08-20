@@ -21,7 +21,7 @@ Residencies combine both an activating frame of collective practices (sitting me
 * **Where is it?** The [Life Itself Praxis Hub](https://lifeitself.org/hubs/bergerac), Bergerac, France (South West, in the Bordeaux wine region, 20 min from the Plum Village Buddhist monastery)
 * **For whom is it?** To all who wish to engage in practices: system-thinkers, researchers, spiritual ecologists, bodhisattvas, change makers, symbiotic entrepreneurs, poets, painters, eco-dharmists, people ready to just be with what comes, good and bad. 
 * **How can I participate?** Apply online to one of our residencies using [this form](https://docs.google.com/forms/d/e/1FAIpQLSdiykDKyZR6DgtPKeYuNePy9sWc-qkIc4BVfKBRjkFWKvFp-g/viewform).
-* **How much does it cost?** A typical room costs between €650 (basic room) and €1,050 (premium double room) per month / per person. In addition, the daily food costs are 18 euros per person, with a unique Zen food experience prepared by our in-house Tenzo (head cook). More information on rooms can be found [here](https://docs.google.com/document/d/1PBijDdlRAECvE19Nxo1fOEcq2foGJVeERZVxzIs6b9U/edit?usp=sharing). Facilitation fees may apply for the residencies. Some rooms can be shared at a reduced rate.
+* **How much does it cost?** A typical room costs between €650 (basic room) and €1,050 (premium double room) per month / per person. In addition, the daily food and maintenance  costs are 18 euros per person [here](https://docs.google.com/document/d/1PBijDdlRAECvE19Nxo1fOEcq2foGJVeERZVxzIs6b9U/edit?usp=sharing). Facilitation fees may apply for the residencies. Some rooms can be shared at a reduced rate.
 * **More questions?** If you have more questions or are interested to visit us outside of the residencies and participate in our Praxis ecology please contact us at praxis@lifeitself.org. We propose rooms for a minimum stay of 3 nights.
 
 ## About the Praxis Hub
@@ -53,14 +53,6 @@ Our food practices are firmly grounded in three fundamental principles:
 * Honoring - human dignity
 
 These principles allow us to strike an optimal balance between the ethical, financial, and ecological facets of our food system. The menus we curate, inspired by the Zen temple tradition, establish a mindful ambiance for the group's sustenance.
-
-Our essential meal system is founded on a tripartite scheme, comprising:
-
-* Cereals (100g per person, per day)
-* Beans + Cooked Veggies (100g + 360g per person, per day)
-* Raw Veggies (220g per person, per day)
-* We also provide desserts or cookies, along with cereals and seeds for breakfast (200g per person, per day).
-
 Our food purchases are made at the fresh market and the local organic cooperative, and we make a dedicated effort to use local and endemic ingredients as much as possible.
 
 Collective meals are always plant-based, and we conscientiously avoid non-ethical, industrially produced food. We believe this diet provides sufficient protein for daily needs, but we encourage you to assess and cater to your personal nutritional requirements. For your convenience, we provide two additional refrigerators for personal use.
