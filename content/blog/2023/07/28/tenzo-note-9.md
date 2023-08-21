@@ -1,5 +1,5 @@
 ---
-title:  "Tenzo Note 9: Unveiling the Tenzo: Zen Tradition's Culinary Activist"
+title:  "Tenzo Note 9: Unveiling the Tenzo - Zen Tradition's Culinary Activist"
 created: 2023-07-28
 categories: 
   - conscious-food
