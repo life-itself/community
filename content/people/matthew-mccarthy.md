@@ -1,5 +1,5 @@
 ---
-id: mathew-maccarthy
+id: matthew-maccarthy
 name: Matthew McCarthy
 avatar: /assets/images/profile-pic-matthew.jpg
 ---

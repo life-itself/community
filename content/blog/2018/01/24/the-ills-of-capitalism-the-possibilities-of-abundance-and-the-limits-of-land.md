@@ -3,11 +3,7 @@ title: "The Ills of Capitalism, the Possibilities of Abundance and the Limits of
 created: 2018-01-24
 categories: 
   - institute
-tags: 
-  - abundance
   - capitalism
-  - critique
-  - rufus-pollock
 authors: 
   - rufuspollock
 ---
@@ -174,6 +170,10 @@ _Photographs by Jomjakkapat Parrueng unsplash_
 17. transport costs for food are not, at present, a large proportion of cost, at least in urban environments. However, they are significant for locations where population is relatively small (as economies of scale are much reduced) and thus relevant here where we are considering opening up new (more remote) areas for human habitation. [\[return\]](https://artearthtech.com/2018/01/24/the-ills-of-capitalism-the-possibilities-of-abundance-and-the-limits-of-land/#fnref:transport-costs-for-food)
 18. It would be interesting to really do the math here. How much habitable land is there? How much food do we need to produce? [\[return\]](https://artearthtech.com/2018/01/24/the-ills-of-capitalism-the-possibilities-of-abundance-and-the-limits-of-land/#fnref:doing-the-math)
 
-[The way we live now](https://lifeitself.org/2017/05/31/the-way-we-live-now/)
+***
 
-Life Itself: a preliminary scqh
+## Next Reads
+
+[[the-way-we-live-now|The Way We Live Now]]
+[[cultivating-an-emerging-paradigm|Cultivating an Emerging Paradigm]]
+

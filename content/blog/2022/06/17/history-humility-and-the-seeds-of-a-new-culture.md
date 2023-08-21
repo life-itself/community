@@ -1,5 +1,5 @@
 ---
-title: "Tending the seeds of a \"new\" culture — Hope, History, and Humility"
+title: "Tending the seeds of a "new" culture — Hope, History, and Humility"
 created: 2022-06-17
 categories: 
   - contemplative-activism
@@ -16,7 +16,7 @@ In 2022, our map of the meta-modern shows reason for hope: many aligned organiza
 
 I welcome signs of hope, now, and know hope is double-edged. If I had needed to see obvious reasons to hope in 2000 or 2016, I would not be prepared for now. If we need hope to be obvious it can blind us. Hope based in wishful thinking has anxiety within it, anxiety that we can deny, but not avoid. We mights _say_ that consciousness shift is guaranteed and a revolution is inevitable, but our anxieties tell us how deeply we truly believe our statements. Our anxiety tells us what hopes are solid, but we have to listen.
 
-So perhaps hope can found through engaging with our anxieties. One anxiety, shared by many, is the narcissism plagues our effort to escape a culture of individual alienation. Our conditioned minds want to own this new culture and boast about our role in it. We must accept that programmes for big egos have written themselves into our minds. These seek addictive stories that give us pleasurable “hits’ of pride. Maybe we can’t help it but maybe he can help each other be different.
+So perhaps hope can found through engaging with our anxieties. One anxiety, shared by many, is the narcissism that plagues our effort to escape a culture of individual alienation. Our conditioned minds want to own this new culture and boast about our role in it. We must accept that programmes for big egos have written themselves into our minds. These seek addictive stories that give us pleasurable “hits’ of pride. Maybe we can’t help it but maybe he can help each other be different.
 
 ## **Hope, Ego & Novelty**
 
@@ -44,6 +44,8 @@ These themes are at the center of work currently at Life Itself’s practice hub
 
 * * *
 
-https://lifeitself.org/2017/04/20/logic-of-our-purpose-and-reason-for-our-existence-scqh/
+## Next Reads
 
-https://lifeitself.org/2022/03/11/mapping-metamodern-what-is-metamodernism/
+[[cultivating-an-emerging-paradigm|Cultivating an Emerging Paradigm]]
+[[what-is-conscious-coliving|What is Conscious Coliving?]]
+
