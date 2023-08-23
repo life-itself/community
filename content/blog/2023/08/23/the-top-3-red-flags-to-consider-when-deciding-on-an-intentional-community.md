@@ -1,5 +1,5 @@
 ---
-title: "The top 3 Red Flags to Consider when Deciding on an Intentional Community"
+title: "The Top 3 Red Flags to Consider when Deciding on an Intentional Community"
 created: 2023-08-23
 authors: 
   - lauren-wigmore
@@ -8,7 +8,7 @@ categories:
 image: /assets/images/red-flags.jpg
 ---
 
-**Before you dive in headfirst to a new conscious coliving experience, we wanted to flag (sorry, couldn’t resist) to you the top 3 red flags we’d recommend keeping an eye out for in unconscious coliving communities.
+Before you dive in headfirst to a new conscious coliving experience, we wanted to flag (sorry, couldn’t resist) to you the top 3 red flags we’d recommend keeping an eye out for in unconscious coliving communities.
 
 ## 🚩 Red flag #1: A dominant charismatic leader and strict rules
 
