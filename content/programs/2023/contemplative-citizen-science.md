@@ -3,7 +3,7 @@ title: "Contemplative Citizen Science, September 2023"
 description: "In this residency we will inquire into how an extreme citizen science of contemplation can be built, bringing together the wisdom of ancient contemplative practices and the rigor of modern scientific methodologies."
 image: "/assets/images/contemplative-citizen-science.jpg"
 start: "2023-09-09"
-end: "2023-09-30"
+end: "2023-09-15"
 facilitators:
   - "Marc Santolini"
   - "Liam Kavanagh"
