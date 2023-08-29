@@ -12,7 +12,7 @@ Life Itself are currently mapping a growing field of ‘transformational’ soci
 
 We will be producing a map of 300+ organisations, which will consist of a searchable directory of organisation profiles and accompanying visualisations to make sense of key patterns.
 
-We recently came up with the criteria below to determine which actors should be included or not in the map. We invite readers to share your thoughts, questions, or critiques of these criteria so that we can learn from the field and improve together. We’re also glad to hear suggestions of organisations that you find innovative or inspiring that you think fit within this field. You can find our contact details [here](https://lifeitself.org/contact) (via email is the best way).**
+We recently came up with the criteria below to determine which actors should be included or not in the map. We invite readers to share your thoughts, questions, or critiques of these criteria so that we can learn from the field and improve together. We’re also glad to hear suggestions of organisations that you find innovative or inspiring that you think fit within this field. You can find our contact details [here](https://lifeitself.org/contact) (via email is the best way).
 
 ### Inclusion Criteria 
 
