@@ -5,14 +5,14 @@ authors:
   - matthew-mccarthy
 categories: 
   - Life Itself Research
-image: /assets/images/cohere-mapping-logo.jpg
+image: /assets/images/cohere-mapping-logo 1.jpg
 ---
 
-**We are excited to announce that we are working on ‘Cohere+’, a research and education project co-funded by the European Union, in partnership with: The Hague Center (Netherlands), the Institute for Integral Studies (Germany), Emerge (Germany), and the Ekskäret Foundation (Sweden). **
+**We are excited to announce that we are working on ‘Cohere+’, a research and education project co-funded by the European Union, in partnership with: The Hague Center (Netherlands), the Institute for Integral Studies (Germany), Emerge (Germany), and the Ekskäret Foundation (Sweden).** 
 
 The purpose of this 3-year project is to uplevel the collective capacities of European change agents and learn together how to transform ‘metacrisis’, moving together towards a regenerative, cohesive, and healthy Europe. Our focus is on the field of ‘transformational’ change agents in Europe: those who can be identified as taking whole-systems, integrative approaches towards paradigmatic societal transformation. Cohere+ combines research, events, technology development, and educational offerings in order to map the European ‘transformational change’ field, engage with agents to build community and coherence within the field, and develop the collective capacities of change agents across Europe to co-create regenerative systems and societies. 
 
-This project builds on Life Itself’s previous ecosystem mapping work, which you can read more about [here](https://lifeitself.org/initiatives/ecosystem-mapping).**
+This project builds on Life Itself’s previous ecosystem mapping work, which you can read more about [here](https://lifeitself.org/initiatives/ecosystem-mapping).
 
 # Background to the project: a field of transformational change in Europe gathering strength
 
