@@ -84,4 +84,3 @@ Some questions that come to mind for us on the issue of selecting which organisa
 
 We welcome your suggestions, reactions, and questions on all that we have shared here. We look forward to engaging in conversation with you and sharing future updates on our progress.
 
-**
