@@ -16,19 +16,19 @@ We recently came up with the criteria below to determine which actors should be 
 
 ### Inclusion Criteria 
 
-**Criteria 1: Is it a societal change organisation? 
+**Criteria 1: Is it a societal change organisation?**
 
 The organisation is composed of a group of people who together are demonstrably and actively engaged in societal change work guided by plausible strategy. 
 
-**Criteria 2: Are they actively based in and/or actively present in Europe?
+**Criteria 2: Are they actively based in and/or actively present in Europe?**
 
 The organisation has active presence in European countries. For example, they offer in-person or online activities or events in one or more European countries and/or they have hubs/bases/centers in one or more European countries. A formal registration as a legal organization is not necessarily required. 
 
-**Criteria 3: Are they working towards *paradigmatic* societal change?
+**Criteria 3: Are they working towards *paradigmatic* societal change?**
 
 The organisation talks about the need for far-reaching and radical (to the roots) societal change, transformation, or  evolution. The organisation talks about the need for alternative societal model(s) or paradigm(s) or culture(s). Or,  the organisation demonstrates some strategic systemic awareness, for example, they don't just talk about developing a new culture without some awareness of how that is relates to broader societal change or addressing broader social and ecological issues. 
 
-**Criteria 4: Are they taking a *whole-systems/ integrated* approach?
+**Criteria 4: Are they taking a *whole-systems/ integrated* approach?**
 
 The organisation demonstrates awareness of the need for society to shift at multiple systemic levels. For example, they demonstrate awareness of the need for integration of inner, interpersonal, and systemic work. Or, they demonstrate awareness of the need for other forms of consciousness/knowledge/relating to self and others/cultural practices.
 
