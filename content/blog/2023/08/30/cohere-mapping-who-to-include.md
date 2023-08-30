@@ -2,9 +2,10 @@
 title: "Mapping Transformational Change Agents in Europe: Who do we Include?"
 created: 2023-08-30
 authors: 
-  - matthew-mccarthy
+  - catherine-tran
 categories: 
   - Life Itself Research
+  - Ecosystem Mapping
 image: /assets/images/erasmus-change--agents-162.jpg
 ---
 
@@ -82,5 +83,5 @@ Some questions that come to mind for us on the issue of selecting which organisa
 - How can we ensure we map organisations from regions of Europe that tend to be less represented, e.g. southern Europe and eastern Europe?
     
 
-We welcome your suggestions, reactions, and questions on all that we have shared here. We look forward to engaging in conversation with you and sharing future updates on our progress.
+We welcome your suggestions, reactions, and questions on all that we have shared here. Get in touch with us [here](https://lifeitself.org/contact). We look forward to engaging in conversation with you and sharing future updates on our progress.
 
