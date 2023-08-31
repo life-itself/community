@@ -1,12 +1,12 @@
 ---
 title: "Books to support your wellbeing whilst navigating the climate crisis"
 created: 2023-08-31
-authors: 
+authors:
   - lauren-wigmore
-categories: 
+categories:
   - community
   - reading
-image: /assets/images/book-list-mentalhealth-climate.jpg
+image: /assets/images/book-list-mentalhealth-climate..jpg
 ---
 
 Through the thoughtful guidance of the Life Itself Community members, the following books have been compiled and suggested to support peoples mental health whilst navigating the complex, and often emotionally overwhelming, topic of the climate crisis:
