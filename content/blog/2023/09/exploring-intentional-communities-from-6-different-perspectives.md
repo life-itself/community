@@ -5,7 +5,7 @@ authors:
   - nathen-fitchen
 categories:
   - conscious-coliving
-images: /assets/images/six-perspectives.jpg
+images: content/assets/images/six-perspectives.jpg
 ---
 
 In a world where individualism often takes center stage, there exists a unique and captivating phenomenon known as intentional communities. These communities, driven by shared values and goals, provide a platform for individuals to come together and forge deep connections, creating alternative ways of living and relating to one another. What sets intentional communities apart is their ability to encompass a multitude of perspectives, offering a rich tapestry of viewpoints that shape the very fabric of these unique social ecosystems.
