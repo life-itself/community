@@ -23,7 +23,8 @@ export default function Residencies({ upcomingResidencies }) {
       </div>
       <div className="py-1">
         <h3 className="mt-8 text-2xl font-bold font-headings tracking-tight text-primary">Upcoming Residencies & Courses</h3>
-        <q>If you require more information about any of our residencies or want to discuss other potential opportunities please contact us at praxis@lifeitself.org</q>
+        <br></br>
+        <p>If you require more information about any of our residencies or want to discuss other potential opportunities please contact us at praxis@lifeitself.org</p>
         <div className="my-8 space-y-20 lg:my-8 lg:space-y-16 text-primary max-w-3xl mx-auto">
           {upcomingResidencies?.map((residency) => (
             <article key={residency._id} className="relative isolate flex flex-col gap-8 lg:flex-row lg:items-center">
