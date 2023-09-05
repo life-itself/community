@@ -220,6 +220,11 @@ export default function Home({ posts, keyWritings, keyInitiatives, upcomingResid
                         Join Here&nbsp;<span aria-hidden="true">&rarr;</span>
                       </a>
                     </div>
+                    <div className="flex">
+                      <a href="https://lifeitself.org/community" className="bg-secondary rounded py-2 px-4 text-sm font-medium text-primary">
+                        Learn More<span aria-hidden="true">&rarr;</span>
+                      </a>
+                    </div>
                   </div>
                 </div>
               </div>
