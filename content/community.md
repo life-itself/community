@@ -4,6 +4,7 @@ description: "The Life Itself community is for people, who recognise the meta-cr
 image: /assets/images/community-page.jpg
 created: 2023-08-30
 ---
+![[/assets/images/community-page.jpg]]
 
 _A community for people, who recognise the meta-crises we face, know there is a possibility of a new paradigm and are ready to do something about it!_
 
