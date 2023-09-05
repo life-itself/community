@@ -32,7 +32,7 @@ Life Itself has three co-living venues: two in Bergerac and one in Berlin. These
 
 ### Research
 
-Life Itself Labs is a think-tank and consultancy specialising in designing economic and governance systems to support social transformation, and delivering strategic insights into complex and unorthodox topics. Read more about [Life Itself Labs](https://labs.lifeitself.org/).
+Life Itself Research is a research collective specialising in exploring paths to awakening. Read more about [Life Itself Research](https://lifeitself.org/research).
 
 ### Possibility Now
 
