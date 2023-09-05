@@ -75,6 +75,8 @@ The meeting is a chance to:
 
 <iframe width="540" height="305" src="https://1ebb0834.sibforms.com/serve/MUIEAMrSe1USyAnFoe_C630Hr_0w-TDQQxw6XMoeLGZz82CiFPdnyM0wQSEPQxYICRv2iFrZ2Q-huoSJLziIJQgGvH1g7RxqvjPmV4i5wU7eHy4zl9KD3KDdF9ZekRx0NAhwEZl2D7LQ7Qe02DSJOqgSpG6dU6R8Fgi7RN2ehg-zMnq2iH7gTff5uu-6HimjfC1z4hK9RuUXvQY0" frameborder="0" scrolling="auto" allowfullscreen></iframe>
 
+Check out the recordings of [our previous research forum calls](https://www.youtube.com/playlist?list=PLg0Untv2MuxXjzVSehpnGd1GVN8cgKXcr) to experience what a research forum can be like!
+
 ### Participation Levels
 
 So people have a sense of the dynamics of the community we define two levels of participation.
