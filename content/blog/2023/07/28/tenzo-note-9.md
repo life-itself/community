@@ -5,7 +5,7 @@ categories:
   - conscious-food
 authors:
   - valerie
-images: assets/images/tenzo-note-9.jpg
+images: assets/images/tenzo-note9.jpg
 ---
 
 Discover the captivating world of the Tenzo, the revered cook in Zen tradition. Valerie Duvauchelle shares the magic of food activism and its power to shape our unique narrative of self. 
