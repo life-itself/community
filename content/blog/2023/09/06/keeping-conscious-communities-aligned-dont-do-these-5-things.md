@@ -5,7 +5,7 @@ authors:
   - lauren-wigmore
 categories:
   - conscious-coliving
-image: /asset/images/these-five-things
+image: /assets/images/these-five-things.jpg
 ---
 
 In today's fast-paced digital age, conscious communities play a vital role in shaping our society. These communities formed by individuals who share common beliefs, values, and goals, strive to create a positive impact on the world. However, maintaining alignment within these communities can be challenging, as various factors can lead to discord and division. In this article, we will explore five crucial things to avoid in order to keep conscious communities aligned and thriving.
