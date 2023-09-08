@@ -35,5 +35,5 @@ For a monthly cost between 850 to 1250 euros (organic plant based food included)
 residents will be able to experience an inspiring  way of living together.Participants  are also welcome to share their unique skills, knowledge and other resources with the rest of the community. 
 
 Ideal candidates are those who resonate with these principles and practices and are ready to explore their impact on a 
-personal and communal level. Interested individuals are encouraged to apply by september 30th, 2023, to join this 
+personal and communal level. In other words people who feel to be engaged as secular monk in a postural collective exeprience . Interested individuals are encouraged to apply by september 30th, 2023, to join this 
 venture that emphasizes the deep ontological effects  of living together within a structure. 
