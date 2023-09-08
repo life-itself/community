@@ -31,14 +31,7 @@ Regarding food, our house Tenzo, Valerie, will guide them through daily cooking 
 tradition. With a century-long legacy of conscious food practice, Valerie will share her expertise and adapt 
 these timeless wisdom to our modern times. This presence brings an additional layer of knowledge transmission.
 
-For a monthly cost between 850 to 1250 euros (organic plant based food included),  
-residents will be able to experience an inspiring  way of living together.Participants  are also welcome to share their unique skills, knowledge and other resources with the rest of the community. 
-
-Ideal candidates are those who resonate with these principles and practices and are ready to explore their impact on a 
-personal and communal level. In other words people who feel to be engaged as secular monk in a postural collective exeprience . Interested individuals are encouraged to apply by september 30th, 2023, to join this 
-venture that emphasizes the deep ontological effects  of living together within a structure. 
-
-To give you an odea of how your day will look like here is the schedule we used in last collective time at the Hub 
+Schedule: 
 - 7 to 8 am : just sitting in Dojo 
 - 8h00 - 8H45 am  breakfast and dishes 
 - 9 to 10 am : collective care for cooking , cleaning, gardening, all what needs to be taken care of in the space
@@ -49,6 +42,13 @@ To give you an odea of how your day will look like here is the schedule we used 
 - 18h30 : prep dinner team finish meal
 - 19h00 : table dinner and dishes
 
-Besides the daily structure, there will be once a week a regulatory circle and emergent offering sessions at nights to be organized among participants. 
+Besides the daily structure, there will be once a week a regulatory circle and twice a week emergent offering sessions by residents. 
 Week ends don't have any frame. During that time spontanous cooking and eating organisation happens. This is a time that gives opportunity to discover surroundings such as Plum Village or prehistorical caves. 
 
+
+For a monthly cost between 850 to 1250 euros (organic plant based food included),  
+residents will be able to experience an inspiring  way of living together.Participants  are also welcome to share their unique skills, knowledge and other resources with the rest of the community. 
+
+Ideal candidates are those who resonate with these principles and practices and are ready to explore their impact on a 
+personal and communal level. In other words people who feel called by the secular monk posture. Interested individuals are encouraged to apply by september 30th, 2023, to join this 
+venture that emphasizes the deep ontological effects  of living together within a structure. 
