@@ -1,28 +1,41 @@
-import { allBlogs, allDocuments } from 'contentlayer/generated';
+import { useSearchParams } from 'next/navigation'
+import { allBlogs, allPeople } from 'contentlayer/generated';
 import sortArray from 'sort-array';
 
 import { BlogsList } from "../../components/custom/BlogsList.jsx"
+import { PillTabs } from "../../components/custom/PillTabs.jsx"
 import DocsLayout from "../../layouts/docs.jsx"
 import { siteConfig } from '../../config/siteConfig.js';
 
-export default function Blogs() {
 
-    const authors = allDocuments.filter(doc => doc.type === "Person")
-    const blogPosts = Array.from(allBlogs)
-    const blogs = blogPosts.filter(post => !post.isDraft)
+export default function Blogs() {
+    const searchParams = useSearchParams();
+    const selectedCategory = searchParams.get('category');
+    const allCategories = allBlogs
+        .map(blog => blog.categories ?? [])
+        .flat();
+    const uniqueCategories = [...new Set(allCategories)].sort();
+
+    const blogs = allBlogs
+        .filter(post => !post.isDraft && (selectedCategory ? post.categories?.includes(selectedCategory) : true))
         .map(post => ({
-            ...post,
-            authors: authors.filter(author => post.authors?.includes(author['id'])) ?? [siteConfig.author]
+            _id: post._id,
+            title: post.title,
+            description: post.description,
+            url_path: post.url_path,
+            categories: post.categories,
+            authors: allPeople.filter(author => post.authors?.includes(author['id'])) ?? [siteConfig.author]
         }))
-        .slice()
-    // .sort((a, b) => new Date(b.created) - new Date(a.created))
+
     const sortedBlogs = sortArray(blogs, {
         by: "created",
         order: "desc"
     })
 
+
     return (
         <DocsLayout frontMatter={{ title: "Blog" }}>
+            <PillTabs tabs={uniqueCategories} current={selectedCategory} />
             <BlogsList posts={sortedBlogs} />
         </DocsLayout>
     )
