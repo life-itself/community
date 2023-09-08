@@ -8,7 +8,7 @@ facilitator:
 - "Praxis guardians" 
 
 location: "The Life Itself Praxis Hub, Bergerac, France"
-cost: "Monthly cost ranging 850-1250€ for a sigle room including food and maintenance "
+cost: "Monthly cost ranging 850-1250€ for a single room including food and maintenance "
 apply-button: "https://docs.google.com/forms/d/e/1FAIpQLSdiykDKyZR6DgtPKeYuNePy9sWc-qkIc4BVfKBRjkFWKvFp-g/viewform"
 created: 2023-06-23
 ---
@@ -37,9 +37,8 @@ Schedule:
 - 9 to 10 am : collective care for cooking , cleaning, gardening, all what needs to be taken care of in the space
 - 10 - 12h30 : co - working
 - 13h00 buffet lunch and dishes
-- 14h00 to 5h00 co working
-- 5h30 : body care ( somodebdy offers a session
-- 18h30 : prep dinner team finish meal
+- 14h00 to 17h00 co working
+- 17h30 : body care ( somodebdy offers a session
 - 19h00 : table dinner and dishes
 
 Besides the daily structure, there will be once a week a regulatory circle and twice a week emergent offering sessions by residents. 
