@@ -1,3 +1,4 @@
+import Image from 'next/image';
 import { Fragment } from 'react'
 import { Dialog, Transition } from '@headlessui/react'
 import { XMarkIcon } from "@/components/XMarkIcon";
@@ -41,7 +42,7 @@ export function Modal({ open, onClose, onSignup }) {
                     <XMarkIcon className="h-6 w-6" aria-hidden="true" />
                   </button>
                 </div>
-                <img src="/conscious-coliving-popup.jpg" />
+                <Image width={512} height={288} priority alt="Conscious Coliving 101 Course" src="/conscious-coliving-popup.jpg" />
                 <div className="p-5 pb-7 flex flex-col items-center">
                   <div className="mt-3 text-center sm:ml-4 sm:mt-0 sm:text-left">
                     <div className="mt-2">
