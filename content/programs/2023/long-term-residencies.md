@@ -3,9 +3,9 @@ title: "Long-term residencies, October 2023"
 description: "This October 2023, the Bergerac Praxis Hub is initiating a long-term residency program that fuses the contemplative atmosphere of a monastery with the intellectual curiosity of a university. Designed for those drawn to engage in a posture, this  2 to 6-month residencies sits in a conscious co-living and daily care practices such as  cooking and just sitting."
 image: "/assets/images/long-term-residency (1).jpg"
 start: "2023-10-15"
-end: "2024-1-15"
+end: "2024-04-14"
 facilitator:
-- "Valerie Duvauchelle" 
+- "Praxis guardians" 
 
 location: "The Life Itself Praxis Hub, Bergerac, France"
 cost: "Monthly cost ranging 850-1250€ for a sigle room including food and maintenance "
@@ -45,9 +45,8 @@ Schedule:
 Besides the daily structure, there will be once a week a regulatory circle and twice a week emergent offering sessions by residents. 
 Week ends don't have any frame. During that time spontanous cooking and eating organisation happens. This is a time that gives opportunity to discover surroundings such as Plum Village or prehistorical caves. 
 
-
 For a monthly cost between 850 to 1250 euros (organic plant based food included),  
-residents will be able to experience an inspiring  way of living together.Participants  are also welcome to share their unique skills, knowledge and other resources with the rest of the community. 
+residents will be able to experiment an inspiring  way of living together.Participants  are also welcome to share their unique skills, knowledge and other resources with the rest of the community. 
 
 Ideal candidates are those who resonate with these principles and practices and are ready to explore their impact on a 
 personal and communal level. In other words people who feel called by the secular monk posture. Interested individuals are encouraged to apply by september 30th, 2023, to join this 
