@@ -1,7 +1,7 @@
 import { Splide, SplideSlide, SplideTrack } from "@splidejs/react-splide";
 import { formatDate } from "@/lib/formatDate.js";
 
-export default function BlogSlider ({ posts }) {
+export default function BlogSlider({ posts }) {
   return (
     <section className="relative px-6 pt-16 pb-20 lg:px-8 lg:py-20">
       <div className="relative mx-auto max-w-7xl space-y-4 lg:space-y-6">
@@ -12,7 +12,7 @@ export default function BlogSlider ({ posts }) {
           <Splide
             aria-label="From the blog"
             tag="div"
-            hasTrack={ false }
+            hasTrack={false}
             options={{
               perPage: 1,
               rewind: true,
@@ -85,7 +85,7 @@ export default function BlogSlider ({ posts }) {
         </div>
       </div>
       <div className="mt-16 flex justify-center">
-        <a href="/ideas" className="bg-secondary rounded py-2 px-4 text-sm font-medium text-primary">
+        <a href="/blog" className="bg-secondary rounded py-2 px-4 text-sm font-medium text-primary">
           View all posts&nbsp;<span aria-hidden="true">&rarr;</span>
         </a>
       </div>
