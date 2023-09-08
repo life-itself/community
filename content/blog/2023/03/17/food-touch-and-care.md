@@ -2,7 +2,7 @@
 title: "Regain Your Touch: Tech, Food & Care with Madelaine Ley"
 created: 2023-03-17
 categories: 
-  - "community call"
+  - community-call
 authors:
   - nathen-fitchen
 image: /assets/images/regain-your-touch-tech-food-care-madelaine-ley.jpg
