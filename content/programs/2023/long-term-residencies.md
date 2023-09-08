@@ -38,7 +38,7 @@ Schedule:
 - 10 - 12h30 : co - working
 - 13h00 buffet lunch and dishes
 - 14h00 to 17h00 co working
-- 17h30 : body care ( somodebdy offers a session
+- 17h30 : body care 
 - 19h00 : table dinner and dishes
 
 Besides the daily structure, there will be once a week a regulatory circle and twice a week emergent offering sessions by residents. 
