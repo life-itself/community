@@ -8,7 +8,7 @@ categories:
 image: /assets/images/moral-agency-post.jpg
 ---
 
-Over the past few weeks, our [Deliberately Developmental Spaces Project](https://lifeitself.org/blog/2023/06/20/building-field-for-developmental-spaces) has encouraged us to have more in depth discussions on moral development and moral agency, and to try and get a more clear sense of what these things mean. Like many conversations around such broad topics, though, it can be difficult to get a clear sense of what these things refer to, and how they can be conceptualized or measured across different contexts.
+Over the past few weeks, our [Deliberately Developmental Spaces Project](https://lifeitself.org/blog/2023/06/20/building-field-for-developmental-spaces) has encouraged us to have more in depth discussions on moral development and moral agency, and to try and get a more clear sense of what these things mean. Like many conversations around such broad topics, though, it can be difficult to get a concrete sense of what these things refer to, and how they can be conceptualized or measured across different contexts.
 
 **Challenges in considering moral agency**
   
