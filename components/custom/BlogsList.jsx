@@ -44,7 +44,7 @@ export function BlogsList({ posts }) {
             </div>
             {post.categories && <div className="flex flex-wrap space-x-2">
               {post.categories.map(category => (
-                <p key={category} className="pr-3 underline m-0 text-xs uppercase">#{category}</p>
+                <a key={category} href={`/blog?category=${category}`} className="pr-3 underline m-0 text-xs uppercase">#{category}</a>
               ))}
             </div>}
           </div>

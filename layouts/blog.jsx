@@ -1,19 +1,20 @@
 /* eslint import/no-default-export: off */
+import { useRouter } from "next/router";
 import { formatDate } from "@/lib/formatDate.js";
 import { Avatar } from "@/components/Avatar.jsx";
-import Link from "next/link";
 
 export default function BlogLayout({ children, frontMatter }) {
+  const router = useRouter();
   const { title, created, image, authorsDetails, categories, tags } = frontMatter;
 
   return (
     <>
-      <Link href="/blog" className="flex flex-col items-center w-fit mx-auto space-x-2 pt-6 text-gray-500 hover:text-gray-900 hover:underline">
+      <p onClick={() => router.back()} className="flex flex-col items-center cursor-pointer w-fit mx-auto space-x-2 pt-6 text-gray-500 hover:text-gray-900">
         <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth="1.5" stroke="currentColor" className="w-6 h-6">
           <path strokeLinecap="round" strokeLinejoin="round" d="M6.75 15.75L3 12m0 0l3.75-3.75M3 12h18" />
         </svg>
         <p>return to the blog list</p>
-      </Link>
+      </p>
       <article className="docs prose prose-headings:font-headings dark:prose-invert prose-a:break-words mx-auto max-w-2xl px-6 pt-6">
         <header className="w-full mx-auto space-y-4 text-center">
           <div className="flex space-x-4 justify-center border-b border-t border-secondary">
@@ -21,7 +22,7 @@ export default function BlogLayout({ children, frontMatter }) {
             {/*   <a key={i} className="py-4 text-xs font-semibold tracking-wider uppercase no-underline hover:underline">#{category}</a> */}
             {/* )): <a className="py-4 text-xs font-semibold tracking-wider uppercase no-underline hover:underline">#uncategorized</a>} */}
             {categories ? categories.map((category, i) => (
-              <p key={i} className="py-4 text-xs font-semibold tracking-wider uppercase no-underline ">#{category}</p>
+              <a key={i} href={`/blog?category=${category}`} className="py-4 text-xs font-semibold tracking-wider uppercase">#{category}</a>
             )) : <p className="py-4 text-xs font-semibold tracking-wider uppercase no-underline">#uncategorized</p>}
           </div>
           <div className="mb-4 flex-col items-center">
