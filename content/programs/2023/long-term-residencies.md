@@ -37,3 +37,18 @@ residents will be able to experience an inspiring  way of living together.Partic
 Ideal candidates are those who resonate with these principles and practices and are ready to explore their impact on a 
 personal and communal level. In other words people who feel to be engaged as secular monk in a postural collective exeprience . Interested individuals are encouraged to apply by september 30th, 2023, to join this 
 venture that emphasizes the deep ontological effects  of living together within a structure. 
+
+To give you an odea of how your day will look like here is the schedule we used in last collective time at the Hub 
+- 7 to 8 am : just sitting in Dojo 
+- 8h00 - 8H45 am  breakfast and dishes 
+- 9 to 10 am : collective care for cooking , cleaning, gardening, all what needs to be taken care of in the space
+- 10 - 12h30 : co - working
+- 13h00 buffet lunch and dishes
+- 14h00 to 5h00 co working
+- 5h30 : body care ( somodebdy offers a session
+- 18h30 : prep dinner team finish meal
+- 19h00 : table dinner and dishes
+
+Besides the daily structure, there will be once a week a regulatory circle and emergent offering sessions at nights to be organized among participants. 
+Week ends don't have any frame. During that time spontanous cooking and eating organisation happens. This is a time that gives opportunity to discover surroundings such as Plum Village or prehistorical caves. 
+
