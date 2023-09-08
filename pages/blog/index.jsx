@@ -35,6 +35,7 @@ export default function Blogs() {
             description: post.description,
             url_path: post.url_path,
             categories: post.categories,
+            created: post.created,
             authors: allPeople.filter(author => post.authors?.includes(author['id'])) ?? [siteConfig.author]
         }))
 
