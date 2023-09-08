@@ -1,4 +1,4 @@
-import { useSearchParams } from 'next/navigation'
+import { useSearchParams, useRouter } from 'next/navigation'
 import { allBlogs, allPeople } from 'contentlayer/generated';
 import sortArray from 'sort-array';
 
@@ -9,8 +9,19 @@ import { siteConfig } from '../../config/siteConfig.js';
 
 
 export default function Blogs() {
+    const router = useRouter();
+
     const searchParams = useSearchParams();
     const selectedCategory = searchParams.get('category');
+
+    const onSelectCategory = (category) => {
+        if (category === selectedCategory || category === "all") {
+            router.push(`/blog`, undefined, { shallow: true });
+        } else {
+            router.push(`/blog?category=${category}`, undefined, { shallow: true });
+        }
+    }
+
     const allCategories = allBlogs
         .map(blog => blog.categories ?? [])
         .flat();
@@ -35,7 +46,7 @@ export default function Blogs() {
 
     return (
         <DocsLayout frontMatter={{ title: "Blog" }}>
-            <PillTabs tabs={uniqueCategories} current={selectedCategory} />
+            <PillTabs tabs={uniqueCategories} current={selectedCategory} onSelect={onSelectCategory} />
             <BlogsList posts={sortedBlogs} />
         </DocsLayout>
     )

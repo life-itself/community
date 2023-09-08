@@ -2,7 +2,7 @@ function classNames(...classes) {
   return classes.filter(Boolean).join(' ')
 }
 
-export function PillTabs({ tabs, current }) {
+export function PillTabs({ tabs, current, onSelect }) {
 
   return (
     <div>
@@ -10,31 +10,32 @@ export function PillTabs({ tabs, current }) {
         <label htmlFor="tabs" className="sr-only">
           Select a tab
         </label>
-        {/* Use an "onChange" listener to redirect the user to the selected tab URL. */}
         <select
           id="tabs"
           name="tabs"
-          className="block w-full rounded-md border-gray-300 focus:border-indigo-500 focus:ring-indigo-500"
+          className="block w-full rounded-md border-gray-300 focus:border-secondary focus:ring-secondary"
+          onChange={(e) => onSelect(e.target.value)}
         >
+          <option key="all" value="all">All categories</option>
           {tabs.map((tab) => (
-            <option key={tab}>{tab}</option>
+            <option key={tab} value="">{tab}</option>
           ))}
         </select>
       </div>
       <div className="hidden sm:block">
         <nav className="flex flex-wrap" aria-label="Tabs">
           {tabs.map((tab) => (
-            <a
+            <button
               key={tab}
-              href={`?category=${tab}`}
               className={classNames(
                 tab === current ? 'text-secondary' : 'text-primary/80 hover:text-primary',
                 'rounded-md px-3 py-2 text-sm font-medium'
               )}
               aria-current={tab === current ? 'page' : undefined}
+              onClick={() => onSelect(tab)}
             >
               {tab}
-            </a>
+            </button>
           ))}
         </nav>
       </div>
