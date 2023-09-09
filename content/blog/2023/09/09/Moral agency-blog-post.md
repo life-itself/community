@@ -44,7 +44,7 @@ Second, maintaining such a feeling of beauty requires certain boundaries, whethe
 Third, processes like embodiment are inherently difficult to translate into words, especially scientific concepts, and we think it might be useful to incorporate more transdisciplinary language into some of these more contemplative states.
 
 
-Whatever the case, the questions, concepts, and language around ‘morals’ and ‘the good life’ have always been inherently difficult to wrap one's head around, particularly because it deals with the nature of embodiment and lends to larger and more mystifying questions. A consideration such as this one is more of an open ended suggestion as a way to help illuminate our conversations around some of our projects and residencies. But we think it is worth considering whether beauty can be in the body of the beholder. 
+Whatever the case, the questions, concepts, and language around ‘morals’ and ‘the good life’ have always been inherently difficult to wrap one's head around, particularly because it deals with the nature of embodiment and lends to larger and more mystifying questions. A consideration such as this one is more of an open ended suggestion as a way to help illuminate our conversations around some of our projects and residencies, and as is often the case in research, asking new questions can be just as meaningful as finding new answers. 
 
 
 **If you would like to contribute to the project or read more about our conversations on moral agency, [you can do so here.](https://github.com/orgs/life-itself/discussions/700)**
