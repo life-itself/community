@@ -13,7 +13,7 @@ This call will take place on Wednesday 20th September 2023 at 730pm CET.
 
 We are delighted to invite Alan Williams for our next community call.
 
-In this call Alan will open up the conversation around values, ahead of our (October Values Rally)[https://lifeitself.org/blog/2023/08/30/october-values-rally], by discussing how values can be a route to happiness. 
+In this call Alan will open up the conversation around values, ahead of our [October Values Rally](https://lifeitself.org/blog/2023/08/30/october-values-rally), by discussing how values can be a route to happiness. 
 
 Do you want to be more comfortable with who you are and feel less stressed? Do you want to be the best version of you? Do you want to be happy? For most of us, "Yes" is an easy answer to these questions, but to achieve this in practice is more of a challenge. There is another way. How many people do you know who invest time, effort and money in going to the gym or fitness classes or personal trainers as a way to improve their physical fitness? What if you paid similar attention and commitment to supporting and guiding the way you think, feel and behave in a more holistic way? What positive impact could there be? What negative feelings could be reduced? Just imagine – how would you feel if you knew what was important to you and how to make decisions based on and behave in line with these things? 
 
