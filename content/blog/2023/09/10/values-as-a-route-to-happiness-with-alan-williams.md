@@ -5,7 +5,7 @@ authors:
   - lauren-wigmore
 categories:
   - commmunity-call
-image: /assets/images/alan-williams-community-call
+image: /assets/images/alan-williams-community-call.jpg
 ---
 This call will take place on Wednesday 20th September 2023 at 730pm CET.
 
