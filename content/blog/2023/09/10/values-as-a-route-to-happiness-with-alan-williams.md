@@ -9,7 +9,7 @@ image: /assets/images/alan-williams-community-call
 ---
 This call will take place on Wednesday 20th September 2023 at 730pm CET.
 
-(Register for the call here)[https://us02web.zoom.us/meeting/register/tZUqdO-vqzwjHtX772ICraDLQNeqiReq-01v]
+[Register for the call here](https://us02web.zoom.us/meeting/register/tZUqdO-vqzwjHtX772ICraDLQNeqiReq-01v)
 
 We are delighted to invite Alan Williams for our next community call.
 
