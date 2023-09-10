@@ -8,7 +8,7 @@ facilitator:
 - "Praxis guardians" 
 
 location: "The Life Itself Praxis Hub, Bergerac, France"
-cost: "Monthly cost ranging 850-1250€ for a single room including food and maintenance "
+cost: "Monthly cost ranging 650-1250€ for a single room including food and maintenance "
 apply-button: "https://docs.google.com/forms/d/e/1FAIpQLSdiykDKyZR6DgtPKeYuNePy9sWc-qkIc4BVfKBRjkFWKvFp-g/viewform"
 created: 2023-06-23
 ---
@@ -44,9 +44,9 @@ Schedule:
 Besides the daily structure, there will be once a week a regulatory circle and twice a week emergent offering sessions by residents. 
 Week ends don't have any frame. During that time spontanous cooking and eating organisation happens. This is a time that gives opportunity to discover surroundings such as Plum Village or prehistorical caves. 
 
-For a monthly cost between 850 to 1250 euros (organic plant based food included),  
+For a monthly cost between 600 to 1250 euros (organic plant based food included),  
 residents will be able to experiment an inspiring  way of living together.Participants  are also welcome to share their unique skills, knowledge and other resources with the rest of the community. 
 
 Ideal candidates are those who resonate with these principles and practices and are ready to explore their impact on a 
-personal and communal level. In other words people who feel called by the secular monk posture. Interested individuals are encouraged to apply by september 30th, 2023 (for 3 months fall residency) , to join this 
+personal and communal level. In other words people who feel called by the secular monk posture. Interested individuals are encouraged to apply by september 15th, 2023 (for 3 months fall residency) , to join this 
 venture that emphasizes the deep ontological effects  of living together within a structure. 
