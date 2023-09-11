@@ -3,7 +3,7 @@ import { formatDate } from "@/lib/formatDate.js";
 
 export default function BlogSlider({ posts }) {
   return (
-    <div className="mx-auto lg:max-w-7xl lg:px-8">
+    <div className="w-full">
       <Splide
         aria-label="From the blog"
         tag="div"
@@ -23,7 +23,7 @@ export default function BlogSlider({ posts }) {
             }
           }
         }}>
-        <div className="splide__arrows flex w-full justify-between items-center">
+        <div className="splide__arrows flex w-full justify-between items-center -mt-12">
           <button className="splide__arrow splide__arrow--prev">
             <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth="1.5" stroke="currentColor" className="lg:w-40 h-10 lg:h-12">
               <path strokeLinecap="round" strokeLinejoin="round" d="M6.75 15.75L3 12m0 0l3.75-3.75M3 12h18" />
@@ -39,7 +39,7 @@ export default function BlogSlider({ posts }) {
         <SplideTrack >
           {posts?.map((post) => (
             <SplideSlide key={post._id} className="p-1">
-              <div className="flex flex-col overflow-hidden rounded-lg shadow-lg">
+              <div className="flex flex-col h-full overflow-hidden rounded-lg shadow-lg">
                 <div className="flex-shrink-0">
                   <img className="h-48 w-full object-cover object-center" src={post.image} alt={post.title} />
                 </div>
