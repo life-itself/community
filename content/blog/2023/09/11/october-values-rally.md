@@ -1,9 +1,9 @@
 ---
 title: "October Values Rally: Fueling Conversations, Building Communities"
-created: 2023-08-30
-authors: 
+created: 2023-09-11
+authors:
   - lauren-wigmore
-categories: 
+categories:
   - community-calls
 image: /assets/images/values-initiative-2.jpg
 ---
