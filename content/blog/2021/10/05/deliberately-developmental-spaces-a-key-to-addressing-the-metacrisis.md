@@ -7,6 +7,7 @@ categories:
   - hubs
   - ontology
   - our-philosophy
+  - team-selection
 authors: 
   - rufuspollock
   - theo-cox

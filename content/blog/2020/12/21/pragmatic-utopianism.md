@@ -4,6 +4,7 @@ created: 2020-12-21
 categories: 
   - institute
   - our-philosophy
+  - team-selection
 tags: 
   - philosophy
   - pragmatic-utopianism
