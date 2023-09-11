@@ -4,11 +4,10 @@ import sortArray from 'sort-array';
 
 import { BlogsList } from "../../components/custom/BlogsList.jsx"
 import { PillTabs } from "../../components/custom/PillTabs.jsx"
-import DocsLayout from "../../layouts/docs.jsx"
 import { siteConfig } from '../../config/siteConfig.js';
 
 
-export default function Blogs() {
+export default function Blog() {
     const router = useRouter();
 
     const searchParams = useSearchParams();
@@ -46,9 +45,43 @@ export default function Blogs() {
 
 
     return (
-        <DocsLayout frontMatter={{ title: "Blog" }}>
-            <PillTabs tabs={uniqueCategories} current={selectedCategory} onSelect={onSelectCategory} />
-            <BlogsList posts={sortedBlogs} />
-        </DocsLayout>
+        <div className="text-primary dark:text-primary-dark dark:prose-invert prose-headings:font-headings prose-a:break-words mx-auto p-6">
+            <section>
+                <div className="py-20">
+                    <div className="mx-auto max-w-7xl px-6 lg:px-8">
+                        <div className="mx-auto max-w-2xl text-center">
+                            <h2 className="text-3xl font-headings font-bold tracking-tight text-primary sm:text-4xl">
+                                Teams Top Selection
+                            </h2>
+                            <p className="mt-2 text-lg leading-8 text-primary">
+                                Read some of our most essential pieces.
+                            </p>
+                        </div>
+                        <div className="mx-auto mt-16 max-w-2xl lg:mx-0 lg:max-w-none">
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <section>
+                <div className="py-20">
+                    <div className="mx-auto max-w-7xl px-6 lg:px-8">
+                        <div className="mx-auto max-w-2xl text-center">
+                            <h2 className="text-3xl font-headings font-bold tracking-tight text-primary sm:text-4xl">
+                                All Blog Posts
+                            </h2>
+                            <p className="mt-2 text-lg leading-8 text-primary">
+                                Read some of our most essential pieces.
+                            </p>
+                        </div>
+                        <div className="mx-auto mt-16 max-w-2xl lg:mx-0 lg:max-w-none">
+                            <PillTabs tabs={uniqueCategories} current={selectedCategory} onSelect={onSelectCategory} />
+                            <BlogsList posts={sortedBlogs} />
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
     )
 }
+
+

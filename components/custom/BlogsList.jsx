@@ -16,7 +16,7 @@ export function BlogsList({ posts }) {
         <li key={post._id} className="list-none py-6 space-y-4">
           <div className="space-y-1">
             <a href={post.url_path} className="no-underline hover:underline">
-              <h1 className="text-4xl font-bold md:tracking-tight md:text-3xl m-0 w-fit">{post.title}</h1>
+              <h2 className="text-3xl font-bold md:tracking-tight md:text-3xl m-0 w-fit">{post.title}</h2>
             </a>
             <div className="flex flex-col items-start justify-between w-full md:flex-row md:items-center dark:text-gray-400">
               <div className="flex items-center space-x-2">
