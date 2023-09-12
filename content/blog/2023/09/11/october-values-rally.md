@@ -109,4 +109,5 @@ Secondly, to understand more about values, either use the values you have discov
     
 - How am I planning to continue integrating this value into my future? 
 
+
 And just in case you had forgotten earlier, [here is the link to register for the Values Rally](https://us02web.zoom.us/meeting/register/tZcoce-hpzkuHNf-ec5IHkTIFG6uZw437Ebn) See you then!
