@@ -26,11 +26,10 @@ export function BaseCard({ image, title, description, url_path, date, categories
           }
           {categories && categories.length > 0 && (
             <div className="flex flex-wrap gap-x-4 gap-y-1">
-              {/* TODO adjust href */}
               {categories.map((category, index) => (
                 <a
                   key={`${category}-${index}`}
-                  href={`/blog?category=${category}`}
+                  href={`/categories/${category}`}
                   className="relative z-10 text-xs text-primary hover:text-gray-500 underline underline-offset-2 decoration-secondary decoration-2"
                 >
                   {category}

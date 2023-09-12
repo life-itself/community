@@ -11,7 +11,7 @@ export function BlogsList({ posts }) {
   };
 
   return (
-    <ol className="font-poppins px-0 pt-3 divide-y divide-secondary">
+    <ol className="px-0 pt-3 divide-y divide-secondary">
       {posts && posts.slice(0, postsCount).map(post => (
         <li key={post._id} className="list-none py-6 space-y-4">
           <div className="space-y-1">
@@ -44,7 +44,7 @@ export function BlogsList({ posts }) {
             </div>
             {post.categories && <div className="flex flex-wrap space-x-2">
               {post.categories.map(category => (
-                <a key={category} href={`/blog?category=${category}`} className="pr-3 underline m-0 text-xs uppercase">#{category}</a>
+                <a key={category} href={`/categories/${category}`} className="pr-3 underline m-0 text-xs uppercase">#{category}</a>
               ))}
             </div>}
           </div>
