@@ -41,7 +41,7 @@ Schedule:
 - 17h30 : body care 
 - 19h00 : table dinner and dishes
 
-Besides the daily structure, there will be once a week a regulatory circle, a metamodernism session offered by Emil Ejner Friis and co emergent offering sessions by residents. 
+Besides the daily structure, there will be once a week a regulatory circle and co emergent offering sessions by residents. 
 Week ends don't have any frame. During that time spontanous cooking and eating organisation happens. This is a time that gives opportunity to discover surroundings such as Plum Village or prehistorical caves. 
 
 For a monthly cost between 700 to 1250 euros (organic plant based food included),  
