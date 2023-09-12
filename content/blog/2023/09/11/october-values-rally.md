@@ -69,25 +69,25 @@ Shalom H. Schwartz is a renowned social psychologist with expertise in cross-cul
 
 Schwartz mapped out 10 cross-cultural basic values:
 
-- Power: Social status and prestige, control or dominance over people and resources. (social power, authority, wealth, preserving my public image)
+- **Power:** Social status and prestige, control or dominance over people and resources. (social power, authority, wealth, preserving my public image)
     
-- Achievement: Personal success through demonstrating competence according to social standards. (successful, capable, ambitious, influential)
+- **Achievement:** Personal success through demonstrating competence according to social standards. (successful, capable, ambitious, influential)
     
-- Hedonism: Pleasure and sensuous gratification for oneself. (pleasure, enjoying life, self-indulgence)
+- **Hedonism:** Pleasure and sensuous gratification for oneself. (pleasure, enjoying life, self-indulgence)
     
-- Stimulation: Excitement, novelty, and challenge in life. (daring, a varied life, an exciting life)
+- **Stimulation:** Excitement, novelty, and challenge in life. (daring, a varied life, an exciting life)
     
-- Self-direction: Independent thought and action-choosing, creating, exploring. (creativity, freedom, independent, curious, choosing own goals)
+- **Self-direction:** Independent thought and action-choosing, creating, exploring. (creativity, freedom, independent, curious, choosing own goals)
     
-- Universalism: Understanding, appreciation, tolerance and protection for the welfare of all people and for nature. (broadminded, wisdom, social justice, equality, a world at peace, a world of beauty, unity with nature, protecting the environment)
+- **Universalism:** Understanding, appreciation, tolerance and protection for the welfare of all people and for nature. (broadminded, wisdom, social justice, equality, a world at peace, a world of beauty, unity with nature, protecting the environment)
     
-- Benevolence: Preservation and enhancement of the welfare of people with whom one is in frequent personal contact. (helpful, honest, forgiving, loyal, responsible)
+- **Benevolence:** Preservation and enhancement of the welfare of people with whom one is in frequent personal contact. (helpful, honest, forgiving, loyal, responsible)
     
-- Tradition: Respect, commitment and acceptance of the customs and ideas that traditional culture or religion provide the self. (humble, accepting my portion in life, devout, respect for tradition, moderate)
+- **Tradition:** Respect, commitment and acceptance of the customs and ideas that traditional culture or religion provide the self. (humble, accepting my portion in life, devout, respect for tradition, moderate)
     
-- Conformity: Restraint of actions, inclinations, and impulses likely to upset or harm others and violate social expectations or norms. (politeness, obedient, self-discipline, honoring parents and elders)
+- **Conformity:** Restraint of actions, inclinations, and impulses likely to upset or harm others and violate social expectations or norms. (politeness, obedient, self-discipline, honoring parents and elders)
     
-- Security: Safety, harmony and stability of society, of relationships, and of self. (family security, national security, social order, clean, reciprocation of favors)
+- **Security:** Safety, harmony and stability of society, of relationships, and of self. (family security, national security, social order, clean, reciprocation of favors)
     
 If you would like to understand how your values sit within [Schwartz’s Values Map you can do a free assessment here.](https://free.assessment.discoveryourvalues.com/)
 
@@ -109,4 +109,5 @@ Secondly, to understand more about values, either use the values you have discov
     
 - How am I planning to continue integrating this value into my future? 
 
-And just in case you had forgotten earlier, [here is the link to register for the Values Rally](https://us02web.zoom.us/meeting/register/tZcoce-hpzkuHNf-ec5IHkTIFG6uZw437Ebn)See you then!
+
+And just in case you had forgotten earlier, [here is the link to register for the Values Rally](https://us02web.zoom.us/meeting/register/tZcoce-hpzkuHNf-ec5IHkTIFG6uZw437Ebn) See you then!
