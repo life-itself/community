@@ -34,18 +34,18 @@ these timeless wisdom to our modern times. This presence brings an additional la
 Schedule: 
 - 7 to 8 am : just sitting in Dojo 
 - 8h00 - 8H45 am  breakfast and dishes 
-- 9 to 10 am : collective care for cooking , cleaning, gardening, all what needs to be taken care of in the space
+- 9 to 10 am : collective care for cooking , cleaning, gardening
 - 10 - 12h30 : co - working
 - 13h00 buffet lunch and dishes
 - 14h00 to 17h00 co working
 - 17h30 : body care 
 - 19h00 : table dinner and dishes
 
-Besides the daily structure, there will be once a week a regulatory circle and twice a week emergent offering sessions by residents. 
+Besides the daily structure, there will be once a week a regulatory circle, a metamodernism session offered by Emil Ejner Friis and co emergent offering sessions by residents. 
 Week ends don't have any frame. During that time spontanous cooking and eating organisation happens. This is a time that gives opportunity to discover surroundings such as Plum Village or prehistorical caves. 
 
-For a monthly cost between 600 to 1250 euros (organic plant based food included),  
-residents will be able to experiment an inspiring  way of living together.Participants  are also welcome to share their unique skills, knowledge and other resources with the rest of the community. 
+For a monthly cost between 700 to 1250 euros (organic plant based food included),  
+residents will be able to experiment an inspiring  way of living together. 
 
 Ideal candidates are those who resonate with these principles and practices and are ready to explore their impact on a 
 personal and communal level. In other words people who feel called by the secular monk posture. Interested individuals are encouraged to apply by september 30th, 2023 (for 3 months fall residency) , to join this 
