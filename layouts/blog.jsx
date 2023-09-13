@@ -1,11 +1,43 @@
-/* eslint import/no-default-export: off */
-import { formatDate } from "@/lib/formatDate.js";
-import { Avatar } from "@/components/Avatar.jsx";
-import { ShareMenu } from "@/components/custom/ShareMenu.jsx";
+import { useState, useEffect } from "react";
+
+import { formatDate } from "@/lib/formatDate";
+import { Avatar } from "@/components/Avatar";
+import { ShareMenu } from "@/components/custom/ShareMenu";
+import { FloatingBanner } from "@/components/custom/FloatingBanner";
 
 import { TwitterIcon, FacebookIcon, LinkedInIcon } from "@/components/custom/icons";
 
 export default function BlogLayout({ children, frontMatter }) {
+  const [bannerMessage, setBannerMessage] = useState('');
+  const [showBanner, setShowBanner] = useState(false);
+
+  useEffect(() => {
+    let timeoutId;
+
+    if (showBanner) {
+      timeoutId = setTimeout(() => {
+        setShowBanner(false);
+      }, 2000);
+    }
+
+    return () => {
+      if (timeoutId) {
+        clearTimeout(timeoutId);
+      }
+    };
+  }, [showBanner]);
+
+  const handleCopyClick = async () => {
+    try {
+      await navigator.clipboard.writeText(window.location.href);
+      setBannerMessage('Copied to clipboard!');
+    } catch (err) {
+      setBannerMessage('Failed to copy!');
+    } finally {
+      setShowBanner(true);
+    }
+  };
+
   const { title, created, image, authorsDetails, categories, tags, readingTime } = frontMatter;
 
   const shareOptions = [
@@ -56,7 +88,7 @@ export default function BlogLayout({ children, frontMatter }) {
           <span>{readingTime}</span>
           {/* SHARE */}
           <div className="flex justify-end flex-grow">
-            <ShareMenu copyLink={"test"} shareOptions={shareOptions} />
+            <ShareMenu onCopyClick={handleCopyClick} shareOptions={shareOptions} />
           </div>
         </div>
         {/* IMAGE */}
@@ -73,6 +105,10 @@ export default function BlogLayout({ children, frontMatter }) {
           ))}
         </>}
       </div>
+
+      <FloatingBanner show={showBanner}>
+        {bannerMessage}
+      </FloatingBanner>
     </article>
   );
 }

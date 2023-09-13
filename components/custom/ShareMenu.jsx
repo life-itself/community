@@ -1,3 +1,4 @@
+import Link from 'next/link';
 import { Fragment } from 'react'
 import { Menu, Transition } from '@headlessui/react'
 
@@ -8,7 +9,8 @@ function classNames(...classes) {
   return classes.filter(Boolean).join(' ')
 }
 
-export function ShareMenu({ copyLink, shareOptions }) {
+export function ShareMenu({ shareOptions, onCopyClick }) {
+
   return (
     <Menu as="div" className="relative inline-block text-left">
       <div>
@@ -30,8 +32,8 @@ export function ShareMenu({ copyLink, shareOptions }) {
           <div className="py-1">
             <Menu.Item>
               {({ active }) => (
-                <a
-                  href={copyLink}
+                <button
+                  onClick={onCopyClick}
                   className={classNames(
                     active ? 'text-primary' : 'text-inherit',
                     'group flex items-center px-4 py-2 text-sm'
@@ -42,7 +44,7 @@ export function ShareMenu({ copyLink, shareOptions }) {
                     aria-hidden="true"
                   />
                   Copy link
-                </a>
+                </button>
               )}
             </Menu.Item>
           </div>
@@ -50,7 +52,7 @@ export function ShareMenu({ copyLink, shareOptions }) {
             {shareOptions.map((option) => (
               <Menu.Item key={option.name}>
                 {({ active }) => (
-                  <a
+                  <Link
                     href={option.href}
                     className={classNames(
                       active ? 'text-primary' : 'text-inherit',
@@ -62,7 +64,7 @@ export function ShareMenu({ copyLink, shareOptions }) {
                       aria-hidden="true"
                     />
                     {option.name}
-                  </a>
+                  </Link>
                 )}
               </Menu.Item>
             ))}
