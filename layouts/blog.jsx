@@ -1,11 +1,13 @@
 import { useState, useEffect } from "react";
 
 import { formatDate } from "@/lib/formatDate";
+import { transformObjectToParams } from "@/lib/transformObjectToParams";
 import { Avatar } from "@/components/Avatar";
-import { ShareMenu } from "@/components/custom/ShareMenu";
+import { SocialShareMenu } from "@/components/custom/SocialShareMenu";
 import { FloatingBanner } from "@/components/custom/FloatingBanner";
 
 import { TwitterIcon, FacebookIcon, LinkedInIcon } from "@/components/custom/icons";
+
 
 export default function BlogLayout({ children, frontMatter }) {
   const [bannerMessage, setBannerMessage] = useState('');
@@ -38,12 +40,53 @@ export default function BlogLayout({ children, frontMatter }) {
     }
   };
 
+  const onShareClick = (link, text) => (e) => {
+    e.preventDefault();
+    window.open(link, text, 'width=650,height=650');
+  }
+
   const { title, created, image, authorsDetails, categories, tags, readingTime } = frontMatter;
 
+  const twitterShareLink = 'https://twitter.com/intent/tweet' +
+    transformObjectToParams({
+      url: window.location.href,
+      text: title,
+      via: 'forlifeitself',
+      // hashtags: categories.join(',') // TODO
+    })
+
+  const facebookShareLink = 'https://www.facebook.com/sharer/sharer.php' +
+    transformObjectToParams({
+      u: window.location.href,
+      quote: title,
+    })
+
+  const linkedInShareLink = 'https://www.linkedin.com/sharing/share-offsite' +
+    transformObjectToParams({
+      url: window.location.href,
+      title: title,
+      source: 'forlifeitself',
+    })
+
   const shareOptions = [
-    { name: "Share on Twitter", href: "test", icon: TwitterIcon },
-    { name: "Share on Facebook", href: "test", icon: FacebookIcon },
-    { name: "Share on LinkedIn", href: "test", icon: LinkedInIcon }
+    {
+      name: "Share on Twitter",
+      icon: TwitterIcon,
+      href: twitterShareLink,
+      onClick: onShareClick(twitterShareLink, 'Share on Twitter')
+    },
+    {
+      name: "Share on Facebook",
+      icon: FacebookIcon,
+      href: facebookShareLink,
+      onClick: onShareClick(facebookShareLink, 'Share on Facebook')
+    },
+    {
+      name: "Share on LinkedIn",
+      icon: LinkedInIcon,
+      href: linkedInShareLink,
+      onClick: onShareClick(linkedInShareLink, 'Share on LinkedIn')
+    },
   ]
 
   return (
@@ -88,7 +131,7 @@ export default function BlogLayout({ children, frontMatter }) {
           <span>{readingTime}</span>
           {/* SHARE */}
           <div className="flex justify-end flex-grow">
-            <ShareMenu onCopyClick={handleCopyClick} shareOptions={shareOptions} />
+            <SocialShareMenu onCopyClick={handleCopyClick} shareOptions={shareOptions} />
           </div>
         </div>
         {/* IMAGE */}

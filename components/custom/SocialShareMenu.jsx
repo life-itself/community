@@ -2,14 +2,13 @@ import Link from 'next/link';
 import { Fragment } from 'react'
 import { Menu, Transition } from '@headlessui/react'
 
-import { ArrowUpOnSquareIcon } from '@/components/custom/icons';
-import { LinkIcon } from '@/components/custom/icons';
+import { ArrowUpOnSquareIcon, LinkIcon } from '@/components/custom/icons';
 
 function classNames(...classes) {
   return classes.filter(Boolean).join(' ')
 }
 
-export function ShareMenu({ shareOptions, onCopyClick }) {
+export function SocialShareMenu({ shareOptions, onCopyClick }) {
 
   return (
     <Menu as="div" className="relative inline-block text-left">
@@ -54,6 +53,9 @@ export function ShareMenu({ shareOptions, onCopyClick }) {
                 {({ active }) => (
                   <Link
                     href={option.href}
+                    onClick={option.onClick}
+                    target="_blank"
+                    rel="noopener noreferrer"
                     className={classNames(
                       active ? 'text-primary' : 'text-inherit',
                       'group flex items-center px-4 py-2 text-sm'
