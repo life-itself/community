@@ -50,8 +50,10 @@ const computedFields = {
         .process(content);
 
       if (stripped.value) {
-        const description = stripped.value.toString().slice(0, 200);
-        return description + "...";
+        // get first 2 sentences
+        const match = stripped.value.toString().match(/(.*?[.!?])\s(.*?[.!?])\s?/);
+        return (match && match[0]) ? match[0] : stripped.value.toString().slice(0, 140).trim();
+
       }
     },
   },
