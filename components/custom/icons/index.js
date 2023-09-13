@@ -1,0 +1,8 @@
+export { ArrowUpOnSquareIcon } from './ArrowUpOnSquareIcon'
+export { FacebookIcon } from './FacebookIcon'
+export { GitHubIcon } from './GithubIcon'
+export { InstagramIcon } from './InstagramIcon'
+export { LinkedInIcon } from './LinkedInIcon'
+export { TwitterIcon } from './TwitterIcon'
+export { WhatsAppIcon } from './WhatsAppIcon'
+export { LinkIcon } from './LinkIcon'

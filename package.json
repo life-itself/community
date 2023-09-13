@@ -39,6 +39,7 @@
     "react-aria": "^3.20.0",
     "react-dom": "^18.2.0",
     "react-stately": "^3.18.0",
+    "reading-time-estimator": "^1.9.0",
     "rehype-autolink-headings": "^6.1.1",
     "rehype-mathjax": "^4.0.2",
     "rehype-prism-plus": "^1.4.2",

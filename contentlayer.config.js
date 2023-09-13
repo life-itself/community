@@ -1,6 +1,7 @@
 /* eslint import/no-unresolved: off */
 import { defineDocumentType, defineNestedType, makeSource } from "contentlayer/source-files";
 import { h } from "hastscript";
+import { readingTime } from 'reading-time-estimator'
 import { remark } from "remark";
 import rehypeAutolinkHeadings from "rehype-autolink-headings";
 import rehypeMathjax from "rehype-mathjax";
@@ -102,9 +103,19 @@ const Blog = defineDocumentType(() => ({
     tags: {
       type: "list",
       of: { type: "string" },
-    }
+    },
   },
-  computedFields,
+  computedFields: {
+    readingTime: {
+      type: "string",
+      resolve: async (doc) => {
+        const content = filterMarkdown(doc.body.raw)
+        const { text } = readingTime(content)
+        return text
+      }
+    },
+    ...computedFields,
+  },
 }));
 
 export const Person = defineDocumentType(() => ({
