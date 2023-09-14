@@ -30,6 +30,12 @@ Chapters
 [00:48:55](https://www.youtube.com/watch?v=wfZRozLtyEU&t=2935s) Power from within vs power from among. 
 [00:54:40](https://www.youtube.com/watch?v=wfZRozLtyEU&t=3280s) How do we develop emotional literacy?
 
+### Links from the conversation
+- https://newpublic.org/
+- https://www.ccc.mit.edu/
+- https://convergentfacilitation.org/
+- https://29k.org/
+- https://www.psychologytoday.com/gb/therapy-types/acceptance-and-commitment-therapy
 ## About Bella
 >At the start of 2021, Bella decided to run for election for the London Assembly, leaving behind a decade in the finance industry. This was the first year that the UK had officially left the EU and we were in the midst of the COVID pandemic with no vaccine rollout plan. Everything seemed highly uncertain, and unpromising, but she wanted to take a stand. Like many others, she felt that the people had no say and were not represented by those in government. Following this experience, she embarked on a Masters in Digital Politics which included modules in AI and philosophy, leading her to present her main research project to you in this community call. Bella also studied the last two terms of her Masters course remotely in Bali.
 
