@@ -6,6 +6,7 @@ import getPodcasts from "../content/getters/podcasts"
 import { BaseSection } from "components/custom/BaseSection"
 import { Hero } from "components/custom/Hero"
 import { BaseCard } from "components/custom/BaseCard"
+import { BaseHoverCard } from "components/custom/BaseHoverCard"
 import { BaseCardHorizontal } from "components/custom/BaseCardHorizontal"
 import { BaseTile } from "../components/custom/BaseTile"
 import BlogSlider from "components/custom/BlogSlider"
@@ -142,9 +143,9 @@ export default function Home({ collabs, posts, keyWritings, keyInitiatives, upco
         </BaseSection.Description>
 
         <div className="mx-auto max-w-2xl lg:max-w-none">
-          <div className="grid grid-cols-1 gap-x-8 gap-y-20 content-stretch lg:grid-cols-3">
+          <div className="grid grid-cols-1 gap-x-10 gap-y-20 content-stretch lg:grid-cols-3">
             {keyInitiatives?.map((initiative) => (
-              <BaseCard key={initiative._id} {...initiative} />
+              <BaseHoverCard key={initiative._id} {...initiative} />
             ))}
           </div>
         </div>

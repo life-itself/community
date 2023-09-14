@@ -1,6 +1,6 @@
 import Link from "next/link";
 import { allInitiatives } from "contentlayer/generated";
-import { BaseCard } from "@/components/custom/BaseCard";
+import { BaseHoverCard } from "@/components/custom/BaseHoverCard";
 
 export default function Initiatives({ activeProjects, inactiveProjects }) {
   return (
@@ -37,7 +37,7 @@ export default function Initiatives({ activeProjects, inactiveProjects }) {
         <h3 className="text-2xl font-bold font-headings tracking-tight text-primary">Active Initiatives</h3>
         <ul role="list" className="mx-auto my-6 !pl-0 grid max-w-2xl grid-cols-1 sm:grid-cols-2 gap-x-12 gap-y-14 lg:mx-0 lg:max-w-none lg:grid-cols-3">
           {activeProjects?.map(initiative => (
-            <BaseCard key={initiative._id} {...initiative} />
+            <BaseHoverCard key={initiative._id} {...initiative} />
           ))}
         </ul>
       </div>
@@ -45,7 +45,7 @@ export default function Initiatives({ activeProjects, inactiveProjects }) {
         <h3 className="text-2xl font-bold font-headings tracking-tight text-primary">Currently Inactive Initiatives</h3>
         <ul role="list" className="mx-auto my-6 !pl-0 grid max-w-2xl grid-cols-1 sm:grid-cols-2 gap-x-12 gap-y-14 lg:mx-0 lg:max-w-none lg:grid-cols-3">
           {inactiveProjects?.map(initiative => (
-            <BaseCard key={initiative._id} {...initiative} />
+            <BaseHoverCard key={initiative._id} {...initiative} />
           ))}
         </ul>
       </div>
