@@ -19,16 +19,16 @@ _How can we harness these technologies to empower the people and restore democra
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wfZRozLtyEU?si=EPbtvSNym3VPR7pl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 ## In the conversation we cover:
 Chapters
-[00:02:29](https://www.youtube.com/watch?v=wfZRozLtyEU&t=149s) Shifting the definition of democracy from votes to voices. 
-[00:08:06](https://www.youtube.com/watch?v=wfZRozLtyEU&t=486s) The power of the people speak platform. 
-[00:13:27](https://www.youtube.com/watch?v=wfZRozLtyEU&t=807s) Generative AI and the human experience. 
-[00:19:52](https://www.youtube.com/watch?v=wfZRozLtyEU&t=1192s) Epistemic growth empathy and empowerment. 
-[00:25:00](https://www.youtube.com/watch?v=wfZRozLtyEU&t=1500s) Talking until there's nothing left. [
-00:30:23](https://www.youtube.com/watch?v=wfZRozLtyEU&t=1823s) Why is the culture of dialogue important? 
-[00:37:02](https://www.youtube.com/watch?v=wfZRozLtyEU&t=2222s) The role of embodiment in online participation. 
-[00:42:47](https://www.youtube.com/watch?v=wfZRozLtyEU&t=2567s) The role of representation and empowerment.
-[00:48:55](https://www.youtube.com/watch?v=wfZRozLtyEU&t=2935s) Power from within vs power from among. 
-[00:54:40](https://www.youtube.com/watch?v=wfZRozLtyEU&t=3280s) How do we develop emotional literacy?
+- [00:02:29](https://www.youtube.com/watch?v=wfZRozLtyEU&t=149s) Shifting the definition of democracy from votes to voices. 
+- [00:08:06](https://www.youtube.com/watch?v=wfZRozLtyEU&t=486s) The power of the people speak platform. 
+- [00:13:27](https://www.youtube.com/watch?v=wfZRozLtyEU&t=807s) Generative AI and the human experience. 
+- [00:19:52](https://www.youtube.com/watch?v=wfZRozLtyEU&t=1192s) Epistemic growth empathy and empowerment. 
+- [00:25:00](https://www.youtube.com/watch?v=wfZRozLtyEU&t=1500s) Talking until there's nothing left. [
+- 00:30:23](https://www.youtube.com/watch?v=wfZRozLtyEU&t=1823s) Why is the culture of dialogue important? 
+- [00:37:02](https://www.youtube.com/watch?v=wfZRozLtyEU&t=2222s) The role of embodiment in online participation. 
+- [00:42:47](https://www.youtube.com/watch?v=wfZRozLtyEU&t=2567s) The role of representation and empowerment.
+- [00:48:55](https://www.youtube.com/watch?v=wfZRozLtyEU&t=2935s) Power from within vs power from among. 
+- [00:54:40](https://www.youtube.com/watch?v=wfZRozLtyEU&t=3280s) How do we develop emotional literacy?
 
 ### Links from the conversation
 - https://newpublic.org/
