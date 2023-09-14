@@ -3,24 +3,6 @@ import { BlogsListItem } from "./BlogsListItem";
 
 const BLOGS_LOAD_COUNT = 5
 
-// type Posts = Post[]
-
-// interface Post {
-//   _id: string;
-//   title: string;
-//   description: string;
-//   url_path: string;
-//   created: string;
-//   authors: {
-//     name: string;
-//     avatar: string;
-//     url_path: string;
-//   }[];
-//   categories: {
-//     name: string;
-//     url_path: string;
-//   }[];
-// }
 
 export function BlogsList({ posts }) {
   const [postsCount, setPostsCount] = useState(BLOGS_LOAD_COUNT);

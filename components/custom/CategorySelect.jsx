@@ -1,14 +1,10 @@
-import { useContext } from 'react'
-import { CategoryContext } from '@/contexts/CategoryContext'
-
+import Link from 'next/link'
 
 function classNames(...classes) {
   return classes.filter(Boolean).join(' ')
 }
 
 export function CategorySelect({ categories, current }) {
-  const { onCategorySelect } = useContext(CategoryContext);
-
   return (
     <div>
       <div className="sm:hidden">
@@ -30,17 +26,18 @@ export function CategorySelect({ categories, current }) {
       <div className="hidden sm:block">
         <nav className="flex flex-wrap" aria-label="Tabs">
           {categories.map((category) => (
-            <button
-              key={category}
-              className={classNames(
-                category === current ? 'text-secondary' : 'text-primary/80 hover:text-primary',
-                'rounded-full bg-primary/5 px-3 py-2 m-1 text-sm font-light'
-              )}
-              aria-current={category === current ? 'page' : undefined}
-              onClick={() => onCategorySelect(category)}
-            >
-              {category}
-            </button>
+            <Link href={category} scroll={false}>
+              <button
+                key={category}
+                className={classNames(
+                  category === current ? 'text-secondary' : 'text-primary/80 hover:text-primary',
+                  'rounded-full bg-primary/5 px-3 py-2 m-1 text-sm font-light'
+                )}
+                aria-current={category === current ? 'page' : undefined}
+              >
+                {category}
+              </button>
+            </Link>
           ))}
         </nav>
       </div>

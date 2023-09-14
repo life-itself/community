@@ -33,7 +33,7 @@ export function BaseCard({ image, title, description, url_path, date, categories
               {categories.map((category) => (
                 <Link
                   key={category}
-                  href={`/categories/${category}`}
+                  href={`/categories/${category}#all-blog-posts`}
                   className="relative z-10 text-xs text-primary hover:text-gray-500 underline underline-offset-2 decoration-secondary decoration-2"
                 >
                   {category}
@@ -55,9 +55,9 @@ export function BaseCard({ image, title, description, url_path, date, categories
         <p className="mt-5 line-clamp-3 text-sm leading-6 text-gray-600">{description}</p>
       </div>
 
-      {/* author */}
+      {/* authors */}
       {authors && (
-        <div className="flex items-center gap-2">
+        <div className="flex items-end grow gap-4">
           {authors.map((author) => (
             <Avatar
               key={author.name}

@@ -1,3 +1,4 @@
+import Link from "next/link";
 import { Splide, SplideSlide, SplideTrack } from "@splidejs/react-splide";
 import { formatDate } from "@/lib/formatDate.js";
 
@@ -48,10 +49,10 @@ export default function BlogSlider({ posts }) {
                     <p className="text-sm font-medium text-primary/80">
                       {post.categories?.map(category => <a key={category} className="capitalize mr-3 hover:underline">{category}</a>)}
                     </p>
-                    <a href={`/${post.url_path}`} className="mt-2 block space-y-2">
+                    <Link href={`/${post.url_path}`} className="mt-2 block space-y-2">
                       <p className="text-lg font-bold font-headings text-primary h-[3.5rem] line-clamp-2 underline">{post.title}</p>
                       {post.description && <p className="mt-3 text-base text-gray-500 line-clamp-3">{post.description}</p>}
-                    </a>
+                    </Link>
                   </div>
                   <div className="flex items-center pt-4">
                     <div className="flex-shrink-0">

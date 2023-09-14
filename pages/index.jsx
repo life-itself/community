@@ -205,8 +205,8 @@ export default function Home({ collabs, posts, keyWritings, keyInitiatives, upco
         </BaseSection.Title>
 
         <div className="w-full max-w-2xl lg:max-w-none grid grid-cols-1 lg:grid-cols-3 gap-8 ">
-          {learnTopics?.map((site) => (
-            <BaseTile {...site} />
+          {learnTopics?.map((topic) => (
+            <BaseTile key={topic.id} {...topic} />
           ))}
         </div>
 

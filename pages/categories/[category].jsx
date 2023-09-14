@@ -1,43 +1,19 @@
-import { useRouter } from 'next/navigation'
-import { useEffect, useState } from 'react';
-
 import { allBlogs, allPeople } from 'contentlayer/generated';
 import sortArray from 'sort-array';
 
 import { BlogIndexLayout } from '@/layouts/BlogIndexLayout.jsx';
-import { CategoryContext } from '@/contexts/CategoryContext';
 import { siteConfig } from '@/config/siteConfig';
 
 
 export default function CategoryIndexPage({ categoryPosts, topPosts, latestPosts, allCategories, currentCategory }) {
-    const router = useRouter();
-    const [scrollY, setScrollY] = useState(0);
-
-    const onCategorySelect = (category) => {
-        // Store the current scroll position
-        setScrollY(window.scrollY);
-
-        if (category === currentCategory || category === "all") {
-            router.push("/blog");
-        } else {
-            router.push(`/categories/${category}`);
-        }
-    }
-
-    useEffect(() => {
-        window.scrollTo(0, scrollY);
-    }, [currentCategory]);
-
     return (
-        <CategoryContext.Provider value={{ onCategorySelect }}>
-            <BlogIndexLayout
-                categoryPosts={categoryPosts}
-                topPosts={topPosts}
-                latestPosts={latestPosts}
-                allCategories={allCategories}
-                currentCategory={currentCategory}
-            />
-        </CategoryContext.Provider>
+        <BlogIndexLayout
+            categoryPosts={categoryPosts}
+            topPosts={topPosts}
+            latestPosts={latestPosts}
+            allCategories={allCategories}
+            currentCategory={currentCategory}
+        />
     )
 }
 
