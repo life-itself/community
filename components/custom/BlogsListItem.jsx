@@ -25,10 +25,10 @@ export function BlogsListItem({ post }) {
           </>
         )}
       </div>
-      {post.categories && <div className="flex flex-wrap space-x-2">
+      {post.categories && <div className="flex flex-wrap gap-x-2">
         {post.categories.map(category => (
-          <Link href={'/categories/' + category + '#all-blog-posts'}>
-            <span key={category} className="pr-3 underline m-0 text-xs uppercase">
+          <Link key={category} href={'/categories/' + category + '#all-blog-posts'}>
+            <span className="pr-3 underline m-0 text-xs uppercase">
               #{category}
             </span>
           </Link>

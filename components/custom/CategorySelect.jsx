@@ -9,12 +9,31 @@ export function CategorySelect({ categories, current }) {
   const router = useRouter()
 
   const onSelect = (category) => {
-    router.push({
-      pathname: category,
-    }, undefined, { scroll: false })
+    if (category === 'all') {
+      router.push({
+        pathname: '/blog', // alias for /categories/all, see middleware.js
+      }, undefined, { scroll: false })
+    } else {
+      router.push({
+        pathname: category,
+      }, undefined, { scroll: false })
+    }
   }
 
-  console.log(categories)
+  const onClick = (e, category) => {
+    e.preventDefault();
+
+    if (category === current) {
+      router.push({
+        pathname: '/blog', // alias for /categories/all, see middleware.js
+      }, undefined, { scroll: false })
+    } else {
+      router.push({
+        pathname: category,
+      }, undefined, { scroll: false })
+    }
+  }
+
 
   return (
     <div>
@@ -26,18 +45,19 @@ export function CategorySelect({ categories, current }) {
           id="tabs"
           name="tabs"
           className="block w-full rounded-md border-gray-300 focus:border-secondary focus:ring-secondary"
+          value={current}
           onChange={(e) => onSelect(e.target.value)}
         >
           <option key="all" value="all">All categories</option>
           {categories.map((category) => (
-            <option key={category} value={category} selected={category === current}>{category}</option>
+            <option key={category} value={category}>{category}</option>
           ))}
         </select>
       </div>
       <div className="hidden sm:block">
         <nav className="flex flex-wrap" aria-label="Tabs">
           {categories.map((category) => (
-            <Link href={category} scroll={false}>
+            <a key={category} href={category}>
               <button
                 key={category}
                 className={classNames(
@@ -45,10 +65,11 @@ export function CategorySelect({ categories, current }) {
                   'rounded-full bg-primary/5 px-3 py-2 m-1 text-sm font-light'
                 )}
                 aria-current={category === current ? 'page' : undefined}
+                onClick={(e) => onClick(e, category)}
               >
                 {category}
               </button>
-            </Link>
+            </a>
           ))}
         </nav>
       </div>
