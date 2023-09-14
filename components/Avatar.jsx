@@ -1,11 +1,13 @@
-export function Avatar({ name, img, href }) {
+import clsx from "clsx";
+
+export function Avatar({ name, img, href, size = 8 }) {
   const Component = href ? "a" : "div";
   return (
     <Component href={href} className="group block flex-shrink-0">
       <div className="flex items-center space-x-2">
         <div>
           <img
-            className="inline-block h-9 w-9 rounded-full my-0"
+            className={clsx("inline-block rounded-full my-0", `h-${size} w-${size}`)}
             src={img}
             alt={name}
           />

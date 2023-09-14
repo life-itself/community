@@ -4,18 +4,20 @@ import { useEffect, useState } from 'react';
 import { allBlogs, allPeople } from 'contentlayer/generated';
 import sortArray from 'sort-array';
 
-import { siteConfig } from '../../config/siteConfig.js';
-import { BlogIndexLayout } from '../../layouts/BlogIndexLayout.jsx';
+import { BlogIndexLayout } from '@/layouts/BlogIndexLayout.jsx';
+import { CategoryContext } from '@/contexts/CategoryContext';
+import { siteConfig } from '@/config/siteConfig';
 
-export default function CategoryIndexPage({ posts, top, latest, categories, selectedCategory }) {
+
+export default function CategoryIndexPage({ categoryPosts, topPosts, latestPosts, allCategories, currentCategory }) {
     const router = useRouter();
     const [scrollY, setScrollY] = useState(0);
 
-    const onSelectCategory = (category) => {
+    const onCategorySelect = (category) => {
         // Store the current scroll position
         setScrollY(window.scrollY);
 
-        if (category === selectedCategory || category === "all") {
+        if (category === currentCategory || category === "all") {
             router.push("/blog");
         } else {
             router.push(`/categories/${category}`);
@@ -24,17 +26,18 @@ export default function CategoryIndexPage({ posts, top, latest, categories, sele
 
     useEffect(() => {
         window.scrollTo(0, scrollY);
-    }, [selectedCategory]);
+    }, [currentCategory]);
 
     return (
-        <BlogIndexLayout
-            posts={posts}
-            top={top}
-            latest={latest}
-            categories={categories}
-            selectedCategory={selectedCategory}
-            onSelectCategory={onSelectCategory}
-        />
+        <CategoryContext.Provider value={{ onCategorySelect }}>
+            <BlogIndexLayout
+                categoryPosts={categoryPosts}
+                topPosts={topPosts}
+                latestPosts={latestPosts}
+                allCategories={allCategories}
+                currentCategory={currentCategory}
+            />
+        </CategoryContext.Provider>
     )
 }
 
@@ -79,7 +82,7 @@ export async function getStaticProps({ params: { category } }) {
         order: "desc"
     })
     const latestPosts = sortedPosts.slice(0, 3);
-    const teamSelectionPosts = sortedPosts.filter(post => post.categories.includes("top-pick")).slice(0, 3);
+    const topPosts = sortedPosts.filter(post => post.categories.includes("top-pick")).slice(0, 3);
 
     const allCategories = allPosts
         .map(blog => blog.categories ?? [])
@@ -87,15 +90,15 @@ export async function getStaticProps({ params: { category } }) {
 
     const uniqueSortedCategories = [...new Set(allCategories)].sort();
 
-    const sortedCategoryPosts = category === 'all' ? sortedPosts : sortedPosts.filter(post => post.categories?.includes(category));
+    const categoryPosts = category === 'all' ? sortedPosts : sortedPosts.filter(post => post.categories?.includes(category));
 
     return {
         props: {
-            posts: sortedCategoryPosts,
-            top: teamSelectionPosts,
-            latest: latestPosts,
-            selectedCategory: category,
-            categories: uniqueSortedCategories,
+            categoryPosts,
+            topPosts,
+            latestPosts,
+            allCategories: uniqueSortedCategories,
+            currentCategory: category,
         }
     }
 }

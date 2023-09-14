@@ -9,10 +9,12 @@ export function BaseSection({ as: Component = "section", className, children, ..
   );
 }
 
-function BaseSectionTitle({ as: Component = "h2", children, className, ...props }) {
+function BaseSectionTitle({ as: Component = "h2", children, className, id, linked = false, ...props }) {
   return (
-    <Component className={clsx("max-w-2xl mx-auto text-center text-3xl font-headings font-bold tracking-tight text-primary sm:text-4xl", className)} {...props}>
-      {children}
+    <Component id={id} className={clsx("max-w-2xl mx-auto text-center text-3xl font-headings font-bold tracking-tight text-primary sm:text-4xl", className)} {...props}>
+      {linked ? (
+        <a href={`#${id}`}>{children}</a>
+      ) : children}
     </Component>
   )
 }

@@ -1,8 +1,13 @@
+import { useContext } from 'react'
+import { CategoryContext } from '@/contexts/CategoryContext'
+
+
 function classNames(...classes) {
   return classes.filter(Boolean).join(' ')
 }
 
-export function PillTabs({ tabs, current, onSelect }) {
+export function CategorySelect({ categories, current }) {
+  const { onCategorySelect } = useContext(CategoryContext);
 
   return (
     <div>
@@ -17,24 +22,24 @@ export function PillTabs({ tabs, current, onSelect }) {
           onChange={(e) => onSelect(e.target.value)}
         >
           <option key="all" value="all">All categories</option>
-          {tabs.map((tab) => (
-            <option key={tab} value="">{tab}</option>
+          {categories.map((category) => (
+            <option key={category} value="">{category}</option>
           ))}
         </select>
       </div>
       <div className="hidden sm:block">
         <nav className="flex flex-wrap" aria-label="Tabs">
-          {tabs.map((tab) => (
+          {categories.map((category) => (
             <button
-              key={tab}
+              key={category}
               className={classNames(
-                tab === current ? 'text-secondary' : 'text-primary/80 hover:text-primary',
+                category === current ? 'text-secondary' : 'text-primary/80 hover:text-primary',
                 'rounded-full bg-primary/5 px-3 py-2 m-1 text-sm font-light'
               )}
-              aria-current={tab === current ? 'page' : undefined}
-              onClick={() => onSelect(tab)}
+              aria-current={category === current ? 'page' : undefined}
+              onClick={() => onCategorySelect(category)}
             >
-              {tab}
+              {category}
             </button>
           ))}
         </nav>
