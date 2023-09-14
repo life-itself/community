@@ -33,11 +33,11 @@ export function SocialShareMenu({ shareOptions, onCopyClick }) {
                   onClick={onCopyClick}
                   className={classNames(
                     active ? 'text-primary' : 'text-inherit',
-                    'group flex items-center px-4 text-sm'
+                    'group flex items-center px-4 py-2 text-sm'
                   )}
                 >
                   <LinkIcon
-                    className="h-5 w-5"
+                    className="mr-3 h-5 w-5"
                     aria-hidden="true"
                   />
                   Copy link
