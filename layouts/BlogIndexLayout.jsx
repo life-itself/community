@@ -58,7 +58,7 @@ export function BlogIndexLayout({ categoryPosts, latestPosts, topPosts, allCateg
           Some of our most essential pieces.
         </BaseSection.Description>
 
-        <div className="mx-auto max-w-2xl lg:max-w-4xl space-y-4">
+        <div className="mx-auto max-w-2xl lg:max-w-3xl space-y-4">
           <CategorySelect categories={allCategories} current={currentCategory} />
           <BlogsList posts={categoryPosts} />
         </div>

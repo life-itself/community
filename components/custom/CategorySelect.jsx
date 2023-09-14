@@ -1,10 +1,21 @@
 import Link from 'next/link'
+import { useRouter } from 'next/router'
 
 function classNames(...classes) {
   return classes.filter(Boolean).join(' ')
 }
 
 export function CategorySelect({ categories, current }) {
+  const router = useRouter()
+
+  const onSelect = (category) => {
+    router.push({
+      pathname: category,
+    }, undefined, { scroll: false })
+  }
+
+  console.log(categories)
+
   return (
     <div>
       <div className="sm:hidden">
@@ -19,7 +30,7 @@ export function CategorySelect({ categories, current }) {
         >
           <option key="all" value="all">All categories</option>
           {categories.map((category) => (
-            <option key={category} value="">{category}</option>
+            <option key={category} value={category} selected={category === current}>{category}</option>
           ))}
         </select>
       </div>

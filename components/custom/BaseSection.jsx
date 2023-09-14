@@ -3,7 +3,7 @@ import { BaseButton } from "./BaseButton";
 
 export function BaseSection({ as: Component = "section", className, children, ...props }) {
   return (
-    <Component className={clsx('max-w-7xl mx-auto my-24 px-6 lg:px-8 flex flex-col items-center gap-y-12 text-primary', className)} {...props}>
+    <Component className={clsx('max-w-7xl mx-auto mt-24 mb-36 px-6 lg:px-8 flex flex-col items-center gap-y-12 text-primary', className)} {...props}>
       {children}
     </Component>
   );
