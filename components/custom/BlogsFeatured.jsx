@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { Avatar } from "@/components/Avatar";
 
 import { formatDate } from "@/lib/formatDate.js";
 
@@ -26,15 +27,13 @@ export function BlogsFeatured({ posts }) {
               Continue reading <span aria-hidden="true">&rarr;</span>
             </Link>
           </div>
-          <div className="flex lg:border-t lg:border-gray-900/10 lg:pt-8">
-            <Link
-              href={'/' + featuredPost.authors[0].url_path}
-              className="flex gap-x-2.5 text-sm font-semibold leading-6 text-gray-900"
-            >
-              <img src={featuredPost.authors[0].avatar} alt="" className="h-6 w-6 flex-none rounded-full bg-gray-50" />
-              {featuredPost.authors[0].name}
-            </Link>
-          </div>
+          <Avatar
+            img={featuredPost.authors[0]?.avatar}
+            href={'/' + featuredPost.authors[0]?.url_path}
+            name={featuredPost.authors[0]?.name}
+            size="6"
+            className="flex gap-x-2.5 text-sm font-semibold leading-6 text-gray-900"
+          />
         </div>
       </article>
       <div className="mx-auto w-full max-w-2xl border-t border-gray-900/10 pt-12 sm:pt-16 lg:mx-0 lg:max-w-none lg:border-t-0 lg:pt-0">
@@ -53,14 +52,14 @@ export function BlogsFeatured({ posts }) {
                 </h2>
                 <p className="mt-4 text-sm leading-6 text-gray-600">{post.description}</p>
               </div>
-              <div className="mt-4 flex">
-                <Link
-                  href={'/' + post.authors[0].url_path}
-                  className="relative flex gap-x-2.5 text-sm font-semibold leading-6 text-gray-900"
-                >
-                  <img src={post.authors[0].avatar} alt="" className="h-6 w-6 flex-none rounded-full bg-gray-50" />
-                  {post.authors[0].name}
-                </Link>
+              <div className="mt-4">
+                <Avatar
+                  img={featuredPost.authors[0]?.avatar}
+                  href={'/' + featuredPost.authors[0]?.url_path}
+                  name={featuredPost.authors[0]?.name}
+                  size="6"
+                  className="flex gap-x-2.5 text-sm font-semibold leading-6 text-gray-900"
+                />
               </div>
             </article>
           ))}
