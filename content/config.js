@@ -2,6 +2,7 @@ const userConfig = {
   title: "Life Itself",
   author: "Life Itself",
   authorUrl: "https://lifeitself.org",
+  authorLogo: "/assets/site/life-itself-logo.svg",
   // Google analytics key e.g. G-XXXX
   analytics: "G-5YH3R887BV",
   navbarTitle: {
