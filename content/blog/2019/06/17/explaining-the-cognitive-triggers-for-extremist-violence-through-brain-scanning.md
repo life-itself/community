@@ -15,7 +15,7 @@ Long - time contributor to Art Earth Tech, Nafees Hamid has written a forthcomin
 
 Prior research has demonstrated the pivotal influence of ‘sacred values’ (a potent subset of moral values) in underpinning radical ideologies and the escalation to violent extremism. These values are resistant to conventional forms of moderation, compromise or negotiation and, as such, present a huge challenge to counter-radicalisation efforts based on material incentives and/or sanctions.
 
-![](/assets/images/nafeeshamid.png)
+![](/assets/images/nafeeshamid.jpg)
 
 _Nafees Hamid_
 

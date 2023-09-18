@@ -28,7 +28,7 @@ The Poporo is is a small, hollow gourd with a long spout made from a pumpkin lik
 
 The interesting part is that every time they put the calcified seashell powder in their mouths they rub the spoon against the top of the Poporo. Over time it allows them to mould it to form shapes. The image above is of a virgin Poporo, and the image below is one that has been shaped over the years.
 
-![](/assets/images/esteban-post02.jpeg)
+![](/assets/images/esteban-post02.jpg)
 
 They believe the thoughts the man is having at the time get imprinted on/in the Poporo — whether it be happiness and joy or fear, jealousy and anguish. So the Poporo acts like a diary for an indigenous community that hitherto had no form of written means of recording and documenting.
 

@@ -23,7 +23,7 @@ https://youtu.be/kp6GT38-x8s
 
 **Therapy:** Giselle Genillard, founder of SOS Internationale was criss-crossing the globe to shepherd people through recovery from trauma long before that became the hot new thing. She’ll discuss the mysterious role of the therapist’s presence and the relation between inner and outer awareness.
 
-![](/assets/images/nafeeshamid.png)
+![](/assets/images/nafeeshamid.jpg)
 
 **Science:** Nafees Hamid studies youth at risk for (destructive) radicalisation, this work has shown him that the West needs to reassess its relationship with the sacred.
 
