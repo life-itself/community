@@ -25,4 +25,4 @@ https://youtu.be/o1ROvFNrX0k
 
 ### _More from Life Itself_
 
-https://lifeitself.org/2022/06/09/embodying-collective-transformation-with-karl-steyaert/
+https://lifeitself.org/2022/06/09/embodying-collective-transformation-with-karl-steyaert

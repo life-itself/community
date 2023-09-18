@@ -54,6 +54,6 @@ _Sign up to our newsletter to keep up-to-date with all things Life Itself:_
 
 * * *
 
-https://lifeitself.org/2021/10/12/state-of-sensemaking-directory-alpha-launch/
+https://lifeitself.org/2021/10/12/state-of-sensemaking-directory-alpha-launch
 
-https://lifeitself.org/2019/01/22/ken-wilber-integral-spirituality/
+https://lifeitself.org/2019/01/22/ken-wilber-integral-spirituality

@@ -118,8 +118,8 @@ _Liam Kavanagh_
 
 * * *
 
-https://lifeitself.org/2019/11/18/blind-spot-2-individualism/
+https://lifeitself.org/2019/11/18/blind-spot-2-individualism
 
-https://lifeitself.org/2018/01/24/the-ills-of-capitalism-the-possibilities-of-abundance-and-the-limits-of-land/
+https://lifeitself.org/2018/01/24/the-ills-of-capitalism-the-possibilities-of-abundance-and-the-limits-of-land
 
-https://lifeitself.org/2017/05/31/the-way-we-live-now/
+https://lifeitself.org/2017/05/31/the-way-we-live-now

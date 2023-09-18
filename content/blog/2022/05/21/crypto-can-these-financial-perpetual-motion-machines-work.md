@@ -23,6 +23,6 @@ _Head over to our Making Sense of Crypto & Web3 site to read the full explainer.
 
 ## More from Life Itself Labs
 
-https://lifeitself.org/2022/04/08/mapping-metamodern-alternative-governance/
+https://lifeitself.org/2022/04/08/mapping-metamodern-alternative-governance
 
-https://lifeitself.org/2022/03/16/making-sense-of-crypto-and-web3-launch/
+https://lifeitself.org/2022/03/16/making-sense-of-crypto-and-web3-launch

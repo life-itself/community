@@ -44,4 +44,4 @@ Our conversation ends on a positive note, admitting to the intangible aspect of 
 
 * * *
 
-https://lifeitself.org/2021/10/12/state-of-sensemaking-directory-alpha-launch/
+https://lifeitself.org/2021/10/12/state-of-sensemaking-directory-alpha-launch

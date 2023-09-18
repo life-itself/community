@@ -212,8 +212,8 @@ Okay, great to be with you. Thanks.
 
 #### _More from Life Itself_
 
-https://lifeitself.org/2022/08/16/the-new-school-at-commonweal-with-rufus-pollock/
+https://lifeitself.org/2022/08/16/the-new-school-at-commonweal-with-rufus-pollock
 
-https://lifeitself.org/2022/08/09/jeremy-lent-on-interconnection-shifting-worldviews/
+https://lifeitself.org/2022/08/09/jeremy-lent-on-interconnection-shifting-worldviews
 
-https://lifeitself.org/2022/07/26/geoff-mulgan-on-reigniting-social-and-political-imagination/
+https://lifeitself.org/2022/07/26/geoff-mulgan-on-reigniting-social-and-political-imagination

@@ -651,6 +651,6 @@ The irony here is i generally agree with McGilchrist but I find the evidence pre
 
 #### _More from Life Itself_
 
-https://lifeitself.org/2022/05/26/reflections-on-sympoiesis-6-insight-interbeing-and-science/
+https://lifeitself.org/2022/05/26/reflections-on-sympoiesis-6-insight-interbeing-and-science
 
-https://lifeitself.org/2022/06/09/launch-announcement-life-itself-labs/
+https://lifeitself.org/2022/06/09/launch-announcement-life-itself-labs

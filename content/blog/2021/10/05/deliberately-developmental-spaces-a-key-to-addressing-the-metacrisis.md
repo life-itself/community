@@ -156,6 +156,6 @@ Until then, we would like to leave a provocation for all those who view inner tr
 
 * * *
 
-https://lifeitself.org/2021/07/14/what-is-conscious-coliving/
+https://lifeitself.org/2021/07/14/what-is-conscious-coliving
 
-https://lifeitself.org/2022/06/09/embodying-collective-transformation-with-karl-steyaert/
+https://lifeitself.org/2022/06/09/embodying-collective-transformation-with-karl-steyaert

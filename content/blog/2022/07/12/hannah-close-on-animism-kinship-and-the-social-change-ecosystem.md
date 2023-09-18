@@ -18,6 +18,6 @@ Hannah is a curator for the transformative education platform [Advaya](https://a
 
 * * *
 
-https://lifeitself.org/2022/06/21/brendan-graham-dempsey-on-the-meaning-crisis-metamodern-spirituality/
+https://lifeitself.org/2022/06/21/brendan-graham-dempsey-on-the-meaning-crisis-metamodern-spirituality
 
-https://lifeitself.org/2022/06/09/embodying-collective-transformation-with-karl-steyaert/
+https://lifeitself.org/2022/06/09/embodying-collective-transformation-with-karl-steyaert

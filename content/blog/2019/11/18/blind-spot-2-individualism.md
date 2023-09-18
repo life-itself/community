@@ -34,6 +34,6 @@ Please also check the previous blind spot events we organized [Blind Spots #1: 
 
 * * *
 
-https://lifeitself.org/2019/10/25/introduction-to-our-collective-blind-spots/
+https://lifeitself.org/2019/10/25/introduction-to-our-collective-blind-spots
 
-https://lifeitself.org/2019/11/04/blind-spot-1-faith-in-rationality-and-progress/
+https://lifeitself.org/2019/11/04/blind-spot-1-faith-in-rationality-and-progress

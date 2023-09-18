@@ -51,4 +51,4 @@ If you’re interested in deepening your understanding of some of the key issues
 
 #### _More from Life Itself Labs_
 
-https://lifeitself.org/2022/06/09/launch-announcement-life-itself-labs/
+https://lifeitself.org/2022/06/09/launch-announcement-life-itself-labs

@@ -44,6 +44,7 @@
 /2015/:month/:date/:slug  /blog/2015/:month/:date/:slug
 /2016/:month/:date/:slug  /blog/2016/:month/:date/:slug
 /2017/:month/:date/:slug  /blog/2017/:month/:date/:slug
+/2017/:month/:date/:slug/  /blog/2017/:month/:date/:slug
 /2018/:month/:date/:slug  /blog/2018/:month/:date/:slug
 /2019/:month/:date/:slug  /blog/2019/:month/:date/:slug
 /2020/:month/:date/:slug  /blog/2020/:month/:date/:slug

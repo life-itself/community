@@ -56,8 +56,8 @@ Ah well. Change, denial, self, non duality, consciousness… all of these concep
 
 * * *
 
-https://lifeitself.org/2020/06/11/contemplative-activism-a-primer/
+https://lifeitself.org/2020/06/11/contemplative-activism-a-primer
 
-https://lifeitself.org/2019/11/04/blind-spot-1-faith-in-rationality-and-progress/
+https://lifeitself.org/2019/11/04/blind-spot-1-faith-in-rationality-and-progress
 
-https://lifeitself.org/2019/11/18/blind-spot-2-individualism/
+https://lifeitself.org/2019/11/18/blind-spot-2-individualism

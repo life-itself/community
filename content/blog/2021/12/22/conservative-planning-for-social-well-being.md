@@ -20,6 +20,6 @@ The obvious way of doing this is to emphasise policies that increase well-being 
 
 * * *
 
-https://lifeitself.org/2021/10/21/well-being-and-a-moderate-climate-movement/
+https://lifeitself.org/2021/10/21/well-being-and-a-moderate-climate-movement
 
-https://lifeitself.org/2018/01/24/the-ills-of-capitalism-the-possibilities-of-abundance-and-the-limits-of-land/
+https://lifeitself.org/2018/01/24/the-ills-of-capitalism-the-possibilities-of-abundance-and-the-limits-of-land

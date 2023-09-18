@@ -567,8 +567,8 @@ Great examples on joining processes.
 
 * * *
 
-https://lifeitself.org/2021/04/15/reinventing-organisations-by-frederic-laloux/
+https://lifeitself.org/2021/04/15/reinventing-organisations-by-frederic-laloux
 
-https://lifeitself.org/2019/01/22/ken-wilber-integral-spirituality/
+https://lifeitself.org/2019/01/22/ken-wilber-integral-spirituality
 
-https://lifeitself.org/2017/06/06/examining-what-do-we-want/
+https://lifeitself.org/2017/06/06/examining-what-do-we-want

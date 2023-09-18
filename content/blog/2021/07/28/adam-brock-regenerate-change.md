@@ -44,6 +44,6 @@ _Sign up to our newsletter to keep up-to-date with all things Life Itself:_
 
 * * *
 
-https://lifeitself.org/2021/07/20/romy-kraemer-guerrilla-foundation/
+https://lifeitself.org/2021/07/20/romy-kraemer-guerrilla-foundation
 
-https://lifeitself.org/2021/07/14/what-is-conscious-coliving/
+https://lifeitself.org/2021/07/14/what-is-conscious-coliving

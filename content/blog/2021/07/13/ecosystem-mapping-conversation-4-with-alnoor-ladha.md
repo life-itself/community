@@ -56,6 +56,6 @@ _Sign up to our newsletter to keep up-to-date with all things Life Itself:_
 
 * * *
 
-https://lifeitself.org/2021/10/12/state-of-sensemaking-directory-alpha-launch/
+https://lifeitself.org/2021/10/12/state-of-sensemaking-directory-alpha-launch
 
-https://lifeitself.org/2020/09/02/weve-published-our-ecosystem-snapshot-report/
+https://lifeitself.org/2020/09/02/weve-published-our-ecosystem-snapshot-report

@@ -43,8 +43,8 @@ _Much of the text here appears in my forthcoming book, “Collective Wisdom in t
 
 * * *
 
-https://lifeitself.org/2016/10/23/my-introduction-to-gautamas-uncommon-wisdom/
+https://lifeitself.org/2016/10/23/my-introduction-to-gautamas-uncommon-wisdom
 
-https://lifeitself.org/2019/01/22/ken-wilber-integral-spirituality/
+https://lifeitself.org/2019/01/22/ken-wilber-integral-spirituality
 
-https://lifeitself.org/2020/05/12/qi-gong-the-eight-precious-exercises/
+https://lifeitself.org/2020/05/12/qi-gong-the-eight-precious-exercises

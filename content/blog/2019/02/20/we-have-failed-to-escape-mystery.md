@@ -44,6 +44,6 @@ These hopes to escape mystery have failed, and various strands of science lead u
 
 * * *
 
-https://lifeitself.org/2022/02/01/cultivating-an-emerging-paradigm/
+https://lifeitself.org/2022/02/01/cultivating-an-emerging-paradigm
 
-https://lifeitself.org/2022/02/01/a-teacher-of-eternity-a-lasting-afternoon-with-thich-nhat-hanh/
+https://lifeitself.org/2022/02/01/a-teacher-of-eternity-a-lasting-afternoon-with-thich-nhat-hanh
