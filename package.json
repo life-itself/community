@@ -5,7 +5,6 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "postbuild": "cross-env NODE_OPTIONS='--experimental-json-modules --experimental-modules' node ./scripts/search.mjs",
     "start": "next start",
     "export": "npm run build && next export"
   },
@@ -29,7 +28,6 @@
     "gray-matter": "^4.0.3",
     "hastscript": "^7.0.2",
     "itemsjs": "^2.1.15",
-    "kbar": "^0.1.0-beta.37",
     "mdx-mermaid": "^2.0.0-rc5",
     "mermaid": "9.3.0",
     "next": "^13.0.4",

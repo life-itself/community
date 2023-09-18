@@ -5,9 +5,6 @@ import { Fragment, useEffect, useState } from "react";
 
 import { siteConfig } from "../config/siteConfig";
 import { BaseLink } from "./BaseLink";
-import { SearchContext, SearchField } from "./search/index.jsx";
-
-const Search = SearchContext(siteConfig.search?.provider);
 
 function MenuIcon(props) {
   return (
@@ -96,11 +93,6 @@ export function MobileNavigation({ navigation }) {
               </div>
             </Link>
           </div>
-          {Search && (
-            <Search>
-              {({ query }) => <SearchField mobile onOpen={query.toggle} />}
-            </Search>
-          )}
           <ul className="mt-2 space-y-2 border-l-2 border-slate-100 dark:border-slate-800 lg:mt-4 lg:space-y-4 lg:border-slate-200">
             {navigation.map((link) => (
               <Menu as="div" key={link.name} className="relative">

@@ -5,10 +5,8 @@ import { siteConfig } from "../config/siteConfig";
 import { MobileNavigation } from "./MobileNavigation";
 import { NavItem } from "./NavItem";
 import { ThemeSelector } from "./ThemeSelector";
-import { SearchContext, SearchField } from "./search/index.jsx";
 import { InstagramIcon, TwitterIcon, WhatsAppIcon } from "./custom/icons";
 
-const Search = SearchContext(siteConfig.search?.provider);
 
 const icons = {
   instagram: InstagramIcon,
@@ -56,13 +54,6 @@ function NavbarTitle() {
 
 export function Nav() {
   const [isScrolled, setIsScrolled] = useState(false);
-  const [modifierKey, setModifierKey] = useState();
-
-  useEffect(() => {
-    setModifierKey(
-      /(Mac|iPhone|iPod|iPad)/i.test(navigator.platform) ? "⌘" : "Ctrl "
-    );
-  }, []);
 
   useEffect(() => {
     function onScroll() {
@@ -97,13 +88,6 @@ export function Nav() {
         </div>
       </div>
       <div className="relative flex items-center basis-auto justify-end gap-4 xl:gap-5 md:shrink w-full">
-        {Search && (
-          <Search>
-            {({ query }) => (
-              <SearchField modifierKey={modifierKey} onOpen={query?.toggle} />
-            )}
-          </Search>
-        )}
         <ThemeSelector />
         {siteConfig.github && (
           <Link href={siteConfig.github} className="group" aria-label="GitHub">

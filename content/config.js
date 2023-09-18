@@ -10,14 +10,14 @@ const userConfig = {
     text: "Life Itself",
   },
   navLinks: [
-    { href: "/about", name: "About"},
-    { href: "/people", name: "People"},
-    { href: "/upcoming-residencies-gatherings", name: "Residencies"},
-    { href: "/initiatives", name: "Initiatives"},
+    { href: "/about", name: "About" },
+    { href: "/people", name: "People" },
+    { href: "/upcoming-residencies-gatherings", name: "Residencies" },
+    { href: "/initiatives", name: "Initiatives" },
     { href: "/ecosystem", name: "Ecosystem" },
-    { href: "/blog", name: "Blog"},
+    { href: "/blog", name: "Blog" },
     { href: "/podcast", name: "Podcast" },
-    { href: "/contact", name: "Contact"}
+    { href: "/contact", name: "Contact" }
   ],
   socialLinks: {
     twitter: "https://twitter.com/forlifeitself",
@@ -25,9 +25,6 @@ const userConfig = {
     whatsapp: "https://chat.whatsapp.com/JNJCTZugNQn1fq89xbHtfA",
   },
   theme: { default: "" },
-  search: {
-    provider: "kbar"
-  },
   nextSeo: {
     title: "Life Itself",
     description: "We’re committed to practical action for a radically wiser, weller world. We create hubs, start businesses, do research and engage in activism to pioneer a wiser culture.",
