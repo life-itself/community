@@ -156,7 +156,7 @@ export default function BlogLayout({ children, frontMatter }) {
         </>}
       </div>
 
-      <FloatingBanner show={showBanner}>
+      <FloatingBanner onClose={() => setShowBanner(false)} show={showBanner}>
         {bannerMessage}
       </FloatingBanner>
     </article>

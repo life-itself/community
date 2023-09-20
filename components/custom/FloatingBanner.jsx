@@ -4,7 +4,7 @@ import { Transition } from '@headlessui/react'
 import { XMarkIcon } from './icons'
 
 
-export function FloatingBanner({ show, children }) {
+export function FloatingBanner({ show, onClose, children }) {
   return (
     <Transition
       show={show}
@@ -21,7 +21,7 @@ export function FloatingBanner({ show, children }) {
           <p className="text-sm leading-6">
             {children}
           </p>
-          <button type="button" className="-m-1.5 flex-none p-1.5">
+          <button onClick={onClose} type="button" className="-m-1.5 flex-none p-1.5">
             <span className="sr-only">Dismiss</span>
             <XMarkIcon className="h-5 w-5" aria-hidden="true" />
           </button>
