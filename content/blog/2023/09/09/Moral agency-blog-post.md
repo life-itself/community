@@ -4,7 +4,7 @@ created: 2023-09-09
 authors: 
   - matthew-mccarthy
 categories: 
-  - Research
+  - research
 image: /assets/images/moral-agency-post.jpg
 ---
 

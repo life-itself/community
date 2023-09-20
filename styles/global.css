@@ -32,7 +32,9 @@
 /* smooth scrolling in modern browsers */
 html {
   scroll-behavior: smooth !important;
+  scroll-padding-top: 6rem;
 }
+
 
 /* hide anchor link with # icon  */
 .unstyled :is(h1, h2, h3, h4, h5, h6) > a {

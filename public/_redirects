@@ -50,3 +50,5 @@
 /2020/:month/:date/:slug  /blog/2020/:month/:date/:slug
 /2021/:month/:date/:slug  /blog/2021/:month/:date/:slug
 /2022/:month/:date/:slug  /blog/2022/:month/:date/:slug
+
+/blog /categories/all 200

@@ -1,6 +1,7 @@
 /* eslint import/no-unresolved: off */
 import { defineDocumentType, defineNestedType, makeSource } from "contentlayer/source-files";
 import { h } from "hastscript";
+import { readingTime } from 'reading-time-estimator'
 import { remark } from "remark";
 import rehypeAutolinkHeadings from "rehype-autolink-headings";
 import rehypeMathjax from "rehype-mathjax";
@@ -49,8 +50,10 @@ const computedFields = {
         .process(content);
 
       if (stripped.value) {
-        const description = stripped.value.toString().slice(0, 200);
-        return description + "...";
+        // get first 2 sentences
+        const match = stripped.value.toString().match(/(.*?[.!?])\s(.*?[.!?])\s?/);
+        return (match && match[0]) ? match[0] : stripped.value.toString().slice(0, 140).trim();
+
       }
     },
   },
@@ -104,7 +107,17 @@ const Blog = defineDocumentType(() => ({
       of: { type: "string" },
     },
   },
-  computedFields,
+  computedFields: {
+    readingTime: {
+      type: "string",
+      resolve: async (doc) => {
+        const content = filterMarkdown(doc.body.raw)
+        const { text } = readingTime(content)
+        return text
+      }
+    },
+    ...computedFields,
+  },
 }));
 
 export const Person = defineDocumentType(() => ({

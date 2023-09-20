@@ -4,7 +4,7 @@ created: 2023-06-18
 authors: 
   - liu bauer
 categories: 
-  - Life itself research
+  - life-itself-research
 ---
 
 >This blog post is part of discussions carried out within the Life Itself Research. 
