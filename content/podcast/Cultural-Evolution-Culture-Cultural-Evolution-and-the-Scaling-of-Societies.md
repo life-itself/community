@@ -1,8 +1,10 @@
 ---
 title: "Joseph Henrich and Cultural Evolution: Culture, Cultural Evolution and the Scaling of Societies"
-author: lauren-wigmore
+author:
+  - lauren-wigmore
 date: 2023-09-09
-src: https://anchor.fm/s/????.m4a
+src: https://anchor.fm/s/79b39934/podcast/play/75024789/https://d3ctxlq1ktw2nl.cloudfront.net/production/exports/79b39934/75024789/b724014672a4302b8e35c850f7ddf2a4.m4a
+image: https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/20318133/20318133-1692905306641-323ea257a5751.jpg
 ---
 In Episode 3 of the series Joseph Henrich and Rufus Pollock continue on the Culture Evolution conversation.
 
@@ -12,7 +14,9 @@ This conversation forms part of the Cultural Evolution: A New Discipline is Born
 ### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bcTeQOYI97U?si=wUMC9spHf4t37boR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-### Listen here - add link
+### Listen here 
+<iframe src="https://podcasters.spotify.com/pod/show/life-itself/embed/episodes/Joseph-Henrich-and-Cultural-Evolution-Culture--Cultural-Evolution-and-the-Scaling-of-Societies-Episode-3-e28g2ul" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
 
 # About Joseph Henrich
 

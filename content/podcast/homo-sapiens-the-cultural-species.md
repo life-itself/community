@@ -1,8 +1,11 @@
 ---
-title: Professor Joseph Henrich on Homo Sapiens: The Cultural Species
-author: lauren-wigmore
-date: 2023-08-09
-src: https://anchor.fm/s/ ?????????.m4a
+title: "Professor Joseph Henrich on Homo Sapiens: The Cultural Species"
+authors:
+  - lauren-wigmore
+created: 2023-08-09
+src: https://anchor.fm/s/79b39934/podcast/play/69247644/https://d3ctxlq1ktw2nl.cloudfront.net/production/exports/79b39934/69247644/3c480bec2b0fa4454fab6f4e0e7ff0f6.m4a
+image: https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/20318133/20318133-1692722636815-3c83a3ff13b07.jpg
+---
 ---
 In this episode of the Life Itself Podcast, Rufus Pollock sit down with Professor Joseph Henrich to continue the discussion on the study of cultural evolution.
 
@@ -14,7 +17,8 @@ This conversation forms part of the Cultural Evolution: A New Discipline is Born
 ### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gS_lpJnlCh0?si=hUht3UBPDyVmLpjc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-### Listen here - add link
+### Listen here
+<iframe src="https://podcasters.spotify.com/pod/show/life-itself/embed/episodes/Joseph-Henrich-and-Homo-Sapiens-The-Cul-tural-Species-Episode-2-e28d5qq" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
 # About Joseph Henrich
 
