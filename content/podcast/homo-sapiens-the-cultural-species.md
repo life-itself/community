@@ -6,7 +6,6 @@ created: 2023-08-09
 src: https://anchor.fm/s/79b39934/podcast/play/69247644/https://d3ctxlq1ktw2nl.cloudfront.net/production/exports/79b39934/69247644/3c480bec2b0fa4454fab6f4e0e7ff0f6.m4a
 image: https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/20318133/20318133-1692722636815-3c83a3ff13b07.jpg
 ---
----
 In this episode of the Life Itself Podcast, Rufus Pollock sit down with Professor Joseph Henrich to continue the discussion on the study of cultural evolution.
 
 Discussing the innate human inclination to develop and learn from culture and to transmit this knowledge across generations. This conversation emphasizes that our success as a species is attributed not only to individual intelligence but also our capacity to expand upon ancestral wisdom.
