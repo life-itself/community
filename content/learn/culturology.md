@@ -5,11 +5,11 @@ authors:
   - lauren-wigmore
 image: /assets/images/culturology-series-banner.jpg
 ---
-Through understanding what has, and what continues to shape our culture, we can actively choose to create a wiser one.
+> Through understanding what has, and what continues to shape our culture, we can actively choose to create a wiser one.
 
-At Life Itself, we understand the complexities and intricacies that shape our worlds, from our individual choices, to our wider societal models. By diving deeper into Culturology, we can gain a greater understanding of humanities development, plight, and potential. This ultimalte paves the way for us to take aligned action that works to cultivate healthier societies and the paradigm shifts so desperately needed. 
+At Life Itself, we understand the complexities and intricacies that shape our worlds, from our individual choices, to our wider societal models. By diving deeper into Culturology, we can gain a greater understanding of humanities development, plight, and potential. This ultimately paves the way for us to take aligned action that works to cultivate healthier societies and the paradigm shift so desperately needed. 
 
-By the end of this page you will know
+**By the end of this page you will know:**
 - What Culturology is
 - The factors that have and continue to influence our cultures and success
 - How WEIRD and non-WEIRD cultures differ and what we can learn from both
@@ -26,13 +26,16 @@ The best way to learn is through our Podcast Series. Through 4 episodes Rufus an
 
 They dive into a wide range of subjects, including the concept of "cultural dark matter," the influence of religion and rituals on society, the role of trust and cooperation, the potential for tracking cultural innovation, the challenges of balancing individualism and collectivism, the potential for cross-fertilization among different intentional communities and more!
 
-We are left contemplating where do we go from here, as the potential for this research area to gain even deeper traction in supporting the development of a wiser, weller world.
+We are left contemplating where do we go from here, as we discover the potential for this research area to gain even deeper traction in supporting the development of a wiser, weller world.
 
 ## Listen to all the episodes here
-[Episode 1 Joseph Henrich and the Emergence of a (Rigorous) Culturology](https://lifeitself.org/podcast/joseph-henrich-and-the-emergence-of-culturology)
-[Episode 2 Professor Joseph Henrich on Homo Sapiens: The Cultural Species](https://lifeitself.org/podcast/homo-sapiens-the-cultural-species)
-[Episode 3 Joseph Henrich and Cultural Evolution: Culture, Cultural Evolution and the Scaling of Societies](https://lifeitself.org/podcast/cultural-evolution-culture-cultural-evolution-and-the-scaling-of-societies)
-[Episode 4 Joseph Henrich and Cultural Evolution: Implications and What's Next](https://lifeitself.org/podcast/cultural-evolution-implications-and-whats-next)
+- [Episode 1 Joseph Henrich and the Emergence of a (Rigorous) Culturology](https://lifeitself.org/podcast/joseph-henrich-and-the-emergence-of-culturology)
+
+- [Episode 2 Professor Joseph Henrich on Homo Sapiens: The Cultural Species](https://lifeitself.org/podcast/homo-sapiens-the-cultural-species)
+
+- [Episode 3 Joseph Henrich and Cultural Evolution: Culture, Cultural Evolution and the Scaling of Societies](https://lifeitself.org/podcast/cultural-evolution-culture-cultural-evolution-and-the-scaling-of-societies)
+
+- [Episode 4 Joseph Henrich and Cultural Evolution: Implications and What's Next](https://lifeitself.org/podcast/cultural-evolution-implications-and-whats-next)
 
 ## Watch the episodes on YouTube
 
