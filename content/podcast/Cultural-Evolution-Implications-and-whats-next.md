@@ -1,13 +1,14 @@
 ---
-title: "Joseph Henrich and Cultural Evolution: Implications and what's next"
-author: lauren-wigmore
+title: "Joseph Henrich and Cultural Evolution: Implications and What's Next"
+author:
+  - lauren-wigmore
 date: 2023-09-10
-src: https://anchor.fm/s/????.m4a
+src: https://anchor.fm/s/79b39934/podcast/play/75028194/https://d3ctxlq1ktw2nl.cloudfront.net/production/exports/79b39934/75028194/a2924541d45041d657dbf1994c399ba6.m4a
+image: https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/20318133/20318133-1692909806404-a9d2a39344548.jpg
 ---
-
 In Episode 4 of the series Joseph Henrich and Rufus Pollock continue on the Culture Evolution conversation.
 
-In this second part of the conversation continuing on directly from episode 3, Rufus Pollock and Joe Henrich discuss the implications of cultural evolution for modern challenges. They explore the potential for intentional experimentation in creating cultural norms that promote trust, cooperation, group cohesion and a sense of community and belonging. 
+In the second part of the conversation, continuing on directly from episode 3, Rufus Pollock and Joe Henrich discuss the implications of cultural evolution for modern challenges. They explore the potential for intentional experimentation in creating cultural norms that promote trust, cooperation, group cohesion and a sense of community and belonging. 
 
 Rufus and Joe touch upon the idea that Western societies might be running on the fumes of values and norms that were cultivated by historical religious practices. They discuss the need to find ways to renew and revitalize these values, potentially by experimenting with intentional communities that incorporate elements of shared meaning, trust-building, ritual and cooperation. The talk moves on to discuss intentional communities and suggest that by allowing a variety of intentional communities to form and observing which ones thrive, societies could potentially find ways to address challenges and promote positive cultural evolution.
 
@@ -15,6 +16,9 @@ Rufus and Joe touch upon the idea that Western societies might be running on the
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ye_9Q-VpG3s?si=SkwygFM-UK1LJO1v" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Listen here
+
+(<iframe src="https://podcasters.spotify.com/pod/show/life-itself/embed/episodes/Joseph-Henrich-and-Cultural-Evolution-Implications-and-whats-next-Episode-4-e28g692" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>)
+
 
 # About Joseph Henrich
 
