@@ -5,7 +5,7 @@ authors:
   - lauren-wigmore
 image: /assets/images/culturology-series-banner.jpg
 ---
-> Through understanding what has, and what continues to shape our culture, we can actively choose to create a wiser one.
+> Through understanding what has and what continues to shape our culture, we can actively choose to create a wiser one.
 
 At Life Itself, we understand the complexities and intricacies that shape our worlds, from our individual choices, to our wider societal models. By diving deeper into Culturology, we can gain a greater understanding of humanities development, plight, and potential. This ultimately paves the way for us to take aligned action that works to cultivate healthier societies and the paradigm shift so desperately needed. 
 
@@ -31,7 +31,7 @@ We are left contemplating where do we go from here, as we discover the potential
 ## Listen to all the episodes here
 - [Episode 1 Joseph Henrich and the Emergence of a (Rigorous) Culturology](https://lifeitself.org/podcast/joseph-henrich-and-the-emergence-of-culturology)
 
-- [Episode 2 Professor Joseph Henrich on Homo Sapiens: The Cultural Species](https://lifeitself.org/podcast/homo-sapiens-the-cultural-species)
+- [Episode 2 Joseph Henrich on Homo Sapiens: The Cultural Species](https://lifeitself.org/podcast/homo-sapiens-the-cultural-species)
 
 - [Episode 3 Joseph Henrich and Cultural Evolution: Culture, Cultural Evolution and the Scaling of Societies](https://lifeitself.org/podcast/cultural-evolution-culture-cultural-evolution-and-the-scaling-of-societies)
 
