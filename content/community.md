@@ -7,6 +7,7 @@ created: 2023-08-30
 ![[community-page.jpg]]
 _A community for people, who recognise the meta-crises we face, know there is a possibility of a new paradigm and are ready to do something about it!_
 
+[Join our community chat here](https://chat.whatsapp.com/JNJCTZugNQn1fq89xbHtfA)
 ## What is the Life Itself Community?
 
 Welcome to our digital village! Just like a traditional village, we are a diverse community encompassing multiple generations, various backgrounds, professions, and skills. However, it's our unity in this diversity that truly shines as we come together to exchange, collaborate, learn, and innovate collectively. Our purpose is to transcend individualism and foster an inclusive environment rooted in a culture of mutual support and care.
