@@ -19,6 +19,7 @@ This conversation forms part of the Cultural Evolution: A New Discipline is Born
 ### Listen here
 <iframe src="https://podcasters.spotify.com/pod/show/life-itself/embed/episodes/Joseph-Henrich-and-Homo-Sapiens-The-Cul-tural-Species-Episode-2-e28d5qq" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
+
 # About Joseph Henrich
 
 Joseph Henrich is a Professor of Human Evolutionary Biology at Harvard University. He is author of several books, most recently 'The Weirdest People in the World' and 'The Secret of Our Success'. His research focuses on evolutionary approaches to psychology, decision-making and culture, and includes topics related to cultural learning, cultural evolution, culture-gene coevolution, human sociality, prestige, leadership, large-scale cooperation, religion and the emergence of complex human institutions.
