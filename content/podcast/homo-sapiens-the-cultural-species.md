@@ -1,5 +1,5 @@
 ---
-title: "Professor Joseph Henrich on Homo Sapiens: The Cultural Species"
+title: "Joseph Henrich on Homo Sapiens: The Cultural Species"
 authors:
   - lauren-wigmore
 created: 2023-08-09
