@@ -321,6 +321,7 @@ const contentLayerExcludeDefaults = [
   ".contentlayer",
   "package.json",
   "tsconfig.json",
+  "templates"
 ];
 
 /* eslint import/no-default-export: off */
