@@ -38,6 +38,8 @@ A community in our idyllic utopia is a chorus of voices blending together to cre
 ### The Art of Resolution
 Conflicts may storm through, like lightning illuminating the night sky. But through empowering your members with conflict mediation skills, you can encourage intercommunity resolution. Don’t forget to lead by example and provide resources and training.
 
+Are you intrigued by the concept of intentional communities and inspired to explore conscious coliving further? Take the next step on your journey by signing up for our free transformative Conscious Coliving 101 course! This 6-day email course will take you one step further on your conscious coliving journey no matter if you’ve never lived in a communal place or you already have and want to know how to do it more consciously. [Sign up now for free](https://lifeitself.org/conscious-coliving-course).
+
 If you enjoyed this blog post, here are a few others you might enjoy as well:
 - [Debunking the Top 3 Myths about Conscious Coliving](https://lifeitself.org/blog/2023/08/17/debunking-the-top-3-myths-about-conscious-coliving)
 - [Top 3 Benefits of Conscious Coliving](https://lifeitself.org/blog/2023/08/07/top-3-benefits-of-conscious-coliving)
