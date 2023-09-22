@@ -5,7 +5,7 @@ authors:
   - lauren-wigmore
 categories:
   - conscious-coliving
-image: /assets/images/thrive-together-blog.jpg
+image: /assets/images/thrive-together-blog.png
 ---
 Conscious coliving communities present an opportunity for like-minded souls to come together for profound connections and personal growth. However, as with any enchanting adventure, there are pitfalls to avoid along the way. In this article, we'll delve into the top 10 common mistakes in conscious coliving and offer you solutions to ensure your journey is a symphony of harmony and fulfillment!
 ### Harmony Starts with Compatibility
