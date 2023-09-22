@@ -1,6 +1,6 @@
 ---
 title: "Unlock the Secrets of Thriving Together: 10 Common Mistakes to Avoid in Conscious Coliving"
-created: 
+created: 2023-09-22
 authors:
   - lauren-wigmore
 categories:
