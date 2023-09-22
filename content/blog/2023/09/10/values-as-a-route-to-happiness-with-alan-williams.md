@@ -9,7 +9,7 @@ image: /assets/images/alan-williams-community-call.jpg
 ---
 This conversation is part of a series of bi-monthly community calls hosted in the Life Itself online community if you would like to join future calls join us in our [Whatsapp Community](https://chat.whatsapp.com/JNJCTZugNQn1fq89xbHtfA)
 
-In this call Alan we opened up the conversation around values, ahead of our [October Values Jam](https://lifeitself.org/blog/2023/09/11/october-values-jam, by discussing how values can be a route to happiness. 
+In this call Alan we opened up the conversation around values, ahead of our [October Values Jam](https://lifeitself.org/blog/2023/09/11/october-values-jam), by discussing how values can be a route to happiness. 
 
 In this call Alan took us through his method, the my31Practices, to connect and more deeply understand our values and how this can, and does, contribute to our happiness. The my31Practices approach is a very simple way to help identify and articulate personal values and then bring these values to life through a set of very practical behaviours. It is an approach based on doing a little every day with mindfulness, internalisation, imprinting and positive reinforcement of your desired behaviour.
 
