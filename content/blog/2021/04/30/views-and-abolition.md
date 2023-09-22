@@ -18,6 +18,6 @@ _You can download the full essay over on our [Community Projects](https://lifeit
 
 * * *
 
-https://lifeitself.org/2020/06/11/contemplative-activism-a-primer/
+https://lifeitself.org/2020/06/11/contemplative-activism-a-primer
 
-https://lifeitself.org/2017/04/20/logic-of-our-purpose-and-reason-for-our-existence-scqh/
+https://lifeitself.org/2017/04/20/logic-of-our-purpose-and-reason-for-our-existence-scqh

@@ -283,6 +283,6 @@ When Elliott Sober and I wanted to say something general about group selection a
 
 * * *
 
-https://lifeitself.org/2022/05/03/art-religion-and-the-climate-crisis/
+https://lifeitself.org/2022/05/03/art-religion-and-the-climate-crisis
 
-https://lifeitself.org/2022/03/11/mapping-metamodern-what-is-metamodernism/
+https://lifeitself.org/2022/03/11/mapping-metamodern-what-is-metamodernism

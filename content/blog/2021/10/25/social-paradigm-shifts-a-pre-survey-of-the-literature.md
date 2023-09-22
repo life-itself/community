@@ -79,6 +79,6 @@ Arditi, Jorge. ‘Geertz, Kuhn and the Idea of a Cultural Paradigm’. _The Brit
 
 * * *
 
-https://lifeitself.org/2019/01/22/ken-wilber-integral-spirituality/
+https://lifeitself.org/2019/01/22/ken-wilber-integral-spirituality
 
-https://lifeitself.org/2019/01/22/ken-wilber-integral-spirituality/
+https://lifeitself.org/2019/01/22/ken-wilber-integral-spirituality

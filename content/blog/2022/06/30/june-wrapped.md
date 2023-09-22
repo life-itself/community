@@ -94,7 +94,7 @@ I believe the answer is connection...."
 
 ## Latest Articles
 
-https://lifeitself.org/2022/06/17/history-humility-and-the-seeds-of-a-new-culture/
+https://lifeitself.org/2022/06/17/history-humility-and-the-seeds-of-a-new-culture
 
 ## Latest on YouTube
 

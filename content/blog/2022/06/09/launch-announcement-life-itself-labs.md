@@ -29,6 +29,6 @@ Life Itself Labs offers a range of services, from research and workshop facilita
 
 https://youtu.be/qh6bjLmtzzo
 
-https://lifeitself.org/2022/06/09/exploring-social-transformation/
+https://lifeitself.org/2022/06/09/exploring-social-transformation
 
 https://untitled.community/tech-alone-cant-fix-governance/

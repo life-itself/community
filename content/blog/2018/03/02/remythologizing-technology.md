@@ -45,6 +45,6 @@ Maybe it is time to re-mythologize human nature to one that is good, kind and lo
 
 ### _More from Sylvie Shiwei Barbier_
 
-https://lifeitself.org/2017/09/26/the-state-reinvented/
+https://lifeitself.org/2017/09/26/the-state-reinvented
 
-https://lifeitself.org/2022/05/03/art-religion-and-the-climate-crisis/
+https://lifeitself.org/2022/05/03/art-religion-and-the-climate-crisis

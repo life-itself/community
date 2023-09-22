@@ -48,8 +48,8 @@ _[Blind Spots](https://artearthtech.com/institute/blind-spots/) is our new seri
 
 * * *
 
-https://lifeitself.org/2018/01/24/the-ills-of-capitalism-the-possibilities-of-abundance-and-the-limits-of-land/
+https://lifeitself.org/2018/01/24/the-ills-of-capitalism-the-possibilities-of-abundance-and-the-limits-of-land
 
-https://lifeitself.org/2022/04/30/self-burning-confronts-us-with-radical-concern-if-we-let-it/
+https://lifeitself.org/2022/04/30/self-burning-confronts-us-with-radical-concern-if-we-let-it
 
-https://lifeitself.org/2022/04/25/reflections-on-the-making-eco-spirituality-accessible-residency/
+https://lifeitself.org/2022/04/25/reflections-on-the-making-eco-spirituality-accessible-residency

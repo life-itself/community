@@ -27,6 +27,6 @@ https://youtu.be/qh6bjLmtzzo
 
 https://youtu.be/O6DOI65x3hI
 
-https://lifeitself.org/2022/05/26/reflections-on-sympoiesis-6-insight-interbeing-and-science/
+https://lifeitself.org/2022/05/26/reflections-on-sympoiesis-6-insight-interbeing-and-science
 
-https://lifeitself.org/2022/03/11/mapping-metamodern-what-is-metamodernism/
+https://lifeitself.org/2022/03/11/mapping-metamodern-what-is-metamodernism

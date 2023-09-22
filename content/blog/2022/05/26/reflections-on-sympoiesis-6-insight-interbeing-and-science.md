@@ -28,6 +28,6 @@ Head over to our residencies page to learn more about our residencies and to see
 
 * * *
 
-https://lifeitself.org/2022/04/25/reflections-on-the-making-eco-spirituality-accessible-residency/
+https://lifeitself.org/2022/04/25/reflections-on-the-making-eco-spirituality-accessible-residency
 
-https://lifeitself.org/2022/04/30/self-burning-confronts-us-with-radical-concern-if-we-let-it/
+https://lifeitself.org/2022/04/30/self-burning-confronts-us-with-radical-concern-if-we-let-it

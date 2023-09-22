@@ -154,8 +154,8 @@ _Excerpt From: Thich Nhat Hanh. “The Art of Power” Chapter Four_
 
 #### _More from Life Itself_
 
-https://lifeitself.org/2022/03/16/making-sense-of-crypto-and-web3-launch/
+https://lifeitself.org/2022/03/16/making-sense-of-crypto-and-web3-launch
 
-https://lifeitself.org/2022/03/11/mapping-metamodern-what-is-metamodernism/
+https://lifeitself.org/2022/03/11/mapping-metamodern-what-is-metamodernism
 
-https://lifeitself.org/2022/02/01/a-teacher-of-eternity-a-lasting-afternoon-with-thich-nhat-hanh/
+https://lifeitself.org/2022/02/01/a-teacher-of-eternity-a-lasting-afternoon-with-thich-nhat-hanh

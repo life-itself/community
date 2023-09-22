@@ -57,6 +57,6 @@ So mindfulness meditation can be approached as a ritual, but it is not the only 
 
 * * *
 
-https://lifeitself.org/2019/02/20/we-have-failed-to-escape-mystery/
+https://lifeitself.org/2019/02/20/we-have-failed-to-escape-mystery
 
-https://lifeitself.org/2018/03/02/remythologizing-technology/
+https://lifeitself.org/2018/03/02/remythologizing-technology

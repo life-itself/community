@@ -30,7 +30,7 @@ Adults and children are both welcome for an afternoon of art and performance fro
 
 Learn more and book your ticket:
 
-https://lifeitself.org/27aout/
+https://lifeitself.org/27aout
 
 ## Crypto Policy Symposium 2022
 
@@ -67,7 +67,7 @@ These residencies are now fully booked, however, please do still get in touch if
 
 ### Jeremy Lent on Interconnection & Shifting Worldviews
 
-https://lifeitself.org/2022/08/09/jeremy-lent-on-interconnection-shifting-worldviews/
+https://lifeitself.org/2022/08/09/jeremy-lent-on-interconnection-shifting-worldviews
 
 <iframe src="https://anchor.fm/life-itself/embed/episodes/Jeremy-Lent-on-Interconnection--Shifting-Worldviews-e1ma31u/a-a7gpq18" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
@@ -75,7 +75,7 @@ In episode 7 of the Exploring Social Transformation series of the Life Itself Po
 
 ### The New School at Commonweal with Rufus Pollock
 
-https://lifeitself.org/2022/08/16/the-new-school-at-commonweal-with-rufus-pollock/
+https://lifeitself.org/2022/08/16/the-new-school-at-commonweal-with-rufus-pollock
 
 <iframe src="https://anchor.fm/life-itself/embed/episodes/Meet-the-MetaModerns-Emerging-Movement-with-Alternative-Approach-to-Social-Change-with-Rufus-Pollock-e1mhn48/a-a7gpq18" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 

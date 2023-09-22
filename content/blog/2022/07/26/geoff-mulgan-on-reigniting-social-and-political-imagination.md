@@ -24,6 +24,6 @@ Geoff Mulgan is Professor of Collective Intelligence, Public Policy and Social I
 
 ### _More from Life Itself_
 
-https://lifeitself.org/2022/06/21/brendan-graham-dempsey-on-the-meaning-crisis-metamodern-spirituality/
+https://lifeitself.org/2022/06/21/brendan-graham-dempsey-on-the-meaning-crisis-metamodern-spirituality
 
-https://lifeitself.org/2022/06/09/embodying-collective-transformation-with-karl-steyaert/
+https://lifeitself.org/2022/06/09/embodying-collective-transformation-with-karl-steyaert

@@ -500,6 +500,6 @@ From the Notes
 
 * * *
 
-https://lifeitself.org/2019/01/22/ken-wilber-integral-spirituality/
+https://lifeitself.org/2019/01/22/ken-wilber-integral-spirituality
 
-https://lifeitself.org/2019/02/04/darwins-cathedral-david-sloan-wilson/
+https://lifeitself.org/2019/02/04/darwins-cathedral-david-sloan-wilson

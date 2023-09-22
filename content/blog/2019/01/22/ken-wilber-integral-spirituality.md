@@ -129,8 +129,8 @@ More intellectually (i.e. of less immediate practical importance)
 
 * * *
 
-https://lifeitself.org/2022/03/11/mapping-metamodern-what-is-metamodernism/
+https://lifeitself.org/2022/03/11/mapping-metamodern-what-is-metamodernism
 
-https://lifeitself.org/2022/02/10/mapping-an-emerging-ecosystem-partnership-with-the-institute-for-integral-studies/
+https://lifeitself.org/2022/02/10/mapping-an-emerging-ecosystem-partnership-with-the-institute-for-integral-studies
 
-https://lifeitself.org/2022/05/26/reflections-on-sympoiesis-6-insight-interbeing-and-science/
+https://lifeitself.org/2022/05/26/reflections-on-sympoiesis-6-insight-interbeing-and-science
