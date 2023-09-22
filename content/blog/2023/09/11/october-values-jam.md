@@ -105,7 +105,7 @@ Next, journal on your most ideal conversation or activity. What could you get lo
 
 Secondly, to understand more about values, either use the values you have discovered from the above exercise or select 5 values from [the list of values here](![[values-list.pdf]]), and take some time to journal on:  
 
-- Why is this value important to me? 
+- Why is this value important to me?
     
 - What does this value make me feel? 
     
