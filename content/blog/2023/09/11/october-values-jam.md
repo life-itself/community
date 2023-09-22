@@ -1,5 +1,5 @@
 ---
-title: "October Values Rally: Fueling Conversations, Building Communities"
+title: "October Values Jam: Fueling Conversations, Building Communities"
 created: 2023-09-11
 authors:
   - lauren-wigmore
@@ -32,21 +32,21 @@ What can be tricky is learning to distinguish your conditioned values from your 
 
 Your conditioning is in its simplest form, the way you have been shaped by external factors. The way you have been conditioned frequently impacts the values you identify with consciously or unconsciously. However, this is also where conflicts and tensions can arise, along with a either a sense of alignment or misalignment. If we are conditioned to believe in a certain set of values, yet we feel a pull towards other, often conflicting values, we can often end up feeling a bit off center and far away from ourselves. Cue the October’s Values Rally.
 
-### October's Values Rally: Fueling Conversations, Building Communities!
+### October's Values Jam: Fueling Conversations, Building Communities!
 
-Throughout October, in line with World Values Day on 19th October, our September Community Call and our (to-be) new line of Conscious Coliving Masterclasses, we are inviting all of the Life Itself Community to take part in this month-long October Values Rally: Fueling Conversations, Building Communities! So often we navigate our lives, and by default our value systems unconsciously that we wanted to instigate even more conscious connections and conversations within the community, both ours and yours!
+In line with World Values Day on 19th October, our September Community Call and our (to-be) new line of Conscious Coliving Masterclasses, we are inviting all of the Life Itself Community to take part in this month-long October Values Jam: Fueling Conversations, Building Communities! So often we navigate our lives, and by default our value systems unconsciously that we wanted to instigate even more conscious connections and conversations within the community, both ours and yours!
 
 There are two ways in which you can participate. 
 
 1. **By holding personal values based conversations**
-	In these conversations we invite you to initiate conversations with your family, friends and local community around that week's suggested values. Each week we will share the suggested values we will be discussing at Life Itself in the Community Chat and on the live call. We invite you to record the number of conversations you have each week so that at the end of the month we can work out a grand total of conversations achieved amongst our community. 
+	In these conversations we invite you to initiate conversations with your family, friends and local community around that week's suggested values (which will be shared in the [Whatsapp Community](https://chat.whatsapp.com/JNJCTZugNQn1fq89xbHtfA)). We invite you to record the number of conversations you have each week so that at the end of the month we can work out a grand total of conversations achieved amongst our community. 
 
-2. **By joining us on live calls to have values based conversations with other members of the Life Itself community.** 
-	There will be 5 live 1 hour calls, 1 each week, on a Monday 7pm CET. In these calls we will have the opportunity to come together and discuss the values of that week as a community and to reflect on the past week.
+2. **By joining us on our live call to have a values based conversations with other members of the Life Itself community.** 
+	There will be a 2 hour call on Thursday 19th October 7pm CET. In this call we will have the opportunity to come together and discuss the values inherent within Life Itself and it's community members, and to reflect on how our personal values based conversations are going.
     
 We encourage you to participate in both.
 
-[Register for the live calls here](https://us02web.zoom.us/meeting/register/tZcoce-hpzkuHNf-ec5IHkTIFG6uZw437Ebn)
+[Register for the live call here](https://us02web.zoom.us/meeting/register/tZcoce-hpzkuHNf-ec5IHkTIFG6uZw437Ebn)
 
 Keep reading for more information related to the tradition of values and some tips and activities to get you ready for the rally.
 
@@ -93,6 +93,10 @@ If you would like to understand how your values sit within [Schwartz’s Values 
 
 ### Activities to help you discover more about your values
 
+In the first half of the Values as a Route to Happiness Community Call, Alan takes us through a practical exercise to more deeply and practically engage with our values. You can watch the call here.
+
+<iframe width="280" height="158" src="https://www.youtube.com/embed/JWbMVa1IstA?si=pWvWO6hN9VH5FrZe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 Take a journal, and reflect on a typical day, or week for you. Note down the activities you do. What do you prioritize and why (i.e. through joy, expectation etc.)? What motivates you in your days/weeks? What makes you feel frustrated? What makes you feel alive or connected? Note down any themes or repetitions. Then you can start to dig a little deeper into understanding values that are creating a sense of connecting or disconnecting. 
 
 _For example, if I spend a large amount of time during my week cooking out of choice, and I enjoy this or receive a positive outcome from this, I might distill that I have a value of pleasure, creativity or health depending on what I’m cooking. If I do this for my family I might distill that I have a value of family, providing or nurturing. However, if I do this, I don't want to be doing it and I feel exhausted or resentful most times, this might be a conditioned value that I have taken on but one that is not truly in alignment with me, because perhaps I value freedom and fun and I feel restricted with cooking.__
@@ -110,4 +114,4 @@ Secondly, to understand more about values, either use the values you have discov
 - How am I planning to continue integrating this value into my future? 
 
 
-And just in case you had forgotten earlier, [here is the link to register for the Values Rally](https://us02web.zoom.us/meeting/register/tZcoce-hpzkuHNf-ec5IHkTIFG6uZw437Ebn) See you then!
+And just in case you had forgotten earlier, [here is the link to register for the Values jam call](https://us02web.zoom.us/meeting/register/tZcoce-hpzkuHNf-ec5IHkTIFG6uZw437Ebn) See you then!
