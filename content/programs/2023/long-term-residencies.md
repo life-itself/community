@@ -3,7 +3,7 @@ title: "Fall 2023 Open Residency"
 description: "This October we start our fall open residency. It’s a flexible space to relax and focus and to enjoy some conscious coliving. Running from October through December 2023, participation is open ranging from a week up to the full three months."
 image: "/assets/images/long-term-residency (1).jpg"
 start: "2023-10-15"
-end: "2024-04-14"
+end: "2024-01-14"
 facilitator:
   - "Praxis guardians"
 location: "The Life Itself Praxis Hub, Bergerac, France"
