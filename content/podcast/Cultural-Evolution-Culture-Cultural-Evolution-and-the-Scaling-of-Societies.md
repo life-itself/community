@@ -1,7 +1,6 @@
 ---
 title: "Joseph Henrich and Cultural Evolution: Culture, Cultural Evolution and the Scaling of Societies"
-author:
-  - lauren-wigmore
+author: lauren-wigmore
 date: 2023-09-09
 src: https://anchor.fm/s/79b39934/podcast/play/75024789/https://d3ctxlq1ktw2nl.cloudfront.net/production/exports/79b39934/75024789/b724014672a4302b8e35c850f7ddf2a4.m4a
 image: https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/20318133/20318133-1692905306641-323ea257a5751.jpg

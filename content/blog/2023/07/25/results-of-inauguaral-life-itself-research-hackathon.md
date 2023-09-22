@@ -1,8 +1,9 @@
 ---
 title: Results of the Inaugural Life Itself Research Hackaton 3rd June 2023
-date: 2023-06-07
+created: 2023-06-07
 image: https://user-images.githubusercontent.com/180658/243112787-2b5c1038-ffb9-48d0-9c94-e38fbfad8c65.png
-categories: research
+categories:
+  - research
 ---
 
 Last Saturday, at the inaugural Life Itself Research hackathon [(previous post)](https://lifeitself.org/blog/2023/05/17/research-hackathon-june-2023) , we had more than a dozen attendees and more than six projects completed.

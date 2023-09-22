@@ -1,7 +1,6 @@
 ---
 title: "Joseph Henrich and Cultural Evolution: Implications and What's Next"
-author:
-  - lauren-wigmore
+author: lauren-wigmore
 date: 2023-09-10
 src: https://anchor.fm/s/79b39934/podcast/play/75028194/https://d3ctxlq1ktw2nl.cloudfront.net/production/exports/79b39934/75028194/a2924541d45041d657dbf1994c399ba6.m4a
 image: https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/20318133/20318133-1692909806404-a9d2a39344548.jpg
