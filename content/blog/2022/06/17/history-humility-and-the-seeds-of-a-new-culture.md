@@ -1,5 +1,5 @@
 ---
-title: "Tending the seeds of a "new" culture — Hope, History, and Humility"
+title: Tending the seeds of a "new" culture — Hope, History, and Humility
 created: 2022-06-17
 categories: 
   - contemplative-activism
