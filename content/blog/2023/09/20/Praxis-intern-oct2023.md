@@ -12,7 +12,7 @@ Are you looking for a place to live and work that develops your skills, your per
 
 Yes? Well, we have just the opportunity for you.
 
-The Life Itself Hub in Bergerac is seeking an intern to join the team from 12th October 2023. This position is initially for 3 months, but it has the potential to be extended to 6 months.
+The Life Itself Hub in Bergerac is seeking an intern to join the team from 12th October 2023. This position is initially for 2 months at a time.
 
 ## What’s involved?
 
@@ -37,7 +37,7 @@ As the Hub Intern you would be providing a supporting role to Valerie, Tenzo and
 ## Other information
 
 - You must be available to arrive on 12th Oct - 3 days prior to the long term residency starting
-- You must be available to commit to a minimum of 3 months 
+- You must be available to commit to 2 months 
 - Your contribution will consist of 4-5 hours per day, 5 days per week
 - A willingness to engage in the MVP’s and develop an inner practice is a necessity
 - Upon successful application you will be invited to connect with Valerie more deeply to discuss your suitability
