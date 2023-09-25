@@ -1,28 +1,49 @@
 ---
-title: 'Research activities at Life Itself and a Research Community: A Proposal'
+title: 'Research activities at Life Itself and Renovating the Research Community'
 created: 2023-01-14 
+type: Blog
+authors:
+  - rufuspollock
 ---
 
-**🚩 2023-03-23**: this is a slightly revised version of the original proposal. The main change is to have research community distinct from Labs (rather than under it).
+This document sets out a proposal for research activities at Life Itself and a way to "renovate" research community. I say renovate because we already have research community activity at Life Itself starting in September 2016 and most recently and more formally with [Life Itself Labs][labs]
+
+[labs]: https://labs.lifeitself.org/
+
+> [!info] Update 2023-03-23
+> 
+> This is a slightly revised version of the original proposal. The main change is to have research community distinct from Labs (rather than under it).
+
+> [!info] Update 2023-05-03
+> 
+> We have a more detailed overview of what research community and what it is about in the [[../blog/research-community-open-call-1-april-2023|notes and video from our first monthly open forum]].
 
 # Summary
 
-Research is a central activity at Life Itself.  Research here has the broad meaning of "systematic investigation". It includes both general inquiry and the stricter, academic meaning of using standard methods and seeking original results.
+Research is a central activity at Life Itself.
 
 We propose that research take place in two distinct and related spaces:
 
 - A broader and more informal "research community"
-- A narrower, more formal Labs team
+- A narrower, more formal "Labs" or "Research" team
 
-Research focuses on ontology and culturology i.e. the study of inner development and cultural evolution and how they can be cultivated.
+In terms of topics, our research will focus on ontology and culturology i.e. the study of inner development and cultural evolution and how they can be cultivated.
 
 Implications and details such as work plan for 2023 are in progress and up for discussion!
 
+> [!note] 
+> 
+> Research here has the broad sense of "systematic investigation" and includes both general inquiry and the stricter, academic meaning of research to mean seeking original results with standardized methods.
+
 # Proposal
 
-## Introduction
+## Motivation
 
-Question: What research should we do at Life Itself and how should we organize it?
+Our motivating question is:
+
+> What research should we do at Life Itself and how should we organize it?
+
+Subquestions include:
 
 - What do we mean by research?
 - What topics do we focus on?
@@ -40,7 +61,7 @@ Research takes place in two distinct connected areas:
 - Research "community": broader, informal research community that anyone can join
 - Labs itself: a smaller, more formal team doing more formal research e.g. funded and/or academic style
 
-#todo update this diagram which refers to v1 where Labs
+#todo update this diagram which refers to v1 where Labs is the parent.
 
 <img src="https://user-images.githubusercontent.com/180658/212433169-9b72a932-9cc4-48b9-a34e-65e9662b7678.png" height="400" />
 
@@ -85,7 +106,7 @@ We also have certain principles & practices that inform our approach (in progres
 - Rigor
 - Open-mindedness
 - Listening generously (aka steel-manning)
-- Practical (Praxis?)
+- Praxis oriented
 
 ### Implications
 
