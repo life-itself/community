@@ -26,7 +26,6 @@ As the Hub Intern you would be providing a supporting role to Valerie, Tenzo and
 
 - 1 private room 
 - All meals 
-- Pocket money (approximately €300 per month)
 - Insurance and liability cover
 ## Who is this suitable for?
 
