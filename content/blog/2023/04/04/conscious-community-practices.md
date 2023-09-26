@@ -24,7 +24,7 @@ What processes and practices do you think help communities thrive? Let us know i
 
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EcLtuV7EUh4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+https://youtu.be/EcLtuV7EUh4
 
 Alongside being a culinary adventurer, a food activist and a tenzo (a zen cook in the Soto Zen tradition), Valerie is the Guardian of Life Itself's daily practices. She enjoys sitting in the uncertainty and is passionate about helping communities to awaken their enthusiastic collective heart through shared practice. She lives life according to her mantra: together, together, all together! You can learn more about Valerie on her [website](https://en.lacuisinedelabienveillance.org/).
 

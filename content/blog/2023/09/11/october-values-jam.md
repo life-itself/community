@@ -14,7 +14,7 @@ Values shape everything we do, and having awareness of our values and our commun
 Values are inherent guidance systems that are available to everyone. They are ingredients to life. They are beliefs about one's own self. 
 
 We really liked the [University of Texas’s video explanation and description of values as an overview](https://ethicsunwrapped.utexas.edu/glossary/values#:~:text=Values%20are%20individual%20beliefs%20that,values%20of%20their%20particular%20culture):
-<iframe width="641" height="361" src="https://www.youtube.com/embed/SCjYaatMJuY" title="Values | Ethics Defined" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+https://youtu.be/SCjYaatMJuY
 
 > Values are individual beliefs that motivate people to act one way or another. They serve as a guide for human behavior. Generally, people are predisposed to adopt the values that they are raised with. People also tend to believe that those values are “right” because they are the values of their particular culture.
 
@@ -95,7 +95,7 @@ If you would like to understand how your values sit within [Schwartz’s Values 
 
 In the first half of the Values as a Route to Happiness Community Call, Alan takes us through a practical exercise to more deeply and practically engage with our values. You can watch the call here.
 
-<iframe width="280" height="158" src="https://www.youtube.com/embed/JWbMVa1IstA?si=pWvWO6hN9VH5FrZe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+https://youtu.be/JWbMVa1IstA?si=pWvWO6hN9VH5FrZe
 
 Take a journal, and reflect on a typical day, or week for you. Note down the activities you do. What do you prioritize and why (i.e. through joy, expectation etc.)? What motivates you in your days/weeks? What makes you feel frustrated? What makes you feel alive or connected? Note down any themes or repetitions. Then you can start to dig a little deeper into understanding values that are creating a sense of connecting or disconnecting. 
 

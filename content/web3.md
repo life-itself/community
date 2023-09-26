@@ -32,7 +32,7 @@ We have begun our work by planning a research agenda for our inquiry, shown in t
 
 ## Exploring the Neo-metallist thesis for Bitcoin with Stephen Diehl - 16 Feb 2022
 
-https://www.youtube.com/embed/\_o7pRFLzJHY
+https://youtu.be/_o7pRFLzJHY
 
 ## Critical Exploration with Rich Bartlett and Stephen Reid
 

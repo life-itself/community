@@ -8,7 +8,7 @@ image: https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/staging/po
 
 In this episode of the Life Itself Podcast, Rufus Pollock is joined by [Dr Jeffery Martin](https://drjefferymartin.com/). Jeffery is a founder of the Transformative Technology space, a serial entrepreneur, and a social scientist who researches personal transformation and the states of greatest human well-being.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EmsLdIH8nzU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+https://youtu.be/EmsLdIH8nzU
 
 In this episode, Jeffery discusses Persistent Non-Symbolic Experience, more commonly referred to as Fundamental Wellbeing. He discusses his research and key findings, and the protocols he has developed and tested to help people obtain "fundamental wellbeing" in a rapid, secular, and safe way.
 

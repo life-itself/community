@@ -11,7 +11,7 @@ In the fourth episode of our Exploring Social Transformation series, [Nathen Fit
 
 ## The Conversation 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5LXSPZe9SbY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+https://youtu.be/5LXSPZe9SbY
 
 Nathen and Brendan unpack a potential antidote to the meaning crisis, metamodern spirituality. Through identifying the core characteristics of metamodern thinking and how one might engage in metamodern spirituality, this conversation is a perfect place to orient oneself with the metamodern ideology and to be inspired to find greater meaning individually and as a collective.
 

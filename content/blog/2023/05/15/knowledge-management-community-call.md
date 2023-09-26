@@ -16,7 +16,7 @@ This conversation brings various tools and experiences together to bring forth t
 
 ## The Presentation
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4UKkUAFX2GQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+https://youtu.be/4UKkUAFX2GQ
 We explore the question, how do our systems shape the way we communicate, learn and create? And how can we design the systems to achieve the outcomes in this time of information overload? 
 
 Tools for Sharing and Brainstorming

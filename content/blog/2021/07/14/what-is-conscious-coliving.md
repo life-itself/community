@@ -50,7 +50,7 @@ Third, coliving is a way for us to live more lightly on the planet thus economis
 
 >UPDATE 2023: We have now created a free introductory email course to conscious coliving. Want to join? Visit - [[conscious-coliving-course|Conscious Coliving 101: Learn How to Live a More Connected Life]]
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8zAggUvGjDM" title="Conscious Coliving 101 (Free Course)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+https://youtu.be/8zAggUvGjDM
 
 ### Intentional Communities
 

@@ -28,7 +28,7 @@ So, for myself and for you, I pose two additional questions to the ones in the v
 
 ## The Presentation
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l6p0dKyFCmA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+https://youtu.be/l6p0dKyFCmA
 
 I’m surprised by the threads I’m weaving together— philosophy of touch, relational ontology, grocery technology, the attention economy, and tactile practices of gratitude. But I heard a clear voice in my head saying, “Trust the path I sent you on.” I am trusting. 
 

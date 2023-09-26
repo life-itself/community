@@ -24,7 +24,7 @@ This list of 5 documentaries about cults has been selected because they involve 
 
 ## 1. How to Become a Cult Leader
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3DI98_a_1jg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+https://youtu.be/3DI98_a_1jg
 
 *Where to watch*: Netflix 
 *Year Released*: 2023
@@ -33,7 +33,7 @@ Despite the ironic title and narrative, this 6-part docu–series that came out 
 
 ## 2. Wild Wild Country
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hBLS_OM6Puk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+https://youtu.be/hBLS_OM6Puk
 
 *Where to watch*: Netflix
 *Year released*: 2018
@@ -42,7 +42,7 @@ Rajneeshpuram, was an intentional community developed on an old ranch in Wasco C
 
 ## 3. Heavens Gate: The Cult of Cults
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Yp_5pDOa-o0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+https://youtu.be/Yp_5pDOa-o0
 
 *Where to watch*: HBO Max
 *Year released*: 2020 
@@ -51,7 +51,7 @@ Although not entirely centered around an “intentional” community, Heaven Gat
 
 ## 4. Jonestown: The Life and Death of Peoples Temple
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6S_d1eVv0E8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+https://youtu.be/6S_d1eVv0E8
 
 
 *Where to watch*: [On youtube]([https://www.youtube.com/watch?v=traRRAQQfbg](https://www.youtube.com/watch?v=traRRAQQfbg)) 
@@ -61,7 +61,7 @@ Culminating in the largest mass suicide in history the Peoples Temple “intenti
 
 ## 5. Holy Hell
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2f2BG43JW0o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+https://youtu.be/2f2BG43JW0o
 
 *Where to watch*: Amazon 
 *Year released*: 2016

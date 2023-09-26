@@ -18,7 +18,7 @@ The 5-step formula for conscious creation, includes intention, vision, awareness
 ## The Conversation
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QiO7I34ZnjU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+https://youtu.be/QiO7I34ZnjU
 
 ## In the conversation we cover:
 

@@ -10,7 +10,7 @@ image: /assets/images/image_2021-10-30_151727.png
 ---
 
 ## Watch the hangout with Karl Steyaert 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CknEw_qNpoQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+https://youtu.be/CknEw_qNpoQ
 
 **This month we have special guest Karl Steyaert, a visionary cultural catalyser who has worked with dozens of intentional communities such as Findhorn and Auroville as well universities and tech companies such as Netflix.** More about Karl below.
 

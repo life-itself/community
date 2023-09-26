@@ -16,7 +16,7 @@ _How can we harness these technologies to empower the people and restore democra
 
 ## The Conversation
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wfZRozLtyEU?si=EPbtvSNym3VPR7pl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+https://youtu.be/wfZRozLtyEU?si=EPbtvSNym3VPR7pl
 ## In the conversation we cover:
 Chapters
 - [00:02:29](https://www.youtube.com/watch?v=wfZRozLtyEU&t=149s) Shifting the definition of democracy from votes to voices. 
