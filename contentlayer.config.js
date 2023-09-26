@@ -8,7 +8,7 @@ import rehypeMathjax from "rehype-mathjax";
 import rehypePrismPlus from "rehype-prism-plus";
 import rehypeSlug from "rehype-slug";
 import callouts from "remark-callouts";
-import remarkEmbed from "remark-embed-plus";
+import remarkEmbed from "@portaljs/remark-embed";
 import remarkGfm from "remark-gfm";
 import remarkMath from "remark-math";
 import smartypants from "remark-smartypants";
