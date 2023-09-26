@@ -14,7 +14,7 @@ In this call Alan we opened up the conversation around values, ahead of our [Oct
 In this call Alan took us through his method, the my31Practices, to connect and more deeply understand our values and how this can, and does, contribute to our happiness. The my31Practices approach is a very simple way to help identify and articulate personal values and then bring these values to life through a set of very practical behaviours. It is an approach based on doing a little every day with mindfulness, internalisation, imprinting and positive reinforcement of your desired behaviour.
 
 ## The Conversation
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JWbMVa1IstA?si=pWvWO6hN9VH5FrZe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+https://youtu.be/JWbMVa1IstA?si=pWvWO6hN9VH5FrZe
 
 In the conversation we cover:
 - 00:00:00 Living values through practical exercises 

@@ -25,7 +25,7 @@ In this community discussion hosted by Stephen Reid we dig into these visions of
 ---
 ## The Presentation
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AXGCptB_xUs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+https://youtu.be/AXGCptB_xUs
 
 The world as we know it is changing in magnificent ways. People are awakening to a world where the economic and ecological systems are no more working. Some of the amazing books explain this shift in more detail and give an overview of what the future should encompass in terms of society, economy and nature. 
 

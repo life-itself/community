@@ -14,7 +14,7 @@ Join us in the conversation as Joseph shares insights around the pivotal role cu
 
 This conversation forms part of the Cultural Evolution: A New Discipline is Born Series.
 ### YouTube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gS_lpJnlCh0?si=hUht3UBPDyVmLpjc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+https://youtu.be/gS_lpJnlCh0?si=hUht3UBPDyVmLpjc
 
 ### Listen here
 <iframe src="https://podcasters.spotify.com/pod/show/life-itself/embed/episodes/Joseph-Henrich-and-Homo-Sapiens-The-Cul-tural-Species-Episode-2-e28d5qq" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>

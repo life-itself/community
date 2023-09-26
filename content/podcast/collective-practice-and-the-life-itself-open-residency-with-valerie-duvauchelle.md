@@ -10,6 +10,6 @@ In the third episode of our Exploring Social Transformation series, Eilidh Ross 
 
 ## The Conversation
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o1ROvFNrX0k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+https://youtu.be/o1ROvFNrX0k
 
 To learn more about the upcoming Open Residency and to apply head over to https://lifeitself.us/open-residency/

@@ -10,7 +10,7 @@ In the second episode of our Exploring Social Transformation series, Theo Cox si
 
 ## The Conversation 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O6DOI65x3hI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+https://youtu.be/O6DOI65x3hI
 
 >Karl Steyaert has over 25 years experience facilitating personal and collective transformation across North America, Europe and Asia. His clients range from non-profits, intentional communities and ecovillages, to universities, governments and Silicon Valley tech companies. In 2013, Karl founded the Cultural Catalyst Network – a global community of changemakers integrating inner, interpersonal, and systemic transformation. 
 >More on Karl at www.karlsteyaert.com

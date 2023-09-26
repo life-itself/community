@@ -13,7 +13,7 @@ In this conversation we explore the future of education. The current education s
 
 ## The Conversation
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ch7IfxvA9Tk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+https://youtu.be/ch7IfxvA9Tk
 
 Participants engaged in a discussion and mutually explored the urgent need for change in education systems worldwide. They emphasised the importance of empowering individuals to navigate their educational and career paths based on their values and aspirations. The discussion highlighted the limitations of the traditional approach, which often leads to dissatisfaction and a lack of fulfilment later in life. Instead, participants advocated for cultivating self-awareness and values as a foundation for decision-making.
 

@@ -12,7 +12,7 @@ In the second part of the conversation, continuing on directly from episode 3, R
 Rufus and Joe touch upon the idea that Western societies might be running on the fumes of values and norms that were cultivated by historical religious practices. They discuss the need to find ways to renew and revitalize these values, potentially by experimenting with intentional communities that incorporate elements of shared meaning, trust-building, ritual and cooperation. The talk moves on to discuss intentional communities and suggest that by allowing a variety of intentional communities to form and observing which ones thrive, societies could potentially find ways to address challenges and promote positive cultural evolution.
 
 ### YouTube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Ye_9Q-VpG3s?si=SkwygFM-UK1LJO1v" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+https://youtu.be/Ye_9Q-VpG3s?si=SkwygFM-UK1LJO1v
 
 ### Listen here
 

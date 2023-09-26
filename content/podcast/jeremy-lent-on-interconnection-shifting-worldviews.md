@@ -10,7 +10,7 @@ This week in our Exploring Social Transformation series, we are sharing a conver
 
 ## The Conversations
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sUwp9eRSSBs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+https://youtu.be/sUwp9eRSSBs
 
 In this episode, Jeremy and Rufus dig into the myth of man's innate selfishness, how shifts in cultural consciousness have historically come about, what's coming next, and why we have reason to feel hopeful.
 

@@ -17,7 +17,7 @@ Brendan describes the meaning crisis as a collective existential crisis related 
 
 ## The Conversation
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PfRFOJWZ5j0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+https://youtu.be/PfRFOJWZ5j0
 
 
 Reductionism has influenced the way people make sense of their experiences and reality, particularly in the context of mechanistic science and industrialization. 

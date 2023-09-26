@@ -16,7 +16,7 @@ image: /assets/images/the-second-renaissance-sylvie-barbier.png
 
 ## The Presentation
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dg_cG4AqIHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+https://youtu.be/dg_cG4AqIHI
 In this conversation, we speak with Sylvie Barbier. Sylvie is a performance artist and the co-founder of Life Itself. With a unique blend of Taiwanese and French heritage, Sylvie embarked on a deeply introspective journey, sharing her personal quest for self-discovery and understanding. This conversation is an introduction to her book which is in the works under the theme “Second Renaissance.”
 
 ### About the book

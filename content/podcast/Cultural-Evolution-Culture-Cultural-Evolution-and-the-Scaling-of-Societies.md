@@ -11,7 +11,7 @@ In this episode the significance of family structures and the church takes cente
 
 This conversation forms part of the Cultural Evolution: A New Discipline is Born Series.
 ### YouTube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bcTeQOYI97U?si=wUMC9spHf4t37boR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+https://youtu.be/bcTeQOYI97U?si=wUMC9spHf4t37boR
 
 ### Listen here 
 <iframe src="https://podcasters.spotify.com/pod/show/life-itself/embed/episodes/Joseph-Henrich-and-Cultural-Evolution-Culture--Cultural-Evolution-and-the-Scaling-of-Societies-Episode-3-e28g2ul" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>

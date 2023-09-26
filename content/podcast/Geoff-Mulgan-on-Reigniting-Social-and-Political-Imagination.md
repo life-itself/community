@@ -10,7 +10,7 @@ In episode 6 of our Exploring Social Transformation series, Theo Cox is joined b
 
 ## The Conversation
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LpQ9DWHNjdY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+https://youtu.be/LpQ9DWHNjdY
 
 In this episode Geoff and Theo explore why social and political imagination is important, why there is a deficit in social imagination in today's society, and what we can do about this.
 

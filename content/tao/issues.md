@@ -9,7 +9,7 @@ We create issues for most tasks we are working on. The following provides the pa
 
 Both these points apply not only to issue creating but also updating and closing: will you remember in 3 months why you closed that issue and how? If you take over a task from an unavailable team mate can you quickly understand what they completed and where that work is?
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/F-FOb7eZIkE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://youtu.be/F-FOb7eZIkE
 
 ## Creating Issues 
 
