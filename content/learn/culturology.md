@@ -5,7 +5,7 @@ authors:
   - lauren-wigmore
 image: /assets/images/culturology-series-banner.jpg
 ---
-> Through understanding what has and what continues to shape our culture, we can actively choose to create a wiser one.
+> Through understanding what has and what continues to shape our culture we can actively choose to create a wiser one.
 
 At Life Itself, we understand the complexities and intricacies that shape our worlds, from our individual choices, to our wider societal models. By diving deeper into Culturology, we can gain a greater understanding of humanities development, plight, and potential. This ultimately paves the way for us to take aligned action that works to cultivate healthier societies and the paradigm shift so desperately needed. 
 
