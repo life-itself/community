@@ -11,7 +11,7 @@ In this episode, Jeffery discusses Persistent Non-Symbolic Experience, more comm
 
 [YouTube](https://youtu.be/0l_jrk0HTVY)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0l_jrk0HTVY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+https://youtu.be/0l_jrk0HTVY
 
 [Spotify](https://spotifyanchor-web.app.link/e/c34gB9Bb8yb)
 

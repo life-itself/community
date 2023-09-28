@@ -16,7 +16,7 @@ As Liam points out in the talk, 'Relative truths are the kinds of truths that we
 
 More information on the Collaborative Citizen Science Residency can be found here:[Contemplative Citizen Science, September 2023 (lifeitself.org)](https://lifeitself.org/programs/2023/contemplative-citizen-science) 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djDI761-NzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+https://youtu.be/djDI761-NzM
 
 
 >Marc Santolini is a research fellow at the Learning Planet Institute (Université Paris Cité), Co-director of Life Itself Research and co-founder of the Life Itself Praxis Hub. With a background in network science and epistemology, his work focuses on innovation, collaboration, and learning within open and citizen science communities. As a core resident of the Praxis Hub, Marc investigates how collective practices impact relational well-being and foster group self-regulatory processes. 

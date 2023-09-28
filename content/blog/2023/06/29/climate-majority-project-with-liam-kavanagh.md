@@ -14,7 +14,7 @@ In this conversation Liam Kavanagh presents the Climate Majority Project, a UK-b
 
 ## The Conversation
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HeIDW_7uCNs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+https://youtu.be/HeIDW_7uCNs
 
 Traditional activism is not fully engaging the population, so the Climate Majority Project aims to create a space for those who want to act differently, with the same urgency as Extinction Rebellion but without the aggressive cultural tone. 
 

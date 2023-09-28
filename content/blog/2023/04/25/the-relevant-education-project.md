@@ -14,7 +14,7 @@ The concept of the Revelavnt Education Project takes into account three predicat
 
 ## The Presentation
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P0ZL-lFyXoc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+https://youtu.be/P0ZL-lFyXoc
 
 The Relevant Education Project is about enabling people to participate in a sensible conversation in order to figure out what an individual’s role might be. This project is aimed at everyone from the age of 16 years to 116 years, and a particular focus is placed on making it accessible to the 16 years old as they are going to be the generation in the roles of authority in 25 years' time. 
 

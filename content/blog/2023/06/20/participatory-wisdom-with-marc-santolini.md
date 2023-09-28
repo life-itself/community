@@ -14,7 +14,7 @@ In this discussion, lead by systems scientist and Life Itself Praxis Hub co-foun
 
 ## The Conversation
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VEh5L9tkJkw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+https://youtu.be/VEh5L9tkJkw
 
 Marc emphasizes the importance of participation and inclusion of stakeholders in order to achieve sustainable development goals and enable collaborative action. The role of contemplative practices in increasing relational well-being, both in terms of self-relationships and relationships with others and the world is important to research to provide better frameworks for this to occur. 
 

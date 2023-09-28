@@ -41,19 +41,19 @@ We are left contemplating where do we go from here, as we discover the potential
 
 #### Episode 1 Joseph Henrich and the Emergence of a (Rigorous) Culturology
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vYzOr7l-U20?si=dM2SjoZVEIrfLWjh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+https://youtu.be/vYzOr7l-U20?si=dM2SjoZVEIrfLWjh
 
 #### Episode 2 Professor Joseph Henrich on Homo Sapiens: The Cultural Species
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gS_lpJnlCh0?si=hUht3UBPDyVmLpjc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+https://youtu.be/gS_lpJnlCh0?si=hUht3UBPDyVmLpjc
 
 #### Episode 3 Joseph Henrich and Cultural Evolution: Culture, Cultural Evolution and the Scaling of Societies
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bcTeQOYI97U?si=wUMC9spHf4t37boR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+https://youtu.be/bcTeQOYI97U?si=wUMC9spHf4t37boR
 
 #### Episode 4 Joseph Henrich and Cultural Evolution: Implications and What's Next
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Ye_9Q-VpG3s?si=SkwygFM-UK1LJO1v" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+https://youtu.be/Ye_9Q-VpG3s?si=SkwygFM-UK1LJO1v
 
 ## About Joseph
 

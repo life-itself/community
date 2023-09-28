@@ -10,7 +10,7 @@ In episode 5 of our Exploring Social Transformation series, Theo Cox is joined b
 
 ## The Conversation
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NPYArp-hhsM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+https://youtu.be/NPYArp-hhsM
 
 Learn more: 
 

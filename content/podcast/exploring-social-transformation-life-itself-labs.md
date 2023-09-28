@@ -10,6 +10,6 @@ We are excited to be broadening the scope of the Life Itself podcast to encompas
 
 ## The Conversation
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qh6bjLmtzzo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+https://youtu.be/qh6bjLmtzzo
 
 To learn more about Life Itself Labs visit https://labs.lifeitself.us/
