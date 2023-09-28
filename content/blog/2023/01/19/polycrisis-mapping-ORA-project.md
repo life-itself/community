@@ -2,7 +2,7 @@
 title: "Mapping the Polycrisis: A new project supported by ORA and in collaboration with Cascade Institute, Post Carbon Institute & Polycrisis Transition Consultancy"
 created: 2023-01-19
 authors: 
-  - rufus-pollock
+  - rufuspollock
 categories: 
   - life-itself-research
 image: /assets/images/Blog-Feature-Images-16.jpg
