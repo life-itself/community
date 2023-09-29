@@ -11,7 +11,7 @@ image: /assets/images/Community Call-Boaz-Feldman.jpg
 
 **This community call will take place on October 26th at 19:30 CET**
 
-**[REGISTER HERE](Meeting Registration - Zoom](https://us02web.zoom.us/meeting/register/tZIlce2ppz4rHdJt3uuwCXFzbnpXjM5eG7iV#/registration)**
+**[REGISTER HERE](https://us02web.zoom.us/meeting/register/tZIlce2ppz4rHdJt3uuwCXFzbnpXjM5eG7iV#/registration)**
 
 ## The conversation
 
