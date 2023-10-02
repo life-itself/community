@@ -5,7 +5,7 @@ authors:
   - valerie
 categories:
   - hubs
-image: assets/images/tenzo-note-10.jpg
+image: /assets/images/tenzo-note-10.jpg
 ---
 In this note, Valerie shares her reflections on contemplation as an existential reality. 
 
