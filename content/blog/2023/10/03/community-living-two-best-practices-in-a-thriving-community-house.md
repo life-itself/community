@@ -5,7 +5,7 @@ authors:
   - lauren-wigmore
 categories:
   - community-call
-image: /assets/images/myka-community-call
+image: /assets/images/myka-community-call.jpg
 ---
 [Register here for the call](https://us02web.zoom.us/meeting/register/tZcvfuiqqDMvHtzWLer6VmU0OnjFM-0isyMP#/registration)
 
