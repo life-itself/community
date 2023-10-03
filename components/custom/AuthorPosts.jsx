@@ -1,5 +1,5 @@
 import { useState } from "react";
-import allBlogs from "../../.contentlayer/generated/Blog/_index.json";
+import { allBlogs } from "contentlayer/generated";
 import { formatDate } from "@/lib/formatDate.js";
 
 const BLOGS_LOAD_COUNT = 6
@@ -11,9 +11,13 @@ export function AuthorPosts({ id, name }) {
     setPostsCount((prevCount) => prevCount + BLOGS_LOAD_COUNT);
   };
 
-  const authorPosts = allBlogs.filter(post => post.authors.includes(id))
-    .sort((a,b) => new Date(b.created) - new Date(a.created))
-  
+  const authorPosts = allBlogs.filter((post) => {
+    // TODO shouldn't authors be required?
+    if (!post.authors) return false
+    return post.authors.includes(id)
+  })
+    .sort((a, b) => new Date(b.created) - new Date(a.created))
+
   return (
     <>
       <div>
@@ -23,7 +27,7 @@ export function AuthorPosts({ id, name }) {
         {authorPosts && authorPosts.slice(0, postsCount).map(post => (
           <li key={post._id} className="flex flex-col overflow-hidden rounded-lg shadow-lg p-0">
             <div className="flex-shrink-0 m-0">
-             {post.image 
+              {post.image
                 ? <img className="h-48 w-full object-cover m-0" src={post.image} alt="" />
                 : <span className="flex h-48 w-full bg-gray-200" />
               }

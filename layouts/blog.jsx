@@ -105,16 +105,18 @@ export default function BlogLayout({ children, frontMatter }) {
         <div className="flex items-stretch gap-x-3 text-sm text-primary/75">
           {/* AUTHORS, DATE, READING TIME */}
           <div className="flex flex-wrap items-center shrink gap-3">
-            <div className="flex items-center gap-x-3">
-              {authorsDetails.map(({ name, avatar, isDraft, url_path }) => (
-                <Avatar
-                  key={url_path}
-                  name={name}
-                  img={avatar}
-                  href={url_path && !isDraft ? `/${url_path}` : undefined}
-                />
-              ))}
-            </div>
+            {authorsDetails.length > 0 &&
+              (<div className="flex items-center gap-x-3">
+                {authorsDetails.map(({ name, avatar, isDraft, url_path }) => (
+                  <Avatar
+                    key={url_path}
+                    name={name}
+                    img={avatar}
+                    href={url_path && !isDraft ? `/${url_path}` : undefined}
+                  />
+                ))}
+              </div>)
+            }
             <div className="flex items-center gap-x-3">
               <time dateTime={created}>{formatDate(created)}</time>
               <span className="text-md">·</span>
