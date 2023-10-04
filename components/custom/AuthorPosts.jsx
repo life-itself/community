@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { allBlogs } from "contentlayer/generated";
+import allBlogs from "../../.contentlayer/generated/Blog/_index.json";
 import { formatDate } from "@/lib/formatDate.js";
 
 const BLOGS_LOAD_COUNT = 6
