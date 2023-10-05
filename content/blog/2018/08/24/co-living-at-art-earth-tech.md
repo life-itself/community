@@ -1,18 +1,16 @@
 ---
-title: "Co-Living at Art / Earth / Tech"
+title: Coliving Strategy for Art / Earth / Tech
 created: 2018-08-24
-categories: 
+categories:
   - hubs
   - life-itself
-tags: 
+tags:
   - co-x
   - coliving
   - hubs
-authors: 
+authors:
   - rufuspollock
 ---
-
-![](https://lh6.googleusercontent.com/KIqyc8SX134V7LXnsF5yzP1ksSKC9FKVZF-URssi-sAnSyx_W1gKrl1ivEYJKYiv7oHfdfVCm90YOXfrq1VXMCuyj65Yh2DJMYAn-AVtcpTAeInpx9AZLPMJOgtsAya36cAcbmKB=s0)
 
 # Summary
 
@@ -24,95 +22,46 @@ We propose to develop co-living at AET using three complementary models:
 - **Co-ownership and Co-op** – for permanent communities where AET is the primary creator and developer of the space
 - **Residency** – where community members (and others) stay in spaces on a temporary basis (e.g. 2 days to 1 year)
 
-The “Lakes and Stream”: Permanent Hubs (“Lakes”) are connected, expanded, and enriched by Residency “Streams”
+![[../../../../excalidraw/coliving-lakes-and-streams-2018.excalidraw.svg]]
 
-[**Summary** **2**](https://docs.google.com/document/d/1QoH-ckJF80SlO9M-wYqo84eZRVGBSxAtA8YBYq114dA/edit#heading=h.orq2t5qls23a)
+*The "Lakes and Stream": Permanent Hubs ("Lakes") are connected, expanded, and enriched by Residency "Streams"*
 
-[**What is our interest in co-living?** **5**](https://docs.google.com/document/d/1QoH-ckJF80SlO9M-wYqo84eZRVGBSxAtA8YBYq114dA/edit#heading=h.kd6rvpbcdnya)
-
-[What have we done to address this situation? 6](https://docs.google.com/document/d/1QoH-ckJF80SlO9M-wYqo84eZRVGBSxAtA8YBYq114dA/edit#heading=h.boed1h38m2i2)
-
-[Fig 1: Communities as Lakes and Streams 7](https://docs.google.com/document/d/1QoH-ckJF80SlO9M-wYqo84eZRVGBSxAtA8YBYq114dA/edit#heading=h.dfh9ogdcgdf1)
-
-[**The Co-governance model in La Cheraille** **7**](https://docs.google.com/document/d/1QoH-ckJF80SlO9M-wYqo84eZRVGBSxAtA8YBYq114dA/edit#heading=h.grs7t7gzpvnr)
-
-[Next steps for La Cheraille 9](https://docs.google.com/document/d/1QoH-ckJF80SlO9M-wYqo84eZRVGBSxAtA8YBYq114dA/edit#heading=h.y8xcg47uhr86)
-
-[French Translation of the Co-governance model in La Cheraille 10](https://docs.google.com/document/d/1QoH-ckJF80SlO9M-wYqo84eZRVGBSxAtA8YBYq114dA/edit#heading=h.w4l8ymo5y1ty)
-
-[Prochaines étapes pour La Cheraille 12](https://docs.google.com/document/d/1QoH-ckJF80SlO9M-wYqo84eZRVGBSxAtA8YBYq114dA/edit#heading=h.k37e5obt0qiv)
-
-[**AET & Co-ownership + Co-ops** **12**](https://docs.google.com/document/d/1QoH-ckJF80SlO9M-wYqo84eZRVGBSxAtA8YBYq114dA/edit#heading=h.yo3sh7ps2pv1)
-
-[Fig 2: Co-ownership + Co-op model 13](https://docs.google.com/document/d/1QoH-ckJF80SlO9M-wYqo84eZRVGBSxAtA8YBYq114dA/edit#heading=h.2eymw098x2rq)
-
-[Structure 15](https://docs.google.com/document/d/1QoH-ckJF80SlO9M-wYqo84eZRVGBSxAtA8YBYq114dA/edit#heading=h.bpo09dmki8pe)
-
-[The Real Estate Ltd 15](https://docs.google.com/document/d/1QoH-ckJF80SlO9M-wYqo84eZRVGBSxAtA8YBYq114dA/edit#heading=h.n4uvb68qx8nf)
-
-[The Co-op 16](https://docs.google.com/document/d/1QoH-ckJF80SlO9M-wYqo84eZRVGBSxAtA8YBYq114dA/edit#heading=h.8v08keagljua)
-
-[The Residents 16](https://docs.google.com/document/d/1QoH-ckJF80SlO9M-wYqo84eZRVGBSxAtA8YBYq114dA/edit#heading=h.nyd0x36ekitw)
-
-[Next steps for Co-ownership 17](https://docs.google.com/document/d/1QoH-ckJF80SlO9M-wYqo84eZRVGBSxAtA8YBYq114dA/edit#heading=h.cel36jtlikbc)
-
-[**Residency model** **18**](https://docs.google.com/document/d/1QoH-ckJF80SlO9M-wYqo84eZRVGBSxAtA8YBYq114dA/edit#heading=h.c3py8mlwgacl)
-
-[Management and structure 18](https://docs.google.com/document/d/1QoH-ckJF80SlO9M-wYqo84eZRVGBSxAtA8YBYq114dA/edit#heading=h.hgu4g8cx69er)
-
-[Costing 18](https://docs.google.com/document/d/1QoH-ckJF80SlO9M-wYqo84eZRVGBSxAtA8YBYq114dA/edit#heading=h.v5f0iaf0ez7v)
-
-[Harmonious and manageable 19](https://docs.google.com/document/d/1QoH-ckJF80SlO9M-wYqo84eZRVGBSxAtA8YBYq114dA/edit#heading=h.pjc8g7qqqffg)
-
-[Appendix: Research on AirBnB prices in London 20](https://docs.google.com/document/d/1QoH-ckJF80SlO9M-wYqo84eZRVGBSxAtA8YBYq114dA/edit#heading=h.34mqm3om36j6)
-
-[Next steps 20](https://docs.google.com/document/d/1QoH-ckJF80SlO9M-wYqo84eZRVGBSxAtA8YBYq114dA/edit#heading=h.wksge613iztd)
-
-[**Appendix: Community space property features** **21**](https://docs.google.com/document/d/1QoH-ckJF80SlO9M-wYqo84eZRVGBSxAtA8YBYq114dA/edit#heading=h.8wlk1xo9d6x3)
-
-[**Appendix: FAQs of Co-ownership + Co-ops model** **22**](https://docs.google.com/document/d/1QoH-ckJF80SlO9M-wYqo84eZRVGBSxAtA8YBYq114dA/edit#heading=h.b6qymmsku20r)
-
-[**Appendix: SCQH** **24**](https://docs.google.com/document/d/1QoH-ckJF80SlO9M-wYqo84eZRVGBSxAtA8YBYq114dA/edit#heading=h.hmvq2mg7hs32)
-
-[SCQH 24](https://docs.google.com/document/d/1QoH-ckJF80SlO9M-wYqo84eZRVGBSxAtA8YBYq114dA/edit#heading=h.m52ow6rkq7yt)
-
-[Issue Tree 25](https://docs.google.com/document/d/1QoH-ckJF80SlO9M-wYqo84eZRVGBSxAtA8YBYq114dA/edit#heading=h.aeo0ixq1shgh)
-
-[**Appendix: SCQH Background** **26**](https://docs.google.com/document/d/1QoH-ckJF80SlO9M-wYqo84eZRVGBSxAtA8YBYq114dA/edit#heading=h.q7sfyrh4667x)
-
-[What we don’t have now 26](https://docs.google.com/document/d/1QoH-ckJF80SlO9M-wYqo84eZRVGBSxAtA8YBYq114dA/edit#heading=h.ly0wc177doj5)
-
-[What have we done to address this situation? 26](https://docs.google.com/document/d/1QoH-ckJF80SlO9M-wYqo84eZRVGBSxAtA8YBYq114dA/edit#heading=h.6s5yatgo2mv3)
-
-[**La Cheraille co-governance model - French version** **27**](https://docs.google.com/document/d/1QoH-ckJF80SlO9M-wYqo84eZRVGBSxAtA8YBYq114dA/edit#heading=h.7dic28clt3v7)
-
+## Table of Contents
 # What is our interest in co-living?
 
-Co-living is part of AET’s mission because it is a vessel and reification of our big vision.  Co-living  is a path to strengthening our community and synergistic in transforming the self and our society through the fostering of a shared culture. It also helps us maintain and live our values and transmit them in our daily life. It is a way to demonstrate that an different path is possible.
+Co-living is part of AET’s mission because it is both a vessel and reification of our big vision. First as vessel, coliving  is a path to strengthening our community and synergistic in transforming the self and our society through the fostering of a shared culture. It also helps us maintain and live our values and transmit them in our daily life. It is a way to demonstrate that an different path is possible.
 
 We believe that co-living is essential for sustaining our community both philosophically and materially. Living / working with people with whom we share vision, values and mission nourishes our humanity and stimulates our creativity. Connection to the meaning of life and to other human beings is a deep good. Although there are challenges in co-living with others, we believe that it is also how we develop the most as human beings as it will often require us to overcome our ego and fears. Our vision of co-living will also involve profound commitment to something bigger than ourselves and fostering courage, love, trust and vulnerability as part of this commitment. 
 
 Finally, co-living allows for economies of scale. As a co-living community, we can create shared spaces that breathe beauty and wellness, and create a lifestyle that otherwise would often be unaffordable.
 
-What is the current state of affairs?
+## What is the current state of affairs?
 
-At present, there are  4-6 members of AET who are committed to long term coliving as well as a much broader set of people interested on shorter term basis. 3 members of the community are already living more permanently in the London Hub (owned by Rufus and Catalina and leased to Art Earth Tech) and 3 members of the community are already living more permanently in La Cheraille (owned by the Godefroy and rented directly to community members on a case by case basis).
+At present, there are  4-6 members of AET who are committed to long term coliving as well as a much broader set of people interested on shorter term basis. 3 members of the community are already living more permanently in the London Hub and 3 members of the community are already living more permanently in La Cheraille (rented directly to community members on a case by case basis).
 
-However,  we had not agreed on the specific arrangements that the actual people involved would prefer, so we can’t communicate opportunities to other potential community members and we can’t co-live in a stable way that could grow.
+## What we don't have now
+
+We don't have a big enough property where the AET nucleus can start put down roots. There are details of the specific arrangement that the actual people involved would prefer, so we can’t communicate opportunities to other potential community members or owners/investors of spaces.
+
+As a result,  we aren’t co-living in a stable way that could grow. The London Hub is too small to expand and even though there is space for growth at La Cheraille, Art Earth Tech does not have the sort of formal long-term agreements or understandings here  that would allow community members long-term security. The current situation limits our ability to grow our co-living community and for our community to feel a sense of home.
+
+In summary: we have not agreed on the specific arrangements so we can’t communicate opportunities to other potential community members and we can’t co-live in a stable way that could grow.
 
 ## What have we done to address this situation?
 
 We have worked on three different co-living models and as well as the immediate next steps so that we can have certainty and clarity to establish a growing coliving community within A/E/T. The three models are:
 
 1. The co-governance model (in La Cheraille)
-2. The co-ownership model (in tbd)
+2. The co-ownership model (in new property to be acquired)
 3. The timeshare model (in London Hub). 
 
 The motivation behind the co-ownership and co-governance model is to provide a more permanent sense of home, security and agency to residents, owners and investors so that the AET community can flourish both philosophically and materially. 
 
 The motivation behind the timeshare model is to allow community members to travel, and to have access to urban and rural nodes, and to stay in places that are not their permanent address while feeling a sense of home. 
 
-To use the metaphor of a river and a lake, we want a lake to allow for stability and growth but we also want a river passing through the lake so that the community does not become insular, and is continuously being revitalised and energised. 
+To use the metaphor of a river and a lake, we want a lake to allow for stability and growth but we also want a river passing through the lake so that the community does not become insular, and is continuously being revitalised and energised.
+
+![[../../../../excalidraw/coliving-lakes-and-streams-2018.excalidraw.svg]]
 
 ### Fig 1: Communities as Lakes and Streams 
 
@@ -130,7 +79,6 @@ AET would request that:
     -  A new space available in La Cheraille 
     -  A plan to renovate an existing space_(eg: how to design the rooms for the new wedding room so it can also be used by AET during the low season and so that the rooms can be potentially repurposed in the long term for other use of the community)._
 - AET Ltd would also like the ability to rent spaces that are not used/not yet renovated and to be able to invest in these spaces, meaning that there would be a preferential/ deducted rent over a defined period of time. Of course, the Godefroy will have a say and veto over how the space is designed and done and what type of activity will take place. ( _eg:  AET invest 48.000 euros in creating a co-working space in the barn, instead of paying a rent of 800 euros a month, AET pays 400 euros a month over 10 years.)_
-- \[New\] AET would have the right of first refusal should the Godefroy family wish to sell.
 
 In exchange, AET will commit to deep collaboration with the Godefroy and with the La Cheraille community. This means that: 
 
@@ -148,43 +96,6 @@ At the current moment (1 September 2018) AET has discussed with Christophe the p
 - Having regular conversation about AET’s needs.
 - That the Godefroy family will be always consulted and has a veto right  if AET where to do some renovation work or bring new residents. 
 
-### French Translation of the Co-governance model in La Cheraille
-
-Le modèle de co-gouvernance à La Cheraille est un moyen pour la communauté AET d’avoir une sécurité et une participation dans le Hamaux de La Cheraille avec lequel ils collaborent et investissent leur temps et émotion. Le but est d’etablir plus de synergies entre Cheraille et AET, afin que les espaces soient co-optimisés à la fois par les habitants de longue date de La Cheraille et les membres de AET et que les differents styles de vies soient  nourris d’une profonde collaboration entre tous les parties.
-
-À l'heure actuelle, 3 membres fondateurs / couples identifiés souhaitent vivre plus en permanence à La Cheraille. L’objectif sont:
-
-- D’atteindre une capacité d’au moins 6 unités à La Cheraille avec sécurité d’occupation. 
-- Que les membre de AET qui sont des résidents permanent de La Cheraille soient ensemble 2 mois de l'année et de passer un minimum de 4 mois dans le Hameaux ( il est probable que la plupart vivent à temps plein a La Cheraille). 
-
-La proposition d'AET à La Cheraille est la suivante.
-
-La requete de AET sont :
-
-- Les membres d'AET qui vivent en permanence aimeront avoir un contrat de location entre AET et La Cheraille sur les espaces utilisés par AET. sur les espaces que AET loue ses membres seront responsable de la gestion et décideront l'usage, sous réserve de consultation et de veto de la famille Godefroy.
-- Les membres de l'AET qui résident en permanence à La Cheraille sont consultés en premier lieu lorsque le Godefroy prend des décisions ou investit dans:
-    -  Un nouveau résident venant s'installer à La Cheraille
-    -  Un nouvel espace disponible à La Cheraille
-    -  Un projet de rénovation d’un espace existant (par exemple: comment concevoir les chambres de la nouvelle salle de mariage de manière à ce qu’elles puissent également être utilisées par AET pendant la basse saison et de telle sorte que les salles puissent être ré-utilisées à long terme pour un autre usage de la salle de mariage, etc. communauté).
-- AET Ltd souhaiterait également pouvoir louer des espaces inutilisés / non encore rénovés et pouvoir y investir, ce qui signifie qu'il y aurait un loyer préférentiel / déduit sur une période définie. Bien entendu, les Godefroy auront leur mot à dire et son veto sur la conception et la réalisation de l'espace et sur le type d'activité qui se déroulera. (Par exemple: AET investit 48 000 euros dans la création d'un espace de travail collaboratif dans la grange, au lieu de payer un loyer de 800 euros par mois, AET verse 400 euros par mois sur 10 ans.)
-- \[Nouveau\] AET aurait le droit de premier d’achat si la famille Godefroy souhaitait vendre.
-
-En échange, AET s’engagera à collaborer étroitement avec le Godefroy et la communauté de La Cheraille. Cela signifie que:
-
-- Les résidents membres de l'AET apprendront et contribueront à l'entretien des jardins partagés qui sont un centre de la culture de La Cheraille (par exemple: planter des arbres, 1 heure minimum par semaine par personne lorsque le jardin résident permanent collabore avec Christophe)
-- Les membres de l'AET et les résidents contribueront au nettoyage des espaces communs utilisés (espaces de coworking à la Ferme Auberge par exemple)
-- Les membres de l'AET et les résidents apporteront vie et activités à la Cheraille (par exemple: rassemblement, école, retraites d'entreprise et autres…)
-- AET organisera une réunion mensuelle régulière avec la Cheraille pour discuter des intérêts et des préoccupations mutuelles.
-
-#### Prochaines étapes pour La Cheraille
-
-A l'heure actuelle (1er septembre 2018), AET a discuté avec Christophe de la possibilité de:
-
-- Disposer d'un contrat de location entre La Cheraille et AET pour les espaces qu'elle utiliserait de manière plus permanente.
-- Avoir une communication plus régulière sur les futurs habitants de La Cheraille et le processus de décision dans l'aménagement et la rénovation de l'espace
-- Avoir une conversation régulière sur les besoins d’AET.
-- Que la famille Godefroy soit toujours consultée et dispose d'un droit de veto si AET doit effectuer des travaux de rénovation ou amener de nouveaux résidents.
-
 # AET & Co-ownership + Co-ops
 
 The AET Co-ownership + Co-ops model is specifically designed to address the desire:
@@ -192,9 +103,10 @@ The AET Co-ownership + Co-ops model is specifically designed to address the desi
 - For members of AET to live in a community with social and economic security – for example, through a combination of security of tenure, pre-determined rents, economic ownership stake etc.
 - To attract investments to create and develop these spaces
 
-![](https://lh5.googleusercontent.com/nisizHdE3TL-YjSLdSVXMDHoq_SU2V5iCJG_5MjOnb67OPUNTep3AMg-kl1GxNhiJuzvfV-k6bIRxbKwgRAnl825j4G30Q2I53XfRY0QoUr_4iiRMnKfLLW4YxKnBxssNBpWSWna=s0)
-
+![[../../../../assets/images/coliving-aet-ltd-coop-goverance-ownership-model-2017.jpg]]
 ### Fig 2: Co-ownership + Co-op model
+
+### Coliving and investment model
 
 Below is a fuller description of a co-living & investment model. Some key features (with intentions these related to in brackets):
 
@@ -304,24 +216,20 @@ For London
 - Minimum stay (if one-off) of 2 weeks
 - Minimum subscription of 7 nights
 
-For La Cheraille
-
-- Ditto
+For La Cheraille: Ditto
 
 ## Appendix: Research on AirBnB prices in London
 
-![](https://lh5.googleusercontent.com/GJevkU-W0YflWRLZoFudYjMNZ9dKRIjsWTjAY5Vr6SIBr5S2AuP89OlrYEZALgc2kG40vswilKMFT4rOMvNyClSC3KuteH_MA7COInc_exuzZ_jileGWcVI2sX3-K12_suL8nlo6=s0)
-
 Looking around we estimate for our area the average price for a private room is around £50-75 per night.
-
 ## Next steps 
 
 - A timeshare model will be developed for the ferme auberge apartments at la Cheraille. 
 - Questions to answer:
     - Who gets to set the overall rules? Ans: the community running the hub.
     - How to manage overbooking? Have some kind of overflow e.g. couch at London Hub
-    - How to deal with booking / allocation? Trial a spreadsheet and see how it goes.  
-        
+    - How to deal with booking / allocation? Trial a spreadsheet and see how it goes.   
+
+---
 
 # Appendix: Community space property features
 
@@ -331,26 +239,70 @@ Relevant for both La Cheraille and the Co-ownership model
 
 # Appendix: FAQs of Co-ownership + Co-ops model 
 
-- Who “legally” owns the space?  
-    **There is a LTD company that owns the space legally.**
-- How does space rental get (re)set?  
-    Through an **initial agreement between a cooperative entity and the Ltd. Company, reviewed every X years, and set with** **_some_** **relation to average rents.**
-- What options are there for coop members to get long-term economic security and certainty? **They can buy partial ownership in economic sense by buying shares in the LTD. We can also provide a kind of “rent insurance” \[3 items: security of tenure; long-term certainty on rent level (rent control); ability to pass this to kids; transferable rents\]**
-- Can community members transfer their membership (and rental agreement) to children (or others)? **Yes to their children but not to others \[and even for children subject to children agreement with community guidelines and subject to veto by community, if veto children will receive a form of compensation that will not jeopardize the future of the community.** 
-- How do community members have a sense of “home” and a sense of security and freedom? **Community members have security within coop (after a certain period) and coop has long-term security of tenure (coop can’t be can kicked out of the space). Rent control exists qv.**
-- How do investors get their money out / sell shares? **Price capped of average market rate for the area over the last 3-5 years. 1st offer to community members; 2nd to other shareholders; 3rd to anyone.**
-- Can the LTD sell the space? **Only if the Community members agree OR the Community members (Coop) is in default for more than X time (2y)**
-- What happens if some community members stop paying rent? **Those people leave the coop \[also require deposit\] unless other community members cover their rent \[via Coop\]. The Coop can set a rental insurance for its members in addition to rent.** 
-- What happens if the Coop fails to pay rent? **Coop can be mandated to leave property if:**
-    - **More than 60% of rent is overdue by 5 months**
-    - **More than 75% of rent is overdue by 1 year**
-    - **More than 90% of rent is overdue by 2 years**
-- Who pays for utilities and day to day upkeep? **The Coop (i.e. community members)**
-- Who can decide about changes in the space e.g. painting the walls? **Community decides.**
-- Who pays for major repairs? **The LTD (by default) but may be similar to major capital improvements at some point.**
-- Who pays and decides on major capital improvements (e.g. a swimming pool) or new buildings? **The community can decide \[by consensus\] but investment happens through the LTD and the LTD shareholders have a veto with majority of shareholders \[default is that it is ok\] (?)**
-- Do we have to have a coop? **No, esp if small number of residents, then could have a direct relationship with LTD.**
-- Can community members also be shareholders in the LTD? **Yes, absolutely. But shareholding does not confer any special status.**
+### Who “legally” owns the space?
+
+There is a LTD company that owns the space legally.
+### How does space rental get (re)set?
+
+Through an **initial agreement between a cooperative entity and the Ltd. Company, reviewed every X years, and set with** **_some_** **relation to average rents.**
+
+### What options are there for coop members to get long-term economic security and certainty?
+
+They can buy partial ownership in economic sense by buying shares in the LTD. We can also provide a kind of “rent insurance”
+
+3 items of concern: security of tenure; long-term certainty on rent level (rent control); ability to pass this to kids; transferable right to rent
+
+### Can community members transfer their membership (and rental agreement) to children (or others)?
+
+**Yes to their children but not to others (and even for children subject to children agreement with community guidelines and subject to veto by community, if veto children will receive a form of compensation that will not jeopardize the future of the community.)
+
+### How do community members have a sense of “home” and a sense of security and freedom?
+
+Community members have security within coop (after a certain period) and coop has long-term security of tenure (coop can’t be can kicked out of the space). Rent control exists qv.
+
+### How do investors get their money out / sell shares?
+
+**Price capped of average market rate for the area over the last 3-5 years. 1st offer to community members; 2nd to other shareholders; 3rd to anyone.**
+
+### Can the LTD sell the space?
+
+**Only if the Community members agree OR the Community members (Coop) is in default for more than X time (2y)**
+
+### What happens if some community members stop paying rent
+
+Those people leave the coop unless other community members cover their rent (via Coop). The Coop can set a rental insurance for its members in addition to rent.
+
+### What happens if the Coop fails to pay rent?
+
+**Coop can be mandated to leave property if:**
+
+- **More than 60% of rent is overdue by 5 months**
+- **More than 75% of rent is overdue by 1 year**
+- **More than 90% of rent is overdue by 2 years**
+
+### Who pays for utilities and day to day upkeep?
+
+**The Coop (i.e. community members)**
+
+### Who can decide about changes in the space e.g. painting the walls?
+
+**Community decides.**
+
+### Who pays for major repairs?
+
+**The LTD (by default) but may be similar to major capital improvements at some point.**
+
+### Who pays and decides on major capital improvements (e.g. a swimming pool) or new buildings?
+
+The community can decide (by consensus?) but investment happens through the LTD and the LTD shareholders have a veto with majority of shareholders -- (default is that it is ok (?))
+
+### Do we have to have a coop?
+
+No, esp if small number of residents, then could have a direct relationship with LTD.
+
+### Can community members also be shareholders in the LTD?
+
+Yes, absolutely. But shareholding does not confer any special status.
 
 # Appendix: SCQH
 
@@ -366,9 +318,9 @@ _Question: What ownership model, what gating and governance process, what locati
 
 ## Issue Tree
 
-https://coggle.it/diagram/W4PCA-GhIkjCf\_Tx/t/coliving-what-is-the-ownership-at-least-y-time-there-tbd
+https://coggle.it/diagram/W4PCA-GhIkjCf_Tx/t/coliving-what-is-the-ownership-at-least-y-time-there-tbd
 
-![](https://lh4.googleusercontent.com/CyCczF2_Za5_YuyZiuPPlrIj6x5MHHiDW40iwh47Xlq92uMvKHpPtmoplXmr5ya0FgPKkG-zFfyqmEXqV5j0A7K0fTW5UnFpWKa6E8vwdxbmCVv74fi5eFv8zFAciljj2JsmTJh4=s0)
+![[../../../../assets/images/coliving-at-aet-issue-tree-2018.png]]
 
 # Appendix: SCQH Background
 
@@ -381,39 +333,3 @@ As a result,  we aren’t co-living in a stable way that could grow. The London
 ### What have we done to address this situation?
 
 We have worked on an ownership model, gating and governance process, location criteria, contribution expectations and immediate next steps so that we can have certainty and clarity to establish a coliving community with at least 3 identified founding members/couples and capacity of at least 6-10 units with security of tenure and where the members are co-resident for at least 2 months of the year all together and 4 months in the location overall (at least for now) time (tbd.)
-
-# La Cheraille co-governance model - French version 
-
-**Introduction**
-
-Le modèle de co-gouvernance à La Cheraille est un moyen pour la communauté AET d’obtenir de la sécurité et de l’autonomie dans le hameau où ils investissent déjà leur temps et leur émotion. Le but est également de créer des synergies entre La Cheraille et AET pouvant profiter aux deux partis. 
-
-Actuellement, 3 membres fondateurs / couples identifiables sont intéressés à vivre de manière plus permanente à La Cheraille. Nous avons le souhait d'atteindre une capacité d'au moins 6 unités à La Cheraille avec sécurité d’occupation, et où les membres cohabitent au moins 2 mois par an, et sont au moins 4 mois au total à La Cheraille ( il est probable que la plupart vivent à plein temps).
-
- **La proposition de AET à La Cheraille est la suivante. AET demanderait que:**
-
-- Les membres de AET qui vivent en permanence à la Cheraille demandent de recevoir un contrat de location entre AET et La Cheraille pour les espaces qu’ils utilisent. Dans ces espaces, AET et ses membres décideront de l’utilisation des lieux, sous réserve d’un droit de veto par la famille Godefroy.
-
-- Les membres de AET qui vivent en permanence à La Cheraille sont consultés en premier lorsque les Godefroy prennent des décisions ou investissements concernant:  
-    \- Un nouveau résident venant vivre à La Cheraille  
-    \- Un nouvel espace disponible à La Cheraille
-
-- S’il y a un plan de rénovation d'un espace, AET peut etre consulté pour tenter de voir si l’espace peut également être rénové pour les besoins de AET (par exemple: comment concevoir les salles de mariage afin qu'elle puisse également être utilisée en basse saison par AET).
-
-- AET Ltd souhaite avoir  la possibilité de louer des espaces qui ne sont pas utilisés ou pas encore rénovés et de pouvoir investir dans ces espaces, ce qui signifie qu'il y aurait un loyer préférentiel / déduit sur une période de temps définie. Bien entendu, les Godefroy auront un droit de veto sur la rénovation de l’espace et sur le type d’activité qui se déroulera. (ex: AET investit 48 000 euros dans la création d'un espace de co-working dans la grange, au lieu de payer un loyer de 800 euros par mois, AET paie 400 euros par mois sur 10 ans.)
-
-**En échange, AET s’engagera à collaborer avec les Godefroy et la communauté de La Cheraille. Cela signifie que:**
-
-- Les membres adhérents de l'AET apprendront et contribueront à entretenir les jardins partagés qui sont un bien publique La Cheraille (ex: planter des arbres, 1h minimum par semaine pour jardiner avec Christophe)
-- Les membres et résidents de AET contribueront au nettoyage des espaces partagés qu'il utilisent (espaces de co-working dans la Ferme Auberge par exemple)
-- Les membres de AET et les résidents apporteront vie et activités à la Cheraille (ex: rassemblement, école, retraites d'entreprise et autres…)
-- AET organisera une réunion mensuelle régulière avec la Cheraille pour discuter des intérêts et des préoccupations mutuels.
-
-**Prochaines étapes pour La Cheraille**  
-
- A l'heure actuelle (1er septembre 2018), AET a discuté avec Christophe de la possibilité de:
-
-- Avoir un contrat de location entre La Cheraille et AET pour les espaces qu’il utiliserait de manière plus permanente.
-- Communiquer plus régulièrement sur les futurs résidents de La Cheraille et sur le processus de décision dans le développement et la rénovation de l'espace
-- Avoir des conversation régulières sur les besoins d’AET.
-- Que la famille Godefroy soit toujours consultée et dispose d'un droit de veto si AET peut faire des travaux de rénovation ou amener de nouveaux résidents.
