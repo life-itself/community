@@ -5,9 +5,8 @@ authors:
   - lauren-wigmore
 categories:
   - conscious-coliving
-image: "![[coliving-FAQs.jpg]]"
+image: /assets/images/coliving-FAQs.jpg
 ---
-
 
 ## 1. Is coliving suitable for introverts? 
 
