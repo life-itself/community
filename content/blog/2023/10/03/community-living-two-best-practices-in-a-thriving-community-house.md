@@ -21,4 +21,4 @@ In this Life Itself Community Call, Myka will share the wisdom she has learnt fr
 * Open discussion from attendees about best practices you are/have experienced that makes your community living projects thrive, so we can all share resources
 
 ## About Myka
-Myka McLaughlin founded Women In Community (WINC) twelve years ago to help artists, healers and creative types build profitable businesses that can transform their lives, their family's lives, as well as their community and our economy around the world. WINC has taught soulful business training to over 15,000 people, and has intimately worked with over 700 businesses. You can learn more about [Myka and WINC here](www.WomenInCommunity.com).
+Myka McLaughlin founded Women In Community (WINC) twelve years ago to help artists, healers and creative types build profitable businesses that can transform their lives, their family's lives, as well as their community and our economy around the world. WINC has taught soulful business training to over 15,000 people, and has intimately worked with over 700 businesses. You can learn more about [Myka and WINC here](https://womenincommunity.com/).
