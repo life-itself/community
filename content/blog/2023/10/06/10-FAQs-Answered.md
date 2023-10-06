@@ -5,7 +5,7 @@ authors:
   - lauren-wigmore
 categories:
   - conscious-coliving
-image: assets/images/Coliving-FAQs.jpg
+image: "![[coliving-FAQs.jpg]]"
 ---
 
 
@@ -69,6 +69,6 @@ Conscious coliving often prioritizes sustainability and eco-friendliness. Many c
 
 
 
-If you’re interested in learning more about conscious coliving, the benefits, the opportunities, the challenges and a whole wealth of other information, we invite you to sign up for our **[FREE Conscious Coliving email course]([https://lifeitself.org/conscious-coliving-course](https://lifeitself.org/conscious-coliving-course))**
+If you’re interested in learning more about conscious coliving, the benefits, the opportunities, the challenges and a whole wealth of other information, we invite you to sign up for our **[FREE Conscious Coliving email course]([https://lifeitself.org/conscious-coliving-course])**!
 	
   
