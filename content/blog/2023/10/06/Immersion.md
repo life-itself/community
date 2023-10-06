@@ -26,9 +26,7 @@ Another etymological cousin which helps unite the terms here is the word ‘merg
 
 While one provides the image of going ‘down’ or ‘plunging in’ (immersion), another  provides the image of something ‘rising up’ (emergence), and the other provides the image of 'coming together' or to 'unite' (merge). Indeed, it is a unique contrast which  points to the mysterious relational capacity of life to self-organize and produce some kind of novelty in certain contexts. In other words, the three terms all point to self-organization from different perspectives: immersion, when an agent is ‘immersed’; emergence, the ‘higher order’ system which emerges out of the agents which are ‘immersed’; and merge, which points to the process more generally, how agents can synergistically move together and establish organization in some novel way. It seems at first a bit difficult to wrap one's head around, but it seems to be all there: to immerse is to merge is to emerge, in one fell swoop.
 
-
-assets/images/immersion-diagram 1.jpg
-
+![[immersion-diagram.jpg]]
 ## Systematic immersion
 
 Within our DDS project, we are concerned with how ‘human agents’ become immersed in such a process, or developmental space, and what kind of affordances, challenges, experiences, and relationships are encouraged in the immersion of these different spaces, and how this contributes to development. 
