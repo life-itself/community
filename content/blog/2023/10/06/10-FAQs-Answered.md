@@ -7,7 +7,7 @@ categories:
   - conscious-coliving
 image: /assets/images/coliving-FAQs.jpg
 ---
-
+In this article we unpack 10 frequently asked questions to give you a better understanding of conscious coliving.
 ## 1. Is coliving suitable for introverts? 
 
 Absolutely! Coliving communities cater to a diverse range of personalities, including introverts. Healthy communities will offer private spaces and respect individuals' need for alone time, alongside having shared spaces and activities.
