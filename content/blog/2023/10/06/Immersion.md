@@ -7,7 +7,6 @@ categories:
   - research
 image: /assets/images/immersion-life-itself.jpg
 ---
-**The concept of 'immersion' has been popping up in a number of contexts, and a closer look at its etymological history provides some unique insights. **
 
 In speaking to a number of organizations and researchers who work in the deliberately developmental spaces field, a word that has frequently come up has been ‘immersion’- or ‘immersed’, or ‘immersive’. Interestingly, it has appeared in other spaces as well, including conversations around ‘world-making’, or technology which allows for ‘immersive experiences’, and, somewhat similarly to the DDS project, conversations about paradigm shifts in education that talk about a shift from taking in content to an immersive and dynamic context, which itself constitutes the educational process. Despite its appearance in some of these discourses, the word itself hasn’t received too much attention in it's own right, and the [DDS project](https://lifeitself.org/blog/2023/06/20/building-field-for-developmental-spaces) is one way to consider the concept more deeply.
 
@@ -28,7 +27,7 @@ Another etymological cousin which helps unite the terms here is the word ‘merg
 While one provides the image of going ‘down’ or ‘plunging in’ (immersion), another  provides the image of something ‘rising up’ (emergence), and the other provides the image of 'coming together' or to 'unite' (merge). Indeed, it is a unique contrast which  points to the mysterious relational capacity of life to self-organize and produce some kind of novelty in certain contexts. In other words, the three terms all point to self-organization from different perspectives: immersion, when an agent is ‘immersed’; emergence, the ‘higher order’ system which emerges out of the agents which are ‘immersed’; and merge, which points to the process more generally, how agents can synergistically move together and establish organization in some novel way. It seems at first a bit difficult to wrap one's head around, but it seems to be all there: to immerse is to merge is to emerge, in one fell swoop.
 
 
-/assets/images/immersion-diagram.jpg
+![[immersion-diagram.jpg]]
 
 **Systematic immersion**
 
