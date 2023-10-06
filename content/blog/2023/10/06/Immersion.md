@@ -8,15 +8,15 @@ categories:
 image: /assets/images/immersion-life-itself.jpg
 ---
 
-In speaking to a number of organizations and researchers who work in the deliberately developmental spaces field, a word that has frequently come up has been ‘immersion’- or ‘immersed’, or ‘immersive’. Interestingly, it has appeared in other spaces as well, including conversations around ‘world-making’, or technology which allows for ‘immersive experiences’, and, somewhat similarly to the DDS project, conversations about paradigm shifts in education that talk about a shift from taking in content to an immersive and dynamic context, which itself constitutes the educational process. Despite its appearance in some of these discourses, the word itself hasn’t received too much attention in it's own right, and the [DDS project](https://lifeitself.org/blog/2023/06/20/building-field-for-developmental-spaces) is one way to consider the concept more deeply.
+In speaking to a number of organizations and researchers who work in the deliberately developmental spaces field, a word that has frequently come up has been ‘immersion’- or ‘immersed’, or ‘immersive’. Interestingly, it has appeared in other spaces as well, including conversations around ‘world-making’, or technology which allows for ‘immersive experiences’, and, [somewhat similarly to the DDS project](https://lifeitself.org/blog/2023/06/20/building-field-for-developmental-spaces), conversations about paradigm shifts in education that talk about a shift from taking in content to an immersive and dynamic context, which itself constitutes the educational process. Despite its appearance in some of these discourses, the word itself hasn’t received too much attention in it's own right, and the DDS project is one way to consider the concept more deeply.
 
-**What is immersion?**
+## What is immersion?
 
 A standard definition of immersion is that it is a ‘state of being deeply engaged or involved’; it is sometimes literally used in reference to being ‘immersed in water’, and generally refers to some kind of deep involvement, or participation, in some kind of process. The word can be appropriately used when being ‘immersed’ in a book, a game, or culture, or other activities which demand our full attention and presence. It is also used in language studies to refer to an ‘immersive experience’ into a place that speaks a certain language that one is trying to learn; for example, one might go to Italy to get immersed into the culture so that they learn  to speak better Italian. 
 
 The reason that this word has popped up in so many conversations seems to be that spaces which allow for development are necessarily immersive, and that this immersion has increasingly been viewed as an essential part of the learning process. Immersion here is a way to describe and make sense of the lived experience of a space or program, of what it is like to be deeply involved in it. A crucial component of deliberately developmental spaces, and even education more broadly, is the experience of what it is like, and what one learns from that experience. As one might expect, this shift calls into question other existing methods, which focus more on 'content' and this distinction is often quite naturally summed up by the movement from 'content' to 'context'. This emphasis on the lived experience and the dynamic context in which one is involved then becomes the source itself of a developmental or learning process.  
 
-**Immersion and emergence**
+## Immersion and emergence
 
 Etymologically speaking, it  is interesting to consider for a moment how ‘immersion’ is not so different from ‘emergence’, both of which go back to the latin word “mergere” , meaning “to dip”. “Emerge” refers to the sense of “becoming known or manifest”, and in discourse around complexity science, where it is often used, ‘emergence’ refers to the somewhat mysterious phenomenon of a higher-order organization out of agents. It is compatible with the concept of self-organization, or the spontaneous ‘emergence’ or evolution of coordination in a complex adaptive system. The imagery that naturally comes to mind with ‘emergence’ is one where agents mutually create a ‘higher order’ organization, which ‘emerges’ out of their interaction. 
 
@@ -27,9 +27,9 @@ Another etymological cousin which helps unite the terms here is the word ‘merg
 While one provides the image of going ‘down’ or ‘plunging in’ (immersion), another  provides the image of something ‘rising up’ (emergence), and the other provides the image of 'coming together' or to 'unite' (merge). Indeed, it is a unique contrast which  points to the mysterious relational capacity of life to self-organize and produce some kind of novelty in certain contexts. In other words, the three terms all point to self-organization from different perspectives: immersion, when an agent is ‘immersed’; emergence, the ‘higher order’ system which emerges out of the agents which are ‘immersed’; and merge, which points to the process more generally, how agents can synergistically move together and establish organization in some novel way. It seems at first a bit difficult to wrap one's head around, but it seems to be all there: to immerse is to merge is to emerge, in one fell swoop.
 
 
-![[immersion-diagram.jpg]]
+assets/images/immersion-diagram 1.jpg
 
-**Systematic immersion**
+## Systematic immersion
 
 Within our DDS project, we are concerned with how ‘human agents’ become immersed in such a process, or developmental space, and what kind of affordances, challenges, experiences, and relationships are encouraged in the immersion of these different spaces, and how this contributes to development. 
 
@@ -37,7 +37,7 @@ And so, it is worth considering different ways that ‘immersion’ might happen
 
 In the kinds of deliberately developmental spaces in which we are studying, we are more concerned with a long term, or what might be called systematic, immersion. Systematic immersion sometimes refers to being 'systematically immersed' in a video game and knowing the rules of the game, but this doesn’t seem to capture the feeling. Instead, it might be considered as the lived experience of a prolonged entanglement in a particular space or relationship. An intuitive example of systematic immersion might be one's job, or being immersed in school, or perhaps even the relationship that one has with one’s partner. There is a sense, with systematic immersion, that it is continued and purposeful, in the sense that one must be there or deeply want to be there, for whatever reason. 
 
-**Immersion and DDS**
+## Immersion and DDS
 
 The reason that this distinction might be important is because one can then ask, what kind of relationships, possibilities, feelings arise in this space?  How does this immersion have an impact on how we view ourselves and the world around us, and how might it contribute to human ‘development’? What does it mean to be systematically immersed within a space?  How long does it take for it to have an impact? Can immersion effectively happen in digital spaces, or does it have to be in real life? Can a two week course have a substantial effect, or does it take months? 
 
