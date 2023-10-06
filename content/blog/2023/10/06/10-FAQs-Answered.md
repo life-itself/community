@@ -5,9 +5,9 @@ authors:
   - lauren-wigmore
 categories:
   - conscious-coliving
-image: assets/images/Coliving-FAQs.png
+image: assets/images/Coliving-FAQs.jpg
 ---
-**
+
 
 ## 1. Is coliving suitable for introverts? 
 
@@ -67,7 +67,8 @@ Residents are expected to contribute to the community by respecting shared space
 
 Conscious coliving often prioritizes sustainability and eco-friendliness. Many communities implement recycling programs, energy-efficient practices, and may even incorporate renewable energy sources. Some coliving spaces may have communal gardens or support local food initiatives to reduce their ecological footprint, and some coliving spaces are set up as Ecovillages whose main focus is on environmental sustainability.
 
+
+
+If you’re interested in learning more about conscious coliving, the benefits, the opportunities, the challenges and a whole wealth of other information, we invite you to sign up for our **[FREE Conscious Coliving email course]([https://lifeitself.org/conscious-coliving-course](https://lifeitself.org/conscious-coliving-course))**
+	
   
-  
-  
-**
