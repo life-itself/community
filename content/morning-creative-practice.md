@@ -2,7 +2,7 @@
 title: Morning Creative Practice
 description: Our Morning Creative Practice calls are here so we can make time to develop our artistic side and explore the depth of our humanity.
 ---
-In November and December 2023 we are offering our Morning Creative Practice calls again! These calls will take place every Wednesday 7:30- 8h30am (UK) from the 8th of November until the 13th December. You can book yourself on for only £90!
+In November and December 2023 we are offering our Morning Creative Practice calls again! These calls will take place every Wednesday 7h30- 8h30am (UK) from the 8th of November until the 13th December. [You can book yourself on for our early bird price of only £75!](https://ti.to/art-earth-tech/online-calls)
 
 >These weekly sessions helped to awaken my imagination in work and everyday life, and to deepen my connection with creative parts of myself that have been dormant.
 
@@ -45,7 +45,7 @@ Here at Life Itself we value Art, as we see it as a profound expression of our h
 
 >My mind, body and soul were nourished by the creative practices Sylvie offered as well as the group sharing their work and a part of themselves.
 
-**Our creative side is so precious so let’s make time for it. Join our Morning Creative Practices calls with Sylvie Barbier every Wednesday 7:30am (UK). Book yourself on for £90.**
+**Our creative side is so precious so let’s make time for it. Join our Morning Creative Practices calls with Sylvie Barbier every Wednesday 7:30am (UK). [Grab the early bird discount and book yourself on for only £75!](https://ti.to/art-earth-tech/online-calls)**
 
 Every Wednesday 7:30-8:30am (UK). Full details of time and dates below:
 
@@ -63,7 +63,7 @@ Every Wednesday 7:30-8:30am (UK). Full details of time and dates below:
 
 ### About Sylvie Shiwei Barbier
 
-Sylvie ‘Shiwei’ Barbier is a French-Taiwanese artist. Her work synthesizes Eastern and Western philosophies and aesthetics. Her workshops develop people's sense of connection, imagination  embodied creativity and community . Sylvie has taught at Polimoda and IED in Florence. She is also the co-founder of Life Itself, an organization dedicated to practical actions for a radically wiser, weller world.
+Sylvie ‘Shiwei’ Barbier is a French-Taiwanese artist. Her work synthesizes Eastern and Western philosophies and aesthetics. Her workshops develop people's sense of connection, imagination  embodied creativity and community. Sylvie has taught at Polimoda and IED in Florence. She is also the co-founder of Life Itself, an organization dedicated to practical actions for a radically wiser, weller world.
 
 ### Recommended blogs to help awaken your creativity
 - [Art a Door to Social Awakening](https://lifeitself.org/blog/2023/10/02/art-a-door-to-social-awakening)
