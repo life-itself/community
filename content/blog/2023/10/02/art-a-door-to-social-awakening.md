@@ -43,3 +43,5 @@ And the truth to science.**
 So may we give room to our creative side; may we stay connected to our inner child, of doing something just for the pure joy of it.  May we make sense of this coming new world through play. May we share the joy creativity gives us for no other reason than wanting to share that happiness with others. May we make art just for the sake of it because doing something just for the sake of it is already the start of getting out of doing something just because it has material or capitalistic worth. May we all let our creativity guide us into the second renaissance.
 
 Because our creativity is intertwined with our understanding of the world.
+
+Interested in diving deeper into your creativity? [Then visit our Morning Creative Practice page to learn more and join us in a collective creative practice](https://lifeitself.org/morning-creative-practice)
