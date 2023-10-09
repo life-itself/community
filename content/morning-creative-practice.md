@@ -13,22 +13,29 @@ It is a way of making sense of the world and your life, to integrate different p
 
 ### What will I get out of the call?
 
-💪 Creativity is like a muscle, the more you practice the stronger it gets.
-🦚 You get to be more intune with yourself and your intuition. 
-🎨 You will be part of a Whatsapp group in which you will get to share your art practice. Our community provides support and helps you with motivation, since one of the hardest things is to keep yourself motivated in your creative practice when you are alone. 
-🌅 Morning is the best time to activate your right brain, so you will continue your day being more in the flow. 
+💪 Creativity is like a muscle, the more you practice the stronger it gets.<br/>
+🦚 You get to be more intune with yourself and your intuition.<br/>
+🎨 You will be part of a Whatsapp group in which you will get to share your art practice. Our community provides support and helps you with motivation, since one of the hardest things is to keep yourself motivated in your creative practice when you are alone.<br/>
+🌅 Morning is the best time to activate your right brain, so you will continue your day being more in the flow.<br/>
 
 ### Here are some of the practices we will do:
 
-🌟 Collages
-🌟 Spontaneous Writing
-🌟Creative Contemplation
-🌟 Ritual
-🌟 Navigating Mythologies
+🌟 Collages<br/>
+🌟 Spontaneous Writing<br/>
+🌟Creative Contemplation<br/>
+🌟 Ritual<br/>
+🌟 Navigating Mythologies<br/>
 
 ### Who is it for?
 
-Our Morning Creative Practices calls are for anyone who is feeling stuck, bored, overwhelmed, too far in their left-brain or those that simply want to discover the magic of their creative nature. If you feel the call, we encourage you to follow it and join us!
+Our Morning Creative Practices are for anyone who wants to develop a practice to unleash their creative side and authentically connect with like minded people. If you feel the call, we encourage you to follow it and join us!
+
+✨You want to develop spiritually but silent meditation is not your thing.<br/>
+✨You already make art but miss having a community with whom you can authentically share.<br/>
+✨Getting out of bed in the morning does not come naturally and having an external commitment really helps.<br/>
+✨For you art is spiritual but you are caught in making art for commercial purposes.<br/>
+✨You are someone who gets insight from taking actions.<br/>
+
 
 >I would highly recommend these calls for those who are looking for ways to express themselves, creative motivation and connection with others
 
