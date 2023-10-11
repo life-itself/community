@@ -65,5 +65,14 @@ Every Wednesday 7:30-8:30am (UK). Full details of time and dates below:
 
 Sylvie ‘Shiwei’ Barbier is a French-Taiwanese artist. Her work synthesizes Eastern and Western philosophies and aesthetics. Her workshops develop people's sense of connection, imagination  embodied creativity and community. Sylvie has taught at Polimoda and IED in Florence. She is also the co-founder of Life Itself, an organization dedicated to practical actions for a radically wiser, weller world.
 
+### Conversations on Creativity with Sylvie
+Listen to Sylvie, as she speaks about creativity and it's relationship to the different aspects of our lives.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-8zR_AbAZJk?si=MX3JJuIPdlBjTOii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AbESET36hZs?si=bREI8qLfyPl-vVyu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/p-KA-1gMMqs?si=oT0EIjgRBUrJiH3z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ### Recommended blogs to help awaken your creativity
 - [Art a Door to Social Awakening](https://lifeitself.org/blog/2023/10/02/art-a-door-to-social-awakening)
