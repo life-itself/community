@@ -70,7 +70,9 @@ Listen to Sylvie as she speaks about creativity and it's relationship to the dif
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-8zR_AbAZJk?si=MX3JJuIPdlBjTOii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AbESET36hZs?si=bREI8qLfyPl-vVyu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/p-KA-1gMMqs?si=oT0EIjgRBUrJiH3z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
