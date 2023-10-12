@@ -7,7 +7,7 @@ categories:
   - conscious-coliving
 image: /assets/images/documentaries-about-intentional-communities-ecovillages-communal-living.jpg
 ---
-We recently shared an article [[dont-join-a-cult-documentaries-about-cults-intentional-communties|Listing several documentaries about cults]] gone wrong to demonstrate some of the red flags to look for before joining a conscious community of any sort. In this article, we want to expand and cover multiple perspectives on the exploration of conscious coliving. 
+We recently shared an article [[dont-join-a-cult-documentaries-about-cults-intentional-communties|Listing several documentaries about cults gone wrong]] to demonstrate some of the red flags to look for before joining a conscious community of any sort. In this article, we want to expand and cover multiple perspectives on the exploration of conscious coliving. 
 
 From looking at faith-based communities like Damanhur, to intentional communities built around permaculture and sustainability, such as in the documentary a Simpler Way - the aim of this list is to present opportunities for learning about the benefits, challenges and experiences of communal living.  
   
@@ -104,3 +104,9 @@ Explore the EcoVillage at Ithaca was founded in 1991 and has evolved into a well
 Damanhur is a community of spiritual researchers that clandestinely constructed an underground temple in Northern Italy, acclaimed as the world's largest underground religious edifice. The people of Damanhur regard themselves as an autonomous nation, distinct from Italy, although this status is not officially recognized. "The Choice of Staying" narrates the tale of Damanhur through the perspective of a young Swedish woman who initially arrived to create a documentary but ultimately opted to remain. The documentary unravels the intricacies within this spiritual community, oscillating between allegations of being a cult and the endeavor to establish an alternative society.
 
 [Watch The Choice of Staying on the official website](https://www.mattiamuravannuzzi.com/choiceofstaying)
+
+## Want to learn more about conscious coliving? 
+
+Our free email course, Conscious Coliving 101, is a great introduction to the benefits, challenges and why we should be living in community more! 
+
+[[conscious-coliving-course|TAKE THE COURSE]]
