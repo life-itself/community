@@ -5,7 +5,7 @@ authors:
   - nathen-fitchen
 categories:
   - conscious-coliving
-image: /assets/images/documentaries-intentional-communities-ecovillages-communal-living.jpg
+image: /assets/images/documentaries-about-intentional-communities-ecovillages-communal-living.jpg
 ---
 We recently shared an article [[dont-join-a-cult-documentaries-about-cults-intentional-communties|Listing several documentaries about cults]] gone wrong to demonstrate some of the red flags to look for before joining a conscious community of any sort. In this article, we want to expand and cover multiple perspectives on the exploration of conscious coliving. 
 
