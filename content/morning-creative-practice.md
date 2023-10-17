@@ -1,6 +1,7 @@
 ---
 title: Morning Creative Practice
 description: Our Morning Creative Practice calls are here so we can make time to develop our artistic side and explore the depth of our humanity.
+image: /assets/images/morning-creative-practice-2
 ---
 In November and December 2023 we are offering our Morning Creative Practice calls again! These calls will take place every Wednesday 7h30- 8h30am (UK) from the 8th of November until the 13th December. [You can book yourself on for our early bird price of only £75!](https://ti.to/art-earth-tech/online-calls)
 
@@ -28,7 +29,7 @@ It is a way of making sense of the world and your life, to integrate different p
 
 ### Who is it for?
 
-Our Morning Creative Practices are for anyone who wants to develop a practice to unleash their creative side and authentically connect with like minded people. If you feel the call, we encourage you to follow it and join us!
+Our Morning Creative Practice Calls are for anyone who wants to develop a practice to unleash their creative side and authentically connect with like minded people. If you feel the call, we encourage you to follow it and join us!
 
 ✨You want to develop spiritually but silent meditation is not your thing.<br/>
 ✨You already make art but miss having a community with whom you can authentically share.<br/>
@@ -40,6 +41,8 @@ Our Morning Creative Practices are for anyone who wants to develop a practice to
 >*I would highly recommend these calls for those who are looking for ways to express themselves, creative motivation and connection with others*
 
 ### The creative culture of Life Itself 
+
+![[morning-creative-practice-1.jpg]]
 
 Here at Life Itself we value Art, as we see it as a profound expression of our humanity and access to our sense of oneness. Our creativity is an access to sense making into the second Renaissance. The call will be led by Sylvie Barbier, performance artist and co-founder of Life Itself.
 
