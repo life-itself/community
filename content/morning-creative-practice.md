@@ -2,10 +2,12 @@
 title: Morning Creative Practice
 description: Our Morning Creative Practice calls are here so we can make time to develop our artistic side and explore the depth of our humanity.
 ---
-![[morning-creative-practice-2.jpg]]
+
 In November and December 2023 we are offering our Morning Creative Practice calls again! These calls will take place every Wednesday 7h30- 8h30am (UK) from the 8th of November until the 13th December. [You can book yourself on for our early bird price of only £75!](https://ti.to/art-earth-tech/online-calls)
 
 >*These weekly sessions helped to awaken my imagination in work and everyday life, and to deepen my connection with creative parts of myself that have been dormant.*
+
+![[morning-creative-practice-2.jpg]]
 
 ### Why does art and creativity matter? 
 
