@@ -21,8 +21,8 @@ Residencies combine both an activating frame of collective practices (sitting me
 * **Where is it?** The [Life Itself Praxis Hub](https://lifeitself.org/hubs/bergerac), Bergerac, France (South West, in the Bordeaux wine region, 20 min from the Plum Village Buddhist monastery)
 * **For whom is it?** To all who wish to engage in practices: system-thinkers, researchers, spiritual ecologists, bodhisattvas, change makers, symbiotic entrepreneurs, poets, painters, eco-dharmists, people ready to just be with what comes, good and bad. 
 * **How can I participate?** Apply online to one of our residencies using [this form](https://docs.google.com/forms/d/e/1FAIpQLSdiykDKyZR6DgtPKeYuNePy9sWc-qkIc4BVfKBRjkFWKvFp-g/viewform).
-* **How much does it cost?** A typical room costs between €650 (basic room) and €1,050 (premium double room) per month / per person. In addition, the daily food and maintenance  costs are 18 euros per person [here](https://docs.google.com/document/d/1PBijDdlRAECvE19Nxo1fOEcq2foGJVeERZVxzIs6b9U/edit?usp=sharing). Facilitation fees may apply for the residencies. Some rooms can be shared at a reduced rate.
-* **More questions?** If you have more questions or are interested to visit us outside of the residencies and participate in our Praxis ecology please contact us at praxis@lifeitself.org. We propose rooms for a minimum stay of 3 nights.
+* **How much does it cost?** A typical room costs between €350 (basic room) and €850 (premium double room) per month / per person. In addition, there is a daily food and maintenance fee. Facilitation fees may apply for some residencies. Some rooms can be shared at a reduced rate.
+* **More questions?** Contact praxis@lifeitself.org. 
 
 ## About the Praxis Hub
 
@@ -40,28 +40,24 @@ The Hub, envisioned as a laboratory for systemic transformation, is an incubator
 
 The Praxis Lab within the Hub plays a pivotal role in data collection and research, exploring the relationships between spaces, structures, food, and practices. Its purpose is to decipher the emotional, spiritual, and intellectual effects of these elements and the actions they inspire. Our research aims to understand and define the inter-relational human technology that fuels a new way of interacting with the world. Our focus is to document these practices, exploring questions such as: what triggers action beyond thinking, what internal shifts are activated by this, and what are the impacts of this approach? An additional aspect of exploration is the concept of a space as a practice place (dojo) and how to reproducibly document self-research. 
 
-**More information on Praxis research can be found in this [talk](https://lifeitself.org/blog/2023/06/20/participatory-wisdom-with-marc-santolini) by core resident Marc Santolini.**
+**More information on Praxis research can be found in this [talk](https://lifeitself.org/blog/2023/06/20/participatory-wisdom-with-marc-santolini) by Life Itself Research Co-Director Marc Santolini.**
 
 ### The Praxis food 
 
-At the hub, we take great pride in our thoughtful relationship with food. This isn't simply about what we eat, but how we engage with our meals, creating a nourishing atmosphere that combines quiet reflection, gratitude, and careful consideration alongside our delectable plant-based fare.
+At the hub, we have an intentional relationship with food. It isn't simply about what we eat, but how we engage with our meals, creating a nourishing atmosphere that combines quiet reflection, gratitude, and careful consideration alongside our delectable plant-based fare.
 
 Our food practices are firmly grounded in three fundamental principles:
 
 * Caring - for all beings and ecosystems
 * Degrowing - energy, money and time
-* Honoring - human dignity
+* Honoring - human and animal dignity
 
 These principles allow us to strike an optimal balance between the ethical, financial, and ecological facets of our food system. The menus we curate, inspired by the Zen temple tradition, establish a mindful ambiance for the group's sustenance.
 Our food purchases are made at the fresh market and the local organic cooperative, and we make a dedicated effort to use local and endemic ingredients as much as possible.
 
-Collective meals are always plant-based, and we conscientiously avoid non-ethical, industrially produced food. We believe this diet provides sufficient protein for daily needs, but we encourage you to assess and cater to your personal nutritional requirements. For your convenience, we provide two additional refrigerators for personal use.
+Collective meals are always plant-based, and we conscientiously avoid non-ethical, industrially produced food. We believe this diet provides sufficient protein for daily needs, but we encourage everyone to assess and cater to their personal nutritional requirements. For your convenience, we provide two additional refrigerators for personal use.
 
-We acknowledge that plant-based food may not meet the daily B12 requirements, so for those staying longer than two weeks, we encourage supplementing this nutrient. In our endeavor to minimize our role in animal suffering, we encourage the use of any supplements involving animal products (such as B12 or protein) to be sourced solely from ethical local providers who are present at the market.
-
-Furthermore, to promote a healthy lifestyle, we maintain an alcohol-free environment from Monday to Friday. That being said, we cherish the joy of celebration and dance, and so, good wine is welcomed at the Hub on weekends.
-
-**Finally, we warmly welcome individuals who are interested in embracing the role of a tenzo, a reactualized version of the Zen temple cook for modern times, to join us at the residence.** It is an opportunity to engage in the art of cooking, harmonizing traditional wisdom with contemporary practices, as we prepare plant-based meals together. Come and immerse yourself in this transformative experience that combines the essence of Zen teachings with the joys of culinary exploration. **If interested, please contact our [Tenzo Valerie Duvauchelle](valerie@lifeitself.org).**
+**In addition, we warmly welcome individuals who are interested in embracing the role of a tenzo, a reactualized version of the Zen temple cook for modern times, to join us at the residence.** Come and immerse yourself in this transformative experience that combines the essence of Zen teachings with the joys of culinary exploration. **If interested, please contact our [Tenzo Valerie Duvauchelle](valerie@lifeitself.org).**
 
 
 ### Common Spaces
@@ -113,16 +109,16 @@ The main house has a large dining room, a spacious kitchen, a spectacular living
 
 ### Bedrooms
 
-**There are currently 11 rooms available at the Hub, from basic to premium. More information (photos and descriptions) for the rooms is available [here](https://docs.google.com/document/d/1PBijDdlRAECvE19Nxo1fOEcq2foGJVeERZVxzIs6b9U/edit?usp=sharing).**
+**There are currently 11 rooms available at the Hub, from basic to premium. More information (photos and descriptions) about the rooms is available [here](https://docs.google.com/document/d/1PBijDdlRAECvE19Nxo1fOEcq2foGJVeERZVxzIs6b9U/edit?usp=sharing).**
 
 
 ### Amenities
 
-- **Internet**: there is high speed wifi access throughout.
-- **Washing facilities**: there is a dedicated laundry room with washing machine and tumble dryer available for common use.
+- **Internet**: there is high speed wifi access throughout the house.
+- **Washing facilities**: there is a dedicated laundry room with washing machine available for common use.
 - **Parking**: ample parking both on the square directly outside the Hub, and in the surrounding streets when the square is used for a market on Fridays.
-- **Kitchen**: high spec kitchen suitable to cook for 10-20 people. Includes dishwasher, microwave, oven, induction hobs and extensive other utensils.
-- **Crockery**: a full store of all the crockery you might need, with enough plates, cutlery, glasses and cups for even the largest groups.
+- **Kitchen**: kitchen suitable to cook for 10-20 people. Includes dishwasher, microwave, oven, induction hobs and extensive other utensils.
+- **Crockery**: a full store of all the crockery you might need, with enough plates, cutlery, glasses and cups for up to 25 people.
 
 ## How to Reach Us
 
