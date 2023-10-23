@@ -3,7 +3,7 @@ title: Morning Creative Practice
 description: Our Morning Creative Practice calls are here so we can make time to develop our artistic side and explore the depth of our humanity.
 ---
 
-In November and December 2023 we are offering our Morning Creative Practice calls again! These calls will take place every Wednesday 7h30- 8h30am (UK) from the 8th of November until the 13th December. [You can book yourself on for our early bird price of only £75!](https://ti.to/art-earth-tech/online-calls)
+In November and December 2023 we are offering our Morning Creative Practice calls again! These calls will take place every Wednesday 7h30- 8h30am (UK) from the 8th of November until the 13th December. [You can book yourself on for only £30!](https://ti.to/art-earth-tech/online-calls)
 
 >*These weekly sessions helped to awaken my imagination in work and everyday life, and to deepen my connection with creative parts of myself that have been dormant.*
 
@@ -50,7 +50,7 @@ Here at Life Itself we value Art, as we see it as a profound expression of our h
 
 >*My mind, body and soul were nourished by the creative practices Sylvie offered as well as the group sharing their work and a part of themselves.*
 
-**Our creative side is so precious so let’s make time for it. Join our Morning Creative Practices calls with Sylvie Barbier every Wednesday 7:30am (UK). [Grab the early bird discount and book yourself on for only £75!](https://ti.to/art-earth-tech/online-calls)**
+**Our creative side is so precious so let’s make time for it. Join our Morning Creative Practices calls with Sylvie Barbier every Wednesday 7:30am (UK). [Book now for only £30!](https://ti.to/art-earth-tech/online-calls)**
 
 Every Wednesday 7:30-8:30am (UK). Full details of time and dates below:
 
