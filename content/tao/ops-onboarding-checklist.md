@@ -217,7 +217,7 @@ The Onboarder should capture questions during the onboarding meeting and forward
 
 **Onboarding**
 
-The Onboarder should have completed most of the [Onboarding Guide](/onboarding/).
+The Onboarder should have completed most of the [Onboarding Guide](tao/onboarding).
 
 * Check that they have done steps and whether they have any blockers or questions **[15m]**
 * Introduce the Onboardee to how we manage our website on Wordpress and answer any questions they have about our other systems, such as GitHub. Show them around the All-Team Google drive and ensure they know the location of key documents, such as those relating to accounts.
