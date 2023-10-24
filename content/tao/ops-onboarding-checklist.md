@@ -76,7 +76,6 @@ Next, scroll down for more detail on completing the steps.
 
 ```
 * [ ] Contract drafted (and reviewed)
-  * [ ] [Optional] Folder in Life Itself - People/HR > Contracts created
 * [ ] Contract shared with the onboardee (CC the requestor and ops@lifeitself.us)
 * [ ] Contract signed
 * [ ] PDF created and sent to Onboardee
@@ -145,17 +144,17 @@ Once both parties have signed we:
 
 ## Setup on Systems
 
-:::warning
-These steps can be done in parallel or out of order.
+> [!note] These steps can be done in parallel or out of order.
+>
+> However, unless otherwise agreed, we should only do these steps **once there is a signed contract**.
 
-However, unless otherwise agreed, we should only do these steps **once there is a signed contract**.
-:::
-
-1. **GSuite Account and Email:** Create the Onboardee's email account as firstname@lifeitself.us (or firstname.lastname@lifeitself.us if necessary) on the Google Admin page and ensure the log-in details are sent to the Onboardee's personal email address. 
+1. **GSuite Account and Email:** Create the Onboardee's email account as firstname@lifeitself.org (or firstname.lastname@lifeitself.org if necessary) on the Google Admin page and ensure the log-in details are sent to the Onboardee's personal email address. 
 
 2. **Create accounts / send invitations** on systems where they can't create themselves
 
-    * To add the Onboardee to Xero [see Xero access](https://docs.google.com/document/d/1bY7za2nRTN-shUDYQkW3_pjSP6G0RiEFiT5kpEOgY44/edit#heading=h.v59x2fkuxkjt) and add their bank account details once received.
+    * Add them on Bitwarden. Steps: login ⏭️ Organizations ⏭️ Members ⏭️ Invite Member. Then remember to click 3 dots and choose collections and check "Grant access to all current and future collections")
+    * Add them to Life Itself Github organization via https://github.com/orgs/life-itself/people (Invite Member button)
+    * To add them to Xero [see Xero access](https://docs.google.com/document/d/1bY7za2nRTN-shUDYQkW3_pjSP6G0RiEFiT5kpEOgY44/edit#heading=h.v59x2fkuxkjt) and add their bank account details once received.
     
 3. **Welcome Call Invitation**: Send them an invitation for a Welcome Call within the next days.
 
@@ -193,16 +192,16 @@ However, unless otherwise agreed, we should only do these steps **once there is 
 
 Here is the suggested agenda for the Welcome Call with the new team member. It should usually take no more than an hour.
 
-:::tip
-The Onboarder should capture questions during the onboarding meeting and forward any questions they can't answer to other team members.
-:::
+> [!tip]
+> 
+> The Onboarder should capture questions during the onboarding meeting and forward any questions they can't answer to other team members.
 
-**Welcome**
+### Welcome
 
 * Introduce yourself **[5m]**
 * Ask them to intro themselves **[5m]**
 
-**What this call is about -- intro to onboarding and company context**
+### What this call is about -- intro to onboarding and company context
 
 * We’ve designed the onboarding process to be a self-service one but I’m just going to say a few words to intro you to the company.
 * Overview of Life Itself.
@@ -215,7 +214,7 @@ The Onboarder should capture questions during the onboarding meeting and forward
   * Example: Integrity.
 * Does the Onboardee have any questions about culture not answered in the Tao?
 
-**Onboarding**
+### Onboarding
 
 The Onboarder should have completed most of the [Onboarding Guide](tao/onboarding).
 
