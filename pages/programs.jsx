@@ -2,7 +2,50 @@ import Link from "next/link";
 import getResidencies from "../content/getters/residencies";
 import { formatDate } from "@/lib/formatDate.js";
 
-export default function Residencies({ upcomingResidencies }) {
+function Residency({residency}) {
+  return (
+    <article key={residency._id} className="relative isolate flex flex-col gap-8 lg:flex-row lg:items-center">
+      <div className="relative sm:aspect-square lg:w-64 lg:shrink-0">
+        <img
+          src={residency.image}
+          alt={residency.title}
+          className="lg:w-64 lg:shrink-0 m-0 rounded-2xl border absolute inset-0 h-full w-full rounded-2xl border bg-gray-50 object-cover"
+        />
+      </div>
+      <div>
+        {residency.start && <div className="text-xs">
+          <time dateTime={residency.start}>{formatDate(residency.start)}</time>
+        </div>}
+        <div className="group relative max-w-xl">
+          <h3 className="mt-3 text-xl font-semibold font-headings group-hover:text-primary/80 min-h-full">
+            <Link href={residency.url_path}>
+              <span className="absolute inset-0" />
+              {residency.title}
+            </Link>
+          </h3>
+          <p className="mt-3 text-sm line-clamp-3">{residency.description}</p>
+        </div>
+        {residency.facilitators && <div className="text-sm flex flex-col gap-y-4 mt-3">
+          <div className="relative flex items-center gap-x-2">
+            <h3 className="font-medium underline underline-offset-2 decoration-2 decoration-secondary">Facilitators:</h3>
+            <div className="flex items-center">
+              {residency.facilitators.map((facilitator,i) => (
+                <p key={i} className="group leading-4">
+                  {facilitator}<span className="group-last:hidden">,&nbsp;</span>
+                </p>
+              ))}
+            </div>
+          </div>
+          <Link href={residency.url_path} className="underline underline-offset-2 decoration-2 decoration-secondary">
+            Learn more and apply&nbsp;<span aria-hidden="true">&rarr;</span>
+          </Link>
+        </div>}
+      </div>
+    </article>
+  )
+}
+
+export default function Residencies({ currentAndFutureResidencies, pastResidencies }) {
   return (
     <div className="relative mx-auto lg:max-w-4xl px-4 sm:px-16 lg:px-20 mt-16 sm:mt-20 space-y-8">
       <h1 className="text-4xl font-bold font-headings tracking-tight text-primary sm:text-5xl">Residencies and Courses</h1>
@@ -22,58 +65,28 @@ export default function Residencies({ upcomingResidencies }) {
         </p>
       </div>
       <div className="py-1">
-        <h3 className="mt-8 text-2xl font-bold font-headings tracking-tight text-primary">Upcoming Residencies & Courses</h3>
-        <br></br>
+        <h3 className="mt-8 mb-4 text-2xl font-bold font-headings tracking-tight text-primary">
+          Residencies & Courses
+        </h3>
         <p>If you require more information about any of our residencies or want to discuss other potential opportunities please contact us at praxis@lifeitself.org</p>
         <div className="my-8 space-y-20 lg:my-8 lg:space-y-16 text-primary max-w-3xl mx-auto">
-          {upcomingResidencies?.map((residency) => (
-            <article key={residency._id} className="relative isolate flex flex-col gap-8 lg:flex-row lg:items-center">
-              <div className="relative sm:aspect-square lg:w-64 lg:shrink-0">
-                <img
-                  src={residency.image}
-                  alt={residency.title}
-                  className="lg:w-64 lg:shrink-0 m-0 rounded-2xl border absolute inset-0 h-full w-full rounded-2xl border bg-gray-50 object-cover"
-                />
-              </div>
-              <div>
-                {residency.start && <div className="text-xs">
-                  <time dateTime={residency.start}>{formatDate(residency.start)}</time>
-                </div>}
-                <div className="group relative max-w-xl">
-                  <h3 className="mt-3 text-xl font-semibold font-headings group-hover:text-primary/80 min-h-full">
-                    <Link href={residency.url_path}>
-                      <span className="absolute inset-0" />
-                      {residency.title}
-                    </Link>
-                  </h3>
-                  <p className="mt-3 text-sm line-clamp-3">{residency.description}</p>
-                </div>
-                {residency.facilitators && <div className="text-sm flex flex-col gap-y-4 mt-3">
-                  <div className="relative flex items-center gap-x-2">
-                    <h3 className="font-medium underline underline-offset-2 decoration-2 decoration-secondary">Facilitators:</h3>
-                    <div className="flex items-center">
-                      {residency.facilitators.map((facilitator,i) => (
-                        <p key={i} className="group leading-4">
-                          {facilitator}<span className="group-last:hidden">,&nbsp;</span>
-                        </p>
-                      ))}
-                    </div>
-                  </div>
-                  <Link href={residency.url_path} className="underline underline-offset-2 decoration-2 decoration-secondary">
-                    Learn more and apply&nbsp;<span aria-hidden="true">&rarr;</span>
-                  </Link>
-                </div>}
-              </div>
-            </article>
+          {currentAndFutureResidencies?.map((residency) => (
+            <Residency residency={residency} />
           ))}
         </div>
       </div>
       <div className="py-1">
-        <h3 className="text-2xl font-bold font-headings tracking-tight text-primary">Previous Residencies</h3>
+        <h3 className="text-2xl font-bold font-headings tracking-tight text-primary mb-8">
+          Past Residencies
+        </h3>
+        <div className="my-8 space-y-20 lg:my-8 lg:space-y-16 text-primary max-w-3xl mx-auto">
+          {pastResidencies?.map((residency) => (
+            <Residency residency={residency} />
+          ))}
+        </div>
         <div className="mt-8 docs prose prose-headings:font-headings prose-a:break-words">
-
           <div>
-            <h3 id="-setting-the-world-to-rights-residency-april-2023">&quot;Setting the World to Rights Residency&quot;, April 2023</h3>
+            <h3 id="-setting-the-world-to-rights-residency-april-2023">Setting the World to Rights Residency, April 2023</h3>
             <ul>
               <li><strong>When:</strong> April 5th - May 2nd 2023</li>
               <li><strong>What:</strong> A one month residency to focus on having exceptional big picture discussions. (The kind of discussions that draw the comment “You’re setting the world to rights!” Questions like: How do we address polarisation? How can we address global warming? How do we address the massive economic equality, racism and historical injustices that are rife across the globe? We won’t answer these questions, but we will do our utmost to have discussions that are really about <em>getting somewhere together</em> rather than scoring points. We will joyfully take up the neglected responsibility of citizens in a democracy, rather than a parlour game or indulgence</li>
@@ -217,14 +230,19 @@ export default function Residencies({ upcomingResidencies }) {
 }
 
 export async function getStaticProps() {
-  const residences = await getResidencies()
+  const residencies = await getResidencies()
 
-  const upcomingResidencies = residences
-    .filter(r => new Date(r.start) > new Date())
+  const currentAndFutureResidencies = residencies
+    .filter(r => new Date(r.end) > new Date())
+
+  const pastResidencies = residencies
+    .filter(r => new Date(r.end) <= new Date())
+    .sort((a,b) => new Date(b.start) - new Date(a.start))
 
   return {
     props: {
-      upcomingResidencies,
+      currentAndFutureResidencies,
+      pastResidencies,
       title: "Residencies",
       description: "We are running and hosting a series of residencies and retreats.",
       url_path: "/programs",
