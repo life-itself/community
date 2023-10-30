@@ -6,7 +6,7 @@ authors:
 categories:
   - hubs
 image: /assets/images/tenzo-note-11.jpg
-description:
+description: An autumnal reflection on how food is interconnected with the cycles of Death and Life
 ---
 Amidst the hallowed whispers of Samhain's night,
 Let us embrace the shadows, bid the fading light,
