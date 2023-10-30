@@ -76,22 +76,22 @@ We ought to contemplate our food, express gratitude for the sacrifices that have
 This food enables us to journey through life, taking our turn to nourish the world and allowing ourselves to be digested by the vast universal body.
 
 
-	Amidst the hallowed whispers of Samhain's night,
-	Let us embrace the shadows, bid the fading light,
-	Happy regeneration, in this feast we partake,
-	We dine, we honor death, and life we shall remake.
+Amidst the hallowed whispers of Samhain's night,
+Let us embrace the shadows, bid the fading light,
+Happy regeneration, in this feast we partake,
+We dine, we honor death, and life we shall remake.
 	
-	In the bounty of the harvest, the table set with care,
-	Let's honor the passing, let the old ways share,
-	Of our food, of our world, we bid a fond adieu,
-	To make them live again, in a cycle ever true.
+In the bounty of the harvest, the table set with care,
+Let's honor the passing, let the old ways share,
+Of our food, of our world, we bid a fond adieu,
+To make them live again, in a cycle ever true.
 	
-	As the veil between worlds shimmers, so thin,
-	We lay our souls bare, let the banquet begin,
-	Happy regeneration, in this timeless refrain,
-	We dine, we are reborn, in the cycle's gentle chain. 
+As the veil between worlds shimmers, so thin,
+We lay our souls bare, let the banquet begin,
+Happy regeneration, in this timeless refrain,
+We dine, we are reborn, in the cycle's gentle chain. 
 	
-	With every setting sun, with every twilight sigh,
-	We honor what has been, as the old worlds die,
-	To see them rise anew, in the endless cosmic game,
-	Happy regeneration, in Samhain's whispered name.
+With every setting sun, with every twilight sigh,
+We honor what has been, as the old worlds die,
+To see them rise anew, in the endless cosmic game,
+Happy regeneration, in Samhain's whispered name.
