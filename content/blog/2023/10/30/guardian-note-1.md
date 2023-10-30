@@ -1,7 +1,8 @@
 ---
 title: "Guardian Note 1: Autumnal Reflections from the Bergerac Hub"
 created: 2023-10-30
-authors: 
+authors:
+  - alexia
 categories:
   - hubs
 image: /assets/images/guardian-note-1.jpg
