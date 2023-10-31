@@ -76,6 +76,7 @@ We ought to contemplate our food, express gratitude for the sacrifices that have
 This food enables us to journey through life, taking our turn to nourish the world and allowing ourselves to be digested by the vast universal body.
 
 
+
 Amidst the hallowed whispers of Samhain's night,
 Let us embrace the shadows, bid the fading light,
 Happy regeneration, in this feast we partake,
