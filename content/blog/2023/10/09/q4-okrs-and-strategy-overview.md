@@ -9,7 +9,7 @@ categories:
 image: /assets/images/pizza-okrs.jpg
 ---
 
-We’ve been digging deep at the start of the Q4 2023 period, and after lots of exciting and fruitful discussions here is an update on the last quarters OKRs and a high-level overview of our strategy. As always this is a work in motion.
+We’ve been digging deep at the start of the Q4 2023 period, and after lots of exciting and fruitful discussions here is a high-level overview of our strategy. As always this is a work in motion. The OKRs detailed here have changed further since being published and are refined [and available here now to read](https://lifeitself.org/tao/plan-2023). You are of course welcome to read where we started below. We just realised we probably got a bit carried away for a small team and what we could realistically ship. 
 
 ## Strategy
 
