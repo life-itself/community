@@ -1,22 +1,72 @@
 ---
-title: "Fundamental Wellbeing"
-created: 2023-04-21
-authors: 
+title: An Introduction to Dr. Jeffery Martin's Work on Fundamental Wellbeing
+created: 2023-11-01
+authors:
   - rufuspollock
   - jefferymartin
+description: Fundamental Wellbeing is the the experience of persistent, higher states of conscious, also known as awakening, enlightenment and other terms. This page is an introduction to the concept.
+image: /assets/images/fundamental-wellbeing-dr-jeffery-martin.jpg
 ---
-## What is Fundamental Wellbeing
+ At Life Itself, we believe that cultivating being is one of the core tenants of creating a wiser, weller world. Greater spiritual enlightenment, leads to better wellbeing, greater compassion, and honed abilities to be connected to ourselves and others.
+ 
+ While there are many terms for spiritual enlightenment, here we refer to the term Fundamental Wellbeing. In fact, this page is dedicated to Dr. Jeffery Martin's work, the man who coined the term and has spent over a decade researching how people reach Fundamental Wellbeing. 
+ 
+ By the end of this page you should have a solid understanding of Dr. Martin's work, the concepts of Fundamental Wellbeing and how to explore it further.
 
-Fundamental Wellbeing is a termed coined (or made popular) by [Jeffery Martin](https://lifeitself.org/notes/jeffery-martin). In more academic settings he tends to refer to it as Persistent Non-Symbolic Experience (Martin credits the "non-symbolic" terminology to [abc/@cook-greuter](https://lifeitself.org/abc/@cook-greuter)).
+## Interviews with Dr. Jeffery Martin
 
-The terminology is a secular (and hence friendlier) and standardized label for [state](https://lifeitself.org/state) stages. Martin's map of the transcendent section of state space is the most detailed and worked out of any we know of. It greatly extends [Wilber](https://lifeitself.org/Wilber)'s map and those of classic wisdom traditions.
+Before we explore Fundamental Wellbeing throughout this page, begin by watching one of the most extensive interviews with Dr. Jeffery Martin on the web. 
 
-The most recent version of Martin's map is from his keynote at the Society for Consciousness Studies 2021 Conference: [The Martin Matrix, a Comprehensive Map of Persistent Non-Symbolic Experience (Enlightenment/Nondual)](https://www.youtube.com/watch?v=aCfeamM07dk) (YouTube Dec 22 2021).
+Hosted by Life Itself Co-founder, Rufus Pollock, these interviews explore the many facets of Fundamental Wellbeing, Dr. Martins research and how this has informed his work developing tools and protocols for reaching Fundamental Wellbeing.
 
-> The Martin Matrix, a Comprehensive Map of Persistent Non-Symbolic Experience In the spirit of previous milestones such as the "Wilber-Combs Matrix", this talk presents a new comprehensive model covering different types and depths of Persistent Non-Symbolic Experience (PNSE; i.e.: enlightenment, nonduality, the peace that passeth understanding, unity consciousness, etc.). Publications and presentations over the previous 15 years of research have extensively detailed the “types” axis of the matrix. This was often confusing to the interested public, because most previous models by religious, spiritual, and philosophical traditions and teachers primarily refer to experiences in the “depth” axis of the matrix. This is the first academic presentation covering the “depth” axis, and will also explore how various depths of PNSE change across its types, which degree of depth is most resonant with a given type, and so on.
+### Part 1: Researching awakened people
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EmsLdIH8nzU?si=DPgQvJYOGKDGVykK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+### Part 2: The protocol to reaching fundamental wellbeing
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0l_jrk0HTVY?si=Gpg2YCzE8qECUQbz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+### Part 3: Exploring the map of enlightenment
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vDuh7vDgGIg?si=BdYoORpcvU8_9R17" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
-## Who is Dr. Jeffery Martin
+## What is Fundamental Wellbeing?
+
+Fundamental Wellbeing is a term coined by Dr. Jeffery Martin as an overarching and secular term to encompass the many terms for such experiences (e.g. awakening, enlightenment, satori, samadhi, nirvana to name a few). This is the layman's term for what is known in academia as Persistent Non-Symbolic Experience.  
+
+Fundamental Wellbeing is therefore the experience people have when they transition to this heightened human experience.
+
+## What are the criteria for experiencing Fundamental Wellbeing?
+
+Through Dr.Martins extensive interviews he was able to identify some key criteria that came with the transition to Fundamental Wellbeing that was reported across multiple faiths and religions:
+
+- A reduction in thoughts, particularly self-reflective thoughts.
+- Negative emotions would go away much faster (or negative motions do not exist at all)
+- Living in the past and future is less common, mostly living in the present
+- Feelings of persistent contentment
+- An increased sense of connectedness
+
+## What is Dr. Martin's research? 
+
+In 2006, Dr. Martin started his PhD in Transformative Studies at the California Institute of Integral Studies determined to figure out how to become the happiest person on the planet. His approach began by surveying happy people. Not just any happy person off the street, but spiritually developed individuals from different religions and traditions which appeared to have attained full spiritual awakening. The surveys were to determine if there were psychological differences between these people and other people, however these initial findings did not indicate anything specifically unique.  
+
+Following this his team conducted live interviews with the selection of people using cognitive science techniques which enabled them to capture consistent data between different individuals across different religions, traditions and experiences that could be compared. This lead to the range of criteria of Fundamental Wellbeing, which has been continually researched by Dr. Martin. You can learn more about this in episode one of our interviews.
+
+## How do you reach Fundamental Wellbeing?
+
+Those who have transitioned to Fundamental Wellbeing have done so through many gateways and environments, from deep spiritual devotion to psychedelic experiences. However, through his research Dr. Martin has developed a protocol for people to follow to transition to Fundamental Wellbeing.
+
+Learn more about is this Part 2 of the interviews.
+## What is the Martin Matrix? 
+
+Based on Dr. Martin's research, he was able to create a matrix/map of Fundamental Wellbeing and describe the different dimensions of experience. The axis are the location and the layer, where location describes the level of Fundamental Wellbeing and the layer describes the depth of the experience. 
+
+The deepest layer and highest location is the peak stat of Fundamental Wellbeing. Learn more about the Martin Matrix and the descriptions of the layers and locations in part 2 and 3 of the interview and in this video below. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aCfeamM07dk?si=mfdG1djlUneojhGf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+## Who is Dr. Jeffery Martin?
 
 Jeffery Martin is a renowned author, speaker, and entrepreneur who has dedicated his life to studying and helping people achieve transformative experiences. He is the founder of the Transformative Technology Lab, a non-profit organization that seeks to develop and promote technologies that enhance human well-being.
 
@@ -26,48 +76,21 @@ In addition to his work as an author, Martin is also an experienced public speak
 
 Martin is also an entrepreneur, having founded several successful companies over the course of his career. His latest venture, drjefferymartin.com, provides coaching and training services to individuals seeking to achieve transformative experiences in their personal and professional lives.
 
-Through his work, Martin has helped thousands of people achieve greater levels of personal fulfillment and success. His unique blend of scientific research, spiritual insights, and practical advice has made him a sought-after speaker, coach, and mentor.
+Through his work, Martin has helped thousands of people achieve greater levels of personal fulfilment and success. His unique blend of scientific research, spiritual insights, and practical advice has made him a sought-after speaker, coach, and mentor.
 
-## Our podcast episodes
+## Go deeper
 
-Part 1: Dr Jeffery Martin on A Scientific Approach to Awakening and Fundamental Wellbeing
-
-[Lifeitself Podcast](https://lifeitself.org/podcast/a-scientific-approach-to-awakening-and-fundamental-wellbeing-podcast)
-
-[YouTube](https://youtu.be/EmsLdIH8nzU)
-
-[Spotify](https://spotifyanchor-web.app.link/e/atCvzSYLazb)
-
-Part 2: Dr Jeffery Martin on A Scientific Approach to Awakening and Fundamental Wellbeing 
-
-[Lifeitself Podcast](https://lifeitself.org/podcast/a-scientific-approach-to-awakening-and-fundamental-wellbeing-part-2-jeffery-martin)
-
-[YouTube](https://youtu.be/0l_jrk0HTVY)
-
-[Spotify](https://spotifyanchor-web.app.link/e/c34gB9Bb8yb)
-
-Part 3: Dr Jeffery Martin on A Scientific Approach to Awakening and Fundamental Wellbeing 
-
-[Lifeitself Podcast](https://lifeitself.org/podcast/a-scientific-approach-to-awakening-and-fundamental-wellbeing-part-3-jeffery-martin)
-
-[YouTube](https://youtu.be/vDuh7vDgGIg)
-
-[Spotify](https://podcasters.spotify.com/pod/dashboard/episode/e22vp6s)
-
-## Key readings and resources
-
-Further reading:
+### Further reading
   
 📖 Free ebook summarising 45 Days to Awakening research findings: https://smileu.finderscourse.com/How-To-Ebook?seg_id=01FKBGQRGPA66DHV1MJKVQXRQT.3464.1635695452696
 
-📖 Martin, Jeffery A. The Finders. Integration Press, 2019.
-
+📖 Martin, Jeffery A. The Finders. Integration Press, 2019. 
 https://www.amazon.com/dp/B07MZVB816
 
 🖥 https://drjefferymartin.com/
 
-## Suggested course 
+### Suggested course 
 
 [45 Days to Awakening](https://45daystoawakening.com/landing-page1594666682471)
 
-This course is designed and conducted by Dr Jaffery Martin. 
+This course is designed and conducted by Dr Jeffery Martin. 
