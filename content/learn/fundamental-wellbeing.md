@@ -1,21 +1,26 @@
 ---
-title: An Introduction to Dr. Jeffery Martin's Work on Fundamental Wellbeing
-created: 2023-11-01
+title: "A Scientific Approach to Awakening and Fundamental Wellbeing: The Work of Dr. Jeffrey Martin"
+created: 2023-04-21
 authors:
   - rufuspollock
-  - jefferymartin
-description: Fundamental Wellbeing is the the experience of persistent, higher states of conscious, also known as awakening, enlightenment and other terms. This page is an introduction to the concept.
+description: Fundamental Wellbeing is the experience of persistent, higher states of conscious, also known as awakening, enlightenment and other terms. This page is an introduction to the concept.
 image: /assets/images/fundamental-wellbeing-dr-jeffery-martin.jpg
 ---
- At Life Itself, we believe that cultivating being is one of the core tenants of creating a wiser, weller world. Greater spiritual enlightenment, leads to better wellbeing, greater compassion, and honed abilities to be connected to ourselves and others.
- 
- While there are many terms for spiritual enlightenment, here we refer to the term Fundamental Wellbeing. In fact, this page is dedicated to Dr. Jeffery Martin's work, the man who coined the term and has spent over a decade researching how people reach Fundamental Wellbeing. 
- 
- By the end of this page you should have a solid understanding of Dr. Martin's work, the concepts of Fundamental Wellbeing and how to explore it further.
+Dr. Jeffery Martin is a researcher known for his work on Fundamental Wellbeing, which focuses on understanding and cultivating higher states of consciousness and well-being in individuals. He has conducted extensive studies exploring various altered states of consciousness, such as enlightenment, mystical experiences, and non-symbolic consciousness.
+
+Dr. Martin's research aims to identify common patterns and traits associated with these states, helping individuals achieve a more profound sense of wellbeing and fulfillment. He has developed specific training programs and techniques to guide people into these states.
+
+By studying individuals who have experienced Fundamental Wellbeing, Dr. Martin seeks to uncover the underlying neurological, psychological, and physiological mechanisms that contribute to these states. His work provides valuable insights into human consciousness and offers practical approaches for people to enhance their overall well-being and spiritual experiences.
+
+In this page we will cover:
+- The definition of Fundamental Wellbeing
+- The criteria of experiencing Fundamental Wellbeing
+- The map and locations of Fundamental Wellbeing
+- Protocols for experiencing Fundamental Wellbeing
 
 ## Interviews with Dr. Jeffery Martin
 
-Before we explore Fundamental Wellbeing throughout this page, begin by watching one of the most extensive interviews with Dr. Jeffery Martin on the web. 
+The following interviews with Dr. Martin himself conducted in 2022 and 2023 provide an in-depth introduction to Martin's work on Fundamental Wellbeing. These are one of the most extensive interviews of Dr. Martin on the internet! 
 
 Hosted by Life Itself Co-founder, Rufus Pollock, these interviews explore the many facets of Fundamental Wellbeing, Dr. Martins research and how this has informed his work developing tools and protocols for reaching Fundamental Wellbeing.
 
@@ -58,15 +63,22 @@ Following this his team conducted live interviews with the selection of people u
 
 Those who have transitioned to Fundamental Wellbeing have done so through many gateways and environments, from deep spiritual devotion to psychedelic experiences. However, through his research Dr. Martin has developed a protocol for people to follow to transition to Fundamental Wellbeing.
 
+While no single persons journey is the same, there are 24 tried and tested methods which enable people to access Fundamental Wellbeing. In the [Finders course](https://45daystoawakening.com/sales-page-412549911595138654190), Dr. Martin shares these methods with astounding results. Over the course of 6 weeks, 65% of attendees experience Fundamental Wellbeing. 
+
 Learn more about is this Part 2 of the interviews.
 ## What is the Martin Matrix? 
+
+![[persistent-non-symbolic-experience-fundamental-wellbeing-dr-jeffery-martin-location-map.jpeg]]
+_The location continuum of Fundamental Wellbeing (Persistent Non-Symbolic Experience) is one axis of the Martin Matrix_
 
 Based on Dr. Martin's research, he was able to create a matrix/map of Fundamental Wellbeing and describe the different dimensions of experience. The axis are the location and the layer, where location describes the level of Fundamental Wellbeing and the layer describes the depth of the experience. 
 
 The deepest layer and highest location is the peak stat of Fundamental Wellbeing. Learn more about the Martin Matrix and the descriptions of the layers and locations in part 2 and 3 of the interview and in this video below. 
 
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aCfeamM07dk?si=mfdG1djlUneojhGf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-## Who is Dr. Jeffery Martin?
+
+## About Dr. Jeffery Martin?
 
 Jeffery Martin is a renowned author, speaker, and entrepreneur who has dedicated his life to studying and helping people achieve transformative experiences. He is the founder of the Transformative Technology Lab, a non-profit organization that seeks to develop and promote technologies that enhance human well-being.
 
@@ -81,16 +93,17 @@ Through his work, Martin has helped thousands of people achieve greater levels o
 ## Go deeper
 
 ### Further reading
-  
-📖 Free ebook summarising 45 Days to Awakening research findings: https://smileu.finderscourse.com/How-To-Ebook?seg_id=01FKBGQRGPA66DHV1MJKVQXRQT.3464.1635695452696
 
-📖 Martin, Jeffery A. The Finders. Integration Press, 2019. 
-https://www.amazon.com/dp/B07MZVB816
+📖  [Martin, Jeffery A. (2020) "Clusters of Individuals Experiences form a Continuum of Persistent Non-Symbolic Experiences in Adults," _CONSCIOUSNESS: Ideas and Research for the Twenty-First Century_: Vol. 8: Iss. 8, Article 1.](https://digitalcommons.ciis.edu/conscjournal/vol8/iss8/1/)
+
+📖 [Free ebook summarising 45 Days to Awakening research findings](https://smileu.finderscourse.com/How-To-Ebook?seg_id=01FKBGQRGPA66DHV1MJKVQXRQT.3464.1635695452696)
+
+📖 [Martin, Jeffery A. The Finders. Integration Press, 2019.](https://www.amazon.com/dp/B07MZVB816)
 
 🖥 https://drjefferymartin.com/
 
 ### Suggested course 
 
-[45 Days to Awakening](https://45daystoawakening.com/landing-page1594666682471)
+[45 Days to Awakening](https://45daystoawakening.com/landing-page1594666682471): This course is designed and conducted by Dr Jeffery Martin. 
 
-This course is designed and conducted by Dr Jeffery Martin. 
+_We have no affiliation to the work or courses of Dr. Jeffery Martin, but believe his work to be worth sharing._
