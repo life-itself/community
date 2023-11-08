@@ -1,5 +1,5 @@
 ---
-title: Fall-Winter Long Term Residency
+title: Fall Winter Praxis Residency
 description: An opportunity to focus on one's own inquiries while engaging in conscious community practices held by a lightweight developmental frame. Running from October 2023 through March 2024, participation is open, with stays ranging from two weeks up to the full five months.
 image: /assets/images/long-term-residency (1).jpg
 start: 2023-10-15
@@ -12,16 +12,19 @@ apply-button: https://docs.google.com/forms/d/e/1FAIpQLSdiykDKyZR6DgtPKeYuNePy9s
 created: 2023-06-23
 ---
 
-In this long-term residency, participants will engage in a variety of Minimum Viable Practices (MVPs): shared cooking, silent sitting, house and garden care. Optionally there are a variety of other practices e.g. circling, systemic constellations, zen etc. that will be co-designed and co-facilitated by the group. These activities also nourish the living laboratory spirit of the hub, which aims to explore the intersection of individuality and community, to challenge traditional perspectives, and cultivate a compassionate, cooperative ethos.
+In this long-term residency, participants arrive with a project or a question and explore it while being part of a systemic collective body. Every day, residents are supported by an invisible framework based on Minimum Viable Practices (MVPs): shared cooking, silent meditation, housecleaning, and garden care, all of which help us navigate our emotions in a dynamic way. During the evenings, participants can share, test their practices within the group, and explore new ones. Evenings are a blend of circling or simply unwinding, with a core circle where we can engage in deeper check-ins.
+
+This Fall Praxis residency focuses on the question of leading a good life and what it means to be human in our time. Instead of following a strict program of knowledge , it creates space to listen to  what collective wants to emerge. On the way , feeling the rythm of a community and observes how the system adapts to what unfolds, light or shadow.
+
+Our time together and the diverse practices we encounter also nourish the living laboratory spirit of the hub. This spirit is aimed at exploring the practices that support community, both on a personal and collective level, at the unique intersection of individuality and community, private and collective spheres. This approach challenges traditional perspectives and cultivates a compassionate, cooperative ethos.
 
 This long-term residency allows the space for each to do their own remote work within a lightweight developmental "frame". A lot of us who are already here are using these months to focus on creative work, such as writing a book, painting, or designing courses.
 
 It is open to all system-thinkers, researchers, spiritual ecologists, bodhisattvas, change makers, symbiotic entrepreneurs, poets, painters, eco-dharmists - any people ready to just be with what comes and welcome dancing within complexity.
 
-
 Building upon a previous season of sympoesis residencies, where themes like contemplative activism, eco-spirituality, interbeing, collective intelligence, and relational embodiment were explored, the practices we engage in are designed to inspire a compassionate lifestyle, ecological balance, and a shift from individual isolation to a sense of supportive community. 
 
-Regarding food, our house Tenzo, Valerie, will guide the group through daily cooking practices as part of the deliberately developmental technologies of the hub. 
+Regarding food, our house Tenzo, Valerie, will guide the group through daily cooking practices as part of the deliberately developmental technology of the hub where each person is enrolled  to be a cook. 
 
 
 Schedule (indicative and will change with the needs of the participants):
@@ -39,6 +42,6 @@ Besides the daily structure, there can be a weekly sharing/regulatory circle. In
 
 Weekends don't have any frame. During that time spontanous cooking and eating organisation happens. This is a time that gives opportunity to discover surroundings such as Plum Village or prehistorical caves. 
 
-The monthly cost  ranges between 300 to 850 euros depending on the room, plus approx. 300 euros for food and amenities. All communal food is organic and plant-based.
+The monthly cost  ranges between 350 to 850 euros depending on the room, plus approx. 300 euros for food and amenities. All communal food is organic and plant-based.
 
-Ideal candidates are those who resonate with these principles and practices and are ready to explore their impact on a personal and communal level.
+Ideal candidates are those who resonate with these principles and practices, have a project to work on  and are ready to explore being community.
