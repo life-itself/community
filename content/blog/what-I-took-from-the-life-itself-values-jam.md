@@ -1,9 +1,9 @@
 ---
-title: What I took from the Life Itself values jam
+title: What I took from the Life Itself Values Jam
 created: 2023-11-08
 authors:
   - lauren-wigmore
-image: /assets/images/shared-values-blog-neighbourhood
+image: /assets/images/shared-values-blog-neighbourhood.png
 categories:
   - community
   - community-call
