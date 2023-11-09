@@ -21,4 +21,4 @@ In this series you will be taken deep into these ordinary peoples world's. Watch
 
 ## Listen to the series here
 
-**👂** [Jamie Bristow on Mindfulness, Inner Development and Contemplative Practices](https://lifeitself.org/podcast/jamie-bristow-sylvie-barbier-mindfulness-inner-development)(<br/>)
+**👂** [Jamie Bristow on Mindfulness, Inner Development and Contemplative Practices](https://lifeitself.org/podcast/jamie-bristow-sylvie-barbier-mindfulness-inner-development)
