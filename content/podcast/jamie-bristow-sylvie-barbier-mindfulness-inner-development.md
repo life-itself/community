@@ -3,17 +3,18 @@ title: Jamie Bristow on Mindfulness, Inner Development and Contemplative Practic
 authors:
   - sylvieshiweibarbier
 date: 2023-11-08
-src: '"https://anchor.fm/s/79b39934/podcast/play/78356050/https://d3ctxlq1ktw2nl.cloudfront.net/production/exports/79b39934/78356050/f4a39d59e6e58d6e79a9c3544c6cf089.m4a"'
-image: " https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/20318133/20318133-1699467834431-b44add03a019.jpg"
+src: https://anchor.fm/s/79b39934/podcast/play/78356050/https://d3ctxlq1ktw2nl.cloudfront.net/production/exports/79b39934/78356050/f4a39d59e6e58d6e79a9c3544c6cf089.m4a
+image: https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/20318133/20318133-1699467834431-b44add03a019.jpg
 ---
 In this episode of the Life Itself Podcast from the [Once Upon a Time Series](https://lifeitself.org/once-upon-a-time-series), Life Itself Co-Founder Sylvie Barbier is joined by Jamie Bristow a leading expert on inner development and contemplative practices in public life. Jamie talks about his journey from his troubling teenage years to teaching mindfulness to politicians. Jamie Bristow opens up about his troubling teenage years led by the dislocation and adaption of new cultures while their family moved between the UK and the USA. Exploring what led him to move away from his advertising career to being a mindfulness practitioner and teacher. Jamie’s life story highlights the importance of meditation, faith, and resilience in leading a mindful life. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/g40xTkyKLtE?si=5jnZXLTcEpBDbCy2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 # About Jamie Bristow
 Jamie Bristow is a leading expert on inner development and contemplative practices in public life.
 For eight years, he was Director of the Mindfulness Initiative and clerk to the UK’s All-Party Parliamentary Group on Mindfulness. In 2023, he joined the Inner Development Goals team to lead on public narrative & policy development. Jamie was formerly Business Development Director for Headspace and has a background in psychology, climate change campaign communications and advertising. A teacher of insight meditation, his mentors have included Rob Burbea, Stephen Batchelor and Christina Feldman. 
 
-Learn more about Jamie Bristow and his work here: https://www.jamiebristow.com/
+[Learn more about Jamie Bristow and his work here](https://www.jamiebristow.com/)
 
 # About Sylvie Barbier
 Sylvie Barbier is a French-Taiwanese performance artist, entrepreneur and educator. She co-founded Life Itself to build a wiser future through culture, space and community.

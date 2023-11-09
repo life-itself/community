@@ -16,8 +16,9 @@ In this series you will be taken deep into these ordinary peoples world's. Watch
 
 ## Watch the series here
 
-Jamie Bristow on Mindfulness, Inner Development and Contemplative Practices coming soon!
+#### Jamie Bristow on Mindfulness, Inner Development and Contemplative Practices
+<iframe width="280" height="160" src="https://www.youtube.com/embed/g40xTkyKLtE?si=5jnZXLTcEpBDbCy2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Listen to the series here
 
-Jamie Bristow on Mindfulness, Inner Development and Contemplative Practices coming soon!
+**👂** [Jamie Bristow on Mindfulness, Inner Development and Contemplative Practices](https://lifeitself.org/podcast/jamie-bristow-sylvie-barbier-mindfulness-inner-development)(<br/>)
