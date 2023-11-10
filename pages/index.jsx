@@ -255,19 +255,19 @@ export async function getStaticProps() {
   const learnTopics = [
     {
       id: 1,
-      title: "Fundamental wellbeing",
+      title: "",
       link: "https://lifeitself.org/learn/fundamental-wellbeing",
       image: "assets/images/fundamental-wellbeing-learn-homepage.jpg"
     },
     {
       id: 2,
-      title: "Cultural Evolution",
+      title: "",
       link: "https://lifeitself.org/learn/culturology",
-      image: "images/assets/cultural-evolution-learn-homepage.jpg"
+      image: "assets/images/cultural-evolution-learn-homepage.jpg"
     },
     {
       id: 3,
-      title: "Web3",
+      title: "",
       link: "http://web3.lifeitself.org",
       image: "assets/images/web3-learn-homepage.jpg"
     },
