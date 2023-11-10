@@ -257,19 +257,19 @@ export async function getStaticProps() {
       id: 1,
       title: "Web3",
       link: "http://web3.lifeitself.org",
-      image: "https://images.unsplash.com/photo-1496128858413-b36217c2ce36?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3603&q=80"
+      image: "assets/images/web3.jpeg"
     },
     {
       id: 2,
       title: "Ecosystem",
       link: "https://lifeitself.org/ecosystem",
-      image: "https://images.unsplash.com/photo-1547586696-ea22b4d4235d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3270&q=80"
+      image: "images/assets/ecosystem-project-image.png"
     },
     {
       id: 3,
       title: "Fundamental wellbeing",
       link: "https://lifeitself.org/learn/fundamental-wellbeing",
-      image: "https://images.unsplash.com/photo-1492724441997-5dc865305da7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3270&q=80"
+      image: "assets/images/fundamental-wellbeing-dr-jeffery-martin.jpg"
     },
   ]
 
