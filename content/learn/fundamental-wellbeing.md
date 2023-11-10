@@ -38,7 +38,6 @@ Hosted by Life Itself Co-founder, Rufus Pollock, these interviews explore the ma
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vDuh7vDgGIg?si=BdYoORpcvU8_9R17" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 ## What is Fundamental Wellbeing?
 
 Fundamental Wellbeing is a term coined by Dr. Jeffery Martin as an overarching and secular term to encompass the many terms for such experiences (e.g. awakening, enlightenment, satori, samadhi, nirvana to name a few). This is the layman's term for what is known in academia as Persistent Non-Symbolic Experience.  
