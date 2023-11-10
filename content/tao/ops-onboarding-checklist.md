@@ -83,6 +83,7 @@ Next, scroll down for more detail on completing the steps.
 * [ ] Email sent to welcome onboardee
 * [ ] Invite sent to welcome call
 * [ ] Add to appropriate WhatsApp channels
+* [ ] Added to Youtube Channel
 * [ ] Invite to Xero and add bank details
 * [ ] Add to Life Itself on Github once the Onboardee has created a GitHub account
 * [ ] Welcome/Onboarding call complete
