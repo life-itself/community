@@ -6,7 +6,7 @@ authors:
 description: Fundamental Wellbeing is the experience of persistent, higher states of conscious, also known as awakening, enlightenment and other terms. This page is an introduction to the concept.
 image: /assets/images/fundamental-wellbeing-dr-jeffery-martin.jpg
 ---
-![[fundamental-wellbeing-dr-jeffery-martin..jpg]]
+![[fundamental-wellbeing-dr-jeffery-martin.jpg]]
 
 Dr. Jeffery Martin is a researcher known for his work on Fundamental Wellbeing, which focuses on understanding and cultivating higher states of consciousness and well-being in individuals. He has conducted extensive studies exploring various altered states of consciousness, such as enlightenment, mystical experiences, and non-symbolic consciousness.
 
