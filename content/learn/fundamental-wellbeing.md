@@ -6,6 +6,8 @@ authors:
 description: Fundamental Wellbeing is the experience of persistent, higher states of conscious, also known as awakening, enlightenment and other terms. This page is an introduction to the concept.
 image: /assets/images/fundamental-wellbeing-dr-jeffery-martin.jpg
 ---
+![[fundamental-wellbeing-dr-jeffery-martin.jpg]]
+
 Dr. Jeffery Martin is a researcher known for his work on Fundamental Wellbeing, which focuses on understanding and cultivating higher states of consciousness and well-being in individuals. He has conducted extensive studies exploring various altered states of consciousness, such as enlightenment, mystical experiences, and non-symbolic consciousness.
 
 Dr. Martin's research aims to identify common patterns and traits associated with these states, helping individuals achieve a more profound sense of wellbeing and fulfillment. He has developed specific training programs and techniques to guide people into these states.
@@ -35,7 +37,6 @@ Hosted by Life Itself Co-founder, Rufus Pollock, these interviews explore the ma
 ### Part 3: Exploring the map of enlightenment
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vDuh7vDgGIg?si=BdYoORpcvU8_9R17" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 
 ## What is Fundamental Wellbeing?
 
@@ -107,3 +108,9 @@ Through his work, Martin has helped thousands of people achieve greater levels o
 [45 Days to Awakening](https://45daystoawakening.com/landing-page1594666682471): This course is designed and conducted by Dr Jeffery Martin. 
 
 _We have no affiliation to the work or courses of Dr. Jeffery Martin, but believe his work to be worth sharing._
+
+## Appendix 
+
+The most recent version of Martin's map is from his keynote at the Society for Consciousness Studies 2021 Conference: [The Martin Matrix, a Comprehensive Map of Persistent Non-Symbolic Experience (Enlightenment/Nondual)](https://www.youtube.com/watch?v=aCfeamM07dk) (YouTube Dec 22 2021).
+
+> The Martin Matrix, a Comprehensive Map of Persistent Non-Symbolic Experience In the spirit of previous milestones such as the "Wilber-Combs Matrix", this talk presents a new comprehensive model covering different types and depths of Persistent Non-Symbolic Experience (PNSE; i.e.: enlightenment, nonduality, the peace that passeth understanding, unity consciousness, etc.). Publications and presentations over the previous 15 years of research have extensively detailed the “types” axis of the matrix. This was often confusing to the interested public, because most previous models by religious, spiritual, and philosophical traditions and teachers primarily refer to experiences in the “depth” axis of the matrix. This is the first academic presentation covering the “depth” axis, and will also explore how various depths of PNSE change across its types, which degree of depth is most resonant with a given type, and so on.

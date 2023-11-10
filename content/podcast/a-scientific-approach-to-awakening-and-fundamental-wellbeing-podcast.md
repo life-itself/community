@@ -5,6 +5,8 @@ date: 2023-01-19
 src: https://anchor.fm/s/79b39934/podcast/play/63561936/https://d3ctxlq1ktw2nl.cloudfront.net/production/exports/79b39934/63561936/147774b0ce2a10386e0c394c39cf85db.m4a
 image: https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/staging/podcast_uploaded_episode400/20318133/20318133-1681539409254-7918fb4ef621c.jpg
 ---
+>See our full introduction to Dr. Jeffery Martin's work here: [[content/learn/fundamental-wellbeing|fundamental-wellbeing]] 
+
 
 In this episode of the Life Itself Podcast, Rufus Pollock is joined by [Dr Jeffery Martin](https://drjefferymartin.com/). Jeffery is a founder of the Transformative Technology space, a serial entrepreneur, and a social scientist who researches personal transformation and the states of greatest human well-being.
 
