@@ -3,18 +3,22 @@ title: "A Scientific Approach to Awakening and Fundamental Wellbeing: The Work o
 created: 2023-04-21
 authors:
   - rufuspollock
-description: Fundamental Wellbeing is the experience of persistent, higher states of conscious, also known as awakening, enlightenment and other terms. This page is an introduction to the concept.
+  - nathen-fitchen
+description: Fundamental Wellbeing is the experience of persistent, higher states of conscious, also known as awakening, enlightenment and other terms. This page is an introduction to the concept and the work of Jeffery Martin who has been conducting rigorous systematic research into this area for more than 15 years.
 image: /assets/images/fundamental-wellbeing-dr-jeffery-martin.jpg
+layout: fancy
+categories:
+  waking-up
 ---
-![[fundamental-wellbeing-dr-jeffery-martin.jpg]]
 
-Dr. Jeffery Martin is a researcher known for his work on Fundamental Wellbeing, which focuses on understanding and cultivating higher states of consciousness and well-being in individuals. He has conducted extensive studies exploring various altered states of consciousness, such as enlightenment, mystical experiences, and non-symbolic consciousness.
+Dr. Jeffery Martin is a researcher known for his work on Fundamental Wellbeing, which focuses on understanding and cultivating higher states of consciousness and well-being in individuals. He has conducted extensive studies exploring various altered states of consciousness associated with terms like enlightenment, awakening, nonduality and non-symbolic consciousness.
 
 Dr. Martin's research aims to identify common patterns and traits associated with these states, helping individuals achieve a more profound sense of wellbeing and fulfillment. He has developed specific training programs and techniques to guide people into these states.
 
 By studying individuals who have experienced Fundamental Wellbeing, Dr. Martin seeks to uncover the underlying neurological, psychological, and physiological mechanisms that contribute to these states. His work provides valuable insights into human consciousness and offers practical approaches for people to enhance their overall well-being and spiritual experiences.
 
-In this page we will cover:
+In this page we cover:
+
 - The definition of Fundamental Wellbeing
 - The criteria of experiencing Fundamental Wellbeing
 - The map and locations of Fundamental Wellbeing
@@ -95,22 +99,22 @@ Through his work, Martin has helped thousands of people achieve greater levels o
 
 ### Further reading
 
-📖  [Martin, Jeffery A. (2020) "Clusters of Individuals Experiences form a Continuum of Persistent Non-Symbolic Experiences in Adults," _CONSCIOUSNESS: Ideas and Research for the Twenty-First Century_: Vol. 8: Iss. 8, Article 1.](https://digitalcommons.ciis.edu/conscjournal/vol8/iss8/1/)
-
-📖 [Free ebook summarising 45 Days to Awakening research findings](https://smileu.finderscourse.com/How-To-Ebook?seg_id=01FKBGQRGPA66DHV1MJKVQXRQT.3464.1635695452696)
-
-📖 [Martin, Jeffery A. The Finders. Integration Press, 2019.](https://www.amazon.com/dp/B07MZVB816)
-
-🖥 https://drjefferymartin.com/
+- [Martin, Jeffery A. The Finders. Integration Press, 2019.](https://www.amazon.com/dp/B07MZVB816) 📖 an accessible overview of the idea of fundmanental wellbeing and locations.
+- [Martin, Jeffery A. (2020) "Clusters of Individuals Experiences form a Continuum of Persistent Non-Symbolic Experiences in Adults," _CONSCIOUSNESS: Ideas and Research for the Twenty-First Century_: Vol. 8: Iss. 8, Article 1.](https://digitalcommons.ciis.edu/conscjournal/vol8/iss8/1/) 📖 research article summarizing some of the results from the Finders course.
+- [Free ebook summarising 45 Days to Awakening research findings](https://smileu.finderscourse.com/How-To-Ebook?seg_id=01FKBGQRGPA66DHV1MJKVQXRQT.3464.1635695452696) 📖
+- https://drjefferymartin.com/ 🖥  Martin's home page.
 
 ### Suggested course 
 
-[45 Days to Awakening](https://45daystoawakening.com/landing-page1594666682471): This course is designed and conducted by Dr Jeffery Martin. 
-
-_We have no affiliation to the work or courses of Dr. Jeffery Martin, but believe his work to be worth sharing._
+[45 Days to Awakening](https://45daystoawakening.com/landing-page1594666682471): This course is designed and conducted by Dr Jeffery Martin and colleagues.
 
 ## Appendix 
 
 The most recent version of Martin's map is from his keynote at the Society for Consciousness Studies 2021 Conference: [The Martin Matrix, a Comprehensive Map of Persistent Non-Symbolic Experience (Enlightenment/Nondual)](https://www.youtube.com/watch?v=aCfeamM07dk) (YouTube Dec 22 2021).
 
 > The Martin Matrix, a Comprehensive Map of Persistent Non-Symbolic Experience In the spirit of previous milestones such as the "Wilber-Combs Matrix", this talk presents a new comprehensive model covering different types and depths of Persistent Non-Symbolic Experience (PNSE; i.e.: enlightenment, nonduality, the peace that passeth understanding, unity consciousness, etc.). Publications and presentations over the previous 15 years of research have extensively detailed the “types” axis of the matrix. This was often confusing to the interested public, because most previous models by religious, spiritual, and philosophical traditions and teachers primarily refer to experiences in the “depth” axis of the matrix. This is the first academic presentation covering the “depth” axis, and will also explore how various depths of PNSE change across its types, which degree of depth is most resonant with a given type, and so on.
+
+## Colophon
+
+Note: we have no affiliation to the work or courses of Dr. Jeffery Martin and receive no compensation of any kind. We are sharing this work simply because we believe it is worth sharing.
+
