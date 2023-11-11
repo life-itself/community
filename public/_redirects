@@ -39,6 +39,8 @@
 /you-are-here                        /hubs/bergerac
 /deliberately-developmental-space    /blog/2021/10/05/deliberately-developmental-spaces-a-key-to-addressing-the-metacrisis
 /hangouts                            /community
+# 2023-11-11 can probably be removed in 2m or so as only up for a couple of days
+/once-upon-a-time-series            /ordindary/people 301
 
 /author/:slug         /people/:slug
 
