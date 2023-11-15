@@ -1,6 +1,6 @@
 ---
 title: 10 Eco Communities to Visit in Europe
-created: 
+created: 2023-11-15
 authors:
   - moon-immisch
 image: /assets/images/eco-communities-blog.jpg
