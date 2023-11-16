@@ -4,8 +4,11 @@ created: 2023-11-15
 authors:
   - sylvieshiweibarbier
 image: /assets/images/gathering-2024.png
-description: "A Gathering on the Second Renaissance: journey to an awakening society. Exploring art as gateway to political, social and spiritual transformation."
+description: "Annoucing the return of our original annual event: the Gathering! The theme for 2024 will be the Second Renaissance: journey to an awakening society. In this event we will explore art as gateway to political, social and spiritual transformation."
+categories:
+  - gathering
 ---
+
 We are delighted to announce the return of our original annual event: the Gathering! The theme for this 2024 Gathering will be the Second Renaissance: journey to an awakening society. In this event we will explore art as gateway to political, social and spiritual transformation. The event is has a special new two part structure:
 
 - Part I: 13th to 16th June: sharing the second renaissance
