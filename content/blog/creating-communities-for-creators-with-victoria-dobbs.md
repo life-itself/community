@@ -1,5 +1,5 @@
 ---
-title: "Upcoming Community Call: Creating Communities for Creators with Victoria Dobbs"
+title: "Community Call: Creating Communities for Creators with Victoria Dobbs"
 created: 2023-10-16
 categories:
   - community-call
