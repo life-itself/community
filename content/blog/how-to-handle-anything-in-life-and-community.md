@@ -5,7 +5,7 @@ categories:
   - community-call
 authors:
   - lauren-wigmore
-image: /assets/images/james-community-call.jpg
+image: /assets/images/james2-community-call.jpg
 description: The underlying pattern of growing up and becoming wise typically remains unseen.  In this call James takes us through his "how to grow" model distilled from developmental and relational practice work.
 ---
 **[Register for the call on Wednesday 22nd November at 730pm CET here](https://us02web.zoom.us/meeting/register/tZIpdu-tpjMiGtd6TXS67yKBqpwq5RxqotZp)**
