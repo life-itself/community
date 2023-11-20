@@ -3,7 +3,7 @@ title: Fall Winter Praxis Residency
 description: An opportunity to focus on one's own inquiries while engaging in conscious community practices held by a lightweight developmental frame. Running from October 2023 through March 2024, participation is open, with stays ranging from two weeks up to the full five months.
 image: /assets/images/long-term-residency (1).jpg
 start: 2023-10-15
-end: 2024-03-14
+end: 2024-03-31
 facilitator:
   - Praxis guardians
 location: The Life Itself Praxis Hub, Bergerac, France
@@ -11,6 +11,7 @@ cost: Ranging from 300-850€ /month excluding food and maintenance (an extra ap
 apply-button: https://docs.google.com/forms/d/e/1FAIpQLSdiykDKyZR6DgtPKeYuNePy9sWc-qkIc4BVfKBRjkFWKvFp-g/viewform
 created: 2023-06-23
 ---
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSdiykDKyZR6DgtPKeYuNePy9sWc-qkIc4BVfKBRjkFWKvFp-g/viewform" className="px-3 py-2 rounded bg-secondary text-sm text-primary font-medium shadow-xs hover:bg-secondary/80 focus-visible:outline">Apply to Residency Here &rarr;</a>
 
 In this long-term residency, participants arrive with a project or a question and explore it while being part of a systemic collective body. Every day, residents are supported by an invisible framework based on Minimum Viable Practices (MVPs): shared cooking, silent meditation, housecleaning, and garden care, all of which help us navigate our emotions in a dynamic way. During the evenings, participants can share, test their practices within the group, and explore new ones. Evenings are a blend of circling or simply unwinding, with a core circle where we can engage in deeper check-ins.
 
