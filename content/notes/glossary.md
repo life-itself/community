@@ -29,9 +29,10 @@ For example: Money is not a source of suffering, but an obsession with money is
 Being good looking is not a source of suffering, but an obsession with being good looking is.
 
 Hence our obsession with equality is also a source of suffering, as Thich Nhat Hanh said, "equality is not a source of suffering, but the equality complex (an obsession with it) is".
-Read more [here](https://lifeitself.org/blog/2019/12/01/blind-spot-3-the-equality-complex).
 
-## Dominator Hierachies
+Read [this blogpost](https://lifeitself.org/blog/2019/12/01/blind-spot-3-the-equality-complex) for more.
+
+## Dominator Hierarchies
 
 See Growth Hierarchies.
 
@@ -59,7 +60,7 @@ We’re doers as well as thinkers and meditators. We value hard work, commitment
 
 It takes dedication and effort to be great, to build something big. We want to create extraordinary enterprises and communities – that can not only co-exist with the existing system on its own terms but can surpass it.
 
-Find our [guide](https://lifeitself.org/tao/getting-stuff-done#how-do-we-complete-tasks?) to how to do that. 
+Read our [guide](https://lifeitself.org/tao/getting-stuff-done#how-do-we-complete-tasks?) on how we do that. 
 
 ## Growth Hierarchies
 
@@ -95,7 +96,7 @@ Materials like cotton, linen, silk, wool, cashmere, viscose and modal because of
 
 Being has first importance before doing, aka primacy of the right brain.
 
-Read more [here](https://lifeitself.org/blog/2018/05/01/mcgilchrist-master-and-his-emissary-notes).
+Read [these notes on Iain McGilchrist's "The Master and His Emissary"](https://lifeitself.org/blog/2018/05/01/mcgilchrist-master-and-his-emissary-notes) for more.
 
 ## Religion
 
