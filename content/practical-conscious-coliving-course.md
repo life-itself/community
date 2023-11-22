@@ -7,18 +7,18 @@ description: Are you ready to start your conscious coliving journey? This is a c
 > I have so loved the conscious coliving course 🙏🏼🙏🏼🙏🏼. I came out the other end feeling like it’s content is a recipe not just for coliving, but for any number of ‘being together scenarios’. 
 > - Liana, Community Member
 
-### This is for you if you are interested in more practical steps to conscious coliving
+### This is for you if you are interested in more practical steps for conscious coliving
 
-⭐️ If you are already completed [[conscious-coliving-course|our Conscious Coliving 101 course]]
-⭐️ You want to begin your conscious coliving journey
-⭐️ If you are already living in community but want to make it more conscious
+⭐️ If you are already completed [[conscious-coliving-course|our Conscious Coliving 101 course]]<br/>
+⭐️ You want to begin your conscious coliving journey<br/>
+⭐️ If you are already living in community but want to make it more conscious<br/>
 ⭐️ If you are curious about joining a conscious coliving community or you want to start your own
 
 ### You will:
 
-🔥 Be clear on what kind of conscious coliving community you want to  a part of
-🔥 Know what you need in a conscious coliving situation
-🔥 Be confident in the next steps you are taking on your conscious coliving journey
+🔥 Be clear on what kind of conscious coliving community you want to  a part of<br/>
+🔥 Know what you need in a conscious coliving situation<br/>
+🔥 Be confident in the next steps you are taking on your conscious coliving journey<br/>
 🔥 Begin to take those next steps
 
 ## Here is a brief overview of what is included in each day:
