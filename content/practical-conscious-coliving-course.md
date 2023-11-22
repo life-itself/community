@@ -39,4 +39,4 @@ description: Are you ready to start your conscious coliving journey? This is a c
 
 **Day 8: Closing thoughts and next actions** - In this final email, we will wrap up everything we have learned during the course and how to put everything into action.
 
-<iframe width="100%" height="600" src="https://1ebb0834.sibforms.com/serve/MUIFAE6Tty9r8L5YC1ocnXuF9b1orqoq1_RuxTps7Bi84emmeHS2bzQPLTIYKPyi1mKJz1nyQ5fFHsJg9LfVmuLC7CnYtsXQQu2ZUDwpM_obCC6AITXLhoJ7zXmJdNwZQyKHjGIhpmdwgm0XmG-azOQdn1BXrGPKFYwUCanSLyX57dJV3CEwY02JM23AietqoD2HZ50QVEWmRwsC" frameborder="0" scrolling="auto" allowfullscreen style="display: block;margin-left: auto;margin-right: auto;max-width: 100%;"></iframe>
+<iframe width="540" height="305" src="https://1ebb0834.sibforms.com/serve/MUIFACkDqcYu_KbfaMfg8umWDPKHhppM2XMsnYBmjVFhjwgaiaVewyvfAIsQwQMx-z1mRcVQlqnx8216te3iI3A1Nk_sj-HbLDW_afe5Gl3W9F6XzZLK2cNRJjNfCzii3AbMrwRiMWsi4nLM6d2gF4o34y_eBqnMY1NrnP_i2rYDEEPAdbSUO5dfsCMjg21clEM8H5QVr7mjURRL" frameborder="0" scrolling="auto" allowfullscreen style={{display: "block",marginLeft: "auto",marginRight: "auto",maxWidth: "100%"}}></iframe>
