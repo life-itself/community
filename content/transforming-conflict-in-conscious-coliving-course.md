@@ -9,16 +9,16 @@ description: Are you ready to transform your conscious coliving journey? This is
 
 ### This is for you if you want to become better at dealing with conflict in your coliving situation and in life generally
 
-⭐️ If you are already completed [[conscious-coliving-course|our Conscious Coliving 101 course]]
-⭐️ If you are already in or going in to a coliving situation
-⭐️ If you are currently in a period of conflict within a coliving situation
+⭐️ If you are already completed [[conscious-coliving-course|our Conscious Coliving 101 course]]<br/>
+⭐️ If you are already in or going in to a coliving situation<br/>
+⭐️ If you are currently in a period of conflict within a coliving situation<br/>
 ⭐️ If you have experienced conflict in the past in regards to coliving and want to navigate future conflicts better
 
 ### You will:
 
-🔥 Understand that healthy conflict is normal and needed
-🔥 Discover the usefulness of healthy conflict within relationships and communities
-🔥 Understand the work you need to do to reduce the amount of conflict arising
+🔥 Understand that healthy conflict is normal and needed<br/>
+🔥 Discover the usefulness of healthy conflict within relationships and communities<br/>
+🔥 Understand the work you need to do to reduce the amount of conflict arising<br/>
 🔥 Feel confident in resolving conflict effectively and gain practical techniques for conflict resolution.
 
 ## Here is a brief overview of what is included in each day:
