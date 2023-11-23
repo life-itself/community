@@ -8,9 +8,21 @@ authors:
 image: /assets/images/jamesbaker-community-call.jpg
 description: The underlying pattern of growing up and becoming wise typically remains unseen.  In this call James takes us through his "how to grow" model distilled from developmental and relational practice work.
 ---
-**[Register for the call on Wednesday 22nd November at 730pm CET here](https://us02web.zoom.us/meeting/register/tZIpdu-tpjMiGtd6TXS67yKBqpwq5RxqotZp)**
+James Baker, the visionary founder of Intentional Society and an Adult Development theorist, guides individuals in understanding the profound "Subject-Object Shift" and distills intentional growth into a concise three-word model: Awareness, Acceptance, Integrity. 
 
->  This conversation is part of a series of bi-monthly community calls hosted in the Life Itself online community if you would like to join future calls join us in our [Whatsapp Community](https://chat.whatsapp.com/JNJCTZugNQn1fq89xbHtfA).
+In this Life Itself Community Call, James Baker explores personal growth and development.
+
+He covers:
+Handling Problems and Being of Service
+Key Words - Awareness, Acceptance, Integrity
+Subject-Object Shift Concept
+Growing Awareness, Acceptance, and Integrity
+Awareness and Perspective Shifts
+Acceptance and Letting Go
+
+## Watch the call
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gVx8mAzcMDA?si=KzOt-3FSI8mOKWwy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## The Conversation
 There's a special move that we've all made, multiple times in fact: a transformation that Adult Development theorists call the "Subject-Object Shift." It's a powerful perspective expansion that can untangle our thorniest challenges and unlock great freedom and peace — and yet almost no one consciously knows how we do it! 
@@ -20,4 +32,4 @@ The underlying pattern of growing up and becoming wise typically remains unseen.
 ## About James Baker
 James is the founder of [Intentional Society](https://www.intentionalsociety.org), a diverse and distributed, online-face-to-face, metamodern, and deliberately developmental community centered around being who we want to be and doing what we value. Prior to 2020, he did a lot of frenetic growing during his software development career wherein he stumbled into complex system tending and post-conventional ways of being. Still growing (deliberately now), James enjoys spreading spaciousness, relevance realization, soulful service, and practical parenting, and co-facilitates the [Relational Agility course.](https://www.presentofwork.com/relational-agility)
 
-[Want to add the call to your calendar? Click here, just don't forget to register!](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NTN2MXQxNGx1NDhwYWplN3Vma2k2OG05bTUgY19kMDY0NjNiYzhiZmU4YWVlNjI1OTkyMTBmNDI3YzMxNzY0YjhkMjFlYmRhZWY5MDhlNTBhMGYyZWE0YTM1ODVlQGc&tmsrc=c_d06463bc8bfe8aee62599210f427c31764b8d21ebdaef908e50a0f2ea4a3585e%40group.calendar.google.com)
+>  This conversation is part of a series of bi-monthly community calls hosted in the Life Itself online community if you would like to join future calls join us in our [Whatsapp Community](https://chat.whatsapp.com/JNJCTZugNQn1fq89xbHtfA).
