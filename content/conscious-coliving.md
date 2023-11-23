@@ -1,10 +1,9 @@
 ---
 title: "Conscious Coliving: A Way of Living to Thrive"
 description: Living together in conscious communities is a concrete practical action to enable personal, collective and societal flourishing.
-image: image/assets/1909newsletter-gathering-meal-2019.jpg
+image: /assets/images/1909newsletter-gathering-meal-2019.jpg
 layout: fancy
 ---
-### Living together in conscious communities is a concrete practical action to enable personal, collective and societal flourishing.
 
 [[conscious-coliving-course|New to conscious coliving? Start here.]]
 
