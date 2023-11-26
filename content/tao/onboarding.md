@@ -94,14 +94,18 @@ This is my exciting onboarding issue! 🌱
   * [ ] Add any days to your and the team calendar in next 2 months in which you will be away (delete these afterwards if inaccurate).
   * [ ] Confirmed I have the daily standup and fortnightly sprint meetings in my calendar
 * [ ] Standups
-  * [ ] Write a standup in Gchat
+  * [ ] Read about standups
+  * [ ] Wrote a standup as a comment in this github issue
 * [ ] Meetings
   * [ ] Create a meeting doc in the onboarding practice folder by copying the 'Meeting Template for Onboarding' doc: https://drive.google.com/drive/folders/1ACL1ztVfLoe79Akjc0mCx4QRkiMVCX8O
   * [ ] Structure the document according to the recommendation. Do as if you were going to introduce someone to the place where you live
   * [ ] Leave a comment in the doc asking whoever is onboarding you to review it
   
 ### Extra Steps
-  
+
+* [ ] Watched (or read) "What Life Itself is about" from Further Reading
+  * [ ] Written a short summary about integrity and other values (part I)
+  * [ ] Written a short summary of our theory of change (part II)
 * [ ] Read about how to create a perfect issue in GitHub: https://tao.lifeitself.us/issues/
 * Read about getting things done
   * [ ] Playbook: https://playbook.datopian.com/getting-things-done/
@@ -234,8 +238,9 @@ If you are new to Markdown, see the [Markdown tutorial](https://playbook.datopia
 
 We recommend you look at the reading below as part of your onboarding:
 
+* [📺 What is Life Itself up to? (June 2020)](https://drive.google.com/file/d/1VPOLs_IsXqAHC_wPJQvmnCw_1EX_02gv/view?usp=drive_link) - plus [full transcript if you prefer reading](https://docs.google.com/document/d/19ANLS1iYIU4NoecNAh0QQ8twH9EX-P7WDO1HWRwlKuk/edit). Part I is about integrity and other core values, part II is about Life Itself's theory of change.
 * Read the [[culture]] page for an introduction to the principles behind Life Itself.
-* You can also have a quick look around https://lifeitself.us/.
+* You can also have a quick look around https://lifeitself.org/.
 
 ## Getting Help and Finding Stuff
 
