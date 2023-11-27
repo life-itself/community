@@ -30,14 +30,4 @@ _As the season of integration is embedding itself into the town, bringing with i
 
 Read the rest of the [reflection](https://lifeitself.org/blog/2023/10/30/guardian-note-1).
 
-You can also read our [October Tenzo Note](https://lifeitself.org/blog/2023/10/30/tenzo-note-11), where Valerie shares a poem and an autumnal reflection on how food is interconnected with the cycles of Death and Life:
-
-_Amidst the hallowed whispers of Samhain's night,_
-_Let us embrace the shadows, bid the fading light,_
-_Happy regeneration, in this feast we partake,_
-_We dine, we honor death, and life we shall remake._  
-
-_In the bounty of the harvest, the table set with care,_
-_Let's honor the passing, let the old ways share,_
-_Of our food, of our world, we bid a fond adieu,_
-_To make them live again, in a cycle ever true._
+You can also read our [October Tenzo Note](https://lifeitself.org/blog/2023/10/30/tenzo-note-11), where Valerie shares a poem and an autumnal reflection on how food is interconnected with the cycles of Death and Life.
