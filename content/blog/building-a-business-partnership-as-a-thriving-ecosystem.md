@@ -5,7 +5,7 @@ categories:
   - community-call
 authors:
   - moon-immisch
-image: 
+image: /assets/images/elizabeth-and-myka.jpg
 Decription: We’ve all heard the horror stories of business partnerships gone wrong, but Elizabeth and Myka have learned how to create their company and partnership like a thriving community and ecosystem.
 ---
 **[Register for the call on Thursday 7 December at 1930CET]**(https://us02web.zoom.us/meeting/register/tZcpcu-oqTkiGNIO3Xs7xcUQqMQ48hqhHQ9M)**
