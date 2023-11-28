@@ -1,5 +1,5 @@
 ---
-title: Deliberately Developmental Spaces research presentation with Boaz Feldman
+title: "Community Call: Deliberately Developmental Spaces research presentation with Boaz Feldman"
 created: 2023-10-27
 authors:
   - matthew-mccarthy

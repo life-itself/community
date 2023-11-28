@@ -1,5 +1,5 @@
 ---
-title: Building a Business Partnership as A Thriving Ecosystem with Elizabeth Winheld and Myka McLaughlin
+title: "Community Call: Building a Business Partnership as A Thriving Ecosystem with Elizabeth Winheld and Myka McLaughlin"
 created: 2023-11-28
 categories:
   - community-call

@@ -1,5 +1,5 @@
 ---
-title: How to Handle Anything in Life and Community
+title: "Community Call: How to Handle Anything in Life and Community"
 created: 2023-11-14
 categories:
   - community-call
