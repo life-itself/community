@@ -1,6 +1,6 @@
 import { Fragment } from 'react'
 import { Dialog, Transition } from '@headlessui/react'
-import { XMarkIcon } from "@/components/XMarkIcon";
+import { XMarkIcon } from "@/components/custom/icons";
 
 export function Modal({ open, onClose, onSignup }) {
 

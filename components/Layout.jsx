@@ -140,7 +140,7 @@ export function Layout({ children, tableOfContents }) {
                 <img
                   src={siteConfig.authorLogo}
                   alt={siteConfig.author}
-                  className="my-0 h-6 block"
+                  className="my-0 mx-1 h-6 block"
                 />
               )}
               {siteConfig.author}
@@ -155,7 +155,7 @@ export function Layout({ children, tableOfContents }) {
               className="flex items-center no-underline"
             >
               <img
-                src="https://flowershow.app/assets/images/logo.svg"
+                src="https://flowershow.app/images/logo.svg"
                 alt="Flowershow"
                 className="my-0 h-6 block"
               />

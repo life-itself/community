@@ -21,9 +21,11 @@ It is important to emphasize the integral aspect of an awakening society. Thus, 
 
 ### Synonyms (or very similar)
 
-- Deliberately developmental society or civilization (cf Wilber and DiPerna (2017) Toward a Deliberately Developmental Civilization: Illuminating the Three Key Elements of Spiritual Transformation and Purpose)
-- Metamodern society (and Listening society)
-- Teal or integral society or civilization
+- Deliberately developmental society or civilization. (*Wilber and DiPerna (2017) Toward a Deliberately Developmental Civilization: Illuminating the Three Key Elements of Spiritual Transformation and Purpose*)
+- Metamodern society and Listening society (Hanzi Freinacht)
+- Teal or integral society or civilization (Integral community)
+- Ecological society (Jeremy Lent)
+- Regenerative society
 
 ## On the Term Development
 

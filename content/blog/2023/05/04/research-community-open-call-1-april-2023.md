@@ -2,7 +2,7 @@
 title: "Research Community Open Call #1 – April 2023"
 created: 2023-05-04
 categories:
-  - commmunity-call
+  - community-call
 authors:
   - rufuspollock
 ---

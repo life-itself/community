@@ -38,6 +38,7 @@
 /critical-point-poster               /
 /you-are-here                        /hubs/bergerac
 /deliberately-developmental-space    /blog/2021/10/05/deliberately-developmental-spaces-a-key-to-addressing-the-metacrisis
+/hangouts                            /community
 
 /author/:slug         /people/:slug
 
@@ -49,3 +50,5 @@
 /2020/:month/:date/:slug  /blog/2020/:month/:date/:slug
 /2021/:month/:date/:slug  /blog/2021/:month/:date/:slug
 /2022/:month/:date/:slug  /blog/2022/:month/:date/:slug
+
+/blog /categories/all 200

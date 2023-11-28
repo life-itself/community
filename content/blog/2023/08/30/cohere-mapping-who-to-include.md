@@ -4,8 +4,8 @@ created: 2023-08-30
 authors: 
   - catherine-tran
 categories: 
-  - Life Itself Research
-  - Ecosystem Mapping
+  - life-itself-research
+  - ecosystem-mapping
 image: /assets/images/erasmus-change--agents-162.jpg
 ---
 

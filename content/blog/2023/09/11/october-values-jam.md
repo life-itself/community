@@ -4,7 +4,7 @@ created: 2023-09-11
 authors:
   - lauren-wigmore
 categories:
-  - community-calls
+  - community-call
 image: /assets/images/values-initiative-2.jpg
 ---
 
