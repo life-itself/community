@@ -131,7 +131,7 @@ export default function BlogLayout({ children, frontMatter }) {
 
         {/* CATEGORIES */}
         <div className="flex justify-start gap-3 py-2 border-b border-t border-primary/10">
-          {categories.map((category, index) => (
+          {categories && categories.map((category, index) => (
             <Link
               key={`${category}-${index}`}
               href={`/categories/${category}#all-blog-posts`}
