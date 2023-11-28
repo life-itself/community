@@ -1,9 +1,12 @@
 ---
-title: 'Research activities at Life Itself and Renovating the Research Community'
-created: 2023-01-14 
+title: Research activities at Life Itself and Renovating the Research Community
+created: 2023-01-14
 type: Blog
 authors:
   - rufuspollock
+categories:
+  - research-community
+  - life-itself-research
 ---
 
 This document sets out a proposal for research activities at Life Itself and a way to "renovate" research community. I say renovate because we already have research community activity at Life Itself starting in September 2016 and most recently and more formally with [Life Itself Labs][labs]
