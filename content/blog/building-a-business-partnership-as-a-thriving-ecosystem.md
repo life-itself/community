@@ -10,13 +10,9 @@ Decription: We’ve all heard the horror stories of business partnerships gone w
 ---
 [**Register for the call on Thursday 7 December at 1930CET**](https://us02web.zoom.us/meeting/register/tZcpcu-oqTkiGNIO3Xs7xcUQqMQ48hqhHQ9M)
 
-Elizabeth Winheld and Myka McLaughlin, founders of [Women In Community](https://womenincommunity.com/) and business partners for the last seven years have taught over 15,000 entrepreneurs globally, imparting wisdom on building profitable businesses that transform lives, families, and communities.
+In this community call you’ll learn an embodied perspective from Elizabeth and Myka, founders of [Women in Community](https://womenincommunity.com/) about why their partnership has been seamless. No drama, no legal battles, no daily friction, easy Decision making and greater trust over time, not less.  
 
-In this community call you’ll learn an embodied perspective from them about why their partnership has been seamless. 
-
-No drama. No legal battles. No daily friction. Easy Decision making. Greater trust over time, not less.  
-
-Having learned how to create their company and partnership like a thriving community and ecosystem Elizabeth and Myka will:
+Having learned how to create their company and partnership like a thriving community and ecosystem, in this call Elizabeth and Myka will:
 
 • Define an ideal business partner and dissect the intricacies of a partnership that did not work.<br/>
 • Discuss how they turned these lessons into a distinctive approach for initiating a business partnership, instrumental to their short- and long-term success. <br/>
