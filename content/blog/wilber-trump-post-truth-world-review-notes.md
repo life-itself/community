@@ -4,6 +4,9 @@ created: 2020-01-02
 authors:
   - rufuspollock
 image: /assets/images/ken-wilber-quote.jpg
+categories:
+  - book-notes
+  - integral
 ---
 
 Classic Wilber. Insightful, on the money, analysis -- one of the best I have read. I think the integral stages (and AQAL) perspective is very useful. As often with Wilber, I'd love a bit more footnoting -- and a bit more proof-editing.[^1] But these are quibbles as this was obviously hastily put together.
