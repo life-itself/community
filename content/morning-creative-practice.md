@@ -1,6 +1,6 @@
 ---
 title: Creative Practice
-description: Our  Creative Practice calls are here so we can make time to develop our artistic side and explore the depth of our humanity.
+description: Our Creative Practice calls are here so we can make time to develop our artistic side and explore the depth of our humanity.
 ---
 
 In January and February 2024 we are offering our Creative Practice calls again! These calls will take place every Wednesday 18h30-19H30 (CET) from the 8th of November until the 13th December. [You can book yourself on for only £30!](https://ti.to/art-earth-tech/online-calls)
