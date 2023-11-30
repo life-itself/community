@@ -4,7 +4,7 @@ authors:
   - sylvieshiweibarbier
 date: 2023-11-08
 src: https://anchor.fm/s/79b39934/podcast/play/78356050/https://d3ctxlq1ktw2nl.cloudfront.net/production/exports/79b39934/78356050/f4a39d59e6e58d6e79a9c3544c6cf089.m4a
-image: https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/20318133/20318133-1699467834431-b44add03a019.jpg
+image: https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/20318133/20318133-1699972216111-b6eced0e5a82c.jpg
 ---
 In this episode of the Life Itself Podcast from the [Ordinary People series](https://lifeitself.org/once-upon-a-time-series), Life Itself Co-Founder Sylvie Barbier is joined by Jamie Bristow a leading expert on inner development and contemplative practices in public life. Jamie talks about his journey from his troubling teenage years to teaching mindfulness to politicians. Jamie Bristow opens up about his troubling teenage years led by the dislocation and adaption of new cultures while their family moved between the UK and the USA. Exploring what led him to move away from his advertising career to being a mindfulness practitioner and teacher. Jamie’s life story highlights the importance of meditation, faith, and resilience in leading a mindful life. 
 
