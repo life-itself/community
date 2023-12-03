@@ -1,5 +1,9 @@
 # Getting Stuff Done
 
+> [!warning]
+> 
+> We are currently revising this part of the Tao. See https://github.com/orgs/life-itself/discussions/934.
+
 This Guide aims to introduce you to the **way we get "stuff" done** (e.g. work) at Life Itself. As we work mostly self-organized and independent, it is important to understand some of the key tools and processes that we use.
 
 We use a **scrum-based agile process** for delivering projects. This process can be used for both technical and non-technical projects[^1].

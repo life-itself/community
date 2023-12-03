@@ -10,7 +10,7 @@ Life Itself doesn’t employ a conventional management pyramid. While Rufus and 
 
 ## What are my work responsibilities? 
 
-Job descriptions at Life Itself are intentionally wide in scope. This allows you to find work within the company that suits your interests, skills, and motivations. Life Itselfers are flexible workers, and tend to go where their energies are needed most. If you’re really stuck on what you ought to be doing, don’t hesitate to bring this up with your team. 
+Job descriptions at Life Itself are intentionally wide in scope. This allows you to find work within the organization that suits your interests, skills, and motivations. Life Itself-ers are flexible workers, and tend to go where their energies are needed most. If you’re really stuck on what you ought to be doing, don’t hesitate to bring this up with your team. 
 
 ## How do you get stuff done?  
 
@@ -66,9 +66,9 @@ We have updated our process to make it as smooth and easy and possible. Please f
 
 ## Expenses and Travel
 
-:::warning
-You must submit your expenses as soon as possible, ideally, within 10 working days after the trip. Expenses submitted later than 5 months will not be paid. The same rule applies to non-travel expenses.
-:::
+> [!warning]
+>
+> You must submit your expenses as soon as possible, ideally, within 10 working days after the trip. Expenses submitted later than 3 months will not be paid. The same rule applies to non-travel expenses.
 
 If you have any expenses to be reimbursed for, you should submit them with your monthly invoice for services rendered. Refer to the ["company expenses"](https://docs.google.com/document/d/1e8ZRmp-VKd1D6RkFUOsYf2GSzI4XksyBjBiXKWfzBH0/edit#heading=h.vjm5jslkozc) section of the Getting Paid doc for a step-by-step guide.
 
@@ -78,7 +78,7 @@ All work related travel arrangements MUST be approved by the Accountable person 
 
 ## Core Hours
 
-Our general working hours are 8am UK – 5pm UK. Not necessarily when you work but when it is permissible to schedule meetings.
+Our general working hours are 9am UK – 5pm UK. Not necessarily when you work but when it is permissible to schedule meetings.
 
 ## Phone book
 

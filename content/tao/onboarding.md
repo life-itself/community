@@ -106,7 +106,7 @@ This is my exciting onboarding issue! 🌱
 * [ ] Watched (or read) "What Life Itself is about" from Further Reading
   * [ ] Written a short summary about integrity and other values (part I)
   * [ ] Written a short summary of our theory of change (part II)
-* [ ] Read about how to create a perfect issue in GitHub: https://tao.lifeitself.us/issues/
+* [ ] Read about how to create a perfect issue in GitHub: https://lifeitself.org/tao/issues/
 * Read about getting things done
   * [ ] Playbook: https://playbook.datopian.com/getting-things-done/
   * [ ] Rufus' write up (maybe just read the summary for now): https://rufuspollock.com/2019/05/27/getting-things-done/
@@ -177,12 +177,13 @@ sync((Synchronous))
 async((Asynchronous))
 
 sync --> video[Video]
-async --> chat[Google Chat and Whatsapp]
+async --> chat[Whatsapp]
+async --> github[Github Issues/Discussions]
 async --> email[Email]
 ```
 #### Chat
 
-We use Google Chat and Whatsapp for quick messages of which there is no need to keep a record. We use email for longer messages and messages that someone may want to refer back to. You'll be added to relevant groups as part of your onboarding.
+We use Whatsapp for quick messages of which there is no need to keep a record. We use Github issues and discussions, and secondarily email, for longer messages and messages that someone may want to refer back to. You'll be added to relevant groups as part of your onboarding.
 
 #### Voice / Video calls
 
@@ -198,7 +199,7 @@ We use Gmail.
 
 #### Documents
 
-We use Google Drive for all internal documents.
+We use markdown documents in Github or Google Drive for all internal documents.
 
 ### Standups
 
@@ -240,10 +241,12 @@ We recommend you look at the reading below as part of your onboarding:
 
 * [📺 What is Life Itself up to? (June 2020)](https://drive.google.com/file/d/1VPOLs_IsXqAHC_wPJQvmnCw_1EX_02gv/view?usp=drive_link) - plus [full transcript if you prefer reading](https://docs.google.com/document/d/19ANLS1iYIU4NoecNAh0QQ8twH9EX-P7WDO1HWRwlKuk/edit). Part I is about integrity and other core values, part II is about Life Itself's theory of change.
 * Read the [[culture]] page for an introduction to the principles behind Life Itself.
-* You can also have a quick look around https://lifeitself.org/.
+* [[working-with-us|Working with Us]]
+* [[getting-stuff-done|Getting Stuff Done]]
+* You can also have a quick look around https://lifeitself.org/ - bonus points for comments on what works and what could be improved!
 
 ## Getting Help and Finding Stuff
 
-We're fully remote so our equivalents of all the standard office chatting takes place either in Google Chat, Whatsapp 💬  or on video calls. 📺
+We're fully remote so our equivalents of all the standard office chatting takes place either in Whatsapp 💬  or on video calls. 📺
 
 If you need help, just message anyone directly and they'll be happy to help -- we are a friendly bunch. 🤗

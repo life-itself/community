@@ -8,7 +8,7 @@ A member of the Ops team will produce a contract and initiate the onboarding pro
 
 ## User stories
 
-* Onboarder = person setting up the new team member (needs to be authorised by Rufus or Sylvie).
+Onboarder = person setting up the new team member (needs to be authorised by Rufus or Sylvie).
 
 **As the Onboarder** I want to know what I need to do for and with the Onboardee so they are set up and supported and nothing is missed out.
 
@@ -66,7 +66,7 @@ end
 
 ## Onboarding Checklist: Issue template
 
-* Go to https://github.com/lifeitself/ops/
+* Go to https://github.com/life-itself/ops/
 * Create an issue to track the Onboarding process
 * Name it `Ops Onboarding {First Name} {Last Name} {Date}`
 * Copy and paste the checklist below into your GitHub issue
@@ -117,13 +117,13 @@ Next, scroll down for more detail on completing the steps.
     Subject: Your Life Itself Contract: Please Review and Complete
 
     ```
-    Hello XXX,
+    Hi XXX,
 
     Welcome! This is your contract:
 
     {Insert Link to Google Doc}
 
-    Please review and fill in any relevant highlighted sections. If you have any questions please note these as comments in the doc. Then:
+    Please review and fill in any relevant highlighted sections. If you have any questions please note these as comments in the doc. 
 
     EITHER: you have questions. If so, please email us to let us know so we can get those resolved 😀
 
