@@ -23,14 +23,22 @@ Your onboarding journey will consist of the following steps in order. Each stage
 
 Before we get to the proper onboarding there are some essential prerequisites to get yourself set up.
 
-Please complete as many of the following steps as you can on or before your Welcome Call so we can make sure you have access to all systems. Note: you can begin these steps the moment you have your email account and in advance of your official start date.
+Please complete as many of the following steps as you can on or before your Welcome Call so we can make sure you have access to all systems. 
 
-If you get stuck you will be able to ask your Onboarder questions during your onboarding call. 
+If you get stuck please contact your onboarder and let them know. 
 
 1. **Life Itself email**: Login in to your Life Itself email account and check it. You should have received an invitation to your personal email with details of how to sign in to your Life Itself email account and set your password. Sign in and check your account for any email you may have already received.
 2. **Key systems**: Setup your accounts on [the key systems we use](#key-systems). **Do this before the next step!**
-4. **Phonebook**: Add your details to our [Phonebook using this form][phonebook]. Note: you will need to be logged in to your Life Itself email. Then, **notify the Onboarder that you have added accounts in team phonebook** so that they can add you to relevant systems.
-5. **Background on working with us:** Read about [[working-with-us|Working with Us]]
+3. **Phonebook**: Add your details to our [Phonebook using this form][phonebook]. Note: you will need to be logged in to your Life Itself email. Then, **notify the Onboarder that you have added accounts in team phonebook** so that they can add you to relevant systems.
+
+These additional items can be done out of order and at any time (even before you have your email etc)
+
+- **Background on working with us:** Read about [[working-with-us|Working with Us]]
+- **Laptop setup**: we recommend installing the following
+  - Google or Opera browser. We recommend Opera as it has [picture in picture support for video calls]([url](https://www.opera.com/features/video-pop-out)) which is very in useful
+  - [Obsidian](https://obsidian.md) for markdown editing
+  - [Github desktop](https://desktop.github.com)
+- **Markdown**: read the [Markdown tutorial](https://datopian.com/playbook/markdown/) -- Markdown is a markup language with plain text formatting syntax. We often use Markdown based tools.
 
 [phonebook]: https://docs.google.com/forms/d/e/1FAIpQLSfgK-NrAkplGwO5OIPKfO3Gjyh0332aJaL0zwobk2qc4-lCLA/viewform?usp=sf_link
 [laptop]: https://playbook.datopian.com/laptop-setup/
@@ -39,13 +47,13 @@ If you get stuck you will be able to ask your Onboarder questions during your on
 
 When you set up systems, try to pick usernames that will be easy for others to remember. Using your first and last name is ideal.
 
-* Bitwarden -- https://bitwarden.com (password manager). This will give you access to shared team passwords. And you can also use Bitwarden to store your passwords as you work through the onboarding process.
 * Gravatar -- https://gravatar.com. **You need to do this before any of the steps below so your Gravatar is used on the other accounts you create.** 
-	* To be able to create a Gravatar, you have to create a WordPress account first. 
-	* You can then create a Gravatar so that your profile picture will show up automatically on your profile on other systems. 
-	* When you create your Gravatar, add your Life Itself email and *all* the email(s) you will use on other accounts.
-	* [If you get stuck, you can read more about Gravatar here](https://wordpress.com/support/gravatars/)
+  * To be able to create a Gravatar, you have to create a WordPress account first. 
+  * You can then create a Gravatar so that your profile picture will show up automatically on your profile on other systems. 
+  * When you create your Gravatar, add your Life Itself email and *all* the email(s) you will use on other accounts.
+  * [If you get stuck, you can read more about Gravatar here](https://wordpress.com/support/gravatars/)
 * GitHub -- https://github.com. At Life Itself we use GitHub for collaborating on projects and deploying our website. 
+* Bitwarden -- https://bitwarden.com (password manager). This will give you access to shared team passwords. And you can also use Bitwarden to store your passwords as you work through the onboarding process.
 
 ---
 
