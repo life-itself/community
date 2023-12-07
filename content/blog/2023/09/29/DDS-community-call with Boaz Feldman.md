@@ -21,7 +21,9 @@ During the community call, we invited our community members along with anyone el
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IuLXZhuA5Q0?si=W-YOgtLVJsezL3uN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+Here you can find the slides: 
 
+![[assets/Deliberately Developmental Spaces community call.pptx (3).pdf]]
 ## About Boaz Feldman
 
 Boaz is a practical visionary, a clinical psychologist and trainer, a Dharma teacher and transdisciplinary researcher acting for personal and political empowerment. He has worked with numerous international organizations (UNOCHA, WHO, Doctors Without Borders) in a variety of humanitarian contexts and conflict-affected regions. Boaz first ordained as a Buddhist Monk in Thailand in 2004, studied MBCT/MBSR at University of Oxford/Bangor, has over 7 years of compounded retreat experience and graduated from the Bodhi College Teacher Training program and now leads meditation retreats across Europe. He assisted Somatic Experiencing trainings and taught as the main faculty in Europe for Organic Intelligence, and founded [NeuroSystemics, a Swiss-based NGO](https://neurosystemics.org/) providing somatically-centered multi-level capacity building around the world. He is an Associate at Life Itself Research.
