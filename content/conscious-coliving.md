@@ -27,7 +27,7 @@ If you are curious about conscious coliving and want to implement it into your l
 
 [[practical-conscious-coliving-course|Conscious Coliving in Action: Practical Steps to Getting Started with Conscious Coliving]]
 
-[[transforming-conflict-in-community|Transforming Conflict in Conscious Coliving]]
+[[transforming-conflict-in-community-course|Transforming Conflict in Conscious Coliving]]
 
 ### The Online Community for Conscious Coliving
 

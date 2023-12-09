@@ -1,5 +1,5 @@
 ---
-title: Transforming Conflict in Conscious Coliving Course
+title: Transforming Conflict in Community Course
 description: Are you ready to transform your conscious coliving journey? This is a course about the practical steps to transform conflict within conscious coliving, join and take action today!
 image: /assets/images/Transforming-conflict-header.jpg
 ---
