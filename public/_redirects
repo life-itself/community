@@ -55,3 +55,4 @@
 /2022/:month/:date/:slug  /blog/2022/:month/:date/:slug
 
 /blog /categories/all 200
+/transforming-conflict-in-conscious-coliving-course  /transforming-conflict-in-community-course
