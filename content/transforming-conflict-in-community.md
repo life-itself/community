@@ -3,17 +3,17 @@ title: Transforming Conflict in Conscious Coliving Course
 description: Are you ready to transform your conscious coliving journey? This is a course about the practical steps to transform conflict within conscious coliving, join and take action today!
 image: /assets/images/Transforming-conflict-header.jpg
 ---
-## Are you ready to transform your conscious coliving journey? This is a course about the practical steps to transform conflict within conscious coliving, join and take action today!
+## Are you ready to transform your conscious coliving journey? This is a course about the practical steps to transform conflict within community and conscious coliving, join and take action today!
 
 > I have so loved the conscious coliving course 🙏🏼🙏🏼🙏🏼. I came out the other end feeling like it’s content is a recipe not just for coliving, but for any number of ‘being together scenarios’. 
 > - Liana, Community Member
 
-### This is for you if you want to become better at dealing with conflict in your coliving situation and in life generally
+### This is for you if you want to become better at dealing with conflict in your community situation and in life generally
 
 ⭐️ If you are already completed [[conscious-coliving-course|our Conscious Coliving 101 course]]<br/>
 ⭐️ If you are already in or going in to a coliving situation<br/>
-⭐️ If you are currently in a period of conflict within a coliving situation<br/>
-⭐️ If you have experienced conflict in the past in regards to coliving and want to navigate future conflicts better
+⭐️ If you are currently in a period of conflict within a community or coliving situation<br/>
+⭐️ If you have experienced conflict in the past in regards to community and want to navigate future conflicts better
 
 ### You will:
 
