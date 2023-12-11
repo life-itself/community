@@ -13,7 +13,7 @@ description: What does the process of field building look like?
 
 In a time between worlds, new language, concepts, and practices are required. A meaningful way that this can happen is through 'field building', making new fields which allow people, organizations, and energy to gather around a coordinated goal or problem.
 
-One of the fields that Life Itself is currently in the process of field building is the field of deliberately developmental spaces. We have defined deliberately developmental spaces  as _Physically colocated groups together for a sustained period of time with a conscious engagement in multidimensional developmental praxis_. We also view them as having three distinct features:
+One of the fields that Life Itself is currently in the process of building is the field of deliberately developmental spaces. We have defined deliberately developmental spaces  as _Physically colocated groups together for a sustained period of time with a conscious engagement in multidimensional developmental praxis_. We also view them as having three distinct features:
 
 1. Space. These environments are spaces in both a physical and temporal sense. They are a site for a group to live, work, practice and engage with one another with shared time that can be dedicated to these ends.  
 
