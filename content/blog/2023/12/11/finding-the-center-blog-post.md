@@ -37,7 +37,7 @@ Here we have identified three examples 'close to the center' of the field, and o
 
 ## [Sleep awake](https://developmentalspaces.org/sleepawake)
 
-[Sleepawake](https://www.sleepawake.camp/) is a 4-week residential intensive 'camp' for 18-27 year olds to explore ways of authentic living. The program last 4 weeks and is meant to be an immersive experience in which one learns to 'show up fully in life.' The program points out traditional educational institutions don't teach us a number of skills to manage our lives, particularly emotional ones. Sleepawake thus highlights the ways in which deliberately developmental spaces are to some degree 'educational', in the sense that they provide the conditions to learn meaningful life skills. There of course is a bit of a paradox here, which is that traditional educational institutions are not directly concerned with things like emotional intelligence, agency, creative expression, relating to others, ecological awareness, and other relavent capacities. It should encourage us to ask: in the context meta crisis, what is worth learning, and how can we share that with one another? 
+[Sleepawake](https://www.sleepawake.camp/) is a 4-week residential intensive 'camp' for 18-27 year olds to explore ways of authentic living. The program last 4 weeks and is meant to be an immersive experience in which one learns to 'show up fully in life.' The program points out that traditional educational institutions don't teach us a number of skills to manage our lives, particularly emotional ones. Sleepawake thus highlights the ways in which deliberately developmental spaces are to some degree 'educational', in the sense that they provide the conditions to learn meaningful life skills. There of course is a bit of a paradox here, which is that traditional educational institutions are not directly concerned with things like emotional intelligence, agency, creative expression, relating to others, ecological awareness, and other relavent capacities. It should encourage us to ask: in the context meta crisis, what is worth learning, and how can we share that with one another? 
 
 ### [Center for Systems Awareness](https://developmentalspaces.org/center-for-systems-awareness)
 
@@ -49,7 +49,7 @@ From these examples, we might say that deliberately developmental spaces are con
 
 Additionally, even though our efforts are mainly concerned with identifying the center of the field, examples from the ''boundary'' of the field can be meaningful and worthwhile to consider. Indeed, the boundary offers a unique way to further position and define the center.  
 
-It is also important to emphasize finding the center is not only a matter of finding the common language, themes, and practices of the field. It is about identifying and connecting the practitioners, stakeholders, and resources that already exist and finding and creating webs of connection. It is about carving out a space and building a network.
+It is also important to emphasize that finding the center is not only a matter of finding the common language, themes, and practices of the field. It is about identifying and connecting the practitioners, stakeholders, and resources that already exist and finding and creating webs of connection. It is about carving out a space and building a network.
 
 We encourage you to [read and sign our manifesto](https://developmentalspaces.org/), and to [contribute to the discussion on Github](https://github.com/orgs/life-itself/discussions/888). 
 
