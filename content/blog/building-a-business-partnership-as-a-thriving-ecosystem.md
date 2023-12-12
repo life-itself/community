@@ -8,11 +8,23 @@ authors:
 image: /assets/images/elizabeth-and-myka.jpg
 Decription: We’ve all heard the horror stories of business partnerships gone wrong, but Elizabeth and Myka have learned how to create their company and partnership like a thriving community and ecosystem.
 ---
-[**Register for the call on Thursday 7 December at 1930CET**](https://us02web.zoom.us/meeting/register/tZcpcu-oqTkiGNIO3Xs7xcUQqMQ48hqhHQ9M)
 
-In this community call you’ll learn an embodied perspective from Elizabeth and Myka, founders of [Women in Community](https://womenincommunity.com/) about why their partnership has been seamless. No drama, no legal battles, no daily friction, easy decision making and greater trust over time, not less.  
+In this community call Elizabeth and Myka, founders of [Women in Community](https://womenincommunity.com/)  share an embodied perspective about why their partnership has been seamless. No drama, no legal battles, no daily friction, easy decision making and greater trust over time, not less.  
 
-Having learned how to create their company and partnership like a thriving community and ecosystem, in this call Elizabeth and Myka will:
+Having learned how to create their company and partnership like a thriving community and ecosystem, in this call Elizabeth and Myka cover:
+
+• Success and challenges in a 6-year seamless partnership
+• Journey from overwhelming six-figure business with a spouse to a fulfilling partnership
+• Financial integrity and responsibility in partnerships, shared success before collaboration
+• Surrender leadership roles for self-reflection and growth
+• Trust, consistency, and financial decision-making
+• Embracing feminine energy in business for connection and trust
+
+## Watch the call
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nGckT3j1Puc?si=CQnwhwc3ctDNY3pv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## The Conversation
 
 • Define an ideal business partner and dissect the intricacies of a partnership that did not work.<br/>
 • Discuss how they turned these lessons into a distinctive approach for initiating a business partnership, instrumental to their short- and long-term success. <br/>
