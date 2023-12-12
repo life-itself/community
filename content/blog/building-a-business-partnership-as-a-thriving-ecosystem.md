@@ -26,12 +26,7 @@ Having learned how to create their company and partnership like a thriving commu
 
 ## The Conversation
 
-• Define an ideal business partner and dissect the intricacies of a partnership that did not work.<br/>
-• Discuss how they turned these lessons into a distinctive approach for initiating a business partnership, instrumental to their short- and long-term success. <br/>
-• Share specific issues around sharing power, and opportunities to deepen your capacity to share power and empower others in business. <br/>
-• Detail how they operate WINC not just as a business, but as an ecosystem, where everyone gets to thrive inside the company and out. <br/>
-• Discuss the one thing Elizabeth and Myka do that is extremely rare, but makes their decision-making around delicate financial issues create more trust and less friction, instead of tearing their relationship and business apart. <br/>
-• And how they have expanded their view of business partnership as a much bigger vision and support system than just running one company together. <br/>
+The conversation covers the essential aspects of a business partnership. They start by defining an ideal business partner and breaking down the intricacies of  previous partnership that didn't succeed. They then elaborate on how these lessons were translated into a distinctive approach, crucial for both short- and long-term success. There is a focus on sharing power, with opportunities highlighted to deepen their capacity for empowerment within the business realm. They detail how they operate WINC not merely as a business but as an ecosystem, fostering thriving both inside and outside the company. They touch upon a unique aspect: what they do, which is exceptionally rare yet builds trust and reduces friction in handling delicate financial issues, avoiding strain on their relationship and business. Finally, they expand their view of business partnership as a more extensive vision and support system beyond the operation of a single company together.
 
 ## About Elizabeth and Myka
 Elizabeth Winheld and Myka McLaughlin have run Women In Community (WINC) for seven years and counting, teaching entrepreneurs how to build profitable businesses with transformative impact on their lives, their family’s lives, as well as their community and the economy around the world. 
