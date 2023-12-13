@@ -16,15 +16,15 @@ With this in mind and after polling the Life Itself Community, we carefully craf
 ## Course Curriculum
 Over the 7 days, we'll explore conflict transformation in an engaging and easily understandable way, making it accessible to everyone!
 
-Day #1: What is conflict and why does it arise?
-Day #2: The 8 myths of conflict.
-Day #3: The greatest causes of conflict in communities.
-Day #4: How to avoid conflict the right way. 
-Day #5: How to be a low conflict conscious coliver.
-Day #6: When avoidance doesn't work: 7 conflict resolution processes.
+Day #1: What is conflict and why does it arise? <br/>
+Day #2: The 8 myths of conflict. <br/>
+Day #3: The greatest causes of conflict in communities. <br/>
+Day #4: How to avoid conflict the right way. <br/>
+Day #5: How to be a low conflict conscious coliver. <br/>
+Day #6: When avoidance doesn't work: 7 conflict resolution processes. <br/>
 Day #7: What to do next.
 
 
-## 👇 Curious to get involved? Sign up here 👇
+### 👇 Curious to get involved? Sign up here 👇
 <iframe width="100%" height="450" src="https://1ebb0834.sibforms.com/serve/MUIFAMOE51WHBAdVYmAHp9bqPtM_UaUQN44HBBaEjTQjpXB_OVLnbDJMLJmlPiAn1XZlzneAyTwbWz4QgZU54zej9ck6YuihAk0eJ2ioFiMSFHmFFLCS0Itg2FW2ZJTumXgQkU5_b-MVKBDAWzVHEwz--poxCMGiUL6FmYj-ny_s7t-IG0JCoSCT70ePlTwHLiFd28yWTcxfVUG5" frameBorder="0" scrolling="auto" allowFullScreen style={{display: "block",marginLeft: "auto",marginRight: "auto",maxWidth: "100%"}}></iframe>
 Still not taken our first course Conscious Coliving 101?  [Then check it out here](https://lifeitself.org/conscious-coliving-course)
