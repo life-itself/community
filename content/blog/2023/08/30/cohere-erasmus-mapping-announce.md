@@ -1,12 +1,12 @@
 ---
 title: "Cohere+: an Erasmus+ project to uplevel the collective capacity of European change agents"
 created: 2023-08-30
-authors: 
+authors:
   - catherine-tran
-categories: 
+categories:
   - life-itself-research
   - ecosystem-mapping
-image: /assets/images/cohere-mapping-logo 1.jpg
+image: /assets/coherepluslogo.jpg
 ---
 
 **We are excited to announce that we are working on ‘Cohere+’, a research and education project co-funded by the European Union, in partnership with: The Hague Center (Netherlands), the Institute for Integral Studies (Germany), Emerge (Germany), and the Ekskäret Foundation (Sweden).** 
