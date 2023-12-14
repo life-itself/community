@@ -1,12 +1,12 @@
 ---
 title: "Mapping Transformational Change Agents in Europe: Who do we Include?"
 created: 2023-08-30
-authors: 
+authors:
   - catherine-tran
-categories: 
+categories:
   - life-itself-research
   - ecosystem-mapping
-image: /assets/images/erasmus-change--agents-162.jpg
+image: /assets/coherepluslogo.jpg
 ---
 
 Life Itself are currently mapping a growing field of ‘transformational’ societal change organisations in Europe. This work is part of [Cohere+]([url](https://lifeitself.org/blog/2023/08/30/cohere-erasmus-mapping-announce)), an educational field-building project co-funded by Erasmus+, which we’re undertaking in partnership with The Hague Center, the Institute for Integral Studies, Emerge, and the Ekskäret Foundation.
