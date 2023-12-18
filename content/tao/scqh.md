@@ -28,7 +28,7 @@ What are the foundational views and values, and, separately and relatedly a big 
 
 #### Issue Tree
 
-⚠️ Unfinished ⚠️
+⚠️ In progress ⚠️
 
 https://coggle.it/diagram/XSXuEFj7lR6oRu4Y/t/star-within-our-lifetime-a-weller-world-for-everyone-3
 
@@ -40,7 +40,7 @@ Within our lifetime and six generations hence, we will develop a federation of r
 
 #### Hypothesis Tree
 
-⚠️ Unfinished ⚠️
+⚠️ In progress ⚠️
 
 See https://coggle.it/diagram/XScP2KMV3Tvd5Ec-/t/by-developing-a-big-vision-human-fulfilment-and-flourishing
 

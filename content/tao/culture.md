@@ -50,6 +50,3 @@ Linked to an ontology is an ontogeny: a belief about how we got to be the way we
 
 Ontogeny is not about how we acquire knowledge or learn new skills. It is focused on how we come to "be" and our "ways of being" -- i.e. personality, attitudes, will and consciousness.
 
-:::warning
-This section is incomplete.
-:::
