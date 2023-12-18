@@ -3,6 +3,8 @@ title: Transforming Conflict in Community Course
 description: Are you ready to transform your conscious coliving journey? This is a course about the practical steps to transform conflict within conscious coliving, join and take action today!
 image: /assets/images/Transforming-conflict-header.jpg
 ---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rQ5rbVPReRw?si=QQRIpBE72rayuHA0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## Are you ready to transform your conscious coliving journey? This is a course about the practical steps to transform conflict within community and conscious coliving, join and take action today!
 
 > I have so loved the conscious coliving course 🙏🏼🙏🏼🙏🏼. I came out the other end feeling like it’s content is a recipe not just for coliving, but for any number of ‘being together scenarios’. 
