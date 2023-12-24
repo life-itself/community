@@ -1,7 +1,6 @@
 ---
 title: Your title here
-created:
-  "{ date }": 
+created: {{date}}
 authors:
   - author-id-here
 categories: 
