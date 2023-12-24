@@ -5,30 +5,41 @@ created: 2023-01-30
 
 We've created the following guide on how to use our logos and how to create alternative versions of the logo. 
 
+To get the logo: right click and select copy image or save image as.
+
 ## Logo Assets
 
 ### Filetype: PNG
 
-- [[../assets/tao/icon-color-logo.png|Icon only logo in color]]
-- [[../assets/tao/icon-black-logo.png|Icon only logo in black]]
-- [[../assets/tao/horizontal-color-logo.png|Logotype horizontal in color]]
-- [[../assets/tao/horizontal-black-logo.png|Logotype horizontal in black]]
-- [[../assets/tao/condensed-color-logo.png|Logotype condensed in color]]
-- [[../assets/tao/condensed-black-logo.png|Logotype condensed in black]]
+![[../assets/tao/icon-color-logo.png|Icon only logo in color]]
+
+![[../assets/tao/icon-black-logo.png|Icon only logo in black]]
+![[../assets/tao/horizontal-color-logo.png|Logotype horizontal in color]]
+![[../assets/tao/horizontal-black-logo.png|Logotype horizontal in black]]
+
+![[../assets/tao/condensed-color-logo.png|Logotype condensed in color]]
+
+![[../assets/tao/condensed-black-logo.png|Logotype condensed in black]]
 
 ### Filetype: SVG
 
-- [[../assets/tao/icon-color-logo.svg|Icon only logo in color]]
-- [[../assets/tao/icon-black-logo.svg|Icon only logo in black]]
-- [[../assets/tao/horizontal-color-logo.svg|Logotype horizontal in color]]
-- [[../assets/tao/horizontal-black-logo.svg|Logotype horizontal in black]]
-- [[../assets/tao/condensed-color-logo.svg|Logotype condensed in color]]
-- [[../assets/tao/condensed-black-logo.svg|Logotype condensed in black]]
+![[../assets/tao/icon-color-logo.svg|Icon only logo in color]]
+
+![[../assets/tao/icon-black-logo.svg|Icon only logo in black]]
+
+![[../assets/tao/horizontal-color-logo.svg|Logotype horizontal in color]]
+
+![[../assets/tao/horizontal-black-logo.svg|Logotype horizontal in black]]
+
+![[../assets/tao/condensed-color-logo.svg|Logotype condensed in color]]
+
+![[../assets/tao/condensed-black-logo.svg|Logotype condensed in black]]
 
 
 ## How to use our logos
 
 In the assets folder above you will notice we have several variations of our logo:
+
 - Icon only: This can be used where there is not enough room to include text or a place where Life Itself is only represented by the icon
 - Icon & horizontal text: This should be used when possible. It works best to represent Life Itself where the space for the logo is wider than it is taller, such as a presentation header
 - Icon & condensed text: This is best used to represent Life Itself when there is limited width space for the logo, but you want to use the text 
