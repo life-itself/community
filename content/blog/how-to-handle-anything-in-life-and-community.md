@@ -13,12 +13,12 @@ James Baker, the visionary founder of Intentional Society and an Adult Developme
 In this Life Itself Community Call, James Baker explores personal growth and development.
 
 He covers:
-Handling Problems and Being of Service
-Key Words - Awareness, Acceptance, Integrity
-Subject-Object Shift Concept
-Growing Awareness, Acceptance, and Integrity
-Awareness and Perspective Shifts
-Acceptance and Letting Go
+Handling Problems and Being of Service <br/>
+Key Words - Awareness, Acceptance, Integrity <br/>
+Subject-Object Shift Concept <br/>
+Growing Awareness, Acceptance, and Integrity <br/>
+Awareness and Perspective Shifts <br/>
+Acceptance and Letting Go <br/>
 
 ## Watch the call
 

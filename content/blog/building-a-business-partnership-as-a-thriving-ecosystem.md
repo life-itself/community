@@ -13,12 +13,12 @@ In this community call Elizabeth and Myka, founders of [Women in Community](http
 
 Having learned how to create their company and partnership like a thriving community and ecosystem, in this call Elizabeth and Myka cover:
 
-• Success and challenges in a 6-year seamless partnership
-• Journey from overwhelming six-figure business with a spouse to a fulfilling partnership
-• Financial integrity and responsibility in partnerships, shared success before collaboration
-• Surrender leadership roles for self-reflection and growth
-• Trust, consistency, and financial decision-making
-• Embracing feminine energy in business for connection and trust
+• Success and challenges in a 6-year seamless partnership <br/>
+• Journey from overwhelming six-figure business with a spouse to a fulfilling partnership <br/>
+• Financial integrity and responsibility in partnerships, shared success before collaboration <br/>
+• Surrender leadership roles for self-reflection and growth <br/>
+• Trust, consistency, and financial decision-making <br/>
+• Embracing feminine energy in business for connection and trust 
 
 ## Watch the call
 
