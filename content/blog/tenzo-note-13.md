@@ -25,29 +25,44 @@ The menus below can be updated according to your situation and adjusted to a pla
 ![[tenzo-note-13-3.jpg]]
 ## The 3 Bases Frame
 
-·       A breakdown of the menu items in 3 basics served in 3 bowls during retreats, and on a plate on a daily basis.
+·       A breakdown of the menu items in 3 basics served in 3 bowls during retreats, and on a plate on a daily basis
+
 ·       An attention to the variety among the bowls
-·       A sobriety with stimulating savors: no Liliaceae during retreats (garlic, onions, shallots) and according to centered intuition on a daily basis. 
+
+·       A sobriety with stimulating savors: no Liliaceae during retreats (garlic, onions, shallots) and according to centered intuition on a daily basis 
+
 ·       An avoidance of ingredients from killed animals in Oryoki (including dairy products or eggs which involve the elimination of males). If needed (outside retreats), welcome in the spirit of respect for the life of these animals (suggestion to refuse to buy animal products raised for industry and distributed in supermarkets).
 
 ## The Spirit of the Benevolent Kitchen 
 
-·       Practice of the situation: “doing with what you have”.
-·       The spirit of the beggar who receives the outstretched bowl.
+·       Practice of the situation: “doing with what you have”
+
+·       The spirit of the beggar who receives the outstretched bowl
+
 ·       No waste: use what you have to cook including peels (when organic don't peel most vegetables) and recycle leftovers
+
 ·       Cooking with radical enthusiasm
+
 ·       Non-judgment (of oneself or one's kitchen)
+
 ·       Dynamic presence to what is with “beingwithness”
+
 ·       Dance with what comes (judgment or desires or fear of not knowing etc.)
-·       Trust in the food that cooks us rather than us cooking food to have a good meal.
+
+·       Trust in the food that cooks us rather than us cooking food to have a good meal
 
 ## The (non) Methodology of Benevolent Kitchen
 
-·       Take winter and local vegetables (carrots, turnips, parsnips, all cabbages, including broccoli, potatoes, beets and cucurbits) from the market. 
+·       Take winter and local vegetables (carrots, turnips, parsnips, all cabbages, including broccoli, potatoes, beets and cucurbits) from the market
+
 ·       Start by cooking the middle bowl by combining 1 or more vegetables + 1 bean (dried beans or processed like tofu, tempeh, dried proteins)
+
 ·       Adjust: in winter prefer simmered cooking, vegetables stews, soups
-·       Choose the cereal (in winter half or brown rice / bulgur or spelt) for the second bowl 
+
+·       Choose the cereal (in winter half or brown rice / bulgur or spelt) for the second bowl
+
 ·       Choose raw vegetables for the third
+
 ·       Measure the ingredients according to calculations below
 
 ![[tenzo-note-13-2.jpg]]
