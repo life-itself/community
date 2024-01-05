@@ -42,4 +42,8 @@ _Finally, just in case you aren’t sure what conscious coliving is here is a li
 
 > To be conscious you need to have an awareness of an internal and external existence. To have both knowledge and be able to respond (instead of react) to your surroundings. We consider this to include an aspect of inner development and an awareness of one's impact on their surroundings and world. A coliver is quite simply someone who lives with others and this can be in a variety of ways.
 
-If you want to know more about this you can read our blog [What is Conscious Coliving](https://lifeitself.org/blog/2021/07/14/what-is-conscious-coliving).
+### Explore Conscious Coliving Further: 
+
+If you are curious about conscious coliving and want to implement it into your life, our free email courses are a great place to begin. 
+Find out more [here](https://lifeitself.org/conscious-coliving).
+
