@@ -73,3 +73,9 @@ Director Will Allen, spent 22 years as the videographer for Jaime Gomez, spiritu
 As you will discover from watching these documentaries, there are common threads between all cults, including a charismatic leader with no equal, a lofty, often outrageous vision for the future and an eventual demise.   
 
 Don’t join a cult! Watch these documentaries, get clued up and join a real intentional community instead. If you need more insights about community living done right join our free [[conscious-coliving-course|Conscious Coliving 101]] course as well.
+
+### Explore Conscious Coliving Further: 
+
+If you are curious about conscious coliving and want to implement it into your life, our free email courses are a great place to begin. 
+Find out more [here](https://lifeitself.org/conscious-coliving).
+
