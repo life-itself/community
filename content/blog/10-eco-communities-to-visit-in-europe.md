@@ -47,3 +47,8 @@ Tinkers Bubble, a rural eco community in South Somerset, embraces a low-impact l
 [Website](http://www.tinkersbubble.org/).
 
 Whether nestled in the Irish countryside, adorning the shores of Lake Constance, or thriving in the heart of Copenhagen, these intentional communities invite you to join their journey toward a greener, more harmonious future. They offer practical solutions in the face of environmental challenges and as the world seeks ways to combat climate change, these communities show us the path forward. We encourage you to delve deeper into their stories and consider visiting them. The journey to a more sustainable future starts with a single step, and these communities are excellent places to begin.
+
+### Explore Conscious Coliving: 
+
+If you are curious about conscious coliving and want to implement it into your life, our free email courses are a great place to begin. 
+Find out more [here](https://lifeitself.org/conscious-coliving).
