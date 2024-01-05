@@ -46,3 +46,8 @@ If you enjoyed this blog post, here are a few others you might enjoy as well:
 - [The Top 3 Red Flags to Consider When Deciding on an Intentional Community](https://lifeitself.org/blog/2023/08/23/the-top-3-red-flags-to-consider-when-deciding-on-an-intentional-community)
 - [Six Reasons to Join a Conscious Coliving Environment](https://lifeitself.org/blog/2023/07/24/6-reasons-to-join-a-conscious-coliving-environment)
 - [Keeping Conscious Communities Aligned Don't Do these 5 Things](https://lifeitself.org/blog/2023/09/06/keeping-conscious-communities-aligned-dont-do-these-5-things)
+
+### Explore Conscious Coliving Further: 
+
+If you are curious about conscious coliving and want to implement it into your life, our free email courses are a great place to begin. 
+Find out more [here](https://lifeitself.org/conscious-coliving).
