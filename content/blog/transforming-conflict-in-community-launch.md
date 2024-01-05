@@ -27,4 +27,7 @@ Day #7: What to do next.
 
 ### 👇 Curious to get involved? Sign up here 👇
 <iframe width="100%" height="450" src="https://1ebb0834.sibforms.com/serve/MUIFAMOE51WHBAdVYmAHp9bqPtM_UaUQN44HBBaEjTQjpXB_OVLnbDJMLJmlPiAn1XZlzneAyTwbWz4QgZU54zej9ck6YuihAk0eJ2ioFiMSFHmFFLCS0Itg2FW2ZJTumXgQkU5_b-MVKBDAWzVHEwz--poxCMGiUL6FmYj-ny_s7t-IG0JCoSCT70ePlTwHLiFd28yWTcxfVUG5" frameBorder="0" scrolling="auto" allowFullScreen style={{display: "block",marginLeft: "auto",marginRight: "auto",maxWidth: "100%"}}></iframe>
-Still not taken our first course Conscious Coliving 101?  [Then check it out here](https://lifeitself.org/conscious-coliving-course)
+
+
+Already signed up?
+Interested to learn more about conscious coliving, visit our dedicated page [here](https://lifeitself.org/conscious-coliving). 
