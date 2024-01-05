@@ -32,4 +32,4 @@ Many intentional communities foster a culture of learning, collaboration, and in
 
 Remember, intentional communities are shaped by the complexities of human interactions and experiences. By dispelling these myths, you can approach the idea of living consciously in an intentional community with a more balanced and realistic perspective.
 
-If you’re interested in learning more about conscious coliving, the benefits, the opportunities, the challenges and a whole wealth of other information, [we invite you to sign up for our FREE 6-day Conscious Coliving email course](https://lifeitself.org/conscious-coliving-course).
+If you’re interested in learning more about conscious coliving, the benefits, the opportunities, the challenges and a whole wealth of other information, [we invite you to sign up for our FREE 6-day Conscious Coliving email course](https://lifeitself.org/conscious-coliving-course) and find out more about concious coliving [here](https://lifeitself.org/conscious-coliving).
