@@ -47,4 +47,7 @@ Ecovillage Sieben Linden stands as a reminder and inspiration that a greener, mo
 ### Conscious Coliving
 If the story of Sieben Linden resonates with you, we would like to invite you to join us on a free 6-day journey into conscious coliving, the basis of any successful community. Delivered via email, the course is completely free and it provides you with the opportunity to dive deeper into understanding what conscious coliving is, how you might already be able to incorporate it, and potentially inspire you to join your own ecovillage! 
 
-[You can sign up here.](https://lifeitself.org/conscious-coliving-course) 
+### Explore Conscious Coliving Further: 
+
+If you are curious about conscious coliving and want to implement it into your life, our free email courses are a great place to begin. 
+Find out more [here](https://lifeitself.org/conscious-coliving).
