@@ -45,3 +45,9 @@ Alongside the balancing act required for the success of developmental spaces, th
 Exploring the idea of deliberately developmental spaces.
 
 Overall, it was wonderful to encounter such a high degree of resonance with our work here at Life Itself over the weekend. I made some amazing connections and gained a great many new insights, but most of all left excited and heartened that, perhaps, we might just be onto something.
+
+### Explore Conscious Coliving: 
+
+If you are curious about conscious coliving and want to implement it into your life, our free email courses are a great place to begin. 
+Find out more [here](https://lifeitself.org/conscious-coliving).
+
