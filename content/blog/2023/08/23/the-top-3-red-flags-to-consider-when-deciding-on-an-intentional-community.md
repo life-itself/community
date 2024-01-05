@@ -45,3 +45,9 @@ If you enjoyed this blog post, here are a few others you might enjoy as well:
 - [Top 3 Benefits of Conscious Coliving](https://lifeitself.org/blog/2023/08/07/top-3-benefits-of-conscious-coliving)
 - [Don’t Join a Cult: Watch these 5 documentaries to learn when an intentional community might have the wrong intentions](https://lifeitself.org/blog/2023/08/03/dont-join-a-cult-documentaries-about-cults-intentional-communties)
 - [Six Reasons to Join a Conscious Coliving Environment](https://lifeitself.org/blog/2023/07/24/6-reasons-to-join-a-conscious-coliving-environment)
+
+### Explore Conscious Coliving Further: 
+
+If you are curious about conscious coliving and want to implement it into your life, our free email courses are a great place to begin. 
+Find out more [here](https://lifeitself.org/conscious-coliving).
+
