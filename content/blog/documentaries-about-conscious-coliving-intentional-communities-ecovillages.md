@@ -108,6 +108,5 @@ Damanhur is a community of spiritual researchers that clandestinely constructed 
 
 ## Want to learn more about conscious coliving? 
 
-Our free email course, Conscious Coliving 101, is a great introduction to the benefits, challenges and why we should be living in community more! 
-
-[[conscious-coliving-course|TAKE THE COURSE]]
+If you are curious about conscious coliving and want to implement it into your life, our free email courses are a great place to begin. 
+Find out more [here](https://lifeitself.org/conscious-coliving).
