@@ -48,6 +48,11 @@ Joining a conscious coliving environment can be a life-changing decision for tho
 
 By being part of such an environment, individuals can experience personal growth, collaboration, and a sense of purpose. The conscious coliving movement offers an exciting alternative to traditional living arrangements, enabling individuals to create a fulfilling and enriching life alongside like-minded individuals.
 
-**Want to learn more about conscious coliving? Take our [[conscious-coliving-course|free Conscious Coliving 101 course!]]** 
+### Explore Conscious Coliving Further: 
+
+If you are curious about conscious coliving and want to implement it into your life, our free email courses are a great place to begin. 
+Find out more [here](https://lifeitself.org/conscious-coliving).
+
+**Take our [[conscious-coliving-course|free Conscious Coliving 101 course!]]** 
 
 ![[conscious-coliving-101-header.jpg]]
