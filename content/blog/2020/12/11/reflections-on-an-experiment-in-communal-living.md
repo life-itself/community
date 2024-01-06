@@ -42,3 +42,8 @@ This said, just as in combat sports the adage goes that styles make fights, so i
 In parting, I wish to close by offering a comment on an aspect of experiments such as ours that is often easy to overlook. When holding lofty aspirations such as exploring radically new and better ways to live, our lightness can be lost, and we can without realising fall into an approach of solemnity and over-sincerity. Minor, everyday occurrences can take on the status of shared existential crises, and communal practice can stray into the realm of austere obligation rather than genuine enjoyment.
 
 Community must be designed in a way that can foster as much joy as it does wisdom, and that it remains resistant to the collapse of practical challenges into a vortex of catastrophe under the weight of its philosophy. What we’re trying to do is truly amazing, arguably unheard of in modern Western society, and replete with profound spiritual and intellectual questions. At the same time we should hold our endeavor lightly, a most difficult practice unto itself! When every day is designed to be an exploration of new ways of being, it can prove instructive to keep in mind one of my favourite pieces of British slang: sometimes, stuff’s really not that deep.
+
+### Explore Conscious Coliving: 
+
+If you are curious about conscious coliving and want to implement it into your life, our free email courses are a great place to begin. 
+Find out more [here](https://lifeitself.org/conscious-coliving).
