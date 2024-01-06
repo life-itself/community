@@ -37,7 +37,7 @@ Each residency is a month long, the first starting in mid October 2021. Residenc
 
 **More:** [https://lifeitself.org/sympoiesis/](https://lifeitself.org/sympoiesis/)
 
-### Explore Conscious Coliving Further: 
+### Explore Conscious Coliving: 
 
 If you are curious about conscious coliving and want to implement it into your life, our free email courses are a great place to begin. 
 Find out more [here](https://lifeitself.org/conscious-coliving).
