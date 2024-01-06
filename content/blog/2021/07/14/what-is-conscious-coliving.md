@@ -62,3 +62,8 @@ It is essential to reference the [Conscious Coliving](https://www.consciouscoliv
 
 * * *
 
+### Explore Conscious Coliving Further: 
+
+If you are curious about conscious coliving and want to implement it into your life, our free email courses are a great place to begin. 
+Find out more [here](https://lifeitself.org/conscious-coliving).
+
