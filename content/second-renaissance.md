@@ -36,7 +36,7 @@ Over the six episodes we'll dive into:
 
 ![[Pasted image 20240108130742.png]]
 
-<iframe width="540" height="445" src="https://1ebb0834.sibforms.com/serve/MUIFAKXOqgu7Y07LUq7bW7S86OaHZLbRqA8wwnkF70e-OOFrNt4LIhDW1P0MsWLYtj2_AtCuLmqLBruikx3Ywi5XBV2Vm20ewFwL3a5coxW3LR2-BmvI-YHIndCHEkrAm85Q3um0WL6CiA3vJD76Pigp7df2ADTVxzMTzG1uehKwnfvVNypoYASpoEL-uZFzWf2YkE_vBcZUU3uf" frameborder="0" scrolling="auto" allowfullscreen style="display: block;margin-left: auto;margin-right: auto;max-width: 100%;"></iframe>
+<iframe width="540" height="445" src="https://1ebb0834.sibforms.com/serve/MUIFAKXOqgu7Y07LUq7bW7S86OaHZLbRqA8wwnkF70e-OOFrNt4LIhDW1P0MsWLYtj2_AtCuLmqLBruikx3Ywi5XBV2Vm20ewFwL3a5coxW3LR2-BmvI-YHIndCHEkrAm85Q3um0WL6CiA3vJD76Pigp7df2ADTVxzMTzG1uehKwnfvVNypoYASpoEL-uZFzWf2YkE_vBcZUU3uf" frameborder="0" scrolling="auto" allowfullscreen></iframe>
 ## The Second Renaissance Book
 
 <iframe width="540" height="505" src="https://1ebb0834.sibforms.com/serve/MUIEAIO5LjUG721pq9SfFmfJkJbo4_ssAmnvFK2_aXLiU4wmH87Rmmn99_a8t69_vTSd3gGTsjAnRttUKCxkEUO0PytZFpS1eKcn1l1u2uNUuqkspuj-OKyw8A1tsK1kvVOKhIiQ8uoD6aWhzZVF4M5ZDukCn27RA-qtVOuSO9tt_sdEJXjV8GpVXULIUnctY7ZupC_l3DDCIcM4" frameborder="0" scrolling="auto" allowFullscreen></iframe>
