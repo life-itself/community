@@ -31,10 +31,9 @@ Over the six episodes we'll dive into:
 - Exploring how we can arrive at an awakening society and the action steps to take
 
 **Course Overview**
-
-![[Pasted image 20240108130523.png]]
-
-![[Pasted image 20240108130742.png]]
+![[2R-course-structure-1.png]]
+![[2R-course-structure-2.png]]
+![[2R-course-structure-3.png]]
 
 <iframe width="540" height="445" src="https://1ebb0834.sibforms.com/serve/MUIFAKXOqgu7Y07LUq7bW7S86OaHZLbRqA8wwnkF70e-OOFrNt4LIhDW1P0MsWLYtj2_AtCuLmqLBruikx3Ywi5XBV2Vm20ewFwL3a5coxW3LR2-BmvI-YHIndCHEkrAm85Q3um0WL6CiA3vJD76Pigp7df2ADTVxzMTzG1uehKwnfvVNypoYASpoEL-uZFzWf2YkE_vBcZUU3uf" frameborder="0" scrolling="auto" allowfullscreen></iframe>
 ## The Second Renaissance Book
