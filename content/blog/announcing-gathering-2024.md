@@ -14,7 +14,9 @@ We are delighted to announce the return of our original annual event: the Gather
 - Part I: 13th to 16th June: sharing the second renaissance
 - Part II: 17th to the 23rd June: sprint week of projects and art
 
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSdngjK7uBeg6dSj6Q7P9odll8R2Og3jFjuQYsgbGbO_UBQlOA/viewform?usp=sf_link" className="px-3 py-2 rounded bg-secondary text-sm text-primary font-medium shadow-xs hover:bg-secondary/80 focus-visible:outline">Register Now &rarr;</a>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSdngjK7uBeg6dSj6Q7P9odll8R2Og3jFjuQYsgbGbO_UBQlOA/viewform?usp=sf_link" className="px-3 py-2 rounded bg-secondary text-sm text-primary font-medium shadow-xs hover:bg-secondary/80 focus-visible:outline">Apply Now &rarr;</a>
+
+## Table of Contents
 
 ## More about the Gathering
 
@@ -24,7 +26,7 @@ This year we would like to revive our great founding event – the Gathering –
 
 - Part II: 17th to the 23rd June: a co-working and connecting week for people to make art, projects and friends with a presentation on the 22nd of June at the final “celebration of life” party.
 
-Important note: you can come a) just for Part I or b) both Part I and Part II.  
+Important note: you can come a) just for Part I or b) both Part I and Part II.
 
 Where: The Gathering will take place at the Life Itself Farmhouse Hub in Thénac, next to the famous Plum Village zen monastery. Recently renovated, and surrounded by vineyards and woods the farmhouse complex is 20 minutes south of Bergerac in south-west France near Bordeaux. More info at [https://lifeitself.org/hubs/farmhouse](https://lifeitself.org/hubs/farmhouse)
 
@@ -34,9 +36,10 @@ Background: Life Itself started with a Gathering in summer 2016 with people comi
 
 A beautiful week of creativity, community, pragmatic philosophy and open space!
 
-Here are some of the themes and workshops:  
-- The second Renaissance the journey to an Awakening society 
-- Embodied transformation with Performance  
+Here are some of the themes and workshops:
+
+- The second Renaissance the journey to an Awakening society
+- Embodied transformation with Performance
 - Art, Spirituality and Activism
 - The climate crisis: beyond identity
 - The politics of Being
@@ -55,16 +58,18 @@ Price is per person unless you book a room for a couple. The price includes vega
 
 ### Part 1
 
-from the 12th June night to the 16th June:
+From the 12th June night to the 16th June:
+
 - Camping or Caravan:  225 euros  
 - Dorms: 300 euros 
 - Room for couple: 650 euros  
 
 ### Prices for Part 1 and 2
 
-from the 12th June night to the 23rd June:
+From the 12th June night to the 23rd June:
+
 - Camping or Caravan: 480 euros
 - Dorm: 660 euros
 - Room for couple: 1440 euros
 
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSdngjK7uBeg6dSj6Q7P9odll8R2Og3jFjuQYsgbGbO_UBQlOA/viewform?usp=sf_link" className="px-3 py-2 rounded bg-secondary text-sm text-primary font-medium shadow-xs hover:bg-secondary/80 focus-visible:outline">Register Now &rarr;</a>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSdngjK7uBeg6dSj6Q7P9odll8R2Og3jFjuQYsgbGbO_UBQlOA/viewform?usp=sf_link" className="px-3 py-2 rounded bg-secondary text-sm text-primary font-medium shadow-xs hover:bg-secondary/80 focus-visible:outline">Apply Now &rarr;</a>
