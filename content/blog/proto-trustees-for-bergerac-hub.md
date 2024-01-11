@@ -3,9 +3,9 @@ title: Forming a Group of Proto-Trustees to Shape Future of the Life Itself Berg
 created: 2023-10-09
 authors:
   - rufuspollock
-  - liamkavanagh
   - valerie
   - sylvieshiweibarbier
+  - liamaet
 categories:
   - hubs
   - bergerac-hub
