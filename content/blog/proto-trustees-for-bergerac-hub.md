@@ -11,7 +11,7 @@ categories:
   - bergerac-hub
 image: /assets/images/20200717_072527-800x1024.jpg
 ---
-We are forming a group of "proto trustees" to shape the future of the Life Itself Bergerac Praxis Hub. They will support the further evolution of this space playing a major role in an emerging "second renaissance" and metamodern/metacrisis ecosystem.
+We are forming a group of "proto trustees" to shape the future of the Life Itself Bergerac Praxis Hub. They will support the further evolution of this space playing a major role in an emerging "second renaissance" metamodern/metacrisis ecosystem.
 
 The [[../hubs/bergerac|Life Itself Bergerac Hub]] has been running for [[2021/09/13/announcing-the-sympoiesis-residencies-at-the-life-itself-praxis-hub|over two years in its current residency model]] and for more than three in total. It is already starting to play a significant role in the wider ecosystem of which it is part -- we've hosted over twenty residencies with hundreds of residents from multiple continents.
 
