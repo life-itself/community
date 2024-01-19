@@ -11,7 +11,7 @@ categories:
 The Collective Old Oak, London—a conscious co-living community that transcends traditional housing. From fostering diverse connections to championing sustainability, explore how this innovative space embodies the essence of mindful living, setting a new standard for intentional communities in the heart of London.
 
 
-**“Our mission is to build and activate spaces that foster human connection and enable people to lead more fulfilling lives.” [Website](https://www.thecollective.com/).
+“Our mission is to build and activate spaces that foster human connection and enable people to lead more fulfilling lives.” [Website](https://www.thecollective.com/).
 
 The Collective represents a paradigm shift in urban living in London—a departure from traditional housing towards a model that prioritises community, sustainability, and shared values. At its core, conscious co-living is about fostering meaningful connections, embracing diversity, and creating a space where residents feel a sense of purpose and belonging. In the heart of London, where the pulse of city life beats strongly, The Collective stands as an embodiment of conscious co-living. This unique space goes beyond being a residence to create a mindful and connected community. In this blog post, we delve into the intricacies of The Collective, exploring how it exemplifies conscious co-living principles and sets a precedent for intentional communities worldwide.
 
