@@ -22,7 +22,7 @@ Efficient layouts are a crucial part of co-living spaces, facilitating smooth tr
 
 The intentional integration of versatile furniture, like sofa beds and modular shelving, highlights a commitment to adaptable design. Thoughtfully designed furnishings allow residents to tailor their living spaces to their needs. These layouts go beyond convenience, creating environments that balance individual needs with collective experiences for a fulfilling living atmosphere.
 
- An exemplary case is The Collective Old Oak in London, where strategic use of sliding doors and adaptable furnishings transforms living areas based on residents' dynamic needs, emphasising the importance of responsive design in practical communal living. For a more in-depth exploration The Collective Old Oak check out our blog post about it here: [[https://lifeitself.org/blog/the-collective-old-oak-case-study]]
+ A great example of this is The Collective Old Oak in London, where strategic use of sliding doors and adaptable furnishings transforms living areas based on residents' dynamic needs, emphasising the importance of responsive design in practical communal living. For a more in-depth exploration The Collective Old Oak check out our blog post about it here: [[https://lifeitself.org/blog/the-collective-old-oak-case-study]]
 
 ### Integrated Indoor-Outdoor Design 
  
