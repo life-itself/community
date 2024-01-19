@@ -52,4 +52,4 @@ Whether nestled in the Irish countryside, adorning the shores of Lake Constance,
 
 If you are curious about conscious coliving and want to implement it into your life, our free email courses are a great place to begin. 
 
-Why not check us out and find out more [here](https://lifeitself.org/conscious-coliving).
+Find out more [here](https://lifeitself.org/conscious-coliving).
