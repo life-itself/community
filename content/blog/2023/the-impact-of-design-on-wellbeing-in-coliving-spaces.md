@@ -12,7 +12,6 @@ Explore the transformative influence of design on the well-being of conscious co
 
 In the evolving landscape of modern living, conscious co-living has emerged as a lifestyle choice that prioritises community, sustainability, and well-being. As we delve into the intricacies of intentional communal living, it becomes evident that the design of these spaces plays a pivotal role in shaping the overall well-being of their residents. From the gentle interplay of natural light to the psychology of colours and thoughtful layout strategies, each design element contributes to a canvas where well-being stands at the forefront.
 
-
 ### The Psychological Impact of Colours
 
 The psychological impact of colours is crucial in shaping the ambiance and well-being of residents in co-living spaces. Intentional use of calming tones like blues and greens promotes relaxation, while vibrant hues in common areas encourage social interaction. For example in the Bergerac Hub bright cobalt blue, soft sage green and vibrant yellow can be prominently found within communal areas like the dining room and dojo promoting an environment that is both soothing and enlivening. This understanding of colour theory allows coliving communities like the Hub to design spaces that meet both emotional and functional needs, enriching the overall living experience of members. 
