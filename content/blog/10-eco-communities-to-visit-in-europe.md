@@ -18,7 +18,7 @@ An ecovillage is an intentional, traditional, or urban community consciously des
 On the other hand, an eco community has a broader scope and may encompass a variety of intentional communities prioritising ecological sustainability but may not strictly adhere to the ecovillage model. Eco communities can include intentional neighbourhoods, co-housing projects, or even urban communities with a shared commitment to eco-friendly practices.
 ## 1. Cloughjordan EcoVillage, Ireland
 Nestled in the serene Irish countryside, Cloughjordan EcoVillage stands as a beacon of sustainable living. Showcasing a harmonious blend of eco-friendly features and innovative sustainable practices, Cloughjordan invites visitors to experience a holistic approach to conscious co-living. From day-to-day commitments to organic farming and renewable energy initiatives, every aspect of life in Cloughjordan reflects a dedication to creating a more sustainable and interconnected community.
-[Website](https://www.thevillage.ie/).
+[Website](https://www.thevillage.ie/). 
 ## 2. Auroville, France
 Auroville, a smaller counterpart to the renowned Indian community of the same name, epitomises a harmonious fusion of sustainable living and spiritual exploration. Celebrated for its distinctive community design, where eco-conscious principles intertwine with artistic expression, Auroville beckons those seeking a profound connection with both nature and self.
 [Website](https://auroville.org/page/french-pavilion).
