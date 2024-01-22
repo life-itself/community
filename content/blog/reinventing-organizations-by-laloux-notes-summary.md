@@ -7,7 +7,9 @@ categories:
   - book-notes
   - teal
 image: /assets/images/reinventing-organizations-summary-cover.webp
+description: Laloux has done a great service bringing together multiple case studies, and drawing out commonalities in practices, attitudes and behaviours.
 ---
+
 Laloux has done a great service bringing together multiple case studies, and drawing out commonalities in practices, attitudes and behaviours.
 
 ## Comments
