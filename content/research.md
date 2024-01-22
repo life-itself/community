@@ -86,9 +86,14 @@ ourwork:
 
 import { ResearchTopicMap, ProjectsList } from './components/custom/Research';
 
-We are a **research collective** exploring paths to [awakening societies](/awakening-society) 🌻. We produce reports, papers, methods and tools. We [welcome participation](/research-community).
+We are a **research collective** exploring paths to [awakening societies](/awakening-society) 🌻. We produce reports, papers, methods and tools. We welcome participation, and [more info on our research community can be found here](/research-community).
 
 <ResearchTopicMap projects={frontmatter.ourwork} />
+## About 
+
+
+We aim to be a distributed and self-motivated research community which helps to guide paradigmatic systems change. We are inspired by other research collectives in the past who have been able to have meaningful social impact and be self-motivated. 
+
 
 ## Our Work
 

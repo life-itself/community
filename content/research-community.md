@@ -22,9 +22,21 @@ showToc: true
 
 ## About the Community
 
-For us, research has a broad meaning. It includes systematic inquiry as well as more formal academic-style work.
+For us, research has a broad meaning. It includes systematic inquiry as well as more formal academic-style work. 
 
-### Topics
+### Form 
+
+We aim to be a distributed and self-motivated research community which helps to catalyze paradigmatic systems change. We are inspired by other research collectives in the past who have been able to have meaningful social impact and be self-motivated, like the Santa Fe Institute and the Frankfurt School. 
+
+![[assets/images/research inspirations.jpg]]
+### Research overview
+
+At the moment, we have two primary workstreams: building a movement for the Second Renaissance, and building the field for Deliberately Developmental Spaces. The diagram below outlines some of the questions we are concerned with in more detail.
+
+
+![[assets/images/lifeitselfresearchprogram.jpg]]
+
+#### Topics 
 
 Any topic is welcome with a clear connection to making a wiser, weller world and awakening socieities[^1]. At the same time, we do have the following focal areas in order of priority:
 
@@ -104,37 +116,6 @@ To become a member you usually need to:
 
 Membership is usually for one year, indefinitely renewable.
 
-## Topics
-
-### Ontology and culturology aka the study of inner development and cultural evolution
-
-Our primary topic focus is ontology and culturology i.e. the study ("science") of personal and collective inner development.
-
-Specifically their nature and causes:
-
-- What is our nature and potential?
-- How does development happen?
-- What is culture and cultural evolution?
-- What are the causes and the factors such practices/environments that influence these?
-
-Regarding the latter item, we have a particular interest in **conscious collectives and deliberately development spaces**.
-
-We are also particularly interested in **contemplative science**, that is rigorous empirical inquiry into contemplative practices and experiences.
-
-Finally, we are also very interested in the consequences of being and culture in relation to wellbeing and wisdom/performance at the personal and collective level (e.g. teams, coliving communities, societies etc). For example, how do culture influence the innovativeness or happiness of societies?
-
-### Systems transformation
-
-A secondary and complementary theme is paradigmatic shifts in socio-economic (eco)systems. For example, a shift from a proprietary digital economy to an open one, or a carbon-based energy system to a post-carbon one.
-
-### Politics of paradigmatic social change
-
-A tertiary theme is the politics of paradigmatic change as in collective action and movement building for a foundational shift in our onto-socio-economic systems.
-
-This integrates the previous two areas in that paradigmatic shift incorporates a substantive evolution in both our cultural and socio-economic systems. This theme is also a concretizing one where the ideas in the previous two areas turn into concrete policy and practices for transformative change.
- 
-Within this broad area a specific and active sub-area is **ecosystem mapping and field-building** i.e. delineating a field/ecosystem, identifying actors, weaving them together etc.
-
 ## FAQs
 
 ### What topics do you work on?
@@ -144,3 +125,7 @@ See above.
 ### Is there funding?
 
 Groups within the Research Community can potentially apply for funding or consultancy work via the Life Itself organization. For example, we have previously been granted funding for a collaborative European H2020 project and a variety of other projects.
+
+### When do you meet? 
+
+We have weekly meetings every Friday at 3pm CET on google meet. If you would like to join, you can email labs-team@lifeitself.org.
