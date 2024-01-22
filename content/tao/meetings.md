@@ -1,5 +1,8 @@
 # Patterns for Meetings
 
+- Take meeting notes in hackmd in markdown or google docs. Markdown is the preference.
+- At end of meeting, process the material from the meeting (see next section)
+
 ## Processing material from meetings
 
 When we have a meeting we want to process notes and actions out of the meeting so that we add to consolidated/distilled body of knowledge and actions don't get lost (and we do this with reasonable 80/20 approach)
