@@ -86,10 +86,39 @@ ourwork:
 
 import { ResearchTopicMap, ProjectsList } from './components/custom/Research';
 
-We are a **research collective** exploring paths to [awakening societies](/awakening-society) 🌻. We produce reports, papers, methods and tools. We [welcome participation](/research-community).
+We are a **research collective** exploring paths to [awakening societies](/awakening-society) 🌻. We produce reports, papers, methods and tools. We [welcome participation](#how-to-join-in).
+
 
 <ResearchTopicMap projects={frontmatter.ourwork} />
 
 ## Our Work
 
 <ProjectsList projects={frontmatter.ourwork} />
+
+## People
+
+Coming soon! 👋
+
+## How to join in
+
+Come to one of the weekly hangouts which take place on Friday at 3pm European. Details in the [[community|community calendar]].
+
+## About the Research Collective
+
+### Overview
+
+![[excalidraw/research-overview-oct-2023.excalidraw.svg]]
+
+### Inspirations
+
+<iframe src="https://link.excalidraw.com/readonly/6R6BUKbGTIk9BzvP7c5x" width="100%" height="100%"></iframe>
+
+A contemporary inspiration though in a very different topical area is: https://www.inkandswitch.com 
+### FAQs
+
+#### Can I come up with my own project or interest?
+
+Yes. We're very happy for people to bring their own projects and interests to the call.
+#### How many people come?
+
+It depends but normally between five and fifteen with more at special presentations.
