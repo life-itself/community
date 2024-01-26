@@ -60,9 +60,7 @@ None for this issue. Here you might include your questions and hypotheses, or ot
 
 Once you’ve set out your issue like this, you should keep it up to date so that your team members can follow along. 
 
-::: tip
-On Github you can create an issue template so this structure is always present.
-:::
+**Tip:** On Github you can create an issue template so this structure is always present.
 
 ### Issue Naming
 
@@ -78,9 +76,7 @@ Make sure you record relationships between issues, e.g.:
 * Individual issues and their epics.
 * Support requests and their fixes.
 
-:::tip
-Use keywords such as 'parent of #...', 'child of #...', 'depends on #...' in the issue description to automatically create these relationships.
-:::
+**Tip:** Use keywords such as 'parent of #...', 'child of #...', 'depends on #...' in the issue description to automatically create these relationships.
 
 ## Updating the Issue 
 
@@ -121,9 +117,8 @@ When completing a task (i.e. a checklist item) you SHOULD:
 
 The difference between writing updates in the description and in the Comments section is that the Comments section represents the _flow_ of your work, whereas the Description represents the most up-to-date _state_ of your work. You should ensure you use both. 
 
-:::tip WHY
 Why do both description updates and commenting? Because we want both *flow* and *state* information readily available. For example, a product owner may just want to see quickly the overall state of the work by looking at the issue description without having to wade through a complex comment thread.
-:::
+
 
 For example, suppose the task was:
 
@@ -178,10 +173,9 @@ Notes:
 * When issues are closed in a commit you do not need to add a separate comment.
 * If `INVALID, WONTFIX, DUPLICATE` you SHOULD also assign the relevant label. Why? Labels show up listing and comments don't. Conversely labels are not obvious when reading the issue comment thread.
 
-::: tip
-Use the 'Fixes #...' keyword in your commit messages (or pull request descriptions) to automatically close issues when a PR is merged.
+**Tip:** Use the 'Fixes #...' keyword in your commit messages (or pull request descriptions) to automatically close issues when a PR is merged.
 
 You can refer to issues in another repo by using the full notation, e.g. 'fixes DatopianGlobal/PM#10'.
-:::
+
 
 
