@@ -86,10 +86,25 @@ ourwork:
 
 import { ResearchTopicMap, ProjectsList } from './components/custom/Research';
 
-We are a **research collective** exploring paths to [awakening societies](/awakening-society) 🌻. We produce reports, papers, methods and tools. We [welcome participation](/research-community).
+## About
+
+We are a **research collective** exploring paths to [awakening societies](/awakening-society) 🌻. We produce reports, papers, methods and tools. We welcome participation and [more info on our research community can be found here.](/research-community)
 
 <ResearchTopicMap projects={frontmatter.ourwork} />
 
+For us, research has a broad meaning. It includes systematic inquiry as well as more formal academic-style work. 
+
+### Research overview
+
+At the moment, we have two primary workstreams: building a movement for the Second Renaissance, and building the field for Deliberately Developmental Spaces. The diagram below outlines some of the questions we are concerned with in more detail.
+
+
+![[assets/images/researchprogramoutline.png]]
+### Form 
+
+We aim to be a distributed and self-motivated research community which helps to catalyze paradigmatic systems change. We are inspired by other research collectives in the past who have been able to have meaningful social impact and be self-motivated, like the Santa Fe Institute and the Frankfurt School. 
+
+![[assets/images/researchinspirations.jpg]]
 ## Our Work
 
 <ProjectsList projects={frontmatter.ourwork} />
