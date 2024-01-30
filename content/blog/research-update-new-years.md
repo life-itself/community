@@ -34,6 +34,8 @@ Both of our two work streams are concerned with ‘field building’, and so it 
 
 In 2024, we would like to see major steps made for the Life Itself research community to be self-motivated and drive social change. Now that we have our research questions and the shaping for our year ahead, we encourage others to join our conversation and participate in building both of these fields. 
 
-## The year of being unreasonable 
+## How can we prepare for systems transformation? 
 
-The ways of thinking and being and relating to the world which modernity largely inspires, which we are so familiar with, need to be shaken off, and within our own research collective, we have emphasized the possibility of being ‘unreasonable’. It is an important tension for us to hold: usually, when we hear the word unreasonable, we think of someone who is stubborn or incapable of compromise, and it carries a negative connotation. We would like to explore the positive connotation, or possibility, of being unreasonable: namely, that it is a time where we should be unreasonable (that being unreasonable is the ‘reasonable’ thing to do). We are at the time when we have to be asking the question:  how can we have conversations to prepare for a major civilizational transition? It might not come off as a reasonable question, but it's the question we should be asking ourselves. 
+The ways of thinking about and being in the world which (post)modernity largely inspires, which we are so familiar with, require a mourning. Throughout this process, we need to begin asking ourselves how a new way of being in the world can emerge. But such a  context is difficult for us to embody as individuals, and even as communities. How can we begin to consider this in a way which makes sense? 
+
+It is an important tension for us to hold: we believe ourselves to be at the start of a major transition, and yet, it is difficult for this transition to take place while we are so used to the machinery of modernity. We are at the time when we have to be asking the question:  how can we have conversations, build networks, and develop a culture to prepare for a major civilizational transition? 
