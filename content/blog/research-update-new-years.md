@@ -32,7 +32,7 @@ Paradigmatic change requires not only ‘societal’ change, but inner change, a
 
 Both of our two work streams are concerned with ‘field building’, and so it has been a topic we have discussed and focused on a lot in recent months. [This blog post outlines what some of that process has looked like in the field of Deliberately Developmental Spaces](https://lifeitself.org/blog/2023/12/11/finding-the-center-blog-post). Even though Deliberately Developmental spaces are more focused on inner ontological growth, a Second Renaissance movement is not only concerned with social transformation, but on exploring and bringing into practice new ways of being and relating to the world for individuals.
 
-In 2024, we would like to see major steps made for the Life Itself research community to be self-motivated and drive social change. Now that we have our research questions and the shaping for our year ahead, we encourage others to join our conversation and participate in building both of these fields. 
+In 2024, we would like to see major steps made for the Life Itself research community to be self-motivated and drive social change. Now that we have our research questions and the shaping for our year ahead, we encourage others [to join our conversation and get involved in the research community](https://lifeitself.org/research#how-to-join-in), and even to participate in the building both of these fields. 
 
 ## How can we prepare for systems transformation? 
 
