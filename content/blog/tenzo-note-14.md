@@ -4,7 +4,7 @@ description: Wondered about where food and Zen meet? Read this introduction to t
 created: 2024-01-31
 authors:
   - valerie
-image: /assets/images/tenzo-note-14.jpg
+image: /assets/images/tenzo-note-14-1.jpg
 categories:
   - bergerac-hub
   - conscious-food
