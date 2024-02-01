@@ -60,9 +60,9 @@ Price is per person unless you book a room for a couple. The price includes vega
 
 From the 12th June night to the 16th June:
 
-- Camping or Caravan:  225 euros  
-- Dorms: 300 euros 
-- Room for couple: 650 euros  
+- Camping or Caravan:  250 euros  
+- Dorms: 350 euros 
+- Room for couple: 675 euros  
 
 ### Prices for Part 1 and 2
 
