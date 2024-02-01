@@ -5,8 +5,6 @@ image: /assets/images/1909newsletter-gathering-meal-2019.jpg
 layout: fancy
 ---
 
-[[conscious-coliving-course|New to conscious coliving? Start here.]]
-
 ## What is Conscious Coliving? 
 
 There’s not really an established term yet for the kind of way of living that we imagine and seek to pioneer. We've come to call it "conscious coliving" reflecting the fusion of two related practices: conscious living and coliving.
@@ -21,13 +19,14 @@ If you are curious about conscious coliving and want to implement it into your l
 
 ### Out Now
 
-[[conscious-coliving-course|Conscious Coliving 101:Learn How to Live a More Connected Life]]
+[[conscious-coliving-course|Conscious Coliving 101: Learn How to Live a More Connected Life]]
+
+[[transforming-conflict-in-community-course|Transforming Conflict in Conscious Coliving]]
 
 ### Coming Soon (Pre-Apply Now!)
 
 [[practical-conscious-coliving-course|Conscious Coliving in Action: Practical Steps to Getting Started with Conscious Coliving]]
 
-[[transforming-conflict-in-community-course|Transforming Conflict in Conscious Coliving]]
 
 ### The Online Community for Conscious Coliving
 
