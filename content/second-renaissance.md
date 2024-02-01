@@ -15,7 +15,7 @@ On this page, you can learn more about the Second Renaissance and the practical 
 
 ## The Second Renaissance Pilot Course
 
-![[assets/images/2R-fish-in-water.jpg]]
+![[second-renaissance-header.jpg]]
 
 Join us on the journey of the Second Renaissance where we take you through the fundamental concepts integral to navigating this period of great awakening. 
 
