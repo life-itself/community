@@ -7,7 +7,7 @@ authors:
   - lauren-wigmore
 image: /assets/images/isabela-granic-community-call.jpg
 ---
-[Register here for the zoom call on Thursday 29th February, 6:30pm CET](https://us02web.zoom.us/meeting/register/tZ0lcu6grTojGtzrU9tLmxeOivSSEPS6mxM)
+[Register here for the zoom call on Thursday 29th February, 6:30pm CET](https://us02web.zoom.us/meeting/register/tZ0lcu6grTojGtzrU9tLmxeOivSSEPS6mxM_)
 
 ## About the call
 
