@@ -22,7 +22,7 @@ We are delighted to announce the return of our original annual event: the Gather
 
 This year we would like to revive our great founding event – the Gathering – because we want to share with you the vision of a second renaissance. The Gathering will happen in  two parts:
 
-- Part I: 13th to 16th June (arrival on 12th): sharing the vision of the second renaissance through workshops and talks.
+- Part I: 13th to 16th June (arrival on 12th): sharing the vision of the second renaissance through workshops, talks and open space.
 
 - Part II: 17th to the 23rd June: a co-working and connecting week for people to make art, projects and friends with a presentation on the 22nd of June at the final “celebration of life” party.
 
@@ -40,8 +40,10 @@ Here are some of the themes and workshops:
 
 - The second Renaissance the journey to an Awakening society
 - Embodied transformation with Performance
-- Art, Spirituality and Activism
-- The climate crisis: beyond identity
+- Art, religion and politics
+- Science of Shanga
+- The climate crisis and the equality complex
+- Art and Social engineering
 - The politics of Being
 - Play in life and life as play, 
 - Ecstatic Dance 
