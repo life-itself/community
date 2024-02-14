@@ -6,7 +6,20 @@ How to shape work based on Shapeup by Ryan Singer of Basecamp.
 
 This document focuses on how to 'shape' work as described in the first part of the book. Shaping is a process for defining the key elements of a solution, before deciding to commit to the project ('betting') and start working on it ('building').
 
-## Template for a Shaped proposal 
+> **Shaping** is a **pattern** for creating **pitches** that can be **bet** on
+
+## Pattern for pitch submission and review
+
+- Create a pitch using the template below
+- Submit the pitch as a *markdown file* in the relevent project/team repo using a *pull requests*
+
+Why a pull request (vs e.g. just copying and pasting in an issue)?
+
+- Pitches are persistent so preferred to an issue
+- Pitches are a substantial output so better outside of an issue with all the affordances of a proper doc
+- Pull requests allow for annotation style comments which are much better for reviewing and discussion
+  
+### Template for a Shaped proposal 
 
 The following is a markdown template for the pitch that results from the shaping work.
 
