@@ -1,12 +1,42 @@
-# Summary of Shapeup by Ryan Singer from Basecamp
+# How to shape work
+
+How to shape work based on Shapeup by Ryan Singer of Basecamp.
 
 [Shapeup: Stop Running in Circles and Ship Work that Matters](https://basecamp.com/shapeup) is a guide for doing product development, based on the author's experience at Basecamp. Although it refers to software development, most of the principles and techniques behind it are widely applicable and may be of interest to staff at Datopian and Life Itself. 
 
-This summary focuses on the first part of the book, which is about how to 'shape' work. Shaping is a process for defining the key elements of a solution, before deciding to commit to the project ('betting') and start working on it ('building').
+This document focuses on how to 'shape' work as described in the first part of the book. Shaping is a process for defining the key elements of a solution, before deciding to commit to the project ('betting') and start working on it ('building').
+
+## Template for a Shaped proposal 
+
+The following is a markdown template for the pitch that results from the shaping work.
+
+```md
+## Summary
+
+*Aim for bullet points with 1-3 sentence summary of other sections*
+
+## Problem
+
+## Appetite
+
+*Appetite can be consolidated into the summary if a single number e.g. 5d*
+
+## Solution
+
+## Rabbit Holes
+
+## No Gos
+
+## Appendix
+
+e.g.
+
+- Other potential solutions we didn't go for
+- Detailed issue trees
+- Full consolidated scqa if you want it etc
+```
 
 ## Table of Contents
-
-
 
 ## Chapter 2: Principles of Shaping
 
