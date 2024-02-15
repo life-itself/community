@@ -6,7 +6,7 @@ date: 2024-02-13
 src: https://anchor.fm/s/79b39934/podcast/play/82616562/https://d3ctxlq1ktw2nl.cloudfront.net/staging/2024-1-13/6cf07314-6d08-0a66-3c3d-39418e8d35fd.mp3
 image: https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/20318133/20318133-1707835232782-4ec810f2d5082.jpg
 ---
-**In this episode of Ordinary People walking an extra-ordinary path podcast, Life Itself co-founder Sylvie Barbier is joined by Dr Simon Longstaff.**
+In this episode of Ordinary People walking an extra-ordinary path podcast, Life Itself co-founder Sylvie Barbier is joined by Dr Simon Longstaff who shares his journey from working as a cleaner to becoming the Director of the Ethics Centre.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fPZ_NyGQhsM?si=hj3ZRq2u-4wDrCqN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 # About Simon
