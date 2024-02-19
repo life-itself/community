@@ -117,41 +117,14 @@ See [[spirituality]].
 
 ## Strategy
 
-Strategy or strategic planning is a catch-all term that we use to cover work and outputs such as:
+Strategy or strategic planning is a catch-all term that we use to cover high level planning at different levels and including multiple forms of materials including:
 
 - Vision: Aspirational, long-term picture of a desired future state.
 - Mission: Specific actions organization takes to contribute to that vision.
 - Theory of change: Roadmap explaining how mission activities lead to desired outcomes.
 - Roadmap: Defined steps chosen to execute the theory of change effectively. (NB: often this would be termed strategy but we avoid using this term because of its potential ambiguity)
 
-We encourage use of these individual terms wherever possible. When doing work that may cover several of them or the overall area we will say we are working on "strategic planning" or "strategy".
-
-### Situation
-
-There are several distinct related outputs that can be produced by "strategic planning":
-
-- Vision: Aspirational, long-term picture of a desired future state.
-- Mission: Specific actions organization takes to contribute to that vision.
-- Theory of change: Roadmap explaining how mission activities lead to desired outcomes.
-- Strategy: Defined steps chosen to execute the theory of change effectively.
-
-Think of it as a pyramid: vision sets the "why", mission the "what", theory of change the "how", and strategy the "how now?".
-
-### Complication
-
-Term strategy is being used to for various of the above above which is confusing -- there is even a sub-item called strategy under strategy!
-
-### Question
-
-What term(s) should we adopt going forward in this area of "strategic planning" to increase clarity and eliminate confusion?
-
-### Hypothesis
-
-Use these individual terms specifically whenever we are talking about an output with the proviso that we will rename "strategy" to "roadmap" to avoid confusion given multiple use of term strategy. When doing work that may cover several of them or the overall area we will say we are working on "strategic planning".
-
-Thus, going forward if someone says "we are working on strategy" we will  ask: "What part of strategic planning are you working on?"
-
-If they say: "here is our strategy" we will say "By strategy i take it to mean the combination of vision, mission, ToC and roadmap" 😄
+See https://github.com/life-itself/strategy for more.
 
 ## Structural-Solutionism
 
