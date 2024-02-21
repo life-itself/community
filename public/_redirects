@@ -41,6 +41,7 @@
 /hangouts                            /community
 # 2023-11-11 can probably be removed in 2m or so as only up for a couple of days
 /once-upon-a-time-series            /ordinary-people 301
+/tao/community-guidelines           /community 301
 
 /author/:slug         /people/:slug
 
