@@ -11,13 +11,13 @@ Distilling the "domains, maps, rafts" terminology we're regularly using in relat
 
 ## Definitions
 
-🏰 **Domains (aka Lines)**: domains are a specific ontogenetic area ie. a specific area of human development e.g. cognitive complexity and morality could be two domains.
+🏰 **Domains (aka Lines)**: are a specific area area of human development. For example, two domains could be cognitive complexity and morality.
 
-🗺️ **Maps**: domains have "maps" which describe the different locations within that domain. aka stages, levels, altitudes.
+🗺️ **Maps**: domains have "maps" which describe the different locations within that domain. Aka stages, levels, altitudes.
 
-🧭 **Compasses**: we need to locate ourselves on the map. Compasses help us do that.
+🧭 **Compasses**: help locate ourselves on a map. For example, the Lectica scale helps measure cognitive complexity.
 
-⛵ **Rafts**: things like practices, environments or teachings that help move between locations in a domain. For example, meditation or internal Family Systems therapy.
+⛵ **Rafts**: are practices, environments or teachings that help move or evolve from location to location in a domain. For example, meditation or internal Family Systems therapy.
 
 ## Notes
 
