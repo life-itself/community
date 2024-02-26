@@ -7,7 +7,7 @@ authors:
 categories:
   - life-itself-research
   - ecosystem-mapping
-image: "[[blog-24-02-26.jpg]]"
+image: /assets/images/blog-24-02-26.jpg
 ---
 We are pleased to publish *Evolving an Emerging Ecosystem*, a report on key challenges and capacities for change agents in the "emerging ecosystem". 
 
