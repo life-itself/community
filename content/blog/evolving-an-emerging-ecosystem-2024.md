@@ -12,6 +12,8 @@ description: We are pleased to publish "Evolving an Emerging Ecosystem", a repor
 ---
 We are pleased to publish *Evolving an Emerging Ecosystem*, a report on key challenges and capacities for change agents in the "emerging ecosystem". 
 
+This research study is part of [Cohere+](https://lifeitself.org/blog/2023/08/30/cohere-erasmus-mapping-announce), an educational field-building project part-funded by the European Union. The Cohere+ project is a collaboration between: Life Itself; The Hague Center for Global Governance, Innovation and Emergence; the Institute for Integral Studies; Emerge; and the Ekskäret Foundation.
+
 Below, you can:
 - Read the Executive Summary of the report
 - Read and download the full report
@@ -42,8 +44,6 @@ With these challenges in mind, we then identify six key “capacities for the fu
 4. Agency and capacity to implement vision
 5. Acting in service of the greater whole
 6. Collective inner resourcing
-
-This research study is part of Cohere+, an educational field-building project part-funded by the European Union. The Cohere+ project is a collaboration between: Life Itself; The Hague Center for Global Governance, Innovation and Emergence; the Institute for Integral Studies; Emerge; and the Ekskäret Foundation.
 
 [1]: Theo Cox, Rufus Pollock, and Anna Schaffner, ‘Mapping for Emergence’, December 2021, Life Itself, https://lifeitself.org/blog/2021/12/09/mapping-for-emergence.
 
