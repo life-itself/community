@@ -8,12 +8,13 @@ categories:
   - life-itself-research
   - ecosystem-mapping
 image: /assets/images/blog-24-02-26.jpg
+description: We are pleased to publish *Evolving an Emerging Ecosystem*, a report on key challenges and capacities for change agents in the "emerging ecosystem".
 ---
 We are pleased to publish *Evolving an Emerging Ecosystem*, a report on key challenges and capacities for change agents in the "emerging ecosystem". 
 
 Below, you can:
 - Read the Executive Summary of the report
-- Download the full report
+- Read and download the full report
 
 We value collective learning and collective sensemaking, and as such we very much welcome feedback and comments. Please feel free to [get in touch with us](https://lifeitself.org/contact).
 
