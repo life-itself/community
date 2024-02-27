@@ -1,10 +1,10 @@
 ---
-title: "Polycrisis Response Mapping"
-description: "Charting an emerging ecosystem by Life Itself, Emerge and collaborators. This project maps an emerging ecosystem centred on a radical, alternative approach to social change – one that is simultaneously paradigmatic, integrated and engaged."
+title: Ecosystem Mapping
+description: Charting an emerging ecosystem by Life Itself, Emerge and collaborators. This project maps an emerging ecosystem centred on a radical, alternative approach to social change – one that is simultaneously paradigmatic, integrated and engaged.
 image: /assets/images/ecosystem-project-image.png
 homepage: /ecosystem
 start: 2020
-end:
+end: 
 team:
   - rufuspollock
   - theo-cox
@@ -25,6 +25,7 @@ This project maps an emerging ecosystem centred on a radical, alternative approa
 
 ## Key Resources
 
+- [[emergent-power-report-2024|Emergent Power: A Report on Key Challenges and Capacities for Change Agents of a Second Renaissance (February, 2024)]]
 - [[../ecosystem|Ecosystem Landing Page]]
 - [[../blog/2022/10/25/ecosystem-mapping-update|Ecosystem Mapping Update (October, 2022)]]
 - [[../blog/2022/02/10/mapping-an-emerging-ecosystem-partnership-with-the-institute-for-integral-studies|Ecosystem Mapping Partnership Announcement (February, 2022)]]
