@@ -11,8 +11,8 @@ categories:
 
 We are delighted to announce the return of our original annual event: the Gathering! The theme for this 2024 Gathering will be the Second Renaissance: journey to an awakening society. In this event we will explore art as gateway to political, social and spiritual transformation. The event is has a special new two part structure:
 
-- Part I: 13th to 16th June: sharing the second renaissance
-- Part II: 17th to the 23rd June: sprint week of projects and art
+- Part I 13-16 June: sharing the second renaissance
+- Part II 17-23 June: co-creation week of projects and art
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSdngjK7uBeg6dSj6Q7P9odll8R2Og3jFjuQYsgbGbO_UBQlOA/viewform?usp=sf_link" className="px-3 py-2 rounded bg-secondary text-sm text-primary font-medium shadow-xs hover:bg-secondary/80 focus-visible:outline">Apply Now &rarr;</a>
 
@@ -23,7 +23,6 @@ We are delighted to announce the return of our original annual event: the Gather
 This year we would like to revive our great founding event – the Gathering – because we want to share with you the vision of a second renaissance. The Gathering will happen in  two parts:
 
 - Part I: 13th to 16th June (arrival on 12th): sharing the vision of the second renaissance through workshops and talks.
-
 - Part II: 17th to the 23rd June: a co-working and connecting week for people to make art, projects and friends with a presentation on the 22nd of June at the final “celebration of life” party.
 
 Important note: you can come a) just for Part I or b) both Part I and Part II.

@@ -8,7 +8,8 @@ description: Feeling inspired by Life Itself and itching to contribute to the se
 
 Feeling inspired by Life Itself and itching to contribute to the **second renaissance and a radically wiser, weller world**? You're in the right place! We're all about community, collaboration, and rolling up our sleeves to make a difference. So, if you've got some **time to spare and a heart of gold**, we'd love to have you on board!
 
-**👉 [Join the Life Itself Get Involved WhatsApp Group &raquo;](https://chat.whatsapp.com/KxzvlRLFmMJ9WP32E9byRx)**
+<a href="https://chat.whatsapp.com/KxzvlRLFmMJ9WP32E9byRx" className="px-3 py-2 rounded no-underline	bg-secondary text-sm text-primary font-medium shadow-xs hover:bg-secondary/80 focus-visible:outline">Join the Get Involved Group on WhatsApp &raquo;</a>
+
 
 ![[../assets/images/community-page.jpg]]
 
@@ -20,6 +21,6 @@ Here's the deal:
 
 **Sound like fun? Join the "Get Involved" group and dive into the action!** Together, we can create a ripple effect of positive change, one small (but mighty) task at a time. See you there! 
 
-**👉 [Join the Life Itself Get Involved WhatsApp Group &raquo;](https://chat.whatsapp.com/KxzvlRLFmMJ9WP32E9byRx)**
+<a href="https://chat.whatsapp.com/KxzvlRLFmMJ9WP32E9byRx" className="px-3 py-2 rounded bg-secondary text-sm text-primary font-medium shadow-xs no-underline hover:bg-secondary/80 focus-visible:outline ">Join the Get Involved Group on WhatsApp &raquo;</a>
 
 **P.S.** Got questions? Don't hesitate to reach out! We're always happy to chat and share more about the exciting things we're working on. 
