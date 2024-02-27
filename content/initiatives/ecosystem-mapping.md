@@ -25,7 +25,7 @@ This project maps an emerging ecosystem centred on a radical, alternative approa
 
 ## Key Resources
 
-- [[evolving-an-emerging-ecosystem-2024|Evolving an Emerging Ecosystem: A Report on Key Challenges and Capacities for Change Agents (February, 2024)]]
+- [[emergent-power-report-2024|Emergent Power: A Report on Key Challenges and Capacities for Change Agents of a Second Renaissance (February, 2024)]]
 - [[../ecosystem|Ecosystem Landing Page]]
 - [[../blog/2022/10/25/ecosystem-mapping-update|Ecosystem Mapping Update (October, 2022)]]
 - [[../blog/2022/02/10/mapping-an-emerging-ecosystem-partnership-with-the-institute-for-integral-studies|Ecosystem Mapping Partnership Announcement (February, 2022)]]

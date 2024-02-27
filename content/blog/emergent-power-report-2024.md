@@ -1,5 +1,5 @@
 ---
-title: "Evolving an Emerging Ecosystem: A Report on Key Challenges and Capacities for Change Agents"
+title: "Emergent Power: Key Challenges and Capacities for Change Agents of a Second Renaissance - a new report"
 created: 2024-02-26
 authors:
   - catherine-tran
@@ -8,9 +8,9 @@ categories:
   - life-itself-research
   - ecosystem-mapping
 image: /assets/images/blog-24-02-26.jpg
-description: We are pleased to publish "Evolving an Emerging Ecosystem", a report on key challenges and capacities for change agents in the "emerging ecosystem".
+description: We are pleased to publish "Emergent Power", a report on key challenges and capacities for change agents of a Second Renaissance.
 ---
-We are pleased to publish *Evolving an Emerging Ecosystem*, a report on key challenges and capacities for change agents in the "emerging ecosystem". 
+We are pleased to publish *Emergent Power*, a report on key challenges and capacities for change agents of a Second Renaissance. 
 
 This research study is part of [Cohere+](https://lifeitself.org/blog/2023/08/30/cohere-erasmus-mapping-announce), an educational field-building project part-funded by the European Union. The Cohere+ project is a collaboration between: Life Itself; The Hague Center for Global Governance, Innovation and Emergence; the Institute for Integral Studies; Emerge; and the Ekskäret Foundation.
 
@@ -49,4 +49,4 @@ With these challenges in mind, we then identify six key “capacities for the fu
 
 ## Full Report
 
-![[cohere-evolving-an-emerging-ecosystem-2024-report-life-itself.pdf]]
+![[emergent-power-cohere-report-2024.pdf]]
