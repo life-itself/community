@@ -1,6 +1,6 @@
 # Working with Us
 
-## What's your culture? What makes you unique? 
+## What's your culture?
 
 Teams at Life Itself are self-organising. We trust each other to get our work done, and we have the freedom to do it our own way (within reason). You won’t have management “checking up” on you. You’re accountable to your team, and it’s your responsibility to ensure that you’re keeping your word. We think this sets us apart from conventional work environments. Add to that that we’re 100% remote, asynchronous, and distributed, i.e. we work from different places, at different times, using our own computers: it all makes for an entirely different way of working. We prioritise explicit and clear communication, and take extra care in tracking our progress so that we don’t miss or duplicate work. We check in with each other daily to catch up and see if anyone has any blockers we can help with. And finally, when we ask you how you are, we actually mean it!
 
@@ -14,27 +14,13 @@ Job descriptions at Life Itself are intentionally wide in scope. This allows you
 
 ## How do you get stuff done?  
 
-Please familiarise yourself with the Getting Things Done methodology: [https://rufuspollock.com/2019/05/27/getting-things-done/](https://rufuspollock.com/2019/05/27/getting-things-done/)
-
-Pay particular attention to the importance of capture. If you are assigned a responsibility, team mates shouldn’t have to prompt you or ask twice for you to get it done. If you’re unclear about an assignment, ask for clarification (but make sure you’ve formulated a hypothesis first!).
-
-## How should I report on my work / progress? 
-
-We use GitHub Issues to track our work. You should create an issue for any assignment, or project, that has more than one actionable step.
-
-Read [[getting-stuff-done#How do we complete tasks?]] to learn more about issues and the specific layout we use. 
-
-## What should I do if I don't have enough work? 
-
-If you’re stuck for something to do, there are a few places to look. You could ask your team on Discord or Whatsapp if they have any tasks/issues that they could assign to you. You could look through existing issues in your projects, and take over any that aren’t assigned. You could create your own issue to solve a problem that you’ve identified, but which hasn’t yet been addressed. Or perhaps there’s something in the collaborative inbox that needs actioning. 
-
-In terms of how you go about doing your work, you have the freedom to choose a work pattern that suits you best, so long as it’s consonant with the needs of your team. Remember to be conscious of your team’s priorities when assigning yourself issues, as it’s generally the case that some issues are less pressing than others. 
+See [[getting-stuff-done|Getting Stuff Done]]
 
 ## Outside of my work responsibilities, do I have other commitments/things to attend? 
 
 Life Itself runs events throughout the year that you’ll be invited to attend, and your presence, while not mandatory, would be welcome!
 
-## What’s a hypothesis? 
+## What's a hypothesis? 
 
 Generating a hypothesis is a way problem solving. You begin with a question, and then, before you ask someone the question, you create a hypothesis about what the answer might be. In doing this, you’re building the muscle of finding the answers to your own problems first. Of course, if you’re still in need of assistance, you should ask the relevant team member. But make sure when you ask questions, you always present the hypothesis at the same time.
 
@@ -43,18 +29,6 @@ E.g.
 We need to pay an invoice on Xero. How should we do this?
 
 **Hypothesis:** My hypothesis is that the answer is in the ops guide. I'll find out. 
-
-## How do projects get initiated?  
-
-Typically by creating a Project A10. See [[getting-stuff-done#How do we set up projects?]].
-
-## Feedback and reviews
-
-At Life Itself we seek to provide value honest, constructive feedback to one another wherever possible. While this can be done informally as required, we also have in place some more formalised review structures.
-
-New team members will have the opportunity for a review session after their first two months at Life Itself, and all staff will have reviews every sixth months. These reviews will collect input from all colleagues who have worked with the reviewee, and are designed to support continuing personal and professional development. Each team member will have the opportunity to request which colleague they would like to conduct their review meeting and go through the feedback they have received with them. 
-
-Alongside this individual review process we seek to conduct regular project check-ins, and project closeout reviews to take stock of what is working and not working so well in our approach, and what we as an organisation can learn. 
 
 ## Contacting Ops
 
@@ -98,9 +72,9 @@ How to organize time-off:
 * Once agreed, notify ops@lifeitself.us to inform them about the dates of your absence and so they can flag if any issues.
 * Make sure to add your holiday dates in both the Life Itself Team calendar as well as in your own personal calendar.
 
-## If You’re Ill
+## If You're Ill
 
-If you’re not feeling well and you’re unable to work, notify your Scrum Master / Product Owner as soon as possible. The notified person will then let teammates know.
+If you’re not feeling well and you’re unable to work, notify relevant team members. The notified person will then let teammates know.
 
 Please add an "Out of office" to your calendar and email and include an alternative contact.
 
