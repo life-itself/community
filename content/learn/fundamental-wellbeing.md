@@ -67,7 +67,7 @@ While no single persons journey is the same, there are 24 tried and tested metho
 
 Learn more about is this Part 2 of the interviews.
 
-<a id="map"></i>   
+<a id="map"></a>
 ## The Martin Matrix: a detailed map of fundamental wellbeing
 
 ![[persistent-non-symbolic-experience-fundamental-wellbeing-dr-jeffery-martin-location-map.jpeg]]
