@@ -11,8 +11,7 @@ image: /assets/images/isabela-granic-community-call.jpg
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LAYHZ0WdN4o?si=9Zq13tOH3JU7KvBo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-[Download the book created from the call here](Isabela Granics Community Call ebook.pdf)
-
+[Download the book created from the call here](![[Isabela Granics Community Call ebook.pdf]])
 ## About the call
 
 Three years ago, Dr. Isabela Granic resigned her tenured professor position in developmental psychology, recognizing that her academic endeavors, aimed at enhancing the mental health and wellbeing of young individuals, primarily served to advance her own career. She observed that the science of human flourishing often remained confined within the ivory tower, failing to impact the everyday lives of the people being studied. 
