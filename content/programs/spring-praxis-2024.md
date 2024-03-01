@@ -1,7 +1,7 @@
 ---
 title: Spring Praxis Residency
 description: An opportunity to focus on one's own inquiries while engaging in conscious community practices held by a lightweight developmental frame. Running from April through May 2024, participation is open, with stays ranging from two weeks up to the full two months.
-image: /assets/content/assets/images/spring-residency-2024.jpg
+image: content/assets/images/spring-residency-2024.jpg
 start: 2024-04-01
 end: 2024-05-31
 facilitator:
@@ -11,9 +11,7 @@ cost: Ranging from €450-950/month excluding food and maintenance (an extra app
 apply-button: https://docs.google.com/forms/d/e/1FAIpQLSdiykDKyZR6DgtPKeYuNePy9sWc-qkIc4BVfKBRjkFWKvFp-g/viewform
 created: 2024-02-21
 ---
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSdiykDKyZR6DgtPKeYuNePy9sWc-qkIc4BVfKBRjkFWKvFp-g/viewform" className="px-3 py-2 rounded bg-secondary text-sm text-primary font-medium shadow-xs hover:bg-secondary/80 focus-visible:outline">Apply to Residency Here &rarr;</a>
-
-In this long-term residency, participants arrive with a project or a question and explore it while being part of a systemic collective body. Every day, residents are supported by an invisible framework based on Minimum Viable Practices (MVPs): shared cooking, silent meditation, house cleaning and garden care, all of which help us navigate our emotions in a dynamic way. During the evenings, participants can share and test their practices within the group, and explore new ones - the activities can range from facilitated inquiries to singing nights to simply unwinding, with a mandatory weekly circle where we engage in deeper check-ins.
+In this longer-term residency, participants arrive with a project or a question and explore it while being part of a systemic collective body. Every day, residents are supported by an invisible framework based on Minimum Viable Practices (MVPs): shared cooking, silent meditation, house cleaning and garden care, all of which help us navigate our emotions in a dynamic way. During the evenings, participants can share and test their practices within the group, and explore new ones - the activities can range from facilitated inquiries to singing nights to simply unwinding, with a mandatory weekly circle where we engage in deeper check-ins.
 
 This Spring Praxis residency focuses on the question of leading a good life and what it means to be human in our time. Instead of following a strict program, it creates space to listen to what wants to emerge from the collective. On the way, we are feeling the rhythm of a community and observing how the system adapts to what unfolds - light or shadow.
 
