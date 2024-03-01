@@ -41,10 +41,10 @@ During the shipping phase, we deliver a (set of) shaped idea(s) that we selected
 
 As a team we work together in 4 week cycles that are split into two phases.
 
-> TODO: rework this diagram for 2+2 time structure **LW note: the diagram confused me with out of cycle and in cycle - is one 'correct' hence why one is 'out'?**
+![[../excalidraw/getting-stuff-done-work-cycle-2024-03-01.excalidraw.svg]]
 
-![](https://basecamp.com/assets/books/shapeup/4.2/two_tracks-e8df2166d8c2f842aeb9dc0e8e5f5a02134c8e315cbe1b353adfd71955305a19.png)
-
+> [!note]
+> This schedule differs from the one detailed in ShapeUp. See [[#Shaping cycle is different]]
 ### Walking through an example month
 
 Let's assume we are starting with a shape cycle:
@@ -103,9 +103,69 @@ Longer projects are split up into smaller chunks so that they can fit within shi
 
 Be very careful about increasing scope during ship. Some new things will always come up because a shape is a rough sketch. But be careful. Generally, capture new items to an inbox area and evaluate them. If they aren't part of the scoped work capture them for a later phase of shaping.
 
+---
+
+# Howtos
+
 ## Shaping Howto
 
-Read [[shapeup|shaping notes]].
+For an introduction to how to shape see [[shapeup|shaping notes]].
+
+Key links:
+
+- Ideas inbox: https://github.com/life-itself/comms/blob/main/IDEAS.md
+- Pitch folder: https://github.com/life-itself/comms/tree/main/pitc
+
+### Pitch submission and review
+
+- Create a pitch as a markdown file using the template below
+- Post it in the pitch folder.
+- BONUS: Submit the pitch as using a *pull request* as that allows for nice review and annotation. 
+  
+### Template for a Shaped proposal 
+
+The following is a markdown template for the pitch that results from the shaping work.
+
+> [!note Connection with SCQA]
+> Pitch format aligns with the situation, complication, question and hypothesis format. In fact, we recommend using the SCQA to generate the pitch. We recommend including the question (if you have one) into the problem section.
+
+```md
+## Summary
+
+*Aim for bullet points with 1-3 sentence summary of other sections. Fill this in near the end.*
+
+- **Appetite**:
+- **Situation**:
+- **Problem**:
+- **Solution**:
+
+## Situation
+
+*Context for this problem and solution*
+
+## Problem
+
+
+### Questions
+
+
+## Solution
+
+
+## Rabbit Holes
+
+
+## No Gos
+
+
+## Appendix
+
+e.g.
+
+- Other potential solutions we didn't go for
+- Detailed issue trees
+- Full consolidated scqa if you want it etc
+```
 
 ## Selection Howto
 
@@ -127,6 +187,7 @@ Patterns
 - Standup
 - Roles e.g. Product Owner, Scrum Leader
 
+# Appendices
 ## Appendix: Concrete examples
 
 #### A long-running externally connected project
@@ -157,3 +218,9 @@ This
 ## Appendix: how shape and ship differs from other approaches
 
 How does Shape and Ship differ from e.g. agile that we had before, or our project A10 model, or ...
+
+## Appendix: differences from standard ShapeUp
+
+### Shaping cycle is different
+
+![[../excalidraw/shape-and-ship-cycles-us-vs-standard-2024-03-01.excalidraw.svg]]
