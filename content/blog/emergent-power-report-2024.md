@@ -18,7 +18,7 @@ Below, you can:
 - Read the Executive Summary of the report
 - Read and download the full report
 
-We value collective learning and collective sensemaking, and as such we very much welcome feedback and comments. Please feel free to [get in touch with us](https://lifeitself.org/contact).
+We value collective learning and collective sensemaking, and as such we very much welcome feedback and comments. Please feel free to join the conversation in the [discussion forum](https://github.com/orgs/life-itself/discussions/1060) or [get in touch with us](https://lifeitself.org/contact).
 
 ## Executive Summary
 
