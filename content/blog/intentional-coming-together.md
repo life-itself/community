@@ -3,11 +3,10 @@ title: Intentional Coming Together
 authors:
   - Simon Grant
 created: 2024-02-18
-date: 2024-02-18
-description: "Reflections on intentionally coming together: what's the point of getting together in person and how to do so in a way that creates meaningful connection."
 image: /assets/images/intentional-coming-together.jpg
 categories:
   - ideas
+description: "Reflections on intentionally coming together: what's the point of getting together in person and how to do so in a way that creates meaningful connection."
 ---
 Two things prompted this piece:
 
