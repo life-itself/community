@@ -7,7 +7,7 @@ date: 2024-02-18
 description: "Reflections on intentionally coming together: what's the point of getting together in person and how to do so in a way that creates meaningful connection."
 categories:
   - ideas
-image:
+image: /assets/images/intentional-coming-together.jpg
 ---
 Two things prompted this piece:
 
