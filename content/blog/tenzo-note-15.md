@@ -9,7 +9,7 @@ categories:
   - bergerac-hub
   - conscious-food
 ---
-**As the main food guardian of the Hub, I am thrilled to share with you our food principles. I am Valerie Duvauchelle, and I am  the designer of the Praxis food system we use at the hub. 
+**As the main food guardian of the Hub, I am thrilled to share with you our food principles. I am Valerie Duvauchelle, and I am  the designer of the Praxis food system we use at the hub.** 
 
 In the Zen tradition, the Tenzo embodies the role of the community food spirit  and the sacred space where meals are prepared. Tenzo is also called at the hub the food guardian and is part of our stewardship together with the house guardian. Its function is to create a nurturing kitchen environment, sharing  a design to support and inspire cooks, and fostering togetherness among all participants.
 
