@@ -7,6 +7,8 @@ We've created the following guide on how to use our logos and how to create alte
 
 To get the logo: right click and select copy image or save image as.
 
+Full brand guidelines and style guide: https://drive.google.com/file/d/1vR-yAyoxG6o3xaOVv0qvyOiIlYaj44Wb/view?usp=drive_link
+
 ## Logo Assets
 
 ### Filetype: PNG
