@@ -122,4 +122,4 @@ And it's the dialogue[^5] which can lead on to bringing people together for lear
 [^4]: And of course there are badly crafted questions: particularly ones that have yes/no answers or ones that are full of unstated controversial assumptions.
 
 [^5]: I mean, principally, dialogue in the tradition of
-    [Bohm Dialogue](https://en.wikipedia.org/wiki/Bohm Dialogue)
+    [Bohm Dialogue](https://en.wikipedia.org/wiki/Bohm%20Dialogue)
