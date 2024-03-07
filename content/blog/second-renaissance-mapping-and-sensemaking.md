@@ -5,6 +5,7 @@ authors:
   - rufuspollock
   - catherine-tran
   - elisalifeitself
+  - matt-osborn
 categories:
   - ecosystem-mapping
   - life-itself-research
@@ -66,4 +67,4 @@ For each of the above levels, we intend to produce at least one "map" infographi
 
 We intend to share our work early and often in order to invite feedback and discussion and learn collectively through the process. 
 
-If you would like to get involved, please [get in touch](https://lifeitself.org/contact).
+If you would like to get involved, please [get in touch](https://lifeitself.org/get-involved).
