@@ -1,262 +1,226 @@
 # Getting Stuff Done
 
-> [!warning]
-> 
-> We are currently revising this part of the Tao. See https://github.com/orgs/life-itself/discussions/934.
+This Guide aims to introduce you to the way we "get stuff done" (e.g. work) at Life Itself.
 
-This Guide aims to introduce you to the **way we get "stuff" done** (e.g. work) at Life Itself. As we work mostly self-organized and independent, it is important to understand some of the key tools and processes that we use.
+We use a "Shape and Ship" model. This is inspired by [[shapeup|Basecamp's ShapeUp]].
 
-We use a **scrum-based agile process** for delivering projects. This process can be used for both technical and non-technical projects[^1].
+## Overview of Shape and Ship
 
-If you have not yet been onboarded, please check the [Onboarding Guide](/onboarding/) to get set up first.
+In the "Shape and Ship" model, items pass through a process which starts from a raw idea and results in a "shipped" item.
 
-[^1]: Whilst Scrum (and Agile generally) was originally developed for software projects, it has now successfully been used for many non-software projects.
+The diagram below illustrates the key components of this process.
 
-## Our Culture
- 
-Working at Life Itself is different from traditional working environments. Teams at Life Itself are self-organising. We trust each other to get our work done, and we have the freedom to do it our own way (within reason). Read [Working With Us](/working-with-us/#what-s-your-culture-what-makes-you-unique) to find out more about our culture and what makes us unique. 
+![](https://basecamp.com/assets/books/shapeup/4.2/phases_of_work-c2d3f6225e1b92af9453047a4364a174099de56289f0082a3d39673c20bd2db3.png)
 
-Finally, we believe in [Getting Things Done](/principles/#getting-things-done). 
+> [!note]
+> There is selection at each stage: only *some* raw ideas are shaped and only some shaped ideas are selected ("bet on") to be shipped.
 
-## 2-Week Sprint Process 
+### Ideas inbox
 
-Work is organized in **short cycles** called **sprints**. Each sprint cycle is initiated by a sprint meeting, where team members review the past sprint and set new goals and tasks for the upcoming sprint. See the [Sprint Process](#sprint-process) below to find out more. 
+Raw ideas are captured in an inbox. Ideas for projects or other work items may be generated in a team brainstorming session, and are also captured on an ongoing basis as they come up. In general, idea generation tends to be guided by the Life Itself Strategy, by previous work, and by what team members feel inspired to work on within the broader strategy.
 
-Most importantly:
-  * Tasks are agreed on in the sprint planning meeting on a Wednesday -- the sprint then runs for 2 weeks.
-  * Tasks should be in the [product backlog](#product-backlog). 
+### Shaping
 
-## Roles
+**Shaping** is a **pattern** for creating **pitches** that can be **selected** ("bet on").
 
-These are largely based on standard scrum process see e.g. Wikipedia http://en.wikipedia.org/wiki/Scrum_(software_development)
+It involves clearly framing the problem or underlying need to be addressed, and defining the key elements of a solution, before deciding to commit to a project ('selection') and start working on it ('shipping').
 
-### Project Owner
+The output of the shaping process is typically a 'pitch', i.e. a document outlining a shaped proposal for a project, which can used in the selection (betting) process.
 
-The Project Owner's primary task is the creation and prioritization of job or user stories. Specifically, the Project Owner:
+Read more about how we shape work at Life Itself [[shapeup|here]]. TODO: link to section below
 
-* writes (or has the team write) customer-centric items typically [user stories][] or, preferably, [job stories][]
-* **assigns "business" value** to them
-* **prioritizes** (ranks) them
-* and adds them to the [product backlog](http://en.wikipedia.org/wiki/Scrum_(software_development)#Product_backlog)
+### Selection
 
-At Life Itself, the roles of the project owner and delivery team are often merged, meaning that individual team members may work independently on a project and write the job stories themselves. 
+Selection (aka 'betting') is about deciding to commit to delivering one or more shaped projects during the current cycle. We will typically review the pitches that were created in the Shaping phase, and decide which ones we want to deliver during the next shipping phase.
 
-[user stories]: /user-stories/
-[job stories]: /job-stories/
+### Shipping
 
-### Scrum Master
+During the shipping phase, we deliver a (set of) shaped idea(s) that we selected during the selection or betting phase.
 
-Delivery is **facilitated** by a Scrum Master, who is accountable for **removing impediments to the ability of the team to deliver the product goals** and deliverables. The Scrum Master is **not** a **traditional team lead or project manager,** but acts as a buffer between the team and any distracting influences. The Scrum Master ensures that the process is used as intended. The Scrum Master is the **enforcer of the rules of process**, often **chairs key meetings**, and **challenges the team to improve**. The role has also been referred to as a **servant-leader** to reinforce these dual perspectives.
+## How it fits together timewise
 
-### Delivery Team
+As a team we work together in 4 week cycles that are split into two phases.
 
-**Responsible for accomplishing** all goals at the end of each Sprint (the Sprint Goals). The Delivery Team is **self-organizing**, even though there may be some level of interface with other parts of the organization.
+![[../excalidraw/getting-stuff-done-work-cycle-2024-03-01.excalidraw.svg]]
 
-## How do we set up projects?
+> [!note]
+> This schedule differs from the one detailed in ShapeUp. See [[#Shaping cycle is different]]
+### Walking through an example month
 
-Before project kick-off there is some preparatory work that should be done. Total time required should be no more than a day. However, for larger projects this may take longer. The Project Owner is overall responsible for this stage of the process. 
+Let's assume we are starting with a shape cycle:
 
-Preparation usually includes the creation of a Project A10 and key job stories, as well as ongoing documentation in the Project DB. These will be explained in more detail below. 
+- For the next two weeks we are busy shaping and then selecting what we'll do next. It's also a cooling off period where we have time to follow up on things, resolve minor issues etc.
+- At the end of this we have a clear sense of what we are shipping the following two weeks
+- For the next two weeks, we focus on shipping the selected item(s). Each person will be part of one and only one project and with their team-mates will focus on shipping that with minimal distractions
 
-### Project A10
+### Key features of Shape and Ship model
 
-Project Owner  **[1h]**
+In conclusion, it is important to flag some key features of this approach:
 
-The Project A10 serves as a a **Project Overview document**. It is intended to document the project throughout its proposal, initiation, and completion stages. 
+- **ShapeUp**: Extensive shaping before selection (betting). Raw ideas must be shaped *before* they are put forward for selection and worked on. Dedicated time and personnel are assigned to shaping.
+- **Appetite rather than features**: define work by appetite rather than desired features. Fix our appetite based on our "ship" iteration length and stick to that ie. reduce scope to fix that appetite.
+- **Focus during shipping**: (largely) uninterrupted periods of work for shipping where we eliminate most outside distractions. We have a separate cool-down/bet period (where we tie up loose ends / clear inboxes and bet on next projects). We allow some interrupt time during shipping (hopefully minimal)
+- **Respect the scope**: adhere to the appetite, avoid no-goes and rabbit holes.
+- **Exclusive teams per project**: in a given iteration a person is working on one and only one project
+  - Not required to have *everyone* work on same project
+  - what about small consultation etc - that's allowed as interrupts. and some people may need a bit of an exception.
 
-This is our [A10 template](https://docs.google.com/document/d/1q0eslSuhVty6HGxtfgichmryuhBEuFWSvx_aeJvPpi8/edit). 
+## Challenges to focus in the ship cycle
 
-Before the project is initiated, the project owner should note:
+To hold up "in reality" we need to handle various issues that can come up such as "interrupts" and "overruns".
 
-* Key expected outcomes
-* Ressourcing estimates 
-* Team members involved  
-* Total Budget
-* Aims and Requirements (Purpose, Outcomes and Outputs)
-* Project Plan
-* Issue tracker
-* Risks
+- Interrupt: something important that requires immediate attention e.g. new work/opportunity with external deadline.
+- Overruns: work takes longer than anticipated
+- Trickling items: ongoing, small items e.g. a regular team call or similar.
 
-These may be continuously updated during the project. 
+### Handling interrupts
 
-Finally, once a project has been completed, a retrospective should be done that includes key learnings gained from the project process. 
+First, ask yourself does this *really* have to be handled right now? Is it a crisis? Most items are not crises and they can wait until the next cool off period.
 
-Please note, while creating an A10 is highly encouraged, short tasks may be included in the sprint cycle whithout requiring the creation of an A10. 
+We can also budget some time for interruptions in a Ship cycle e.g. Friday afternoons or similar where you can schedule calls, catch up with urgent items etc.
 
-### Key job stories
+### Handling trickling items
 
-Project Owner + other relevant personnel **[2-6h]**
+First, try to minimize these during Ship cyles. Second, budget for them and try to have these concentrated in a specific time slot (with same time slot for whole team).
 
-The Project Owner, together with other relevant team members, is responsible for generating a first set of user stories for a project.
+As the team grows larger it may also be possible to have a few people who handle these regular, trickling items e.g. hosting certain calls.
 
-**User stories** are generated to gather project-specific requirements. Please read [here](https://playbook.datopian.com/user-stories/#what-is-a-user-story) to learn more about user stories. 
+### Handling overruns
 
-In general, user stories: 
+Overruns don't happen because we fix appetite and we have shaped sufficiently. We aim to ship what we have done and if it isn't good enough to ship we leave it - it can potentially come back again in future shape and select rounds.
 
-* Do **not** need to be comprehensive -- you can add more user stories later. However, it is good to have written the core user stories down, and enough to cover, what (at this point), one would anticipate to be at least first 2-3 sprint iterations.
-* Will have a transformative effect on the quality of the project. We cannot over-state the value of generating (good) user stories at this point. 
-* Should involve some or all of delivery team + scrum master, for at least some part of this, because:
+### Handling underruns
 
-  * Gets everyone up to speed
-  * Rubber-duck test (have to explain and walk through user stories with others which helps clarify them)
+Under-runs are rare 😉 and they do happen. If they happen, usually we can pull some bugs or day to day tasks out of the backlog and do them.
 
-At Life Itself, we move from user stories to job stories. Job stories give the team more context for the user’s situation and allow them to share their viewpoint and create a solution for what the user wants to do. Job stories are very similar to user stories with one key difference: personas becomes contexts (and jobs). 
+### Handling different projects with different needs
 
-Read more about [Job Stories](https://playbook.datopian.com/job-stories/). 
+We may have ongoing projects whose work chunks are longer than ship cycles. How do we handle this?
 
+Longer projects are split up into smaller chunks so that they can fit within ship cycles. Conversely, smaller chunks are bundled together to make a ship cycle.
 
-### Project DB
+### Handling new ideas during shipping
 
+Be very careful about increasing scope during ship. Some new things will always come up because a shape is a rough sketch. But be careful. Generally, capture new items to an inbox area and evaluate them. If they aren't part of the scoped work capture them for a later phase of shaping.
 
-### SCQH
+---
 
-Project Owner + other relevant personnel **[1-2h]**
-  * An SCQH is best created in a small group of people, say maximum 7-8 (but you can do more) and then shared outwards.
-  * Allow at least 2h to create an SCQH.
-  * It will be faster the smaller the group and the more experience people have with the process. 
+# Howtos
 
-SCQH is a problem solving tool that can be used in a number of ways, from telling stories to structuring research programmes to planning projects.
+## Shaping Howto
 
-* SCQH stands for Situation, Complication, Question and Hypothesis.
-  * It is sometimes written as SCQA, for Answer, but it is usually helpful to treat the last component as  a Hypothesis, which can then be tested.
-* It describes a problem (situation, complication) frames a question about what to do, and finally offers a solution in the form of the hypothesis. 
-  * The hypothesis is optional. In some cases, you will only have a question at the start of your work and a hypothesis will only come later (once you’ve done work on your question). 
-* An SCQH does two things: provides clarity on the problem (and solution) and aligns the group on that.
-  * The SCQH is an important group alignment process.
+For an introduction to how to shape see [[shapeup|shaping notes]].
 
-### Issue Tree 
+Key links:
 
-## How do we complete tasks?
+- Ideas inbox: https://github.com/life-itself/comms/blob/main/IDEAS.md
+- Pitch folder: https://github.com/life-itself/comms/tree/main/pitc
 
-We use GitHub Issues to track our work. Read our guide on how we use [Issues](/issues/). 
+### Pitch submission and review
 
-# Sprint Process 
+- Create a pitch as a markdown file using the template below
+- Post it in the pitch folder.
+- BONUS: Submit the pitch as using a *pull request* as that allows for nice review and annotation. 
+  
+### Template for a Shaped proposal 
 
-The key principles of the agile approach to delivery are[^2]:
+The following is a markdown template for the pitch that results from the shaping work.
 
-1. Organize work in **short cycles** called **sprints** [2(-4) weeks]
-2. The management **does not interrupt** the team during a work cycle
-3. The team meets so that each team member can share their progress. 
-    * Team = delivery team + scrum master
-4. The team estimates **how much time** work will take
-5. The team decides **how much work** it can do in an iteration
-6. The team decides **how** to do the work in the iteration
-7. The team **measures its own performance**
-8. The team defines work goals **before** each cycle starts
-9. The team defines work goals (primarily) through **job stories**
+> [!note Connection with SCQA]
+> Pitch format aligns with the situation, complication, question and hypothesis format. In fact, we recommend using the SCQA to generate the pitch. We recommend including the question (if you have one) into the problem section.
 
-[^2]: Adapted from http://www.forbes.com/sites/stevedenning/2011/04/29/scrum-is-a-major-management-discovery/
+```md
+## Summary
 
+*Aim for bullet points with 1-3 sentence summary of other sections. Fill this in near the end.*
 
-## Sprint Meeting
+- **Appetite**:
+- **Situation**:
+- **Problem**:
+- **Solution**:
 
-Every **two weeks** we hold a Sprint Meeting that consists of a Sprint Review and Retrospective of the last sprint and the Sprint Planning of the upcoming sprint. The meeting should usually be no longer than 2 hours. 
+## Situation
 
-We created a [sprint meeting template](https://docs.google.com/document/d/1txPB-NunkDqQkUSfpxbG-dEW8sb9ItoMP3gnLtjQwJc/edit#heading=h.6kn92cs0unwo) that summarizes the structure of the meeting. 
+*Context for this problem and solution*
 
-### Sprint Review 
+## Problem
 
-What did we ship this sprint? See http://www.mountaingoatsoftware.com/agile/scrum/sprint-review-meeting
 
-During the sprint review, the projects are assessed against the sprint goal determined during the last sprint planning meeting. Ideally, the team has completed each product backlog item brought into the sprint, but it’s more important that they achieve the overall goal of the sprint.
+### Questions
 
-* Usually no more than 40 minutes. 
-* Team shows what they accomplished during the sprint. 
-* Any blockers are identified and discussed.
-* Key learnings are captured. 
-* Kept very informal. A sprint review meeting should not become a distraction or significant detour for the team; rather, it should be a natural result of the sprint.
 
-### Sprint Retrospective
+## Solution
 
-What can we learn from this sprint for the future? See http://www.mountaingoatsoftware.com/agile/scrum/sprint-retrospective
 
-* Kept even shorter.
-* Start-Stop-Continue structure (what should team start doing, stop doing, and continue doing)
+## Rabbit Holes
 
-### Sprint Planning 
 
-* Meeting is timeboxed to 1-1.5h. 
-* Team members create promises and goals for this sprint that are reviewed by the team.
-* Team members create new issues and review the sprint board together. 
+## No Gos
 
-* This meeting results in 2 outputs: 
 
-  * A sprint goal for each project – a short, one- or two-sentence, description of what the team plans to achieve during the sprint. It is written collaboratively by the team and the product owner.
-  * A sprint backlog -- A sprint backlog is a list of the product backlog items that the team commits to delivering plus the list of tasks necessary to delivering those product backlog items.
-     * Individual Tasks should be less than 2d total time (reduces estimation error).
+## Appendix
 
+e.g.
 
-### Product Backlog
+- Other potential solutions we didn't go for
+- Detailed issue trees
+- Full consolidated scqa if you want it etc
+```
 
-Each sprint has a sprint backlog -- a list of the product backlog items that the team commits to delivering plus the list of tasks necessary to delivering those product backlog items. 
+## Selection Howto
 
-See http://www.mountaingoatsoftware.com/agile/scrum/product-backlog
+Selection is currently done by Rufus with the input of the team. This may evolve in future as we see how things go.
 
-* Product backlog consists of user stories and tasks related to user stories (should flag which user story a task relates to if not a single user story)
-* Tasks are broken into at least 2 groups:
+Raw ideas are selected for shaping by the team as group at the start of a shape cycle.
 
-  * Prioritized (tasks in priority order). 
-  * Unprioritized: storage place for all tasks that people have thought up but have not yet been prioritized (and are usually implicitly of lower priority than currently prioritized tasks). 
-  * Tasks should contain short descriptions 
-  * **It's not necessary to start a project with a lengthy, upfront effort to document all requirements**
+## Shipping Howto
 
-#### Managing the Product Backlog Board
+Self-organize using our recommended patterns.
 
-Milestones
+Within Ship cycles you and your team self-organize using our recommended patterns.
 
-* Sprints are organised via Milestones. Naming convention: `Sprint - DD MMM YYYY` with the date being the last day of the sprint.
-* Issues scheduled for future sprints are allocated to the relevant milestone.
-* Icebox - catch all milestones for issues that are "someday maybe" type of things (not likely to be worked on the near-term)
+Patterns
 
-Labels
+- Use issues
+- Have an epic issue for the overall effort
+- Organize into sub iterations sprints. (Especially if Ship cycle is 4w or longer)
+- Standup
+- Roles e.g. Product Owner, Scrum Leader
 
-* ‘Prioritized Backlog’ - issues that have been reviewed and prioritised but have not been allocated yet.
-* ‘In Progress’ - issues currently worked. 
-* ‘Blocked/Waiting For’ - if there is a blocker. 
-* ‘In Review’ - issue is reviewed and/or has to be signed off. Once signed off, the issue needs to be closed.
-* ‘Wontfix’, ‘Duplicate’, ‘Invalid’ - closed issue without being delivered, e.g. circumstances have changed, a duplicate issue has emerged which provides the desired outcome or the issue isn’t valid anymore. Note: add a short comment specifying the reason why the issue hasn’t been delivered.
+# Appendices
+## Appendix: Concrete examples
 
-### Standup
+#### A long-running externally connected project
 
-See http://www.mountaingoatsoftware.com/agile/scrum/daily-scrum and http://en.wikipedia.org/wiki/Stand-up_meeting
+How would this apply to an EU Funded project?
 
-* **Daily team meeting**
-* Purpose: keep team in sync; identify surface blockers
-* Each person answers 3 questions:
+- It's "shaped work" (it's not trickling or an interrupt or overrun)
+- Do shaping on initial project. Then shape each chunk of work you do.
+- Then do those.
+- What about when gaps e.g. waiting for feedback do some shaping or gap-filling work?
 
-  * What did I accomplish in the last 24h? 
-  * What will I accomplish in the next 24h? 
-  * What obstacles are impeding my progress?
+#### Interrupt example: time sensitive bizDev opportunity
 
-* The meeting is strictly timeboxed to 5-15m
+- This is an interrupt
+- Evaluate it rapidly for cost/benefit
+- Schedule into interrupt time in day
+- Keep an eye on interrupt budget
 
-  * Answers should be very short -- each person should speak for no more than 2 minutes (less as the team gets larger).
-  * If bigger issues arise, take them out of standup.
+## Appendix: Larger context of work and quarterly and annual check-ins
 
+This
 
-## FAQ
+- An 'annual meeting' in early January
+- Quarter planning can be a 'check in point' 
 
-### What about a Project Manager -- is the Project Owner the PM?
+![levelsofscale](https://github.com/life-itself/community/assets/131390186/ebf351b2-849f-4377-bdca-1ce0a8c1fbdd)
 
-From [*this answer*](http://stackoverflow.com/questions/10775637/scrum-different-product-owner-and-project-manager)
+## Appendix: how shape and ship differs from other approaches
 
-The Project Owner and a Project Manager are quite different.
+How does Shape and Ship differ from e.g. agile that we had before, or our project A10 model, or ...
 
-On a traditional project, a Project Manager, as the title implies, manages a project.
+## Appendix: differences from standard ShapeUp
 
-However, on a Scrum project, the Development Team manages their own work.
+### Shaping cycle is different
 
-Individual team members can be Project Owners and therefore be responsible for maximizing the value of the project and the work of the Development Team. They are the sole person responsible for managing the Project Backlog.
-
-At Life Itself, individual team members sometimes work alone on projects, thereby fulfilling the role of the project owner and development team at the same time.
-
-Product Backlog Management includes:
-
-* Clearly expressing Product Backlog items;
-* Ordering the items in the Product Backlog to best achieve goals and missions;
-* Ensuring the value of the work the Development Team performs;
-* Ensuring that the Product Backlog is visible, transparent, and clear to all, and shows what the Scrum Team will work on next;
-* Ensuring the Development Team understands items in the Product Backlog to the level needed.
-
-
-
+![[../excalidraw/shape-and-ship-cycles-us-vs-standard-2024-03-01.excalidraw.svg]]
