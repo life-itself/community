@@ -4,8 +4,8 @@ description: An opportunity to focus on one's own inquiries while engaging in co
 image: /assets/images/spring-2024.jpg
 start: 2024-04-01
 end: 2024-05-31
-facilitator:
-  - Praxis guardians
+Hosts :
+  - Life istelf Proto trustees 
 location: Life Itself Praxis Hub, Bergerac, France
 cost: Ranging from €450-950/month excluding food and maintenance (an extra approx. €300 a month)
 apply-button: https://docs.google.com/forms/d/e/1FAIpQLSdiykDKyZR6DgtPKeYuNePy9sWc-qkIc4BVfKBRjkFWKvFp-g/viewform
