@@ -1,6 +1,6 @@
 ---
 title: Spring Praxis Residency
-description: An opportunity to focus on one's own inquiries while engaging in conscious community practices held by a lightweight developmental frame. Running from April through May 2024, participation is open, with stays ranging from two weeks up to the full two months.
+description: While engaging in conscious community practices held by a lightweight developmental frame you wll have the opportunity to focus on one's own project emebeded  in a common inquiry.   Running from April through May 2024,we are looking for pionners who want to share thier practices and explore together Self. Stays ranging from two weeks up to the full two months and a half.
 image: /assets/images/spring-2024.jpg
 start: 2024-04-01
 end: 2024-05-31
