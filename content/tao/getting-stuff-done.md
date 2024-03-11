@@ -114,7 +114,7 @@ For an introduction to how to shape see [[shapeup|shaping notes]].
 Key links:
 
 - Ideas inbox: https://github.com/life-itself/comms/blob/main/IDEAS.md
-- Pitch folder: https://github.com/life-itself/comms/tree/main/pitc
+- Pitch folder: https://github.com/life-itself/comms/tree/main/pitch
 
 ### Pitch submission and review
 
