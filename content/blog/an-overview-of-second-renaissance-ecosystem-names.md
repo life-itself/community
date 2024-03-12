@@ -4,7 +4,7 @@ created: 2024-03-12
 authors:
   - catherine-tran
   - elisalifeitself
-image: /assets/images/overview-ecosystem-names
+image: /assets/images/overview-ecosystem-names.jpg
 description: We sense an emerging ecosystem that is growing. More and more people are talking about what we are calling the Second Renaissance ecosystem, although people are using different names, e.g. Metamodern, Integral, Regenerative, Liminal Web, Metacrisis, Game B. This page provides an overview of the names and terms that people in the space have been gravitating towards when discussing or referring to this emerging ecosystem.
 categories:
   - life-itself-research
