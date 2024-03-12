@@ -1,4 +1,3 @@
-
 ---
 title: An Overview of Second Renaissance Ecosystem Names
 created: 2024-03-12
