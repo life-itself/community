@@ -1,7 +1,7 @@
 ---
 
 Title: "Ideas"
-Decription: "Life Itself is a multi-level, multi-disciplinary organisation. This page showcases all our key artciles written over the years."
+Decription: "Life Itself is a multi-level, multi-disciplinary organisation. This page showcases all our key articles written over the years."
 Created: 2023-03-29
 ---
   
