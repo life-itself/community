@@ -86,7 +86,7 @@ So people have a sense of the dynamics of the community we define two levels of 
 - Can observe and contribute to discussions on the forum (we work in the open) 
 - Can attend the monthly open forum
 - Can apply to become full members
-- Agree to the general [[tao/community-guidelines|Community Guidelines]]
+- Agree to the general [[community#Ground Rules|Community Guidelines]]
 
 #### Members
 

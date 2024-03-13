@@ -2,6 +2,7 @@
 title: Glossary
 created: 2020-02-05
 ---
+
 ## A Big Vision
 
 
@@ -113,6 +114,17 @@ Originally a Buddhist term for spiritual community.
 > Spirituality is in part a feeling of being connected to something larger than oneself. Religion is in part a collection of beliefs and practices that honor spirituality. A scientific theory that affirms these statements cannot be entirely hostile to religion. [David Sloan Wilson in Darwin's Cathedral]
 
 See [[spirituality]].
+
+## Strategy
+
+Strategy or strategic planning is a catch-all term that we use to cover high level planning at different levels and including multiple forms of materials including:
+
+- Vision: Aspirational, long-term picture of a desired future state.
+- Mission: Specific actions organization takes to contribute to that vision.
+- Theory of change: Roadmap explaining how mission activities lead to desired outcomes.
+- Roadmap: Defined steps chosen to execute the theory of change effectively. (NB: often this would be termed strategy but we avoid using this term because of its potential ambiguity)
+
+See https://github.com/life-itself/strategy for more.
 
 ## Structural-Solutionism
 

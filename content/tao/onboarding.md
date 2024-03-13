@@ -33,7 +33,7 @@ If you get stuck please contact your onboarder and let them know.
 
 These additional items can be done out of order and at any time (even before you have your email etc)
 
-- **Background on working with us:** Read about [[working-with-us|Working with Us]]
+- **Background on working with us:** Read about [[working-with-us|Working with Us]] and [[getting-stuff-done|Getting Stuff Done]]
 - **Laptop setup**: we recommend installing the following
   - Google or Opera browser. We recommend Opera as it has [picture in picture support for video calls]([url](https://www.opera.com/features/video-pop-out)) which is very in useful
   - [Obsidian](https://obsidian.md) for markdown editing

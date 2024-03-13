@@ -11,8 +11,8 @@ categories:
 
 We are delighted to announce the return of our original annual event: the Gathering! The theme for this 2024 Gathering will be the Second Renaissance: journey to an awakening society. In this event we will explore art as gateway to political, social and spiritual transformation. The event is has a special new two part structure:
 
-- Part I: 13th to 16th June: sharing the second renaissance
-- Part II: 17th to the 23rd June: sprint week of projects
+- 13-16 June:  Part I - sharing the second renaissance
+- 17-23 June: Part II - co-creation week of projects 
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSdngjK7uBeg6dSj6Q7P9odll8R2Og3jFjuQYsgbGbO_UBQlOA/viewform?usp=sf_link" className="px-3 py-2 rounded bg-secondary text-sm text-primary font-medium shadow-xs hover:bg-secondary/80 focus-visible:outline">Apply Now &rarr;</a>
 
@@ -23,7 +23,6 @@ We are delighted to announce the return of our original annual event: the Gather
 This year we would like to revive our great founding event – the Gathering – because we want to share with you the vision of a second renaissance. The Gathering will happen in  two parts:
 
 - Part I: 13th to 16th June (arrival on 12th): sharing the vision of the second renaissance through workshops, talks and open space.
-
 - Part II: 17th to the 23rd June: a co-working and connecting week for people to  work on projects, make art make alliances with a presentation on the 22nd of June at the final “celebration of life” party.
 
 Important note: you can come a) just for Part I or b) both Part I and Part II.
@@ -40,9 +39,9 @@ Here are some of the themes and workshops:
 
 - The second Renaissance the journey to an Awakening society
 - Embodied transformation with Performance
-- Art, religion and politics: what is the religion of the future
+- Art, religion and politics: what is the religion of the future?
 - The climate crisis and the equality complex
-- Social engineering
+- Cultural engineering
 - The politics of being
 - Resonance Music and Dance 
 

@@ -1,13 +1,14 @@
 ---
-title: "Cultivating an Emerging Paradigm"
+title: Cultivating an Emerging Paradigm
 created: 2022-02-01
-categories: 
+categories:
   - life-itself
   - our-philosophy
   - top-pick
-authors: 
+authors:
   - rufuspollock
 image: /assets/images/Blog-Feature-Images-27.jpg
+description: '"This essay summarizes a jointly developed theory of change. Its central thesis is the need to transition to a new cultural and social paradigm. We set out first why a transition is needed. Second that such a transition must be paradigmatic and involve a major shift in both our socioeconomic systems and in our core views and values. Third, that such a transition needs to prioritize being and the inner dimension."'
 ---
 
 _By Tomas Björkman and Rufus Pollock. Tomas Björkman is a social entrepreneur, philosopher and co-initiator of Emerge. Rufus Pollock is co-founder of Life Itself._ _This piece was cross-posted in [Emerge](https://www.whatisemerging.com/opinions/cultivating-and-emerging-paradigm), 27.1.2022_.
