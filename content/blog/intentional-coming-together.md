@@ -3,10 +3,10 @@ title: Intentional Coming Together
 authors:
   - Simon Grant
 created: 2024-02-18
-date: 2024-02-18
-description: "Reflections on intentionally coming together: what's the point of getting together in person and how to do so in a way that creates meaningful connection."
+image: /assets/images/intentional-coming-together.jpg
 categories:
   - ideas
+description: "Reflections on intentionally coming together: what's the point of getting together in person and how to do so in a way that creates meaningful connection."
 ---
 Two things prompted this piece:
 
@@ -63,7 +63,7 @@ One thing was very clear to me. We did not want people coming together just to a
 
 ### Q: What about inviting people to come together around questions, rather than labels or answers?
 
-Over the years I've gradually built up a deep respect for questions, from many sources. Anyone who has read [Mister God, This Is Anna](https://en.wikipedia.org/wiki/Mister God, This Is Anna) will recognise Anna's predilection for questions. This then goes right through to [Art of Hosting](https://en.wikipedia.org/wiki/Art of Hosting) and [Collective Presencing](https://book.collectivepresencing.org/index.html#h7.1.4), in which [Ria](https://www.linkedin.com/in/riabaeck/) refers to [a video by Julio Olalla](https://www.youtube.com/watch?v=1tBWnwghi8E&t=398s) (the link goes to the place where he talks about questions). On the way, notice also [Parker Palmer](https://en.wikipedia.org/wiki/Parker Palmer) with his "Circles of Trust". In that practice, the small group supporting the individual seeking guidance contributes only, strictly only, by asking *open, honest questions.*[^3] Parker Palmer is also a Quaker, and we have "Advices and Queries": [the official Britain-based one](https://qfp.quaker.org.uk/passage/1-02/) or  [my composition of English, French and Dutch versions](http://www.simongrant.org/quaker/Advices-and-Queries_trilingual.html).
+Over the years I've gradually built up a deep respect for questions, from many sources. Anyone who has read [Mister God, This Is Anna](https://en.wikipedia.org/wiki/Mister_God,_This_Is_Anna) will recognise Anna's predilection for questions. This then goes right through to [Art of Hosting](https://en.wikipedia.org/wiki/Art of Hosting) and [Collective Presencing](https://book.collectivepresencing.org/index.html#h7.1.4), in which [Ria](https://www.linkedin.com/in/riabaeck/) refers to [a video by Julio Olalla](https://www.youtube.com/watch?v=1tBWnwghi8E&t=398s) (the link goes to the place where he talks about questions). On the way, notice also [Parker Palmer](https://en.wikipedia.org/wiki/Parker Palmer) with his "Circles of Trust". In that practice, the small group supporting the individual seeking guidance contributes only, strictly only, by asking *open, honest questions.*[^3] Parker Palmer is also a Quaker, and we have "Advices and Queries": [the official Britain-based one](https://qfp.quaker.org.uk/passage/1-02/) or  [my composition of English, French and Dutch versions](http://www.simongrant.org/quaker/Advices-and-Queries_trilingual.html).
 
 My intuition and experience combine here, to recognise that (in general) when presented with answers, people can easily get into arguments about the right answer. When presented with phrases or labels or terms, they can easily disagree about the meaning and significance of the terms. Simple terms are useful, indeed necessary for everyday life, but the more complex the concept is, the more room there is for divergent personal interpretations. In contrast, the beauty of a well-crafted question[^4] is that people can hold it together, explore it together; and each individual can add their own exploration to the common pool. Framing an issue as a question naturally tends to open people's minds in exploration; framing an issue as an answer naturally tends to entrench people in static positions.
 
@@ -122,4 +122,4 @@ And it's the dialogue[^5] which can lead on to bringing people together for lear
 [^4]: And of course there are badly crafted questions: particularly ones that have yes/no answers or ones that are full of unstated controversial assumptions.
 
 [^5]: I mean, principally, dialogue in the tradition of
-    [Bohm Dialogue](https://en.wikipedia.org/wiki/Bohm Dialogue)
+    [Bohm Dialogue](https://en.wikipedia.org/wiki/Bohm%20Dialogue)

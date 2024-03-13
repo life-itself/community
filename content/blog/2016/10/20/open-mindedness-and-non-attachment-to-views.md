@@ -1,15 +1,14 @@
 ---
-title: "Open-mindedness and Non-attachment to Views"
+title: Open-mindedness and Non-attachment to Views
 created: 2016-10-20
-categories: 
+categories:
   - life-itself
-tags: 
+tags:
   - non-attachment
   - open-minded
   - rufus-pollock
-authors: 
+authors:
   - rufuspollock
-image: /assets/images/Blog-Feature-Images-6.png
 ---
 
 > … Seeing that harmful actions arise from anger, fear, greed, and intolerance, which in turn come from dualistic and discriminative thinking, I will cultivate openness, non-discrimination, and non-attachment to views in order to transform violence, fanaticism, and dogmatism in myself and in the world.

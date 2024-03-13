@@ -8,46 +8,6 @@ This document focuses on how to 'shape' work as described in the first part of t
 
 > **Shaping** is a **pattern** for creating **pitches** that can be **bet** on
 
-## Pattern for pitch submission and review
-
-- Create a pitch using the template below
-- Submit the pitch as a *markdown file* in the relevent project/team repo using a *pull requests*
-
-Why a pull request (vs e.g. just copying and pasting in an issue)?
-
-- Pitches are persistent so preferred to an issue
-- Pitches are a substantial output so better outside of an issue with all the affordances of a proper doc
-- Pull requests allow for annotation style comments which are much better for reviewing and discussion
-  
-### Template for a Shaped proposal 
-
-The following is a markdown template for the pitch that results from the shaping work.
-
-```md
-## Summary
-
-*Aim for bullet points with 1-3 sentence summary of other sections*
-
-## Problem
-
-## Appetite
-
-*Appetite can be consolidated into the summary if a single number e.g. 5d*
-
-## Solution
-
-## Rabbit Holes
-
-## No Gos
-
-## Appendix
-
-e.g.
-
-- Other potential solutions we didn't go for
-- Detailed issue trees
-- Full consolidated scqa if you want it etc
-```
 
 ## Table of Contents
 
@@ -77,7 +37,6 @@ Shaping and building should be kept as separate tracks within a cycle to manage 
 2. **Rough out the elements.**
 3. **Address risks and rabbit holes.**
 4. **Write the pitch**.
-
 
 ## Chapter 3: Set Boundaries
 
