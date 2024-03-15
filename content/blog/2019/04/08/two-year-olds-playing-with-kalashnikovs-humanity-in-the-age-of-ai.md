@@ -1,28 +1,26 @@
 ---
-title: "Two Year Olds Playing with Kalashnikovs - Humanity in the Age of AI"
+title: Two Year Olds Playing with Kalashnikovs - Humanity in the Age of AI
 created: 2019-04-08
-categories: 
+categories:
   - institute
-tags: 
+tags:
   - ai
   - humanity
-authors: 
+authors:
   - rufuspollock
+description: 'It is natural to assume I am something of a digital enthusiast, even a "techno-utopian", confident that digital technology will lead us to nirvana. However, the very opposite is true. My basic concern is simple: there is a fantastic mismatch between our "emotional-spiritual" maturity -- our wisdom -- and our “techno-intellectual” capacities -- our powers. We face a large, and growing, wisdom gap: a gap between the powers we have and the wisdom to wield them well. With that gap being driven in large part through digital tech.'
 ---
-
-APRIL 8, 2019. Rufus Pollock.
-
 _This was originally drafted back in 2017 as the epilogue of my book [The Open Revolution](https://openrevolution.net/)._
 
 It is natural to assume I am something of a digital enthusiast, even a digital “techno” utopian, confident that digital technology will lead us to nirvana.
 
 There’s elements of this. I couldn’t have written [this book (the Open Revolution)](https://openrevolution.net/) if I wasn’t excited – even passionate – about the possibilities of this digital information age.
 
-At the same time, as someone recently said to me about our online digital world: “everything that excites me, scares me”. Digital technology both offers tremendoucs opportunites but it also makes possible unprecedented levels of control and inequality. That dystopian path is not inevitable of course, and we can choose a different path but the fact remains that the digital world makes that dystopia possible.
+At the same time, as someone recently said to me about our online digital world: “everything that excites me, scares me”. Digital technology both offers tremendous opportunities but it also makes possible unprecedented levels of control and inequality. That dystopian path is not inevitable of course, and we can choose a different path but the fact remains that the digital world makes that dystopia possible.
 
 I also have other fears about the impact of the digital on our well-being. In fact, I must confess I am something of a hopeful pessimist. I write the Open Revolution not because I am confident of our future but because I am so afraid – and, as Hemingway said, the world is a fine place and worth fighting for. We have better angels of our nature and we should attend to them. That does not mean I am confident we will listen.[1](https://rufuspollock.com/2019/04/08/children-playing-with-sharp-knives-humanity-and-the-digital-age/#fn:1)
 
-My basic concern here is simple: that there is a fantastic mismatch between our “emotional-spiritual” maturity and our “techno-intellectual” maturity.
+My basic concern here is simple: that there is a fantastic mismatch between our "emotional-spiritual" maturity -- our wisdom -- and our “techno-intellectual” capacities -- our powers. To put it another way: we face a large, and growing, wisdom gap: a gap between the powers we have and the wisdom to wield them well.
 
 “Techno-intellectually” we started from a zero base a few hundred thousand years ago: without language, without tools, and as a tiny part of a vast ecosystem. Having discovered language and tools we began to advance and over the last five thousand or so, and especially over the last three hundred we have hit the exponential fast forward button. We created cities, we built roads and railroads, we flew aeroplanes and space-shuttles, we discovered anti-septics and penicillin, made the phone, the computer and Internet. And the latter all within a generation.
 
