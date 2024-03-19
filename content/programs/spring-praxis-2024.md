@@ -9,7 +9,7 @@ location: Life Itself Praxis Hub, Bergerac, France
 cost: Ranging from €450-950/month excluding food and maintenance (an extra approx. €300 a month)
 apply-button: https://docs.google.com/forms/d/e/1FAIpQLSdiykDKyZR6DgtPKeYuNePy9sWc-qkIc4BVfKBRjkFWKvFp-g/viewform
 created: 2024-02-21
-Hosts: Bergerac Hub Proto-Trustees
+hosts: Bergerac Hub Proto-Trustees -- April is hosting by Ivo J. Mensch (Perspectiva)  and May by Liam Kavanagh (Climate Majority Project and co-founder of Life Itself) 
 ---
 In this longer-term residency, participants arrive with a project or a question and explore it while being part of a systemic collective body. Every day, residents are supported by an invisible framework based on Minimum Viable Practices (MVPs): shared cooking, silent meditation, house cleaning and garden care, all of which help us navigate our emotions in a dynamic way. During the evenings, participants can share and test their practices within the group, and explore new ones - the activities can range from facilitated inquiries to singing nights to simply unwinding, with a mandatory weekly circle where we engage in deeper check-ins.
 
