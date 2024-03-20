@@ -1,7 +1,9 @@
 ---
 title: "Conscious Coliving in Action: Practical Steps to Getting Started with Conscious Coliving"
-description: Are you ready to start your conscious coliving journey? This is a course about the practical steps to conscious coliving, join and take action today!
+description: Are you ready to start your conscious coliving journey? This is for you if you are seeking hands-on guidance in conscious coliving, whether starting, enhancing, or exploring community living options.
+image: /assets/images/practical-action-header
 ---
+<iframe width="100%" height="450" src="https://1ebb0834.sibforms.com/serve/MUIFACkDqcYu_KbfaMfg8umWDPKHhppM2XMsnYBmjVFhjwgaiaVewyvfAIsQwQMx-z1mRcVQlqnx8216te3iI3A1Nk_sj-HbLDW_afe5Gl3W9F6XzZLK2cNRJjNfCzii3AbMrwRiMWsi4nLM6d2gF4o34y_eBqnMY1NrnP_i2rYDEEPAdbSUO5dfsCMjg21clEM8H5QVr7mjURRL" frameborder="0" scrolling="auto" allowfullscreen style={{display: "block",marginLeft: "auto",marginRight: "auto",maxWidth: "100%"}}></iframe>
 ## Are you ready to start your conscious coliving journey? This is a course about the practical steps to conscious coliving, join and take action today!
 
 > I have so loved the conscious coliving course 🙏🏼🙏🏼🙏🏼. I came out the other end feeling like it’s content is a recipe not just for coliving, but for any number of ‘being together scenarios’. 
@@ -39,4 +41,4 @@ description: Are you ready to start your conscious coliving journey? This is a c
 
 **Day 8: Closing thoughts and next actions** - In this final email, we will wrap up everything we have learned during the course and how to put everything into action.
 
-<iframe width="100%" height="450" src="https://1ebb0834.sibforms.com/serve/MUIFACkDqcYu_KbfaMfg8umWDPKHhppM2XMsnYBmjVFhjwgaiaVewyvfAIsQwQMx-z1mRcVQlqnx8216te3iI3A1Nk_sj-HbLDW_afe5Gl3W9F6XzZLK2cNRJjNfCzii3AbMrwRiMWsi4nLM6d2gF4o34y_eBqnMY1NrnP_i2rYDEEPAdbSUO5dfsCMjg21clEM8H5QVr7mjURRL" frameborder="0" scrolling="auto" allowfullscreen style={{display: "block",marginLeft: "auto",marginRight: "auto",maxWidth: "100%"}}></iframe>
+

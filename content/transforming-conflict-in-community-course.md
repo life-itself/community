@@ -1,10 +1,10 @@
 ---
 title: Transforming Conflict in Community Course
-description: Are you ready to transform your conscious coliving journey? This is a course about the practical steps to transform conflict within conscious coliving, join and take action today!
+description: Are you ready to transform your conscious coliving journey? This course is for those who are currently facing conflict, or are in or entering a coliving situation and seeking better resolution skills.
 image: /assets/images/Transforming-conflict-header.jpg
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rQ5rbVPReRw?si=QQRIpBE72rayuHA0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<iframe width="100%" height="450" src="https://1ebb0834.sibforms.com/serve/MUIFAMOE51WHBAdVYmAHp9bqPtM_UaUQN44HBBaEjTQjpXB_OVLnbDJMLJmlPiAn1XZlzneAyTwbWz4QgZU54zej9ck6YuihAk0eJ2ioFiMSFHmFFLCS0Itg2FW2ZJTumXgQkU5_b-MVKBDAWzVHEwz--poxCMGiUL6FmYj-ny_s7t-IG0JCoSCT70ePlTwHLiFd28yWTcxfVUG5" frameBorder="0" scrolling="auto" allowFullScreen style={{display: "block",marginLeft: "auto",marginRight: "auto",maxWidth: "100%"}}></iframe>
 ## Are you ready to transform your conscious coliving journey? This is a course about the practical steps to transform conflict within community and conscious coliving, join and take action today!
 
 > I have so loved the conscious coliving course 🙏🏼🙏🏼🙏🏼. I came out the other end feeling like it’s content is a recipe not just for coliving, but for any number of ‘being together scenarios’. 
@@ -40,4 +40,5 @@ image: /assets/images/Transforming-conflict-header.jpg
 
 **Day 7:** On our final day, we tie it all together, and review what we’ve learnt from over the past 6 days, and where to go from here.
 
-<iframe width="100%" height="450" src="https://1ebb0834.sibforms.com/serve/MUIFAMOE51WHBAdVYmAHp9bqPtM_UaUQN44HBBaEjTQjpXB_OVLnbDJMLJmlPiAn1XZlzneAyTwbWz4QgZU54zej9ck6YuihAk0eJ2ioFiMSFHmFFLCS0Itg2FW2ZJTumXgQkU5_b-MVKBDAWzVHEwz--poxCMGiUL6FmYj-ny_s7t-IG0JCoSCT70ePlTwHLiFd28yWTcxfVUG5" frameBorder="0" scrolling="auto" allowFullScreen style={{display: "block",marginLeft: "auto",marginRight: "auto",maxWidth: "100%"}}></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rQ5rbVPReRw?si=QQRIpBE72rayuHA0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+

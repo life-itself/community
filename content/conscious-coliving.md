@@ -7,7 +7,9 @@ layout: fancy
 
 ## What is Conscious Coliving? 
 
-There’s not really an established term yet for the kind of way of living that we imagine and seek to pioneer. We've come to call it "conscious coliving" reflecting the fusion of two related practices: conscious living and coliving.
+**Conscious Coliving is a radical yet practical alternative to the way we currently live. Combining a conscious commitment to inner growth and community.**
+
+There’s not really an established term yet for the kind of way of living that we imagine and seek to pioneer but we've come to call it "conscious coliving" reflecting the fusion of two related practices: conscious living and coliving.
 
 It is the practice of living in community, in any format, and dedicating oneself to conscious living and embodiment. The spectrum of conscious coliving environments is broad and can be anything from three friends living in a house together, to an entire village. 
 
@@ -15,25 +17,27 @@ It is the practice of living in community, in any format, and dedicating oneself
 
 ## Learn About Conscious Coliving
 
-If you are curious about conscious coliving and want to implement it into your life, our **free email courses** are a great place to begin. 
+If you are curious about conscious coliving and want to implement it into your life, our **free email courses** are a great place to begin. You can sign up for each course by clicking on the links below.
 
 ### Out Now
 
-[[conscious-coliving-course|Conscious Coliving 101: Learn How to Live a More Connected Life]]
+🌻 [[conscious-coliving-course|Conscious Coliving 101: Learn How to Live a More Connected Life]]
 
-[[transforming-conflict-in-community-course|Transforming Conflict in Conscious Coliving]]
+This course guides you to a fresh and alternative way of living. This is for you if you are curious or craving how to live more consciously in community, or if you are new to Conscious Coliving then start here.
 
-### Coming Soon (Pre-Apply Now!)
+😠 [[transforming-conflict-in-community-course|Transforming Conflict in Conscious Coliving]]
 
-[[practical-conscious-coliving-course|Conscious Coliving in Action: Practical Steps to Getting Started with Conscious Coliving]]
+This is for you if you have completed our Conscious Coliving 101 course, are currently facing conflict, or are in or entering a coliving situation and seeking better resolution skills.
 
+🗺️ [[practical-conscious-coliving-course|Conscious Coliving in Action: Practical Steps to Getting Started]]
+
+This is for you if you are seeking hands-on guidance in conscious coliving, whether starting, enhancing, or exploring community living options.
 
 ### The Online Community for Conscious Coliving
 
 Join 100+ other curious conscious colivers to learn, share and connect in a simple, easygoing way. No thrills, just a chat channel! 
 
 [Join Now](https://chat.whatsapp.com/DycZceubrTzI1DHKHZr5sw)
-
 
 ## Why is Conscious Coliving Important?
 

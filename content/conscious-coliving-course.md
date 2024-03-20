@@ -1,9 +1,8 @@
 ---
-title: "Conscious Coliving 101 - Learn How to Live a More Connected Life"
-description: "Our fantastic free course guides you to a fresh and alternative way of living, one that can fulfill your deepest needs and desires."
+title: Conscious Coliving 101 - Learn How to Live a More Connected Life
+description: Our fantastic free course guides you to a fresh and alternative way of living. This is for you if you are curious or craving how to live more consciously in community.
 ---
-
-https://youtu.be/8zAggUvGjDM
+<iframe width="100%" height="450" src="https://1ebb0834.sibforms.com/serve/MUIFAOso-SX7OifkoXx43i3VzdDNFwIR8Gke86CrqXpUcRHphjtkPHtG6K-euDz2g_JamcDkQ_xLNyMBExHWE5VDUe6TfohLpz9br9yh6E8Zk4B85wuBIpI2mnhsnqf3-BXzuDOGOYS_InrUkSx7AP7rgUcwKhAAo1iWI2wQn1tSJTgJzIxiOKaPOxoB4llboNoF8xn8hEb6IVQa" frameBorder="0" scrolling="auto" allowFullScreen style={{display: "block",marginLeft: "auto",marginRight: "auto",maxWidth: "100%"}}></iframe
 
 
 ## Our fantastic free course guides you to a fresh and alternative way of living, one that can fulfil your deepest needs and desires.
@@ -39,4 +38,4 @@ https://youtu.be/8zAggUvGjDM
 **Day #5:** The 10 commandments for conscious coliving<br/>
 **Day #6:** What to do next
 
-<iframe width="100%" height="450" src="https://1ebb0834.sibforms.com/serve/MUIFAOso-SX7OifkoXx43i3VzdDNFwIR8Gke86CrqXpUcRHphjtkPHtG6K-euDz2g_JamcDkQ_xLNyMBExHWE5VDUe6TfohLpz9br9yh6E8Zk4B85wuBIpI2mnhsnqf3-BXzuDOGOYS_InrUkSx7AP7rgUcwKhAAo1iWI2wQn1tSJTgJzIxiOKaPOxoB4llboNoF8xn8hEb6IVQa" frameBorder="0" scrolling="auto" allowFullScreen style={{display: "block",marginLeft: "auto",marginRight: "auto",maxWidth: "100%"}}></iframe>
+https://youtu.be/8zAggUvGjDM
