@@ -1,45 +1,40 @@
 ---
-title: Boaz new
-description: While engaging in conscious community practices held by a lightweight developmental frame you wll have the opportunity to focus on one's own project emebeded  in a common inquiry.   Running from April through May 2024,we are looking for pionners who want to share thier practices and explore together Self. Stays ranging from two weeks up to the full two months and a half.
+title: Relational Embodiment Residency June 2024
+description: We will experiment and explore in-person how we come into relationship, how we can co-create together a safe-enough space to connect skilfully to our nervous system in the midst of relational interactions.
 image: /assets/images/spring-2024.jpg
 start: 2024-06-01
 end: 2024-05-31
 
 location: Life Itself Praxis Hub, Bergerac, France
-cost: Ranging from €450-950/month excluding food and maintenance (an extra approx. €300 a month)
-apply-button: https://docs.google.com/forms/d/e/1FAIpQLSdiykDKyZR6DgtPKeYuNePy9sWc-qkIc4BVfKBRjkFWKvFp-g/viewform
-created: 2024-02-21
-hosts: Bergerac Hub Proto-Trustees -- April is hosting by Ivo J. Mensch (Perspectiva)  and May by Liam Kavanagh (Climate Majority Project and co-founder of Life Itself) 
+cost: From €1190
+apply-button: https://neurosystemics.org/simple-event/relational-embodiment-residency/
+created: 2024-03-20
+hosts: Boaz B. Feldman, Rebekka Haas Çetin
 ---
-In this longer-term residency, participants arrive with a project or a question and explore it while being part of a systemic collective body. Every day, residents are supported by an invisible framework based on Minimum Viable Practices (MVPs): shared cooking, silent meditation, house cleaning and garden care, all of which help us navigate our emotions in a dynamic way. During the evenings, participants can share and test their practices within the group, and explore new ones - the activities can range from facilitated inquiries to singing nights to simply unwinding, with a mandatory weekly circle where we engage in deeper check-ins.
 
-This Spring Praxis residency focuses on the question of leading a good life and what it means to be human in our time. Instead of following a strict program, it creates space to listen to what wants to emerge from the collective. On the way, we are feeling the rhythm of a community and observing how the system adapts to what unfolds - light or shadow.
+A residency is a place where we learn to live well and wisely with ourselves, others and in the world. We practice with our inner and relational reactivity so that we can learn to respond appropriately instead. We get to cook, work and play with a diverse group of people coming from many countries. We will be practicing all sorts of awareness practies (mindfulness, compassion, movement, art, diary), engage in small-group circles where we focus on the way in which our present moment embodied experience is affected by the speech and presence of others, and community sessions where we explore emergent questions about our society, its greatness and the urgent challenges to address change. We will create as safe a container as possible to enable the emergence of embodied regulation, relational insights and embody an ambitious relationship to the world.
 
-Our time together and the diverse practices we encounter also nourish the living laboratory spirit of the hub. This spirit is aimed at exploring the practices that support groups, both on a personal and collective level, at the unique intersection of individuality and community. This approach challenges traditional perspectives and cultivates a compassionate, cooperative ethos.
+We emphasise learning & integrating: we will have propose several ways to learn the art and science of developing inner and relational resiliency through workshops and didactic sessions.  The immersion format allows for insights from structured experiential sessions to be integrated in relationships during the residency itself. The online sessions before and after we meet in Bergerac (France) allow for integration into one’s work, family and daily life because we want this process to impact your life in the long term!
 
-This long-term residency allows the space for each to do their own remote work within a lightweight developmental "frame". A lot of us who are already here are using these months to focus on creative work, such as writing a book, painting, or designing courses.
+“It was amazing. In many ways, very joyful, very playful, meaningful interactions, whether it was in groups or dyads”
+– Camille M., Researcher, 2023 Residency Participant in Bergerac
 
-It is open to all system-thinkers, researchers, spiritual ecologists, bodhisattvas, change makers, symbiotic entrepreneurs, poets, painters, eco-dharmists - any people ready to just be with what comes and welcome dancing within complexity.
+Why Be More Relationally Embodied?
 
-Building upon a previous season of sympoesis residencies, where themes like contemplative activism, eco-spirituality, interbeing, collective intelligence, and relational embodiment were explored, the practices we engage in are designed to inspire a compassionate lifestyle, ecological balance, and a shift from individual isolation to a sense of supportive community. 
+The quality of our relationships has recently shown to be the important factor for mental health. In school we did not learn how to build strong relationships, how to repair a connection when a rupture occurred, or how to express our needs for safety and emotional support. This residency aims to strengthen our way of engaging in relationships so that we can feel freer to be ourselves with others, and build strong bonds.
 
-Regarding food, our house Tenzo, Valerie, will guide the group through daily cooking practices as part of the deliberately developmental technology of the hub where everyone takes turns being head chef every couple of days, getting the chance to explore different roles. 
+Regulate: We will learn to self-regulate &  co-regulate, which means we learn to support one another to feel better together. We learn to feel better somatically (in our body), emotionally (feeling well-being) and socially (feeling more embedded with others). We embody a responsive, not reactive, connexion to ourselves and others.
+Restore: From this sense of connection, safety and confidence, our patterns of dysregulation and dissociation (related to previous traumas) can soften and be released.
+Respond: As we grow our nervous system capacity and relational skills, we have more space, agency and possibility for new ways of engaging with the world.
+The conceptual framework for group sessions stems of psychodynamic and attachment theories as well as systems, somatic, social and positive psychology to support relational resiliency. We emphasize “neuroceptive safety” which means we specifically attempt to modulate the containment of the group to skilfully face the challenges emerging, and embody the resources developed. For example, we start with a short embodiment practice at the beginning of the session to prime for somatic sensitivity and speaking from a place of experience. As the group builds in its quality of compassion, mutual support and enjoyment, it become a womb-like experience which enables a deep nervous system regulation for the group as a whole. Joining us in this residency, you benefit by:
 
-Schedule (tentative and can change with the needs of the participants):
+Sensing and caring for the different states of your nervous system (self-regulation)
+Find out how you are impacted by others in an embodied way (co-regulation), and liberate yourself from constricting relational habits
+Being able to express yourself more authentically with others (perspective-taking), understand and appreciate others’ point of view (empathy)
+Learning the basic processes of creating safe-group spaces and group interventions (facilitation)
+Inquiring skilfully, in an embodied way, into difficult questions we are facing today as a society and as a species
 
-- 7-8 am: optional meditation in Dojo (just sitting)
-- 8-9 am: optional breakfast 
-- 9-10 am: collective care for cooking, cleaning, gardening
-- 10 am-1 pm: own time
-- 1-2 pm: buffet lunch and dishes
-- 2-6:30pm: own time
-- 6:30-7:30 pm: table dinner and dishes
-- 8pm: optional evening activity 
+To see more details and apply see here:
 
-Besides the daily structure, there will be a weekly sharing/regulatory circle. Participants are invited to offer their own practices to other residents during the night sessions.
+https://neurosystemics.org/simple-event/relational-embodiment-residency/
 
-Weekends don't have any frame. During that time spontaneous cooking and eating organisation happens. This is a time that gives opportunity to discover surroundings such as Plum Village or prehistorical caves. 
-
-The monthly cost ranges between 450 to 950 euros for lodging, depending on the room, plus approx. 300 euros for food and amenities. All communal food is organic and plant-based.
-
-Ideal candidates are those who resonate with these principles and practices, have a project to work on and are ready to explore being community.
