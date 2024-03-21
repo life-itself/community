@@ -1,7 +1,7 @@
 ---
 title: Relational Embodiment Residency June 2024
 description: We will experiment and explore in-person how we come into relationship, how we can co-create together a safe-enough space to connect skilfully to our nervous system in the midst of relational interactions.
-image: /assets/images/spring-2024.jpg
+image: https://usercontent.one/wp/climatemajorityproject.com/wp-content/uploads/2024/03/WhatsApp-Image-2024-03-17-at-11.42.39.jpeg?media=1709801732
 start: 2024-06-16
 end: 2024-06-30
 facilitators:
