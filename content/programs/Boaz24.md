@@ -4,7 +4,9 @@ description: We will experiment and explore in-person how we come into relations
 image: /assets/images/spring-2024.jpg
 start: 2024-06-16
 end: 2024-06-30
-
+facilitators:
+  - "Boaz Feldman"
+  - "Rebekka Haas Çetin"
 location: Life Itself Praxis Hub, Bergerac, France
 cost: From €1190
 apply-button: https://neurosystemics.org/simple-event/relational-embodiment-residency/
