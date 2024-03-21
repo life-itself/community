@@ -12,7 +12,7 @@ description: 'It is natural to assume I am something of a digital enthusiast, ev
 ---
 _This was originally drafted back in 2017 as the epilogue of my book [The Open Revolution](https://openrevolution.net/)._
 
-It is natural to assume I am something of a digital enthusiast, even a digital “techno” utopian, confident that digital technology will lead us to nirvana.
+It is natural to assume I am something of a digital enthusiast, even a digital “techno” utopian, *confident* that digital technology will lead us to nirvana.
 
 There’s elements of this. I couldn’t have written [this book (the Open Revolution)](https://openrevolution.net/) if I wasn’t excited – even passionate – about the possibilities of this digital information age.
 
