@@ -21,7 +21,7 @@ We emphasise learning & integrating: we will have propose several ways to learn 
 “It was amazing. In many ways, very joyful, very playful, meaningful interactions, whether it was in groups or dyads”
 – Camille M., Researcher, 2023 Residency Participant in Bergerac
 
-Why Be More Relationally Embodied?
+*Why Be More Relationally Embodied?*
 
 The quality of our relationships has recently shown to be the important factor for mental health. In school we did not learn how to build strong relationships, how to repair a connection when a rupture occurred, or how to express our needs for safety and emotional support. This residency aims to strengthen our way of engaging in relationships so that we can feel freer to be ourselves with others, and build strong bonds.
 
@@ -36,7 +36,7 @@ Being able to express yourself more authentically with others (perspective-takin
 Learning the basic processes of creating safe-group spaces and group interventions (facilitation)
 Inquiring skilfully, in an embodied way, into difficult questions we are facing today as a society and as a species
 
-To see more details and apply see here:
+*To see more details and apply see here:*
 
 https://neurosystemics.org/simple-event/relational-embodiment-residency/
 
