@@ -1,5 +1,5 @@
 ---
-title: "Community Call: From Field Study to Limicon 2024"
+title: "Community Call: From Field Study to Limicon 2024 with Danielle Johnson"
 created: 2024-03-18
 categories:
   - community-call
