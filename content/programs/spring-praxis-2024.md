@@ -1,11 +1,10 @@
 ---
 title: Spring Praxis Residency
-description: While engaging in conscious community practices held by a lightweight developmental frame you wll have the opportunity to focus on your own project embedded in a common inquiry.   Running from April through May 2024, we are looking for pioneers who want to share their practices and explore together Self. Stays ranging from two weeks up to the full two months.
+description: While engaging in conscious community practices held by a lightweight developmental frame you wll have the opportunity to focus on your own project embedded in a common inquiry.   Running all april , we are looking for pioneers who want to share their practices and explore together Self. Stays ranging from two weeks up to the full month 
 image: /assets/images/spring-2024.jpg
 start: 2024-04-01
-end: 2024-05-31
+end: 2024-04-31
 facilitators:
-  - "Valerie Duvauchelle"
   - "Ivo Mensch"
 location: Life Itself Praxis Hub, Bergerac, France
 cost: Ranging from €450-950/month excluding food and maintenance (an extra approx. €300 a month)
