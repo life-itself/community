@@ -1,6 +1,6 @@
 ---
 title: Consciouscoliving.org has launched!
-created: 
+created: 2024-03-21
 authors:
   - lauren-wigmore
 categories:
