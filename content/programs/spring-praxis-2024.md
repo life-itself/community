@@ -4,6 +4,9 @@ description: While engaging in conscious community practices held by a lightweig
 image: /assets/images/spring-2024.jpg
 start: 2024-04-01
 end: 2024-05-31
+facilitators:
+  - "Valerie Duvauchelle"
+  - "Ivo Mensch"
 location: Life Itself Praxis Hub, Bergerac, France
 cost: Ranging from €450-950/month excluding food and maintenance (an extra approx. €300 a month)
 apply-button: https://docs.google.com/forms/d/e/1FAIpQLSdiykDKyZR6DgtPKeYuNePy9sWc-qkIc4BVfKBRjkFWKvFp-g/viewform
