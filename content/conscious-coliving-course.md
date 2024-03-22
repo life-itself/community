@@ -7,7 +7,7 @@ description: '"Our fantastic free course guides you to a fresh and alternative w
 ## Our fantastic free course guides you to a fresh and alternative way of living, one that can fulfil your deepest needs and desires.
 
 > I have so loved the conscious coliving course 🙏🏼🙏🏼🙏🏼. I came out the other end feeling like it’s content is a recipe not just for coliving, but for any number of ‘being together scenarios’. 
-> - Liana, Community Member
+> - Liana
 
 ### This is for you if you are curious or craving how to live more consciously 
 ⭐️ If you are already or are close to coliving and you want to become more conscious<br/>
