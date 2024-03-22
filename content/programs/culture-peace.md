@@ -50,8 +50,8 @@ Immigration
 - **Where**: [Life Itself Praxis Hub, Bergerac, France](https://lifeitself.org/hubs/bergerac/) (near Bordeaux)
 - **Who**: anyone interested in culture peace.
 - **Facilitators**: [Liam Kavanagh](https://lifeitself.org/people/), [Rupert Read](https://rupertread.net)
-- **Cost** : €400-550 (plus €210 for food) depending on room type.  
-- **Notes on costs:** our aim is that cost is not an obstacle to anyone in participating. If finance is an issue please get in touch and we will see if we can provide support in some way or another.
+- **Cost** : €400-950 per month depending on room type (plus €10/ day  for food).  
+- **Notes on costs:** our aim is that cost is not an obstacle to anyone in participating. If finance is an issue please get in touch and we will see if we can provide support in some way.
 - **Interested?** [Apply now »](https://docs.google.com/forms/d/e/1FAIpQLSdiykDKyZR6DgtPKeYuNePy9sWc-qkIc4BVfKBRjkFWKvFp-g/viewform)
 - **Have questions?** email jadzia@climatemajorityproject.org
 
@@ -68,10 +68,12 @@ Schedule (tentative and can change with the needs of the participants):
 - 6:30-7:30 pm: table dinner and dishes
 - 8pm: optional evening activity 
 
-Besides the daily structure, there will be a weekly sharing/regulatory circle. Participants are invited to offer their own practices to other residents during the night sessions.
+Besides the daily structure, there will be a weekly sharing/regulatory circle and a weekly roles meeting at friday lunch). Participants are invited to offer their own practices to other residents during the night sessions.
+
+Regarding food, we use a system inspired by zen temples where everyone takes turns being daily head chef supported by the food guardian ( tenzo) to create a sustainable collective system. 
 
 Weekends don't have any frame. During that time spontaneous cooking and eating organisation happens. This is a time that gives opportunity to discover surroundings such as Plum Village or prehistorical caves. 
 
-The monthly cost ranges between 450 to 950 euros for lodging, depending on the room, plus approx. 300 euros for food and amenities. All communal food is organic and plant-based.
+The monthly cost ranges between €400 to 950  ( monthly) for lodging, depending on the room, plus approx. € 300 for food and amenities ( €10 peer day) . All communal food is organic and plant-based.
 
 Ideal candidates are those who resonate with these principles and practices, have a project to work on and are ready to explore being community.
