@@ -17,7 +17,7 @@ created: 2024-
 
 ## Key Info
 
-From May 3rd to 31st The Climate Majority Project will be hosting a “Culture Peace” gathering at the Bergerac Practice Hub, of Life Itself, a meta-crisis-aware network co-founded by our co-director Liam. Take a train down to Bergerac, enjoy nice weather and get a taste of the next stage of cultural evolution.
+From May 3rd to 30th The Climate Majority Project will be hosting a “Culture Peace” gathering at the Bergerac Practice Hub, of Life Itself, a meta-crisis-aware network co-founded by our co-director Liam. Take a train down to Bergerac, enjoy nice weather and get a taste of the next stage of cultural evolution.
 
 Culture war has been brewing for sometime. Are you sick of it enough to make peace? What would that look like? That’s what we’ll explore, together. We’ll reflect on how our (sub-)cultures’ unquestionable, and even sacred beliefs, and our taboos come into conflict. We will work on ways of diffusing and getting past this conflict as well. We will practice holding the tension between two facts: No single way of looking at things is right, however, some views are more useful than others for some things. 
 
