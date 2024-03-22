@@ -21,20 +21,21 @@ From May 3rd to 30th The Climate Majority Project will be hosting a “Culture P
 
 Culture war has been brewing for sometime. Are you sick of it enough to make peace? What would that look like? That’s what we’ll explore, together. We’ll reflect on how our (sub-)cultures’ unquestionable, and even sacred beliefs, and our taboos come into conflict. We will work on ways of diffusing and getting past this conflict as well. We will practice holding the tension between two facts: No single way of looking at things is right, however, some views are more useful than others for some things. 
 
-Specific topics that we will cover include: 
-Disagreeing Passionately and Peacefully. If we are so emotional about certain subjects, they must be important. So we can talk about them, perhaps peacefully, perhaps as a lovers’ quarrel.
+**Specific topics that we will include:**
+
+*Disagreeing Passionately and Peacefully.* If we are so emotional about certain subjects, they must be important. So we can talk about them, perhaps peacefully, perhaps as a lovers’ quarrel.
 
  
 
-How the climate emergency can unify us. Staring into the abyss of world-system collapse together can put things in perspective. Disagreements about important subjects like whether gender is biological may still seem important, but perhaps not enough to divide us.
+*How the climate emergency can unify us.* Staring into the abyss of world-system collapse together can put things in perspective. Disagreements about important subjects like whether gender is biological may still seem important, but perhaps not enough to divide us.
 
  
 
-Respecting Everybody. The best way to get anybody to listen while you profoundly disagree with them is to make sure that this person feels you respect them deeply. The most important way to do that is to actually respect them deeply, this is even more important than cleverly “messaging to them.” So we’ll practice true respect for all people, even the ones we currently hate.
+*Respecting Everybody.* The best way to get anybody to listen while you profoundly disagree with them is to make sure that this person feels you respect them deeply. The most important way to do that is to actually respect them deeply, this is even more important than cleverly “messaging to them.” So we’ll practice true respect for all people, even the ones we currently hate.
 
  
 
-Respecting even people we really dislike. Many people who agree we should respect everybody still proudly hate Donald Trump. There is a certain kind of respect or affection that many have for horrible historical characters, like Genghis Khan or Vlad the impaler, perhaps like we would for a predator. This does not mean that we would not oppose these people if we lived in their time. Can we extend the same feeling to those we oppose now (Putin?, Trump?, Biden?)
+*Respecting even people we really dislike.* Many people who agree we should respect everybody still proudly hate Donald Trump. There is a certain kind of respect or affection that many have for horrible historical characters, like Genghis Khan or Vlad the impaler, perhaps like we would for a predator. This does not mean that we would not oppose these people if we lived in their time. Can we extend the same feeling to those we oppose now (Putin?, Trump?, Biden?)
 
  
 
