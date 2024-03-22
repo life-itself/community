@@ -5,14 +5,14 @@ image: /assets/images/spring-2024.jpg
 start: 2024-04-01
 end: 2024-04-31
 facilitators:
-  - "Ivo Mensch"
+  - "Ivo Mensch" 
 location: Life Itself Praxis Hub, Bergerac, France
 cost: Ranging from €450-950/month excluding food 
 apply-button: https://docs.google.com/forms/d/e/1FAIpQLSdiykDKyZR6DgtPKeYuNePy9sWc-qkIc4BVfKBRjkFWKvFp-g/viewform
 created: 2024-02-21
 ---
 
-**The hosts of the Spring 2024 residency will be members of the Bergerac Hub Proto-Trustees group. April will be hosted by Ivo J. Mensch (Perspectiva) and May will be hosted by Liam Kavanagh (Climate Majority Project and co-founder of Life Itself).**
+This residency will be hosted by Ivo Mensch ( Host)  supported by Lisa ( steward)  
 
 In residency, participants arrive with a project or a question and explore it while being part of a systemic collective body. Every day, residents are supported by an invisible framework based on Minimum Viable Practices (MVPs): shared cooking, silent meditation, house cleaning and garden care, all of which help us navigate our emotions in a dynamic way. During the evenings, participants can share and test their practices within the group, and explore new ones - the activities can range from facilitated inquiries to singing nights to simply unwinding, with a mandatory weekly circle where we engage in deeper check-ins.
 
