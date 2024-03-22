@@ -20,7 +20,7 @@ This Spring Praxis residency focuses on the question of leading a good life and 
 
 Our time together and the diverse practices we encounter also nourish the living laboratory spirit of the hub. This spirit is aimed at exploring the practices that support groups, both on a personal and collective level, at the unique intersection of individuality and community. This approach challenges traditional perspectives and cultivates a compassionate, cooperative ethos.
 
-Regarding food, we use a system inspired by zen temples will guide the group where everyone takes turns being daily head chef, getting the chance to explore different roles. 
+Regarding food, we use a system inspired by zen temples where everyone takes turns being daily head chef supported by the food guardian ( tenzo) to create a sustainable collective system. 
 
 Schedule :
 
