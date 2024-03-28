@@ -1,11 +1,12 @@
 ---
-title: To We or not to We, that is the question 
+title: To We or not to We? that is the question 
 description: While engaging in conscious community practices The praxis context for April is an exploration into the social field, how it unfolds and shapes our shared experiences of what it means to be a part of a whole. Stays ranging from two weeks up to 2 months 
 image: /assets/images/spring-2024.jpg
 start: 2024-04-01
 end: 2024-04-31
 facilitators:
-  - "Ivo Mensch Lisa Heinrichs"
+  - "Ivo Mensch"
+  - "Lisa Heinrichs"
 location: Life Itself Praxis Hub, Bergerac, France
 cost: Ranging from €450-950/month excluding food 
 apply-button: https://docs.google.com/forms/d/e/1FAIpQLSdiykDKyZR6DgtPKeYuNePy9sWc-qkIc4BVfKBRjkFWKvFp-g/viewform
