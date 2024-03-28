@@ -13,9 +13,7 @@ apply-button: https://docs.google.com/forms/d/e/1FAIpQLSdiykDKyZR6DgtPKeYuNePy9s
 created: 2024-02-21
 ---
 
-This residency will be hosted by Ivo Mensch ( Host)  supported by Lisa Heinrichs ( steward)  
-While engaging in conscious community practices held by a lightweight developmental frame you wll have the opportunity to focus on common inquiry. 
-For our practice evenings at the Hub it means the focus is less on individual development but more on the space and substance of our in-betweenness, including tensions and differences. Expect practices like Circling, Emergent Dialogue and various forms of collective inquiry into the mystery of “We”.. Every day, residents are supported by an invisible framework based on Minimum Viable Practices (MVPs): shared cooking, silent meditation, house cleaning and garden care, all of which help us navigate our emotions in a dynamic way. 
+The focus of this residency  is less on individual development but more on the space and substance of our in-betweenness, including tensions and differences. Expect practices like Circling, Emergent Dialogue and various forms of collective inquiry into the mystery of “We”.. Every day, residents are supported by an invisible framework based on Minimum Viable Practices (MVPs): shared cooking, silent meditation, house cleaning and garden care, all of which help us navigate our emotions in a dynamic way. 
 
 Regarding food, we use a system inspired by zen temples where everyone takes turns being daily head chef supported by the food guardian ( tenzo) to create a sustainable and nourrishing collective system. 
 
@@ -30,7 +28,7 @@ Schedule :
 - 6:30-7:30 pm: table dinner and dishes
 - 8pm: optional evening activity 
 
-Besides the daily structure, there will be a weekly sharing/compost circle. 
+Besides the daily structure, there is  a weekly sharing/compost circle and a weekly organisational lunch.
 
 Weekends don't have any frame. During that time spontaneous cooking and eating organisation happens. This is a time that gives opportunity to discover surroundings such as Plum Village or prehistorical caves. 
 
