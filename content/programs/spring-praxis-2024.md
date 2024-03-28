@@ -5,7 +5,7 @@ image: /assets/images/spring-2024.jpg
 start: 2024-04-01
 end: 2024-04-31
 facilitators:
-  - "Ivo Mensch" "Lisa Heinrichs"
+  - "Ivo Mensch Lisa Heinrichs"
 location: Life Itself Praxis Hub, Bergerac, France
 cost: Ranging from €450-950/month excluding food 
 apply-button: https://docs.google.com/forms/d/e/1FAIpQLSdiykDKyZR6DgtPKeYuNePy9sWc-qkIc4BVfKBRjkFWKvFp-g/viewform
