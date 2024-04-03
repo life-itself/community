@@ -7,6 +7,7 @@ end: 2024-06-30
 facilitators:
   - "Boaz Feldman"
   - "Rebekka Haas Çetin"
+  - "Bugu Turkogul"
 location: Life Itself Praxis Hub, Bergerac, France
 cost: From €1190
 apply-button: https://neurosystemics.org/simple-event/relational-embodiment-residency/
