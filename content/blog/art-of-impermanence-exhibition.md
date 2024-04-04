@@ -31,6 +31,14 @@ Adults and children are both welcome for this afternoon of art and performance o
 
 17h30 Auberge espagnole / Pot Luck Dinner
 
+## About Impermanence
+
+The theme of Impermanence is found in many great spiritual traditions, different artistic practices came to fruition for us to be with the impermanent nature of reality. From the sand mandala, to the memento mori, passing by nature morte into street art, dance and musique, impermanence has always been a great topic in art.
+
+This theme has inspired great art. From trying to leave our mark against our mortality like the anonymous graffiti on the streets to the embrace of ephemerality with the improvisation of songs sung in the desert  which were to only be experienced in that present moment.
+
+The reality of the impermanent nature of life can be both terrifying as well as liberating. The emotions, feeling, thoughts and moment shall pass, the good as well as the bad. Artists regardless of their origin have for centuries been practicing presenting the sense of impermanence. In this great moment of change and uncertainty what else to do then to meditate together with the fleeting nature of life. Only by being present to the nature of life can we truly cherish it and touch the bliss of the freedom available with it.
+
 ### Pour en savoir plus sur les artistes
 
 Sylvie Barbier synthétise l’est et l’ouest dans son esthétique artistique et sa philosophie. Ses performances interactives relient le public au domaine spirituel. [https://sylviebarbier.com](https://sylviebarbier.com/)
