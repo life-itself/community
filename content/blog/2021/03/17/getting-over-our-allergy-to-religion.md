@@ -6,8 +6,8 @@ authors:
 categories:
   - ontological-politics
   - religion
-image:
 ---
+
 From the very early days of Life Itself, we've had a strong and growing sense that "religion" plays an important role in any efforts to make a "radially wiser, weller world". This would be true both at the broader movement or ecosystem level and at the level of individual organizations like Life Itself.
 
 However, we also live in a world, at least in the west, that has a huge allergy to the word religion. So much so, that it is difficult or impossible to use -- at best we fall back to euphemisms like spirituality and at worse we avoid it altogether.
