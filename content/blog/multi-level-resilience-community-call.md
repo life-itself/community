@@ -7,15 +7,20 @@ authors:
   - lauren-wigmore
 image: /assets/images/Boaz-communitycall-March2024.jpg
 ---
-**[Register here for the call on 28 March 2024 at 630pm CET](https://us02web.zoom.us/meeting/register/tZEkd-6grzkrH91zE6A2X2h-h9Oe24tHB6oI)**
+## Watch the call
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/reGNl0kdA58?si=F24HABIwF0ac41EA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ## About the call
 
-We are multi-dimensional beings, and it therefore takes an ecology of practices to build resiliency in the face of all the different ways we suffer. In this community call we will be collectively exploring a multi-level resiliency-building approach that we practice at NeuroSystemics, a somatically and relationally-centred clinical method for trauma healing. 
+We are multi-dimensional beings, and it therefore takes an ecology of practices to build resiliency in the face of all the different ways we suffer. 
 
-In particular, we will practice some self-regulation, co-regulation and perspectival abilities that will help us be more embodied and more present in relationships. 
+In this community call Boaz took the participants through an exploration of how we can collectively build a field of safety, authenticity and enjoyment through gradually enable more co-creative ways to contain the group space; going from from being an observer, to participating, to leading the session! In this call 2 skills were practiced: 
 
-This call is a teaser, ahead of the up and upcoming residency Boaz is leading in June 16-30 at the Bergerac Hub, [more details here](https://neurosystemics.org/simple-event/relational-embodiment-residency/)
+1. Self-regulation: finding ways to connect to our inner experience and feel better. We’ll do some mindfulness, gratitude and compassion practices. 
+
+2. Co-regulation: we’ll be together in real-time, and explore the felt-sense experience of our relational experience, what’s happening for each of us as we listen to others, and share ourselves about our experience. We’ll practice how we can be ourselves authentically in the group, while also remain connected to the group (because often in our lives it’s either/or)! 
+
+This call was a teaser, ahead of the up and upcoming residency Boaz is leading in June 16-30 2024 at the Bergerac Hub, [more details here](https://neurosystemics.org/simple-event/relational-embodiment-residency/)
 
 ## About Boaz
 
