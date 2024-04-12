@@ -23,4 +23,4 @@ _There is a focus on systems, emergence, coherence, sovereignty, sensemaking as 
 
 _Beyond this thematic overlap we have identified four major areas of activity: physical spaces, research, media/publishing and events. Nonetheless, it has been notable that many organisations have shifted to multi-channel working across a number of these (e.g. producing media content as well as running retreats and events)._
 
-[View the map and download the full report.](http://lifeitself.org/ecosystem/snapshot)
+[View the map and download the full report.](https://secondrenaissance.net/ecosystem/state-of-sensemaking-2020)
