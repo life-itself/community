@@ -1,12 +1,12 @@
 ---
-title: "Visual approaches for ecosystem mapping and sensemaking"
+title: Visual approaches for ecosystem mapping and sensemaking
 created: 2024-02-16
 authors:
   - matt-osborn
 categories:
   - ecosystem-mapping
   - life-itself-research
-image:
+image: /assets/images/visualisation-ideas.jpg
 description: Thoughts, reflections and ideas for visualising an emerging ecosystem.
 ---
 
