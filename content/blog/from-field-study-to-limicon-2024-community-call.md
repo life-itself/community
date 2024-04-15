@@ -11,7 +11,7 @@ image: /assets/images/danielle-community-call.jpg
 
 ## About the call
 
-In a series of essays framing the Emerge Austin 2022 conference, Jonathan Rowson, put forth a rousing call to action: Let's build a field. This idea ignited a passion within Danielle which prompted her to begin working on a study of the field. That work brought up the question: _Who is in this field?_ As a way to find answers, Danielle volunteered to take the lead on organizing [Limicon 2024](https://www.limicon2024.com); a field nurturing, online event, that is currently underway. 
+In a series of essays framing the Emerge Austin 2022 conference, Jonathan Rowson put forth a rousing call to action: Let's build a field. This idea ignited a passion within Danielle which prompted her to begin working on a study of the field. That work brought up the question: _Who is in this field?_ As a way to find answers, Danielle volunteered to take the lead on organizing [Limicon 2024](https://www.limicon2024.com); a field nurturing, online event, that is currently underway. 
 
 In this call, Danielle will share a little about her journey, some insights she gained along the way, how Limicon 2024 fits into this work, and how she might further collaborate on the project with the Life Itself community.
 
