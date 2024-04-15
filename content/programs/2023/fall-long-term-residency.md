@@ -5,7 +5,8 @@ image: /assets/images/long-term-residency (1).jpg
 start: 2023-10-15
 end: 2024-03-31
 facilitator:
-  - Praxis guardians
+  - Valérie Duvauchelle -
+  - Alexia Netcu - 
 location: The Life Itself Praxis Hub, Bergerac, France
 cost: Ranging from 300-850€ /month excluding food and maintenance (an extra approx. €300 a month)
 apply-button: https://docs.google.com/forms/d/e/1FAIpQLSdiykDKyZR6DgtPKeYuNePy9sWc-qkIc4BVfKBRjkFWKvFp-g/viewform
