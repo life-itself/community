@@ -101,7 +101,7 @@ Coming soon! 👋
 
 ## How to join in
 
-Come to one of the weekly hangouts which take place on Friday at 3pm European. Details in the [[community|community calendar]].
+Come to one of the weekly hangouts which take place on Friday at 5pm European. Details in the [[community|community calendar]].
 
 ## About the Research Collective
 
