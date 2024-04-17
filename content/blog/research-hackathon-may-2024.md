@@ -12,7 +12,7 @@ showToc: true
 ---
 We are excited to announce the second **Life Itself Research Hackathon**, a chance to come together to work on projects and ideas connected with the [[research|Life Itself Research Community]]. It will take place on Friday 10th-Saturday 11th May 2024 ([what's a hackathon?](#what-is-a-hackathon)).
 
-Our focus will be on **mapping and making sense of the "[Second Renaissance](https://secondrenaissance.net/)" [ecosystem**](https://secondrenaissance.net/ecosystem), e.g. expanding and curating a knowledgebase of key actors, initiatives, ideas, concepts, practices, communities and more. 🌍 -- [read more below 👇](#theme-for-the-hackathon).
+Our focus will be on **mapping and making sense of the "[Second Renaissance](https://secondrenaissance.net/)" [ecosystem]**(https://secondrenaissance.net/ecosystem), e.g. expanding and curating a knowledgebase of key actors, initiatives, ideas, concepts, practices, communities and more. 🌍 -- [read more below 👇](#theme-for-the-hackathon).
 
 This Hackathon supports the EU-funded [[cohere-erasmus-mapping-announce|Cohere+ project]], which Life Itself is undertaking in partnership with [The Hague Center](https://www.thehaguecenter.org/), [The Institute for Integral Studies (IFIS)](https://www.ifis-freiburg.de/), [Emerge](https://www.whatisemerging.com/), and the [Ekskäret Foundation](https://www.ekskaretfoundation.com/).
 
