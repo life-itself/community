@@ -31,12 +31,12 @@ At the inaugural Life Itself Research Hackathon in June 2023, we had over a doze
 
 ## Details
 
-- **What**: Have fun creating together around the theme of research for a "[Second Renaissance](https://secondrenaissance.net/)". Note: you can work on any project you like including your own personal one.
-- **When**: Friday 10th May 2pm to Saturday 11th May 2pm (European time) 
+- **What**: Have fun creating together around the theme of research for a "[Second Renaissance](https://secondrenaissance.net/)". Note: you can work on any project you like including your own personal one. More detail on theme below.
+- **When**: Friday 10th May 5pm to Saturday 11th May 7pm (European time) 
 - **Where**: Online on Zoom and at the [Bergerac Hub](https://lifeitself.org/hubs/bergerac). Please get in touch as soon as possible if you'd like to come in person so that we can share more information to arrange your stay.
 - **Who**: All welcome!
 - **Register**: [Register here with Google Forms](https://forms.gle/2CxPj5xg7daoshRm6)
-- **Schedule**: Friday 10th May 1400-1800 CEST and Saturday 11th May 1000-1400 CEST. Full schedule below. Note you can drop in for only a part of the day.
+- **Schedule**:  Kick-off Friday 10th May at 1700 CEST. Wrap-up Saturday 11th May at 1800 CEST. Full schedule below. 
 - **More questions?** See [FAQs](#faqs) below
 
 ## Table of Contents
@@ -60,27 +60,14 @@ For more detail about the Cohere+ project activities and objectives, see [[coher
 
 ![[cohereplus_and_eu_logo.jpeg]]
 
-## Schedule of the day
+## Schedule of the Hackathon
 
-A rough schedule for the Hackathon will look something like this (Europe/France time):
+- 🌱 **Kick-off**: Friday 10th May 5-6pm CEST
+- 🔆 **Check-in:** Saturday 11th May 11-12pm CEST
+- 🌳 **Wrap-up:** Saturday 11th May 6-7pm CEST
+- 🤝 **Self-organised co-creation in between!** 
 
-Day 1
-- **14:00** – Kick-off and intro
-- **14:30** – Hacking
-- **17:45** – Quick check-in
-- **18:00** – Dinner
-
-Day 2
-- **10:00** – Check-in
-- **10:30** – Hacking
-- **13:00** – Project presentations, feedback, Qs, discussion
-- **14:00** – End
-
-**No worries if you can only join part of the Hackathon - this is about connection and hanging out as much as making so you are welcome to show up any time**
-
-### Pre-days
-
-Some of us will be coming together to work before and after both in person and online. You are welcome to join - let us know in the registration form if this is of interest.
+Extra: Join us for **pre-Hackathon virtual co-working** Friday 11am-5pm CEST, if you'd like to get together early (drop in when you like). 
 
 ## FAQs
 
@@ -100,11 +87,7 @@ Great! Let us know in the registration form.
 
 ### Can I join for part of the Hackathon?
 
-Yes! You are welcome to join for any part of the Hackathon or pre-days.
-
-### When are the pre-days?
-
-If you're interested in joining for any of the pre-days, let us know in the registration form and we'll be in touch.
+We recommend joining for the Kick-off if you can, but the Saturday morning check-in could also be a good moment to join. Let us know if you'd like to chat about this further. 
 
 ### What is a hackathon?
 
