@@ -36,7 +36,7 @@ At the inaugural Life Itself Research Hackathon in June 2023, we had over a doze
 - **Where**: Online on Zoom and at the [Bergerac Hub](https://lifeitself.org/hubs/bergerac). Please get in touch as soon as possible if you'd like to come in person so that we can share more information to arrange your stay.
 - **Who**: All welcome!
 - **Register**: [Register here with Google Forms](https://forms.gle/2CxPj5xg7daoshRm6)
-- **Schedule**:  Kick-off Friday 10th May at 1700 CEST. Wrap-up Saturday 11th May at 1800 CEST. Full schedule below. 
+- **Schedule**:  Kick-off Friday 10th May at 1700 CEST. Wrap-up Saturday 11th May at 1730 CEST. Full schedule below. 
 - **More questions?** See [FAQs](#faqs) below
 
 ## Table of Contents
@@ -58,7 +58,7 @@ N.B. More broadly at Life Itself Research, we are also interested in the ecosyst
 
 For more detail about the Cohere+ project activities and objectives, see [[cohere-erasmus-mapping-announce|here]]. 
 
-![[/assets/images/cohereplus_and_eu_logo.jpeg]]
+![[assets/images/cohereplus_and_eu_logo.jpeg]]
 
 ## Schedule of the Hackathon
 
