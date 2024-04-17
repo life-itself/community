@@ -1,6 +1,6 @@
 ---
 title: Announcing the second Life Itself Research Hackathon
-image: 
+image: "[[hackathon-june-2023.jpg]]"
 created: 2024-04-17
 categories:
   - research-community
@@ -57,6 +57,8 @@ In this project, Life Itself are leading the work on **‘Mapping the Field and
 N.B. More broadly at Life Itself Research, we are also interested in the ecosystem beyond Europe.
 
 For more detail about the Cohere+ project activities and objectives, see [[cohere-erasmus-mapping-announce|here]]. 
+
+![[cohereplus_and_eu_logo.jpeg]]
 
 ## Schedule of the day
 
