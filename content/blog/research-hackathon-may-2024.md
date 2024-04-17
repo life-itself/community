@@ -1,6 +1,6 @@
 ---
 title: Announcing the second Life Itself Research Hackathon
-image: "[[hackathon-june-2023.jpg]]"
+image: /assets/images/hackathon-june-2023.jpg
 created: 2024-04-17
 categories:
   - research-community
@@ -12,7 +12,7 @@ showToc: true
 ---
 We are excited to announce the second **Life Itself Research Hackathon**, a chance to come together to work on projects and ideas connected with the [[research|Life Itself Research Community]]. It will take place on Friday 10th-Saturday 11th May 2024 ([what's a hackathon?](#what-is-a-hackathon)).
 
-Our focus will be on **mapping and making sense of the "[Second Renaissance](https://secondrenaissance.net/)" [ecosystem**](https://secondrenaissance.net/ecosystem), e.g. expanding and curating a knowledgebase of key actors, initiatives, ideas, concepts, practices, communities and more. 🌍 -- [read more below 👇](#theme-for-the-hackathon).
+Our focus will be on **mapping and making sense of the "[Second Renaissance](https://secondrenaissance.net/)" [ecosystem]**(https://secondrenaissance.net/ecosystem), e.g. expanding and curating a knowledgebase of key actors, initiatives, ideas, concepts, practices, communities and more. 🌍 -- [read more below 👇](#theme-for-the-hackathon).
 
 This Hackathon supports the EU-funded [[cohere-erasmus-mapping-announce|Cohere+ project]], which Life Itself is undertaking in partnership with [The Hague Center](https://www.thehaguecenter.org/), [The Institute for Integral Studies (IFIS)](https://www.ifis-freiburg.de/), [Emerge](https://www.whatisemerging.com/), and the [Ekskäret Foundation](https://www.ekskaretfoundation.com/).
 
@@ -36,7 +36,7 @@ At the inaugural Life Itself Research Hackathon in June 2023, we had over a doze
 - **Where**: Online on Zoom and at the [Bergerac Hub](https://lifeitself.org/hubs/bergerac). Please get in touch as soon as possible if you'd like to come in person so that we can share more information to arrange your stay.
 - **Who**: All welcome!
 - **Register**: [Register here with Google Forms](https://forms.gle/2CxPj5xg7daoshRm6)
-- **Schedule**:  Kick-off Friday 10th May at 1700 CEST. Wrap-up Saturday 11th May at 1800 CEST. Full schedule below. 
+- **Schedule**:  Kick-off Friday 10th May at 1700 CEST. Wrap-up Saturday 11th May at 1730 CEST. Full schedule below. 
 - **More questions?** See [FAQs](#faqs) below
 
 ## Table of Contents
@@ -58,14 +58,14 @@ N.B. More broadly at Life Itself Research, we are also interested in the ecosyst
 
 For more detail about the Cohere+ project activities and objectives, see [[cohere-erasmus-mapping-announce|here]]. 
 
-![[cohereplus_and_eu_logo.jpeg]]
+![[assets/images/cohereplus_and_eu_logo.jpeg]]
 
 ## Schedule of the Hackathon
 
 - 🌱 **Kick-off**: Friday 10th May 5-6pm CEST
 - 🔆 **Check-in:** Saturday 11th May 11-12pm CEST
-- 🌳 **Wrap-up:** Saturday 11th May 6-7pm CEST
-- 🤝 **Self-organised co-creation in between!** 
+- 🌳 **Wrap-up & Project presentations:** Saturday 11th May 5:30-7pm CEST
+- 🤝 **Self-organised co-creation in between!** Buddy up with people in similar timezones to work on something together.
 
 Extra: Join us for **pre-Hackathon virtual co-working** Friday 11am-5pm CEST, if you'd like to get together early (drop in when you like). 
 
