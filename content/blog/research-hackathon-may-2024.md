@@ -64,8 +64,8 @@ For more detail about the Cohere+ project activities and objectives, see [[coher
 
 - 🌱 **Kick-off**: Friday 10th May 5-6pm CEST
 - 🔆 **Check-in:** Saturday 11th May 11-12pm CEST
-- 🌳 **Wrap-up:** Saturday 11th May 6-7pm CEST
-- 🤝 **Self-organised co-creation in between!** 
+- 🌳 **Wrap-up & Project presentations:** Saturday 11th May 5:30-7pm CEST
+- 🤝 **Self-organised co-creation in between!** Buddy up with people in similar timezones to work on something together.
 
 Extra: Join us for **pre-Hackathon virtual co-working** Friday 11am-5pm CEST, if you'd like to get together early (drop in when you like). 
 
