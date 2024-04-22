@@ -4,20 +4,19 @@ created: 2024-03-22
 author:
   - sylvieshiweibarbier
 Decription: An art exhibition on the theme of Impermanence on the 27th of April 2024 in Thénac
-image: /assets/images/flyer-imp-exhibition-sathurday
+image: /assets/images/flyer-imp-exhibition-sathurday.png
 ---
-Artistes Sylvie Barbier, Paz Perlman, Max Pugh, Luc Waring et Paul Tingen vous invitent **samedi 27 Avril 2024 au Félix à Thénac** pour une **exposition interactive sur le thème de l’art de l'Impermanence.
+
+**[French]**: Artistes Sylvie Barbier, Paz Perlman, Max Pugh, Luc Waring et Paul Tingen vous invitent **samedi 27 Avril 2024 au Félix à Thénac** pour une **exposition interactive sur le thème de l’art de l'Impermanence**.
 
 Petits et grands sont les bienvenus pour cet après-midi artistique. Entrée libre avec donation pour les artistes. Un dîner en mode auberge espagnole sera proposé à la fin.
 
 
-[English] Artists Sylvie Barbier, Paz Perlman Max Pugh, Luc Waring and Paul Tingen warmly invite you on Saturday 27 April for an event on the theme of art and eco-spirituality.
+**[English]**: Artists Sylvie Barbier, Paz Perlman Max Pugh, Luc Waring and Paul Tingen warmly invite you on Saturday 27 April for an event on the theme of art and eco-spirituality.
 
 Adults and children are both welcome for this afternoon of art and performance on Saturday 27 April from 15h00 at Le Félix in Thenac. Entry is free with the option to donate for the artists. A pot-luck dinner will take place after the event.
 
-
 ![[flyer-imp-exhibition-sathurday.png]]
-
 
 ## Le programme
 
@@ -46,7 +45,6 @@ Sylvie Barbier synthétise l’est et l’ouest dans son esthétique artistique 
 Paz Perlman reflète dans son art ses expériences de vie façonnée par la guerre, la perte et la migration qui ont créé chez elle une envie de guérir à travers ses œuvres. [https://www.pazperlman.com/](https://www.pazperlman.com/)
 
 Max Pugh  est un cinéaste franco-britannique il a réalisé des documentaires sur un certain nombre de sujets, allant des arts et de la musique aux questions géopolitiques. http://www.maxpugh.com/
-
 
 ## English Version - About the artists
 
