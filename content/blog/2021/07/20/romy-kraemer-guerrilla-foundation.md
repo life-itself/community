@@ -48,9 +48,9 @@ The blockchain and cryptocurrency hype are other challenges for Guerrilla . Vast
 
 Another challenge is effectively facilitating connections between activists and grantees. Guerrilla has funded over 200 European organisations now, and it is difficult to know how best to bring these grantees together. New connections between grantees hold great potential for learning and collaboration, and Romy feels like they should be talking to each other more. Guerrilla are currently holders of the space, so are investigating how they can decentralise the network so that it is more visible to itself.
 
-_Check out our [Ecosystem Mapping](https://lifeitself.org/ecosystem-mapping/) page for more info on this project, and please get in touch if you would like to speak with us about it, or if you know of any people it might be useful for us to get in touch with_.
+_Check out our [Ecosystem Mapping](https://secondrenaissance.net/ecosystem/pip) page for more info on this project, and please get in touch if you would like to speak with us about it, or if you know of any people it might be useful for us to get in touch with_.
 
-_Sign up to our newsletter to keep up-to-date with all things Life Itself:_
+_Sign up below to our newsletter to keep up-to-date with all things Life Itself:_
 
 * * *
 

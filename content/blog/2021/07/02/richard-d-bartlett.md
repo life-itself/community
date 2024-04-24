@@ -49,9 +49,9 @@ He suggests the ecosystem mapping project is hard because everything is connecte
 
 The partnership-domination framework is not the only way to slice the world. Others include the anti-capitalist framework (people who work being dominated by people who own capital) and the anarchist one (freedom vs. coercion). 
 
-_Check out our [Ecosystem Mapping](https://lifeitself.org/ecosystem-mapping/) page for more info on this project, and please get in touch if you would like to speak with us about it, or if you know of any people it might be useful for us to get in touch with!_
+_Check out our [Ecosystem Mapping](https://secondrenaissance.net/ecosystem/pip) page for more info on this project, and please get in touch if you would like to speak with us about it, or if you know of any people it might be useful for us to get in touch with!_
 
-_Sign up to our newsletter to keep up-to-date with all things Life Itself:_
+_Sign up below to our newsletter to keep up-to-date with all things Life Itself:_
 
 * * *
 

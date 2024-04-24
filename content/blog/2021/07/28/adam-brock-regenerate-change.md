@@ -38,9 +38,9 @@ So much of the way Adam approaches his work is based in deep regenerative relati
 
 To sharpen the definition of the ecosystem/space beyond “culture-making”, Adam would add that it’s about _designing culture with intention, using regenerative principles - the conscious creation or stewarding of culture with a whole systems approach._ He would call it **‘regenerative culture design’.**
 
-_Check out our [Ecosystem Mapping](https://lifeitself.org/ecosystem-mapping/) page for more info on this project, and please get in touch if you would like to speak with us about it, or if you know of any people it might be useful for us to get in touch with_.
+_Check out our [Ecosystem Mapping](https://secondrenaissance.net/ecosystem/pip) page for more info on this project, and please get in touch if you would like to speak with us about it, or if you know of any people it might be useful for us to get in touch with_.
 
-_Sign up to our newsletter to keep up-to-date with all things Life Itself:_
+_Sign up below to our newsletter to keep up-to-date with all things Life Itself:_
 
 * * *
 

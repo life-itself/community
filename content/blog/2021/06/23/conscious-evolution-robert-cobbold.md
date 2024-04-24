@@ -48,9 +48,9 @@ Robert admits there is the added concern that this evolution could crash into a 
 
 It was really great meeting with Robert. He took so much heart from the thought that the organisations within the space seemed to be finding each other and making more connections as time goes on, and his optimism was inspiring. Be sure to check out all the brilliant work he is doing, and keep looking out for him in the future. He feels he is at the start of his journey, and we certainly cannot wait to see how it unfolds.
 
-_Check out our [Ecosystem Mapping](https://lifeitself.org/ecosystem-mapping/) page for more info on this project, and please get in touch if you would like to speak with us about it, or if you know of any people it might be useful for us to get in touch with!_
+_Check out our [Ecosystem Mapping](https://secondrenaissance.net/ecosystem/pip) page for more info on this project, and please get in touch if you would like to speak with us about it, or if you know of any people it might be useful for us to get in touch with!_
 
-_Sign up to our newsletter to keep up-to-date with all things Life Itself:_
+_Sign up below to our newsletter to keep up-to-date with all things Life Itself:_
 
 * * *
 

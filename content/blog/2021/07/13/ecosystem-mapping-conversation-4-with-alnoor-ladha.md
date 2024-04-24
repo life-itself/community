@@ -50,9 +50,9 @@ Nonetheless, despite the shifts in culture occurring, the commensurate response 
 
 We have to support, amplify and energise these movements with our will and willingness. We have to become conscientious objectors of late-stage capitalism, opting out of the life destroying system that is growth-based capital.
 
-_Check out our [Ecosystem Mapping](https://lifeitself.org/ecosystem-mapping/) page for more info on this project, and please get in touch if you would like to speak with us about it, or if you know of any people it might be useful for us to get in touch with_.
+_Check out our [Ecosystem Mapping](https://secondrenaissance.net/ecosystem/pip) page for more info on this project, and please get in touch if you would like to speak with us about it, or if you know of any people it might be useful for us to get in touch with_.
 
-_Sign up to our newsletter to keep up-to-date with all things Life Itself:_
+_Sign up below to our newsletter to keep up-to-date with all things Life Itself:_
 
 * * *
 
