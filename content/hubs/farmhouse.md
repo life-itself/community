@@ -39,7 +39,7 @@ If you want to know more about our progress, or come and help create this home t
 
  103 Chemin BoisMartin, Thenac, 24240, France.
 
-[Google Maps link](https://goo.gl/maps/G5VBKxbj964xnduTA)
+[Google Maps link](https://maps.app.goo.gl/HtbgRNAjZhAZQDCBA)
 
 ### Driving
 
