@@ -38,35 +38,7 @@ function collectHeadings(nodes) {
 }
 
 function MyApp({ Component, pageProps }) {
-  const [showModal, setShowModal] = useState(false);
   const router = useRouter();
-
-  const handleClose = () => {
-    // Close the modal
-    setShowModal(false);
-
-    // Set the 'showedModal' key in localStorage
-    window.localStorage.setItem('showedModal', 'true');
-  };
-
-  const handleSignup = () => {
-    handleClose();
-
-    // Redirect to the signup page
-    router.push('/conscious-coliving-course');
-  };
-
-  useEffect(() => {
-    // Check if the 'showedModal' key exists in localStorage
-    const hasShownModal = window.localStorage.getItem('showedModal');
-
-    // If it doesn't exist, display the modal
-    if (!hasShownModal) {
-      setTimeout(() => {
-        setShowModal(true);
-      }, 5000);
-    }
-  }, []);
 
   useEffect(() => {
     if (siteConfig.analytics) {
