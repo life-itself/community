@@ -13,3 +13,6 @@ Via email: **[hello@lifeitself.org](mailto:hello@lifeitself.org)** which is the 
 
 [Twitter: @forlifeitself](https://twitter.com/forlifeitself) 
 
+[YouTube: @bylifeitself](https://www.youtube.com/channel/UCmBq3VO9w_MLTKD_CHsYN-Q)
+
+[Substack: @lifeitselfnews](http://lifeitselfnews.substack.com)
