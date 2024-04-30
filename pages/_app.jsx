@@ -8,7 +8,6 @@ import "tailwindcss/tailwind.css";
 
 import { Layout } from "../components/Layout";
 import { SearchProvider } from "../components/search";
-import { Modal } from "../components/Modal";
 import { siteConfig } from "../config/siteConfig";
 import * as gtag from "../lib/gtag";
 import "../styles/docsearch.css";
@@ -38,35 +37,7 @@ function collectHeadings(nodes) {
 }
 
 function MyApp({ Component, pageProps }) {
-  const [showModal, setShowModal] = useState(false);
   const router = useRouter();
-
-  const handleClose = () => {
-    // Close the modal
-    setShowModal(false);
-
-    // Set the 'showedModal' key in localStorage
-    window.localStorage.setItem('showedModal', 'true');
-  };
-
-  const handleSignup = () => {
-    handleClose();
-
-    // Redirect to the signup page
-    router.push('/conscious-coliving-course');
-  };
-
-  useEffect(() => {
-    // Check if the 'showedModal' key exists in localStorage
-    const hasShownModal = window.localStorage.getItem('showedModal');
-
-    // If it doesn't exist, display the modal
-    if (!hasShownModal) {
-      setTimeout(() => {
-        setShowModal(true);
-      }, 5000);
-    }
-  }, []);
 
   useEffect(() => {
     if (siteConfig.analytics) {
@@ -121,7 +92,6 @@ function MyApp({ Component, pageProps }) {
       defaultTheme={siteConfig.theme.default}
       forcedTheme={siteConfig.theme.default ? null : "light"}
     >
-      <Modal open={showModal} onClose={handleClose} onSignup={handleSignup} />
       <DefaultSeo defaultTitle={siteConfig.title} {...siteConfig.nextSeo} />
       <NextSeo {...seo} />
       {/* Global Site Tag (gtag.js) - Google Analytics */}
