@@ -35,7 +35,7 @@ At the inaugural Life Itself Research Hackathon in June 2023, we had over a doze
 - **When**: Friday 10th May 5pm to Saturday 11th May 7pm (European time) 
 - **Where**: Online on Zoom and at the [Bergerac Hub](https://lifeitself.org/hubs/bergerac). Please get in touch as soon as possible if you'd like to come in person so that we can share more information to arrange your stay.
 - **Who**: All welcome!
-- **Register**: [Register here with Google Forms](https://forms.gle/2CxPj5xg7daoshRm6)
+- **Register**: [Register here with Google Forms](https://forms.gle/Wg5DBascn9M4pVYUA)
 - **Schedule**:  Kick-off Friday 10th May at 1700 CEST. Wrap-up Saturday 11th May at 1730 CEST. Full schedule below. 
 - **More questions?** See [FAQs](#faqs) below
 
