@@ -29,13 +29,9 @@ Watch or listen to the extensive, multi-part interview series with Dr. Martin wh
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EmsLdIH8nzU?si=DPgQvJYOGKDGVykK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<iframe><src="https://open.spotify.com/embed/episode/7iYqV6rodcar2ETgYVfMpQ?utm_source=generator&theme=0" width="80%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
 ### Part 2: The protocol to reaching fundamental wellbeing
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0l_jrk0HTVY?si=Gpg2YCzE8qECUQbz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-<iframe><src="https://open.spotify.com/embed/episode/64zWcJNxGtU8HjzYvjUIwm?utm_source=generator&theme=0" width="80%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ### Part 3: Exploring the map of enlightenment
 
