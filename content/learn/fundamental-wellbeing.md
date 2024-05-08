@@ -29,6 +29,7 @@ Watch or listen to the extensive, multi-part interview series with Dr. Martin wh
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EmsLdIH8nzU?si=DPgQvJYOGKDGVykK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+
 <iframe width="80%" height="152" src="https://open.spotify.com/embed/episode/7iYqV6rodcar2ETgYVfMpQ?utm_source=generator&theme=0" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ### Part 2: The protocol to reaching fundamental wellbeing
@@ -41,6 +42,7 @@ Watch or listen to the extensive, multi-part interview series with Dr. Martin wh
 ### Part 3: Exploring the map of enlightenment
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vDuh7vDgGIg?si=BdYoORpcvU8_9R17" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 <iframe width="80%" height="152" src="https://open.spotify.com/embed/episode/5HdBtZVV82H8d5eEyO1Mmg?utm_source=generator&theme=0" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
