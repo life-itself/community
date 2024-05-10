@@ -22,6 +22,5 @@ The belief that we are truly individuals who can — and should — live our liv
 
 Equality is a moral pillar of _modern_ societies, but there’s something about that pillar which makes us afraid to examine it. We cannot do without equality, but equality also cannot be understood in a merely rational way (as we’ve tried), and cannot be reconciled with valuing each other by our successes (as we’ve also tried). Dealing with these contradictions is part of becoming deeply committed to equality, rather than only personally protected by it, and is the route to culture peace, rather than culture war.
 
-##### Sign up to our newsletter to hear more about our work.
-
-\[mc4wp\_form id="3281"\]
+Sign up for our newsletter to learn more
+<iframe src="https://news.lifeitself.org/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
