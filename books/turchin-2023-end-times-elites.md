@@ -17,7 +17,9 @@ Three parts
   - Elite over-production: too many elite with no prospects
     - Leaders for the revolution ...
 - Ideological factors ...
-  - 
+  - ..
+
+Part 3 a lot less clear. Unsurprising as trying to predict with some integrity. Interesting moments e.g. discussion of Tucker Carlson and the NatCons.
 # Notes and Commentary
 
 ## Part 1. The Cliodynamics of Power
@@ -375,3 +377,25 @@ That final phrase is a beautiful put-down.
 ### But this isn't very useful data as biased sample (last 60y) and turns out to not generalize
 
 ## Chapter 8 Histories of the Near Future
+
+### Time for enlightened self-interest by the elites but that is not happening
+
+> Returning to Mizruchi, he concludes that the corporate elite, by “starving the treasury and accumulating vast resources for itself,” is “leading us toward the fate of the earlier Roman, Dutch, and Habsburg Spanish empires. . . . It is long past time for its members to exercise some enlightened self-interest in the present.”[11] So far, so good. But Mizruchi ends up overstating the degree to which today’s corporate elite has become an “ineffectual group that is unwilling to tackle the big issues, despite unprecedented wealth and political clout.” On the contrary, despite the ideological cracks that we discussed in the preceding paragraphs, the American ruling class continues to be very effective at advancing its narrow, short-term, parochial interests. With every piece of tax legislation, the tax code is becoming more regressive; today the effective taxes on corporations and billionaires are at the lowest levels since the 1920s. By successfully arguing that money is “free speech,” corporations have largely dismantled constraints on using their wealth to shape American politics. The federal minimum wage continues to decline in real terms, despite inflation reaching levels not seen since the 1980s.[12]
+> 
+> The disagreements between the conservatives and the progressives within the ruling class focus almost entirely on cultural issues. The economic elites, who dominate the American polity, can tolerate a great diversity of views on such issues, as long as the consensus on promoting their collective economic interests (keeping their taxes and worker wages low) is strong. [Ed: how true!]
+> 
+> **The conclusion from this analysis, then, is that no existential challenges to the current ruling class are going to arise within it, at least not in the near future.** Which interest group, then, is likely to be a credible threat to the current regime?
+
+### He's impressed by Tucker Carlson
+
+> Currently, the most interesting phenomenon, which may or may not turn out to be the crystallization nucleus, is that of Tucker Carlson. Carlson is interesting because he is the most outspoken antiestablishment critic operating within the corporate media. Whereas media such as CNN, MSNBC, The New York Times, and The Washington Post are losing credibility among the general population (and especially among the noncredentialed Americans), Carlson is growing ever more popular. He is currently the most listened-to political commentator in America. He is also interesting in that he has a clearly formulated and coherent ideology, which is conveniently laid out in his 2018 book, Ship of Fools: How a Selfish Ruling Class Is Bringing America to the Brink of Revolution.
+> 
+> At the beginning of the book, Carlson asks, “Why did America elect Donald Trump?” And he immediately answers:
+> 
+> Trump’s election wasn’t about Trump. It was a throbbing middle finger in the face of America’s ruling class. It was a gesture of contempt, a howl of rage, the end result of decades of selfish and unwise decisions made by selfish and unwise leaders. Happy countries don’t elect Donald Trump president. Desperate ones do.
+> 
+> This answer, which is also a diagnosis, sets the tone for the rest of the book. America is in trouble; what are the root causes? His critique of the American ruling class in many places parallels our analysis of the social forces driving the United States to the edge. Although not necessarily using the same terms, his book is about the unraveling of social cooperation (“the glue strong enough to hold a country of 330 million people together”), popular immiseration (“the decline of the middle class”), and the selfish elites (well, “selfish elites”). He does, however, miss a key driver of instability—elite overproduction—and gets hung up on cultural issues. And it is one thing to intuitively understand the significance of various social forces I have discussed in this book, but it is quite another to grasp how these parts—the trunk, the tusks, and the columnar legs—are connected together to make a whole elephant.[27]
+
+## Chapter 9 The Wealth Pump and the Future of Democracy
+
+Nothing much here to note. Basic point that wealth pump has to change.
