@@ -1,3 +1,5 @@
+# End Times: elites, counter-elites, and the path of political disintegration by Peter Turchin
+
 Notes and commentary on [[Peter Turchin]]'s *End times: elites, counter-elites, and the path of political disintegration* (2023).
 
 https://csh.ac.at/publication/end-times-elites-counter-elites-and-the-path-of-political-disintegration/
