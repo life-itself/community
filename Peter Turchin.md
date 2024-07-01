@@ -1,4 +1,6 @@
-Scientific Historian. Complexity theory for history.
+# Peter Turchin
+
+Cliodynamicist. Scientific Historian. Complexity theory for history.
 
 > Peter Turchin is a complexity scientist who works in the field of historical social science that he and his colleagues call: [Cliodynamics](https://peterturchin.com/cliodynamics-history-as-science/)
 
