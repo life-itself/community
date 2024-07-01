@@ -1,7 +1,6 @@
-Contact email: annick@worldviewjourneys.com
+Contact email: annick@worldviewjourneys.com (from academic home page) or annick@annickdewitt.com (from article page)
 
 Personal home page: https://annickdewitt.com
-
 
 ## Bio
 

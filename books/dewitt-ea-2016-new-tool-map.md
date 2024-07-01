@@ -2,12 +2,22 @@
 
 By [[Annick de Witt]]
 
-## Commentary
-
-🚧
-
-- 🫢 Aside: use the classic angle of climate change to motivate (and likely fund) the paper. Pure cultural evolution work would likely not get funded i suspect.
 - 🎉 Create a proper worldview questionnaire and try it out with a representative sample in the Netherlands and the US.
+
+Five dimensions of their worldview breakdown[^1]:
+
+- Ontology: nature of being and nature of the world
+- Epistemology: how knowledge comes about
+- Axiology: what is the "good life"
+- Anthropology: humans role in the world
+- Societal (vision): how society should be organized
+
+[^1]: see also 2013 article by Dewitt and Hedlund ### [Towards an integral ecology of worldviews](https://www.academia.edu/download/31723067/Hedlund-deWitt_IEs_8-13-13.pdf)
+
+Asides
+
+- Have to use the climate change angle to motivate (and likely fund) the paper. Pure cultural evolution work would likely not get funded I suspect.
+- 😬 Can't see any access to the raw data behind the paper (would be very interesting to e.g. see distributions rather than just means and to do some regression analysis)
 
 ## Excerpts
 
@@ -24,3 +34,8 @@ By [[Annick de Witt]]
 ### How they developed the scale
 
 > We used the Integrative Worldview Framework (De Witt & Hedlund, in press; Hedlund-de Witt, 2013a; Hedlund-de Witt et al., 2014) as theoretical background and blueprint for developing the worldview-scale. The IWF operationalizes the concept of worldview through distinguishing between five different aspects of worldviews (ontology, epistemology, axiology, anthropology, and societal vision), as well as four different categories of worldviews (traditional, modern, postmodern, and integrative).
+
+
+## Earlier work to explore
+
+- Exploring inner and outer worlds: A quantitative study of worldviews, environmental attitudes, and sustainable lifestyles (2014) - https://www.sciencedirect.com/science/article/abs/pii/S0272494413000856 (do some PCA here i think)
