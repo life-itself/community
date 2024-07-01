@@ -10,22 +10,36 @@ Three parts
 - Part 2. The Drivers of Instability
 - Part 3. Crisis and Aftermath
 
+This is "my kind of history" -- big picture, "plate tectonics", "longue duree" type of stuff. Combines mathematics, dynamical systems and history in the way I always hoped for. Reminds me particularly of Fischer's *The Great Wave: Price Revolutions and the Rhythm of History* (which i have notes on somewhere).
+
 # Summary
 
 - Structural-demographic model (Jack Goldstone and others)
-  - Demographic growth leading to declining real wages, elite wage gains and growing inequality
+  - Demographic growth leading to declining real wages for masses, rising wealth for elites means growing inequality
     - Leads to popular immiseration
     - Resentment of elite
-  - Elite over-production: too many elite with no prospects
+  - Elite over-production: too many elite with no prospects to enter elite "younger sons", "frustrated mandarins etc"
     - Leaders for the revolution ...
-- Ideological factors ...
-  - ..
+  - Combine those together you get recipe for intra-elite conflict and downfall of current regime and its replacements
+- Ideological and cultural factors can be added to the mix: breakdown of ideological hegemony is one major leading indicator of regime downfall
+  - 
 
-Part 3 a lot less clear. Unsurprising as trying to predict with some integrity. Interesting moments e.g. discussion of Tucker Carlson and the NatCons.
+Part 3 a lot less clear. Unsurprising as trying to do prediction with some intellectual integrity. Interesting moments e.g. discussion of Tucker Carlson and the NatCons.
+
 # Notes and Commentary
 
 ## Part 1. The Cliodynamics of Power
-## 2: ...
+
+## Chapter 1 Elites, Elite Overproduction, and the Road to Crisis
+
+Introduces the basic idea of elite overproduction and the road to crisis.
+
+Think of elite playing a game of musical chairs. There are only so many positions to go round. If elite is growing faster than number of chairs (as is usually the case) then:
+
+- First you get increasing conflict over access to the "chairs" i.e. positions of power and wealth. This leads to breakdown in behavior with increasing violence and rule-breaking by elite themselves
+- Second increasing segment of the elite who are disgruntled and who consider overthrowing existing elite
+
+## Chapter 2 Stepping Back: Lessons of History
 
 - cultural factor of polygamy influence socio-political cycle length. in monogamous societies around 200 years or more. in monogamous societies around 100 years. this is because polygamous societies generate elite overproduction much quicker
   - comment: good exmpa
@@ -33,6 +47,7 @@ Part 3 a lot less clear. Unsurprising as trying to predict with some integrity. 
 General comment: turchin is describing the socio-political cycle. At Life Itself we focus more (with e.g. [[second renaissance]]) on the slower, more foundational cultural paradigm cycle. The former layers on top the latter. Things are especially intense when socio-political down-cycle coincides with a transition in cultural paradigm cycle.
 
 ![[excalidraw/cultural-pardigm-cycle-and-sociopolitical-cycle-2024-07-01.excalidraw.svg]]
+
 ### Good times last about hundred years and no example longer than 200 years
 
 > All complex human societies organized as states experience recurrent waves of political instability. The most common pattern is an alternation of integrative and disintegrative phases lasting for roughly a century. Integrative phases are characterized by internal peace, social stability, and relatively cooperative elites. Disintegrative phases are the opposite: social instability, breakdown of cooperation among the elites, and persistent outbreaks of political violence, such as rebellions, revolutions, and civil wars. There are variations on this common theme; later I’ll talk about why some cycles are shorter and others longer. Also, the crisis severity is variable. Despite this variability, the time of troubles always comes. So far, we haven’t seen an exception to this rule. No society that my team has studied had an integrative phase lasting more than around two hundred years.[1]
