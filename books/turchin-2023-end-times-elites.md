@@ -14,17 +14,23 @@ This is "my kind of history" -- big picture, "plate tectonics", "longue duree" t
 
 # Summary
 
-- Structural-demographic model (Jack Goldstone and others)
-  - Demographic growth leading to declining real wages for masses, rising wealth for elites means growing inequality
-    - Leads to popular immiseration
-    - Resentment of elite
-  - Elite over-production: too many elite with no prospects to enter elite "younger sons", "frustrated mandarins etc"
-    - Leaders for the revolution ...
-  - Combine those together you get recipe for intra-elite conflict and downfall of current regime and its replacements
-- Ideological and cultural factors can be added to the mix: breakdown of ideological hegemony is one major leading indicator of regime downfall
-  - 
+Structural-demographic model (Jack Goldstone and others)
+
+- Demographic growth leading to declining real wages for masses, rising wealth for elites means growing inequality
+  - Leads to popular immiseration
+  - Resentment of elite
+- Elite over-production: too many elite with no prospects to enter elite "younger sons", "frustrated mandarins etc"
+  - Leaders for the revolution ...
+
+Combine those together you get recipe for intra-elite conflict and downfall of current regime and its replacements
+
+Ideological and cultural factors can be added to the mix: breakdown of ideological hegemony is one major leading indicator of regime downfall.
 
 Part 3 a lot less clear. Unsurprising as trying to do prediction with some intellectual integrity. Interesting moments e.g. discussion of Tucker Carlson and the NatCons.
+
+General comment: Turchin is describing the socio-political cycle. At Life Itself we focus more (with e.g. [[second renaissance]]) on the slower, more foundational cultural paradigm cycle. The former layers on top the latter. Things are especially intense when socio-political down-cycle coincides with a transition in cultural paradigm cycle.
+
+![[excalidraw/cultural-pardigm-cycle-and-sociopolitical-cycle-2024-07-01.excalidraw.svg]]
 
 # Notes and Commentary
 
@@ -32,21 +38,51 @@ Part 3 a lot less clear. Unsurprising as trying to do prediction with some intel
 
 ## Chapter 1 Elites, Elite Overproduction, and the Road to Crisis
 
-Introduces the basic idea of elite overproduction and the road to crisis.
+Introduces the basic idea of elites, elite overproduction and the road to crisis.
 
-Think of elite playing a game of musical chairs. There are only so many positions to go round. If elite is growing faster than number of chairs (as is usually the case) then:
+Think of elite and elite aspirations playing a game of musical chairs. There are only so many positions to go round. If elite (including aspirants) is growing faster than number of chairs (as is usually the case) then:
 
 - First you get increasing conflict over access to the "chairs" i.e. positions of power and wealth. This leads to breakdown in behavior with increasing violence and rule-breaking by elite themselves
-- Second increasing segment of the elite who are disgruntled and who consider overthrowing existing elite
+- Second increasing segment of the wider elite group (including aspirants) who are disgruntled and who consider overthrowing existing established elite
+
+Meanwhile if you have popular immiseration then you have the broader base of political support for the disgruntled elite to use to gain power.
+
+### Elites are those with social power
+
+> In sociology, elites are not those who are somehow better than the rest. They are not necessarily those who are more hardworking, or more intelligent, or more talented. They are simply those who have more social power—the ability to influence other people. A more descriptive term for elites is “power holders.”
+
+### Social power comes from four sources:  coercion, wealth, bureaucratic, ideology
+
+- Coercion (control of military, police) which means you can force people do what you want
+- Wealth which means you can hire others to do what you want
+- Bureaucratic / administrative: following orders within the system
+- Ideology: power of persuasion. Influencers, public intellectuals, etc
+
+> The hardest—and crudest—form of social power is coercion: force, or a threat of force. Americans specializing in coercion, such as army generals and police officers, are generally thoroughly subordinated to other forms of power. Exceptions, such as J. Edgar Hoover, who was the first and most powerful FBI director, are rare.
+>
+> The second kind of power is wealth (or accumulated material resources, more generally). Wealthy people can hire people to do what they want (within limits).
+>
+> The third and more subtle kind of power is bureaucratic or administrative. Modern human beings belong to a variety of organizations. We have a variety of “bosses” whose orders we generally follow. There is an element of coercion to these relationships, of course, because not following orders may get you fired, fined, or arrested. But most of the time we follow orders simply because of the power of social norms. The bosses at various levels of organizations all wield different amounts of power, which tends to increase the larger their organizations and the higher their positions within them.
+>
+> The fourth and “softest” kind of power is ideological—the power of persuasion. Soft power, or persuasion, is an extremely potent force that can sway multitudes. It includes the realm of thought influencers, such as famous “public intellectuals,” columnists at major newspapers, and, more recently, social media figures with millions of followers.
+
+### Concrete evidence of elite overproduction: competition for political office in the US
+
+> An even better metric for following the effect of overproduction of wealth holders on elections is the cost of running a successful campaign. After all, not all politically ambitious rich people run for office themselves. Many instead choose to fund professional politicians who can advance their policy agendas in Washington. According to the data collected by the Center for Responsive Politics, the average spending of the House winner increased from $400K in 1990 to $2.35 million in 2020, while the same statistic for the Senate started at $3.9 million (in 1990) and grew to $27 million in the last electoral round.
+
+> Second, by 2016, the elite overproduction game had reached a bifurcation point where the rules of conduct in political campaigns had been tossed to the wind. The 2016 Republican Party presidential primaries had the largest number of major candidates in history to that point. A total of seventeen contestants entered the race.[15] Members of the stunned American public became involuntary viewers in a bizarre spectacle of an elite aspirant game reaching its logical culmination. The candidates competed in saying the most outlandish things and tossing out wild quotes in order to win press attention and stay in the race, while “serious” candidates declined in the polls and were eliminated.[16]
+
+### This evolution of elite overproduction and popular immiseration has reached a critical point in US and explains success of Trump
+
+Analogies with Lincoln and Hong (Taiping rebellion).
 
 ## Chapter 2 Stepping Back: Lessons of History
 
-- cultural factor of polygamy influence socio-political cycle length. in monogamous societies around 200 years or more. in monogamous societies around 100 years. this is because polygamous societies generate elite overproduction much quicker
-  - comment: good exmpa
+Key take-aways
 
-General comment: turchin is describing the socio-political cycle. At Life Itself we focus more (with e.g. [[second renaissance]]) on the slower, more foundational cultural paradigm cycle. The former layers on top the latter. Things are especially intense when socio-political down-cycle coincides with a transition in cultural paradigm cycle.
-
-![[excalidraw/cultural-pardigm-cycle-and-sociopolitical-cycle-2024-07-01.excalidraw.svg]]
+- Social political cycles of around 100-200 years
+- Cultural factor of polygamy influence socio-political cycle length. in monogamous societies around 200 years or more. in monogamous societies around 100 years. this is because polygamous societies generate elite overproduction much quicker
+- Comment: good example of culture (norms about polygamy) influencing institutions (marriage rules and heir legitimacy) leading to social and political outcomes (dynasty length)
 
 ### Good times last about hundred years and no example longer than 200 years
 
