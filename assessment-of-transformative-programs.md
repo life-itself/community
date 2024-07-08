@@ -43,3 +43,7 @@ Recommended items from Finders and Jeffrey Martin:
 Maybes
 
 - Stress & Empathy Questionnaire
+
+## Discussion thread
+
+Extensive dicussion thread here: https://github.com/orgs/life-itself/discussions/154
