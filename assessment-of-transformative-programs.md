@@ -15,9 +15,9 @@ We're interested in assessing transformative programs including our own ECT. We 
 
 ## Existing Work
 
-- [ ] Inner Development Goals
-- [ ] Wisdom related measures
-- [ ] [Pathways to Liberation Matrix](https://lifeitself.org/notes/Pathways-to-Liberation-Matrix)
+- [[Inner Development Goals]]
+- Wisdom related measures
+- [[Pathways to Liberation Matrix]]
 
 ### Examples of assessment scales used by Martin and NonSymbolic
 
