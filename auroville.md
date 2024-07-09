@@ -8,7 +8,7 @@ Auroville is an [[notes/intentional-community|intentional utopian community]] lo
 > Auroville wants to be a universal town where men and women of all countries are able to live in peace and progressive harmony above all creeds, all politics and all nationalities. The purpose of Auroville is to realise human unity. [from Alfassa's first public message regarding the project in 1965]
 
 
-![[../assets/notes/pasted-image-20230202211122.png]]
+![[/assets/notes/pasted-image-20230202211122.png]]
 
 # Notes
 
@@ -33,7 +33,7 @@ Milestones in development:
 
 Asides
 
-- cf [[notes/lay-awakening|Lay Awakening]]: re [[notes/integral-yoga|integral yoga]] "This yoga was in variance with older ways of yoga because the follower would not give up the outer life to live in a monastery, but would be present in regular life and practise spirituality in all parts of life." (https://en.wikipedia.org/wiki/Mirra_Alfassa#Integral_yoga_and_the_Siddhi_Day)
+- cf [[Lay awakening]]: re [[Integral yoga]] "This yoga was in variance with older ways of yoga because the follower would not give up the outer life to live in a monastery, but would be present in regular life and practise spirituality in all parts of life." (https://en.wikipedia.org/wiki/Mirra_Alfassa#Integral_yoga_and_the_Siddhi_Day)
 
 ## 2023-02-03
 
