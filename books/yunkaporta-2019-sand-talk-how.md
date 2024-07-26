@@ -1,18 +1,22 @@
 ---
+title: "Sand Talk by Tyson Yunkaporta"
 authors:
   - rufuspollock
 created: 2024-07-22
 ---
+
 Beautifully written at several levels: prose itself, the weaving of different elements from social critique to sacred stories, the combination of rich explanation with personal (and vulnerable) autobiography. A remarkable work.
 
 Key points
 
+- Indigenous thinking is different and important -- it can "save the world" (from the unsustainable, deluded path it is on)
 - What we should be doing: Rejoining our custodial species.
 - How? Here is a set of protocols for agents in sustainable complex system. Connection, diversity, interchange, adapatation.
   > The most important [key idea in this book] is the set of protocols for agents in a sustainable complex system.
 - Core view/value: "Everything in creation is sentient and carries knowledge, therefore everything is deserving of our respect"
 
 ## Commentary
+
 
 ### Stone age economics revisited
 
