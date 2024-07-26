@@ -3,26 +3,30 @@ created: 2022-09-29
 authors: [rufuspollock]
 ---
 
-# Coming into Being by [[../William Irwin Thompson]]
+# Coming into Being by William Irwin Thompson
 
-Something about Thompson. It is *incredible, brilliant* intellectual jazz ... *and* the danger is that he (and we) become intoxicated by the virtuosity with several negative consequences. First, the player goes on too long: a point that could be made in a sentence is made in a paragraph -- or three. Second, more importantly, the read is left with allusion rather than thesis, prose-poetry rather than clarity, allusion rather than argument. Perhaps this is the intent: a new kind of art-form halfway between poetry and essay, between literature and (cultural) science. However, if so, who is the audience and what is the purpose? And as a prose-jazz it risks (like jazz) becoming either self-indulgent or exclusive or both. Finally, and most importantly, it obscures this crucially important topic of cultural evolution. This is a topic that is already complex -- and easily critiqued -- and that demands a clarity of analysis and conveyance.
+By [[William Irwin Thompson]], the founder of Lindisfarne Association.
+
+Something about Thompson. It is *incredible, brilliant* intellectual jazz ... *and* the danger is that he (and we) become intoxicated by the virtuosity with several negative consequences.
+
+First, the player goes on too long: a point that could be made in a sentence is made in a paragraph -- or three. Second, more importantly, the reader is left with allusion rather than thesis, prose-poetry rather than clarity, allusion rather than argument. Perhaps this is the intent: a new kind of art-form halfway between poetry and essay, between literature and (cultural) science. However, if so, who is the audience and what is the purpose? And as prose-jazz it risks (like jazz) becoming either self-indulgent or exclusive or both. Finally, and most importantly, it obscures this crucially important topic of cultural evolution. This is a topic that is already complex -- and easily critiqued -- and that demands a clarity of analysis and conveyance.
 
 This is prose at home in a Don DeLillo novel -- a compliment as well as a criticism. The danger is the the text becomes more artefact and demonstration of the evolution of consciousness than a study or analysis of it -- text as subject rather than the object.
 
-At worst, the pearls of insights get lost in a lot of intellectual riffing that resembles (a very high quality) high-on-pot post-grad bull session e.g.
+At worst, the pearls of insights get lost in a lot of intellectual riffing that resembles (a very high quality) post-grad pot-infused bull session. Take for example, this paragraph:
 
 > Meanwhile, in offshore strongholds and Monaco penthouses, currency traders shift dollars back and forth into yen and deutsche marks, making money only from “the difference that makes a difference” in seconds of time. These traders are beyond the control of any president, and so the fluctuations of dollars and pesos are as unstable and chaotic as the weather. As the industrial marketplace expands to planetary dimensions, and as the time of a transaction contracts to microseconds, a singularity is created in which the global marketplace, like a black hole sucking up a star, devours entire nation-states. As the currents of the biosphere interact with the currencies of the world economy, we get not an international politique, but a Gaia Politique in which an enantiomorphic polity emerges. Enantiomorphic means the shape of opposites, so this polity is like the atmosphere that emerges in the opposing but coupled systems of the ocean and the continent. The result is a shifting, chaotic, complex dynamical system that we call the weather. Climate may be predictable, but the weather is not. The state of the weather is much more than a territorial state of land: as a chaotic system, it is more of an archetypal image of our contemporary condition than the fixed earth of farmland and pastoral landscape. No longer is it a question of identity through Blut und Boden, the blood and soil of the Fascist’s patriotic state, it has become the archetypal image of light and air.
 
 It's brilliant and also at some point bewildering. Plays on words abound e.g. state in the state of weather and nation state. At first listen they can seem like brilliant connections, generating new synapses in our cultural brain. But on closer examination the metaphors and their implicit theses break down:
 
-- Is there really a "market singularity ... [that] devours entire nation-states"? (Surely it is much more complex (and less novel) than that suggests).
+- Is there really a "market singularity ... [that] devours entire nation-states"? Surely it is much more complex, less clear, and less novel than that suggests.
 - "These traders are beyond the control of any president, and so the fluctuations of dollars and pesos are as unstable and chaotic as the weather." Is this a novelty of now? Those who experienced the booms and busts of 19th century capitalism would beg to disagree. This the danger of argument as aphorism.
 
 Or to take another example that whirls us from levels of evolutionary selection to Indra's net:
 
 > The disintegration of the body is, therefore, one signal that evolution is no longer taking place at the level of the single organism. Evolution is now multiorganismic just as once it was multicellular. Once the cell enclosed molecules, then organisms enclosed cells, and now something else is enclosing us in distributive lattices of light. Christian mystics would call it the mystical body of Christ, Buddhists would call it the jeweled net of Indra, and fundamentalists would call it Satanic possession. Clearly, some new kind of religious knowledge and discrimination is called for, one not easily gained in our materialistic, technologically focused society.
 
-Again whilst wonderfully poetically resonant on reflection the analogy seems stretched to breaking point: yes, we may be moving to a new level of selection e.g. the "culture" but that isn't the mystical body of Christ or Indra's net (which have very different meanings). And how does that point connect to the last on the need for religious knowledge (again a good one but entirely unjustified by anything that preceded it except in the most allusive terms).
+Again whilst wonderfully poetically resonant, on reflection the analogy seems stretched to breaking point: yes, we may be moving to a new level of selection e.g. the "culture" but that isn't the mystical body of Christ or Indra's net (which have very different meanings). And how does that point connect to the last on the need for religious knowledge (again a good one but entirely unjustified by anything that preceded it except in the most allusive terms).
 
 # Our Contemporary Predicament and our Present Evolution of Consciousness
 
