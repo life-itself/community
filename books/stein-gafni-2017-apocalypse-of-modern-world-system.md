@@ -1,4 +1,6 @@
-# Stein and Gafni (2017)
+# Apocalypse of the Modern World System by Stein and Gafni (2017)
+
+By [[Zak Stein]] and [[Marc Gafni]].
 
 ## Pragmatic Utopianism based on Onto-solutionism
 

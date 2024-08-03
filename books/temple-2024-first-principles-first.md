@@ -4,42 +4,75 @@ authors:
 ---
 # First Principles and First Values: Forty-Two Propositions on CosmoErotic Humanism, the Meta-Crisis, and the World to Come
 
-Authors are Zak Stein, Marc Gafni and Ken Wilber writing under the name David J. Temple.[^1]
+Authors are [[Zak Stein]], [[Marc Gafni]] and [[Ken Wilber]] writing under the name David J. Temple.[^1]
 
 [^1]: "David J. Temple is a pseudonym created for enabling ongoing collaborative authorship at the Center for World Philosophy and Religion. The two primary authors behind David J. Temple are Marc Gafni and Zak Stein. For different projects specific writers will be named as part of the collaboration. In this volume Ken Wilber joins Dr. Gafni and Dr. Stein."
 
-Their motivating context is one we hugely resonate with: something is badly awry, we need to change our culture and our worldview i.e. core views and values. This is essentially identical to what is on https://secondrenaissance.net/
+The motivating context of the work is that something is badly awry, we need to change our culture and our worldview i.e. core views and values. This a position we greatly resonate with, it is largely identical to what we set out on the second renaissance project site https://secondrenaissance.net/.
 
-What they then set out in this work are *specific details* of what that new worldview consists of and lay the foundations for a comprehensive philosophy. In particular, they emphasize the centrality and reality of value. 
+> CosmoErotic Humanism is a philosophical movement aimed at reconstructing the collapse of value at the core of global culture. This movement emerges in response to the meta-crisis, understanding existential and catastrophic risks as rooted not only in failures of economics, politics, and technology, but in failed worldviews.
 
-It's brief 47 propositions are first steps then in providing a more worked out philosophical underpinnings to the vision of an [[awakening society]] and a second renaissance. Fleshing out in more detail what exactly are some of the core views and values of the world we wish to evolve to. In this regard, I would put it in the same bracket as the efforts of McGilchrist and the (neglected) Christopher Alexnader
-
-It obviously builds on integral -- Wilber is one of the co-authors and both Stein and Gafni are big integralists.
-
-## Connections with Second Renaissance and Life Itself
-
-The basic claim that a missing (global, universal) (grammar) of value is key to what ails us is. cf our claims in Life Itself original SCQH ... 
-
-# Summary
-
-"A universal grammar for value"
-
-- Issues and how they relate to (lack of) shared (universal) principles and values
-- Value is real
-- Intimacy is a core value
+What this works focuses on are *specific details* of that new worldview with the aim to lay the foundations for a comprehensive philosophy of the new paradigm. Specifically, they emphasize the centrality of the *reality of value*. 
 
 > By First Principles and First Values, we refer to a tentative list of principles and values embedded in the Cosmos itself, and that show up in different forms all the way down and all the way up the evolutionary chain. We will more fully explore what this notion of cosmic or cosmological value means below. [Chapter 5]
 
+It's brief 47 propositions are first steps in providing a more worked out philosophical underpinnings to the vision of an [[awakening society]] and a [second renaissance][]. They aim to flesh out in more detail some of the core views and values of the world we wish to evolve to. In this regard, I would put it in the same bracket as the efforts of McGilchrist and the (neglected) Christopher Alexander.
 
-Overall a basic massive "yes": we do need a universal set of principles and (grammar) of value.
+[second renaissance]: https://secondrenaissance.net/
 
-this is the return of universalism ... 😉
+It obviously builds on [[Integral]] -- Wilber is one of the co-authors and both Stein and Gafni are big integralists.
+
+
+## Connections with Second Renaissance and Life Itself
+
+Key propositions are:
+
+- Key to what ails us is a missing (global, universal) (grammar) of value -- and the belief that value is "ontologically real"
+- We can credibly set out a universal grammar of value
+
+This connects directly to second renaissance and Life Itself in several ways:
+
+1\. In [Life Itself reason for existence (SCQH)](https://lifeitself.org/tao/scqh) from 2017 we state:
+
+> we need a breakthrough in individual and collective “being” but a breakthrough here is hard as it requires a consensus on foundational values and views including belief in the possibility of transformation [hope] and the nature and primacy of being.
+
+This emphasis on the need for consensus on fundamental values and views resonates directly with the general thesis of the Temple piece and more specifically on the value of "Value" (singular) as one of those values -- and indeed the fundamental value.
+
+More subtly, the point we were making in the SCQH with that phrase "requires a consensus on foundational values and views" was that these are beliefs on which we need (and should have if we reflect carefuly) a priori consensus in order to coordinate. Without htat consensus we will descend into fruitless debate. Moreover, these aren't points we can prove in some way by logical argument, though we can work our way to them in some way empirically and ration-spiritually. This excerpt from the Temple text resonates closely with that:
+
+> These are not conclusions of philosophical argument subject to refutation, but rather metaphysical and ontological premises. They are the axioms that live across the great traditions of human value, truths that are Anthro-Ontologically (a term we will return to below) accessible to everyone, fundamentally both eternal and evolving.
+
+In our second version (2019) we ask:
+
+> What are the foundational views and values, and, separately and relatedly a big vision, and how do we bring forth a culture based on these foundations within our lifetime and the next six generations that is a) radically better than today in its capacity to generate flourishing communities and individuals, both within that culture and also more broadly in society; b) engaging in powerful, practical action on collective challenges; and c) pragmatically utopian in its commitment both to being wise itself and in causing a wiser and weller world for everyone.
+
+Again the point is similar.
+
+Regarding second renaissance we have talk of "New ways of being, thinking and acting" and specifically talk about inner growth and wisdom. Whilst only briefly mentioned in the initial whitepapers, we see wisdom and inner growth as directly related to the capacity for "valueception".
+
+# Summary
+
+"A universal grammar for value". Specifically, the book sets out:
+
+- How escalating meta-crisis derives from flawed worldviews and the lack of shared, universal, principles and values
+  > CosmoErotic Humanism is a philosophical movement aimed at reconstructing the collapse of value at the core of global culture. This movement emerges in response to the meta-crisis, understanding existential and catastrophic risks as rooted not only in failures of economics, politics, and technology, but in failed worldviews.
+- Value is real i.e. objective (not simply opinion)
+  > Technologies and societal evolutions have moved the center of culture outside the field of value. **Humanity has become untethered from reality, and more specifically, divorced from the reality of value.** And so there is an urgent need for new forms of religion, philosophy, and culture that reconstruct value and reconnect humanity with nature and reality.
+- This sense of value, whilst not precisely definable, closely relates to the sense of unfolding purpose and love/intimacy (in the spiritual sense)
+  > By First Principles and First Values, we refer to a tentative list of principles and values embedded in the Cosmos itself, and that show up in different forms all the way down and all the way up the evolutionary chain. We will more fully explore what this notion of cosmic or cosmological value means below. [Chapter 5]
+
+TODOs:
+
+- Explain how you can have a universal *story* or *grammar* of value whilst having many diverse values.
+- More detailed connection to the meta-crisis
+
+## Comments
+
+Overall a basic massive "yes": we do need a universal set of principles and (grammar) of value. This is the return of universalism ... 😉
 
 And second comment is ... that's the easy part 😉 the hard part is how does that come about.
 
 Of course, the need needs to be articulated so it's a great start.
-
-## Comments
 
 - Lot of theory ... where is the practice
   - e.g. easy to say there is a universal field of value ... and how do we touch into that? How do we deal with disagreements or conflicts over value?
@@ -47,21 +80,33 @@ Of course, the need needs to be articulated so it's a great start.
   - It is the concreteness *and* the richness
   - Also McGilchrist's prose somehow has a poetry, a depth, a richness that alludes to the richer ways of knowing and being (the "right hemisphere modes") that he is talking about. So somehow the work itself exemplifies the message it is seeking to convey
 
-Critiques
+### Critiques
 
-Use of jargon
+#### Use of unnecessary jargon
 
-- use of "generator function" instead of a simple term like source or cause
-  - e.g. title of chapter 8: "The Generator Functions for Existential and Catastrophic Risk Have an Underlying Root Cause: ..." this could be written as "The *Sources* of Existential and Catastrophic Risk Have an Underlying Root Cause: ...". Once rewritten of course it sounds less cool -- and actually a bit repetitive -- would we lose anything by simplifying to "Existential and Catastrophic Risk have a root cause" (what's the different between an underlying root cause and a root cause?)
-    - this illustrates point that a decent proof editor would have helped a lot ... (like most of Wilber's books)
-- "The first is the success story that dominates global culture in both open and closed societies, albeit in different forms: *zero-sum rivalrous conflict governed by win/lose metrics*." (chapter 8 opening)
-  - Let's unpack that last phrase *zero-sum rivalrous conflict governed by win/lose metrics*
-    - Isn't rivalrous conflict a pleonasm? ie. saying the same thing twice? Is there any example of conflict that isn't rivalrous?
-    - what about zero-sum and win/lose metrics? Aren't zero sum games and win/lose games the same?
-    - So boiled down that becomes: "conflict governed by win/lose metrics"?
-    - and then isn't conflict almost always in (somewhat) zero-sum situations or having win/lose metrics? 
-    - So this phrase becomes: "The first is the success story that dominates global culture in both open and closed societies, albeit in different forms: conflict"
-- "highly entangled hyper-object we call global civilization" - what is a hyper-object, what is a highly entangled one (vs non entangled)? One has a rough idea but one senses that more precise definitions would lead to pleonasm or, at the very least, the replacement with much more common words.
+Example 1: use of "generator function" instead of a simple term like source or cause
+
+e.g. title of chapter 8: "The Generator Functions for Existential and Catastrophic Risk Have an Underlying Root Cause: ..."
+
+This could be written as "The *Sources* of Existential and Catastrophic Risk Have an Underlying Root Cause: ...". Once rewritten of course it sounds less cool -- and actually a bit repetitive -- would we lose anything by simplifying to "Existential and Catastrophic Risk have a root cause" (what's the different between an underlying root cause and a root cause?)
+
+this illustrates point that a decent proof editor would have helped a lot ... (like most of Wilber's books)
+
+Example 2:
+
+> "The first is the success story that dominates global culture in both open and closed societies, albeit in different forms: *zero-sum rivalrous conflict governed by win/lose metrics*." (chapter 8 opening)
+
+Let's unpack that last phrase *zero-sum rivalrous conflict governed by win/lose metrics*.
+
+- Isn't rivalrous conflict a pleonasm? ie. saying the same thing twice? Is there any example of conflict that isn't rivalrous?
+- what about zero-sum and win/lose metrics? Aren't zero sum games and win/lose games the same?
+- So boiled down that becomes: "conflict governed by win/lose metrics"?
+- and then isn't conflict almost always in (somewhat) zero-sum situations or having win/lose metrics? 
+- So this phrase becomes: "The first is the success story that dominates global culture in both open and closed societies, albeit in different forms: conflict"
+
+Example 3: "highly entangled hyper-object we call global civilization"
+
+What is a hyper-object, what is a highly entangled one (vs non entangled)? One has a rough idea but one senses that more precise definitions would lead to pleonasm or, at the very least, the replacement with much more common words.
 
 # Excerpts and Commentary
 
@@ -69,24 +114,19 @@ Use of jargon
 
 > CosmoErotic Humanism is a philosophical movement aimed at reconstructing the collapse of value at the core of global culture. This movement emerges in response to the meta-crisis, understanding existential and catastrophic risks as rooted not only in failures of economics, politics, and technology, but in failed worldviews. The core of CosmoErotic Humanism offers a system of First Principles and First Values that recasts cosmic evolution as a Story of Value in which humanity plays a unique role. These First Principles and First Values ground a comprehensive set of theories, including self and psychology, epistemology, scientific metaphysics, education, theology, mysticism, sexuality, and value. CosmoErotic Humanism thereby responds to the three great questions: Where? Who? and What? It offers a new Universe story (Where am I?), a new narrative of identity (Who am I?), and new vision of ethics (What ought I/we do?). These are some of the first words on the possibilities of a world philosophy adequate to our time of civilization transformation. What is offered by CosmoErotic Humanism is a new story of eternal yet evolving value that can serve as a context for our diversity, finally allowing us to speak of humanity as part of a shared story of evolving cosmic value.
 
-Temple, David J.. First Principles and First Values: Forty-Two Propositions on CosmoErotic Humanism, the Meta-Crisis, and the World to Come (pp. 10-11). World Philosophy & Religion Press. Kindle Edition. 
-
 ## To the reader
 ### Cosmoerotic humanism is their name for this movement to evolve culture
 
-In this sense analogous to our usage of term [[second renaissance]]
-
 > The material collected here is from the internal writings of the Center for World Philosophy and Religion. The Center is cofounded and led by Marc Gafni and Zak Stein. Together with Ken Wilber—also a cofounder of the Center—and an international team, they execute the Center’s mission: to evolve culture as needed in response to the looming threat of existential and catastrophic risk. This movement in culture has become referred to as CosmoErotic Humanism.
 
+In this sense analogous to our usage of term [[second renaissance]]
 
 ## Introduction: On Redefining “Value” and Realizing Intimacy with All Things During the Meta-Crisis
 
 ### The modern world has become untethered from reality and divorced from the reality of value
 
-> The world is not what it was when the great wisdom traditions first began to (re)connect (“religion” is from the Latin religare, meaning to bind or tie) the human to the Cosmos through the identification of a field of value in which all life participates. The last century has seen more change in the conditions of human existence than any other period in known history. Technologies and societal evolutions have moved the center of culture outside the field of value. *****Humanity has become untethered from reality, and more specifically, divorced from the reality of value.** And so there is an urgent need for new forms of religion, philosophy, and culture that reconstruct value and reconnect humanity with nature and reality.
+> The world is not what it was when the great wisdom traditions first began to (re)connect (“religion” is from the Latin religare, meaning to bind or tie) the human to the Cosmos through the identification of a field of value in which all life participates. The last century has seen more change in the conditions of human existence than any other period in known history. Technologies and societal evolutions have moved the center of culture outside the field of value. **Humanity has become untethered from reality, and more specifically, divorced from the reality of value.** And so there is an urgent need for new forms of religion, philosophy, and culture that reconstruct value and reconnect humanity with nature and reality.
 
-
-## ...
 
 ## 4 The Second Shock of Existence Is About the Self-Induced Extinction of Our Species
 
@@ -104,22 +144,24 @@ In this sense analogous to our usage of term [[second renaissance]]
 
 ### First principles and first values ... are embedded in the cosmos itself
 
-This is the part where the scientific materialists will be having conniptions. I largely agree ... and i wonder whether this phrasing e.g. "embedded in the Cosmos itself [capital C cosmos]" may not be a grandiose for some.
-
 > By First Principles and First Values, we refer to a tentative list of principles and values embedded in the Cosmos itself, and that show up in different forms all the way down and all the way up the evolutionary chain. We will more fully explore what this notion of cosmic or cosmological value means below.
+
+This is the part where the scientific materialists will be having conniptions. I largely agree ... and i wonder whether this phrasing e.g. "embedded in the Cosmos itself [capital C cosmos]" may not be a grandiose for some.
 
 ### Story of value
 #### It's a story of value too
 
-Finally, we speak not only of First Principles and First Values but say they are necessarily embedded in a Story of Value. Again, this is not a literary device but adds something vital to the formulation. First Principles and First Values themselves neither generate coherence nor arouse our moral and political will to action. Provoking this will requires story, a narrative arc to engage us, and not only because humans are specifically storytelling animals, although we most certainly are. More profoundly, story itself is a core First Principle and First Value of Cosmos, all the way up and all the way down the evolutionary chain.
+> Finally, we speak not only of First Principles and First Values but say they are necessarily embedded in a Story of Value. Again, this is not a literary device but adds something vital to the formulation. First Principles and First Values themselves neither generate coherence nor arouse our moral and political will to action. Provoking this will requires story, a narrative arc to engage us, and not only because humans are specifically storytelling animals, although we most certainly are. More profoundly, story itself is a core First Principle and First Value of Cosmos, all the way up and all the way down the evolutionary chain.
 
 #### These are not philosophical arguments but metaphysical premises
 
-These are not conclusions of philosophical argument subject to refutation, but rather metaphysical and ontological premises. They are the axioms that live across the great traditions of human value, truths that are Anthro-Ontologically (a term we will return to below) accessible to everyone, fundamentally both eternal and evolving.
+> These are not conclusions of philosophical argument subject to refutation, but rather metaphysical and ontological premises. They are the axioms that live across the great traditions of human value, truths that are Anthro-Ontologically (a term we will return to below) accessible to everyone, fundamentally both eternal and evolving.
+
+This is an important point and relates to the 
 
 ## 6 There Are at Least Seven Links Between the Collapse of Value and Increasing Existential Risk
 
-### Without value 
+### Without (a universal grammar of) value it is impossible to coordinate at a global scale 
 
 > 1. There is no global coherence or global coordination without a universal grammar of value
 > 
@@ -364,17 +406,15 @@ First Principles and First Values are derived Anthro-Ontologically. We do not en
 
 ## 38 The Anthro-Ontological Method Can Be Specified and Evolved
 
-This section is a bit vaguer that i would like. It
-
+This section is a bit vaguer that i would like. It would be nice to have concrete examples as one has more in McGilchrist and Alexander.
 
 ### Body, mind and language are the means by which truths can be known
 
-The basic premise of this method, developed over many years, can be found in certain modern philosophers and sociologists, such as Jürgen Habermas, as well as many of the great religious traditions, even if not named as such. The premise is that human body, mind, and language are ultimately the only means by which truths can be known.
+> The basic premise of this method, developed over many years, can be found in certain modern philosophers and sociologists, such as Jürgen Habermas, as well as many of the great religious traditions, even if not named as such. The premise is that human body, mind, and language are ultimately the only means by which truths can be known.
 
-### 
+### There are ways to reliably know collective and convergent truths that are themselves always evolving
 
 > What is proposed here is that there are ways to reliably know collective and convergent truths—knowable universal truths triangulated across multiple sciences—that are themselves always evolving. So it is that CosmoErotic Humanism includes theories of Eros, Ethics, Self, Power, and Community, as well as key distinctions around politics, education, and religious/spiritual practices and rituals. The claims made account for the major scientific disciplines and the truths expressed in the great wisdom traditions—ultimately grounded in clarified individual direct knowing, or gnosis.
-
 
 ## 39 We Must Recover and Renew the Eye of Value
 
