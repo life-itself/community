@@ -3,7 +3,6 @@ created: 2019-05-23
 authors:
   - rufuspollock
 ---
-
 # Wisdom Gap
 
 The contention that there is a large and growing gap between our technological capabilities and our individual and collective wisdom to use them well.
@@ -47,3 +46,26 @@ https://rufuspollock.com/2019/04/08/children-playing-with-sharp-knives-humanity-
 > So here we stand, developing and evolving digital technology faster, literally, than we can comprehend.
 > 
 > And on the other side we have, comparatively, the emotional and spiritual maturity of a small infant. We have barely developed at all for the last few hundred thousand years. We still fight wars, commit everyday violence verbal and physical, and, perhaps most importantly, have incredibly limited self-control and self-awareness. Most of us live as dodgem cars, often out of control, careering through life bumping, sometimes violently, into things and people. Right now, as a group, we have such limited ability to coordinate and reflect that we are putting our entire environment and very existence at risk through climate change.
+
+## Von Neumann (1955) Can We Survive Technology
+
+[[books/vonneumann-1955-can-we-survive]]
+
+Here is the transcription of the text from the image, keeping the paragraphs intact and removing line breaks:
+
+---
+
+> "For the kind of explosiveness that man will be able to contrive by 1980, the globe is dangerously small, its political units dangerously unstable."
+> 
+> **CAN WE SURVIVE TECHNOLOGY?**
+> 
+> by John von Neumann  
+> Member, Atomic Energy Commission
+> 
+> "The great globe itself" is in a rapidly maturing crisis—a crisis attributable to the fact that the environment in which technological progress must occur has become both undersized and underorganized. To define the crisis with any accuracy, and to explore possibilities of dealing with it, we must not only look at relevant facts, but also engage in some speculation. The process will illuminate some potential technological developments of the next quarter-century.
+> 
+> In the first half of this century the accelerating industrial revolution encountered an absolute limitation—not on technological progress as such but on an essential safety factor. This safety factor, which had permitted the industrial revolution to roll on from the mid-eighteenth to the early twentieth century, was essentially a matter of geographical and political Lebensraum: an ever broader geographical scope for technological activities, combined with an ever broader political integration of the world. Within this expanding framework it was possible to accommodate the major tensions created by technological progress.
+> 
+> Now this safety mechanism is being sharply inhibited; literally and figuratively, we are running out of room. At long last, we begin to feel the effects of the finite, actual size of the earth in a critical way.
+> 
+> Thus the crisis does not arise from accidental events or human errors. It is inherent in technology’s relation to geography on the one hand and to political organization on the other. The crisis was developing visibly in the 1940’s, and some phases can be traced back to 1914. In the years between now and 1980 the crisis will probably develop far beyond all earlier patterns. When or how it will end—or to what state of affairs it will yield—nobody can say.
