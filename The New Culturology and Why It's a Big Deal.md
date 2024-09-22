@@ -1,15 +1,10 @@
+# The New Culturology and Why It's a Big Deal
+
 A synthetic summary of [[books/henrich-2017-secret-our-success]] and [[books/henrich-2020-weirdest-people-world]] plus why its a milestone in the development of a new scientific culturology.
 
 ![image](https://github.com/life-itself/community/assets/180658/1726e595-dfcc-4451-ab91-c44a10a1d4a2)
 
 > [!note] These are notes i wrote for myself in April 2022. Sharing as may be of value to others and will motivate me to tidy them!
-
-## Interlinks
-
-- [[Cultural evolution]]
-- [[Culturology]]
-- [[Joseph Henrich]]
-- [[henrich-culturology-interviews-2022]] #todo this should probably merge with this (or dedupe in some way)
 
 ## Why do I consider Henrich and co's work to be so significant?
 
@@ -93,3 +88,10 @@ This contrasts with various other explanations e.g.
 * We are more cooperative
 * We are stronger
 * We have language
+
+## Interlinks
+
+- [[Cultural evolution]]
+- [[Culturology]]
+- [[Joseph Henrich]]
+- [[henrich-culturology-interviews-2022]] #todo this should probably merge with this (or dedupe in some way)
