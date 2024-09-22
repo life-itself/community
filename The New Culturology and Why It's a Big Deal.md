@@ -9,6 +9,7 @@ A synthetic summary of [[books/henrich-2017-secret-our-success]] and [[books/hen
 - [[Cultural evolution]]
 - [[Culturology]]
 - [[Joseph Henrich]]
+- [[henrich-culturology-interviews-2022]] #todo this should probably merge with this (or dedupe in some way)
 
 ## Why do I consider Henrich and co's work to be so significant?
 
