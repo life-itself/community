@@ -11,7 +11,7 @@ The contention that there is a large and growing gap between our technological c
 
 ## Bridging the Wisdom Gap (Geoff Mulgan and Rufus Pollock, 2020)
 
-[[../blog/2020/06/22/bridging-the-wisdom-gap|Bridging the Wisdom Gap (Geoff Mulgan and Rufus Pollock, 2020)]]
+[Bridging the Wisdom Gap (Geoff Mulgan and Rufus Pollock, 2020)](https://lifeitself.org/blog/2020/06/22/bridging-the-wisdom-gap)
 
 > We propose that getting wiser personally and collectively is central to addressing critical challenges ranging from mental health to climate change.
 > 
