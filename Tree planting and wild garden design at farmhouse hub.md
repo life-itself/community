@@ -3,6 +3,8 @@ created: 2024-11-14
 image: https://github.com/user-attachments/assets/44f01035-1430-49e7-9576-b375308de874
 ---
 
+# Tree planting and wild garden design at farmhouse hub
+
 🌲 Seeking advice on tree planting and wild garden design esp from permaculture perspective.🪴 🌳
 
 Hi all, we are looking to do some tree planting and wild garden at the Life Itself farmhouse hub this autumn and looking for courses / books / videos / guidance that would be relevant especially on the permaculture front.
