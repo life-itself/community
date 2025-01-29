@@ -11,7 +11,13 @@ Hi all, we are looking to do some tree planting and wild garden at the Life Itse
 
 Any suggestions are warmly welcome.
 
-Also can provide a “fly through” of the site if of interest smile
+Also can provide a “fly through” of the site if of interest 🙂
+
+<iframe src="https://link.excalidraw.com/readonly/qx7BDGdK732aiR41flwy" width="100%" height="100%"></iframe>
+
+Source: https://link.excalidraw.com/l/9u8crB2ZmUo/2b2Zq1UhuVq
+
+## Resources
 
 ![image](https://github.com/user-attachments/assets/44f01035-1430-49e7-9576-b375308de874)
 
