@@ -209,4 +209,15 @@ These are not mutually exclusive. We can combine elements of each platform to cr
 What is the need?
 
 - Something wiki like where we can post post stubs, half-finished things etc for reference and discussion
-- A place for discussion 
+- A place for discussion
+
+## Appendix: Exemplars
+
+### LessWrong
+
+LessWrong gets pretty close. The software *is* open source but no-one other than the core team seem to use it and it looks pretty hefty. A request for hosted option was turned down ...
+
+![image](https://github.com/user-attachments/assets/c16fae3b-ce99-40e5-9ce9-5155b6b7f90b)
+
+![image](https://github.com/user-attachments/assets/13ee9d60-5443-4e99-9bb7-3ff6f6f00438)
+
