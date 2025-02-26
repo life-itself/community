@@ -1,3 +1,7 @@
+---
+date: 2021-11-02
+---
+
 # Energy and Human Ambitions on a Finite Planet by Tom Murphy
 
 Murphy, Thomas W. 2021. *Energy and Human Ambitions on a Finite Planet*. https://doi.org/10.21221/S2978-0-578-86717-5.
