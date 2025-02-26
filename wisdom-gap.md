@@ -17,6 +17,7 @@ The contention that there is a large and growing gap between our technological c
 > 
 > **1. There is a wisdom gap**: Our technological powers have expanded dramatically as have the complexities of our societies. These increases place greater demands on us to make “wiser” choices personally and collectively.  Yet our wisdom has not kept up as evidenced by, for example, the growing crises in the climate and mental health. In short, there appears to be a growing wisdom gap.
 
+![[excalidraw/wisdom-gap-2020-05-08.excalidraw.svg]]
 ## Scott Atran, In Gods we Trust
 
 Preface title:
