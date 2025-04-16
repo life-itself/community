@@ -4,7 +4,7 @@ authors:
 ---
 # First Principles and First Values: Forty-Two Propositions on CosmoErotic Humanism, the Meta-Crisis, and the World to Come
 
-Authors are [[Zak Stein]], [[Marc Gafni]] and [[Ken Wilber]] writing under the name David J. Temple.[^1]
+Authors are [[Zak Stein]], [[Marc Gafni]] and [[ken-wilber|Ken Wilber]] writing under the name David J. Temple.[^1]
 
 [^1]: "David J. Temple is a pseudonym created for enabling ongoing collaborative authorship at the Center for World Philosophy and Religion. The two primary authors behind David J. Temple are Marc Gafni and Zak Stein. For different projects specific writers will be named as part of the collaboration. In this volume Ken Wilber joins Dr. Gafni and Dr. Stein."
 
