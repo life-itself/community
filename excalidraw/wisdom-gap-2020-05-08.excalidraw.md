@@ -26,6 +26,10 @@ But perhaps wisdom is actually declining. In which case, the gap is growing even
 "Wisdom" e.g. our capacity
 to manage that complexity) ^iTHcA90t
 
+
+# Embedded files
+5b9dc2066bdca2a1b5162b51b30e1ba6952b6db7: [[assets/life-itself-logotype.png]]
+
 %%
 # Drawing
 ```json
@@ -456,6 +460,110 @@ to manage that complexity) ^iTHcA90t
 			"originalText": "\"Wisdom\" e.g. our capacity\nto manage that complexity)",
 			"lineHeight": 1.25,
 			"baseline": 43
+		},
+		{
+			"id": "cw5piafF",
+			"type": "image",
+			"x": -91.46021344145771,
+			"y": -344.7513015101965,
+			"width": 109.49784991030072,
+			"height": 28.41399902735651,
+			"angle": 0,
+			"strokeColor": "transparent",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"roundness": null,
+			"seed": 43258,
+			"version": 485,
+			"versionNonce": 876281290,
+			"updated": 1744802497385,
+			"isDeleted": false,
+			"groupIds": [],
+			"boundElements": [],
+			"link": null,
+			"locked": false,
+			"fileId": "5b9dc2066bdca2a1b5162b51b30e1ba6952b6db7",
+			"scale": [
+				1,
+				1
+			]
+		},
+		{
+			"text": "📍[[assets/life-itself-logotype.png]]",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "center",
+			"verticalAlign": "top",
+			"baseline": 18,
+			"id": "kYMk3Tds",
+			"type": "text",
+			"x": 117.41907423660388,
+			"y": -224.8226333345912,
+			"width": 352.61962890625,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"roundness": null,
+			"seed": 26088,
+			"version": 2,
+			"versionNonce": 1875869718,
+			"updated": 1744802446437,
+			"isDeleted": true,
+			"groupIds": [],
+			"boundElements": [],
+			"link": "[[assets/life-itself-logotype.png]]",
+			"locked": false,
+			"containerId": null,
+			"originalText": "📍[[assets/life-itself-logotype.png]]",
+			"rawText": "[[assets/life-itself-logotype.png]]",
+			"lineHeight": 1.25
+		},
+		{
+			"id": "cIyG5nsz",
+			"type": "text",
+			"x": 229.2190742366039,
+			"y": -325.62263333459117,
+			"width": 10,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1031834762,
+			"version": 2,
+			"versionNonce": 1435780694,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1744802450401,
+			"link": null,
+			"locked": false,
+			"text": "",
+			"rawText": "",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "center",
+			"verticalAlign": "top",
+			"baseline": 18,
+			"containerId": null,
+			"originalText": "",
+			"lineHeight": 1.25
 		}
 	],
 	"appState": {
@@ -473,10 +581,10 @@ to manage that complexity) ^iTHcA90t
 		"currentItemTextAlign": "center",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "triangle",
-		"scrollX": 164.9809257633961,
-		"scrollY": 472.3913833345912,
+		"scrollX": 269.44049352275476,
+		"scrollY": 511.1337548010428,
 		"zoom": {
-			"value": 1.25
+			"value": 1.0632316095665242
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
