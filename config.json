@@ -1,6 +1,29 @@
 {
-  "title": "Life Itself Digital Garden",
-  "description": "LifeItself.org digital garden, knowledgebase and playground",
-  "logo": "https://lifeitself.org/assets/tao/icon-color-logo.png",
+  "nav": {
+    "logo": "https://lifeitself.org/assets/tao/icon-color-logo.png",
+    "title": "Life Itself Digital Garden",
+    "description": "LifeItself.org digital garden, knowledgebase and playground",
+    "links": [
+      {
+        "href": "https://lifeitself.org/",
+        "name": "Main Site"
+      },
+      {
+        "href": "https://forum.secondrenaissance.net/",
+        "name": "Forum"
+      },
+      {
+        "href": "https://news.lifeitself.org/",
+        "name": "Blog"
+      }
+    ],
+    "social": [
+      {
+        "label": "github",
+        "name": "GitHub Profile",
+        "href": "https://github.com/life-itself/community"
+      }
+    ]
+  },
   "showSidebar": true
 }
