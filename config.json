@@ -1,6 +1,7 @@
 {
+  "theme": "lessflowery",
   "nav": {
-    "logo": "https://lifeitself.org/assets/tao/icon-color-logo.png",
+    "logo": "/assets/life-itself-logotype.png",
     "title": "Life Itself Digital Garden",
     "description": "LifeItself.org digital garden, knowledgebase and playground",
     "links": [
