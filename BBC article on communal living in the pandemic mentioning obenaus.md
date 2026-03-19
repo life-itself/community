@@ -1,0 +1,11 @@
+https://www.bbc.com/worklife/article/20201208-how-communal-living-groups-are-riding-out-the-pandemic
+
+Some interesting links to stats in the intro:
+
+> These alternative shared-living set-ups all thrive based on co-operative frameworks. But Covid-19 has made communal living more complicated amid restrictions – and its nature as a disease with rapid community spread.
+> 
+> It’s hard to establish how many people are living in intentional communities (generally defined as communities planned around a social ideal or collective values, often involving shared resources). But by one estimate, they’re home to around [100,000 people](https://www.nytimes.com/2020/01/16/t-magazine/intentional-communities.html) worldwide, and growing. There’s a broad spectrum of options, from throwback hippie communes to more professionalised operations. What they share is a commitment to communal living: a premise the pandemic has challenged. With curbs on gatherings and other components of community building, many alternative communities have needed to adopt new routines.
+> 
+> In some ways, the crisis has established the resilience of certain types of shared living situations. In a [survey of 75 intentional communities](https://www.ic.org/intentional-communities-fared-pandemic/), 15% reported minimal or positive effects of the pandemic, and only 5% reported severe or negative impacts. Yet, it hasn’t been all rosy; even pre-pandemic, communities often found [finances hard to square](https://aeon.co/essays/like-start-ups-most-intentional-communities-fail-why). For many, financial sustainability has become a further cause for concern as the pandemic has eroded income sources that modern communities depend on.
+> 
+> These three communities – small, mid-sized and large – are weathering the Covid-19 storm, but in each case, finances have suffered and tensions have emerged. Still, like [the majority of those surveyed](https://www.ic.org/intentional-communities-fared-pandemic/), residents are grateful to be living communally in a period of disruption and loneliness.
