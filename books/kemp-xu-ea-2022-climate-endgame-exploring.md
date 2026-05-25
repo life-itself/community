@@ -1,9 +1,0 @@
-# Climate Endgame: Exploring catastrophic climate change scenarios (2022)
-
-[[notes/climate-crisis]]
-
-## The Potential for Climate Catastrophe
-
-> There are four key reasons to be concerned over the potential of a global climate catastrophe. First, there are warnings from history. Climate change (either regional or global) has played a role in the collapse or transformation of numerous previous societies ([37](https://www.pnas.org/doi/10.1073/pnas.2108146119#core-r37)) and in each of the five mass extinction events in Phanerozoic Earth history ([38](https://www.pnas.org/doi/10.1073/pnas.2108146119#core-r38)). The current carbon pulse is occurring at an unprecedented geological speed and, by the end of the century, may surpass thresholds that triggered previous mass extinctions ([39](https://www.pnas.org/doi/10.1073/pnas.2108146119#core-r39), [40](https://www.pnas.org/doi/10.1073/pnas.2108146119#core-r40)). The worst-case scenarios in the IPCC report project temperatures by the 22nd century that last prevailed in the Early Eocene, reversing 50 million years of cooler climates in the space of two centuries ([41](https://www.pnas.org/doi/10.1073/pnas.2108146119#core-r41)).
-> 
-> This is particularly alarming, as human societies are locally adapted to a specific climatic niche. The rise of large-scale, urbanized agrarian societies began with the shift to the stable climate of the Holocene ∼12,000 y ago ([42](https://www.pnas.org/doi/10.1073/pnas.2108146119#core-r42)). Since then, human population density peaked within a narrow climatic envelope with a mean annual average temperature of ∼13 °C. Even today, the most economically productive centers of human activity are concentrated in those areas ([43](https://www.pnas.org/doi/10.1073/pnas.2108146119#core-r43)). The cumulative impacts of warming may overwhelm societal adaptive capacity.

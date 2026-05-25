@@ -1,7 +1,0 @@
-# Bosaico Inc
-
-Example of successful [[cooperative]]
-
-> In the mid-1980s, a lumber mill in a remote part of Quebec, Canada (local population of about 2,100) was shut down after an economic slump and three bankruptcies. Seeking to keep jobs and young people in the area, residents banded together and bought the mill with assistance from Desjardins Credit Union and a government subsidy. The single firm is now [owned](https://community-wealth.org/content/solidarity-business-model-multi-stakeholder-cooperatives-manual) by a logger’s cooperative, a millworker’s cooperative, and a group of local businesses. Each group has veto power over major decisions, promoting consensus-seeking among the stakeholders. Almost [one-third of millworkers](https://pdfs.semanticscholar.org/18e1/b0619d3a76c76133039928582fd63aa23173.pdf) have sat on the board of directors. Once the firm reached profitability, the MSC [agreed to a profit split](https://community-wealth.org/sites/clone.community-wealth.org/files/downloads/tool-oeoc-multistakeholder-coop.pdf#page=32) of 27 percent among the three shareholders, 18 percent to workers in the form of bonuses and 55 percent to research and development. Profits have now been invested in other firms in the region and the Bosiaco mill now supports around [600 jobs](https://boisaco.com/histoire/) in the area.
-
-Source: https://thenextsystem.org/learn/stories/multi-stakeholder-cooperative
